@@ -141,18 +141,23 @@ MAIN and SIDE ranks use different weights because they optimize for different ou
 
 ## Status preservation
 
-These states are preserved between runs:
+These states are preserved between runs (`config/tracking.json`):
 
 - new
+- reviewing
 - shortlisted
+- prepared
 - applied
 - replied
 - interview
+- offer
 - won
 - lost
 - skipped
 
-Applied, replied, interview and won records are protected from automatic pruning.
+Pipeline fields live under each opportunity's `tracking` object (CV used, contact, salary, history). See `reports/pipeline.md` and `node scripts/opportunity-track.mjs`.
+
+Applied, replied, interview, offer and won records are protected from automatic pruning.
 
 ## Trust and limitations
 

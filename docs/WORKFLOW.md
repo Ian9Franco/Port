@@ -79,16 +79,24 @@ Use the templates as a base, but rewrite the first paragraph and implementation 
 
 ## 6. Track
 
-Suggested statuses:
+Statuses (`config/tracking.json`):
 
-- new
-- shortlisted
-- applied
-- replied
-- interview
-- won
-- lost
-- skipped
+```text
+new → reviewing → shortlisted → prepared → applied → replied → interview → offer → won
+                                                      ↘ lost / skipped
+```
+
+CLI:
+
+```bash
+node scripts/opportunity-track.mjs status <id> shortlisted --cv applications/.../cv.md --note "..."
+node scripts/opportunity-track.mjs feedback <id> shortlist --note "esto sí"
+node scripts/opportunity-track.mjs report
+```
+
+Signals for feedback (`data/feedback.json`): `skip`, `reject`, `save`, `shortlist`, `apply`, `interview`, `offer`, `won`. Adjustments are damped and explained — one event does not permanently rewrite the matcher.
+
+Each opportunity stores `tracking.cv_used`, `tracking.contact`, `tracking.salary_offered`, `tracking.feedback`, `tracking.applied_at`, and `tracking.history[]`.
 
 ## 7. Learn
 

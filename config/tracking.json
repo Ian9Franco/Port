@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "statuses": [
+    "new",
+    "reviewing",
+    "shortlisted",
+    "prepared",
+    "applied",
+    "replied",
+    "interview",
+    "offer",
+    "won",
+    "lost",
+    "skipped"
+  ],
+  "terminal_for_top_picks": [
+    "applied",
+    "replied",
+    "interview",
+    "won",
+    "lost",
+    "skipped"
+  ],
+  "protected_from_prune": [
+    "reviewing",
+    "shortlisted",
+    "prepared",
+    "applied",
+    "replied",
+    "interview",
+    "offer",
+    "won",
+    "lost",
+    "skipped"
+  ],
+  "feedback_signals": {
+    "skip": { "weight": -1, "maps_to_status": "skipped" },
+    "reject": { "weight": -1.2, "maps_to_status": "lost" },
+    "save": { "weight": 0.8, "maps_to_status": "reviewing" },
+    "shortlist": { "weight": 1, "maps_to_status": "shortlisted" },
+    "apply": { "weight": 1.2, "maps_to_status": "applied" },
+    "interview": { "weight": 1.5, "maps_to_status": "interview" },
+    "offer": { "weight": 1.8, "maps_to_status": "offer" },
+    "won": { "weight": 2, "maps_to_status": "won" }
+  }
+}

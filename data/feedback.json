@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "events": [
+    {
+      "at": "2026-09-25T17:27:47.189Z",
+      "signal": "shortlist",
+      "note": "test PR12",
+      "opportunity_id": "remotive-2091101",
+      "title": "Senior React Full-stack Developer",
+      "company": "Lemon.io",
+      "source": "Remotive",
+      "role_families": [
+        "full_stack"
+      ],
+      "keywords": [
+        "full-stack",
+        "next.js",
+        "react",
+        "node.js"
+      ]
+    }
+  ],
+  "weight_adjustments": {
+    "role_families": {
+      "full_stack": 0.35
+    },
+    "keywords": {
+      "full-stack": 0.35,
+      "next.js": 0.35,
+      "react": 0.35,
+      "node.js": 0.35
+    },
+    "sources": {
+      "Remotive": 0.35
+    },
+    "explanations": [
+      {
+        "at": "2026-09-25T17:27:47.189Z",
+        "signal": "shortlist",
+        "opportunity_id": "remotive-2091101",
+        "delta": 0.35,
+        "targets": "family:full_stack, kw:full-stack, kw:next.js, kw:react, kw:node.js, source:Remotive"
+      }
+    ]
+  }
+}
