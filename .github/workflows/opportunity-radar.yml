@@ -32,6 +32,7 @@ jobs:
         run: |
           node --check scripts/load-career-model.mjs
           node --check scripts/potential-matcher.mjs
+          node --check scripts/trust-layer.mjs
           node --check scripts/fetch-opportunities.mjs
 
       - name: Fetch and rank opportunities

@@ -1,10 +1,10 @@
 # Port — Opportunity Radar
 
-Generado: 2026-09-25T17:16:19.609Z
+Generado: 2026-09-25T17:20:42.282Z
 
 Modo de aplicación: **manual**. Port busca, filtra y prepara; Ian decide y aplica.
 
-Fuentes: Remotive (19), Arbeitnow (23), Get on Board (295)
+Fuentes: Remotive (19), Arbeitnow (23), Get on Board (295), RemoteOK (99), Jobicy (60)
 
 ## MAIN — Top picks
 
@@ -13,8 +13,8 @@ Trabajo principal: full-time o part-time; remoto o presencial/híbrido si la ubi
 | Rank | Fit | Potencial | Rol | Empresa | Modalidad / ubicación | Por qué aparece |
 | ---: | ---: | ---: | --- | --- | --- | --- |
 | 75 | 100 | 90 | [Senior React Full-stack Developer](https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091101) | Lemon.io | remote · LATAM, Europe, USA, Canada, APAC | Fit 100% · Potencial 90 · Transfer 35 · evidencia directa: TypeScript (node.js); evidencia directa: React (react) |
+| 73 | 100 | 90 | [Web Frontend Engineer - JS, CSS, React, Flutter](https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter) | Canonical | remote · Anywhere | Fit 100% · Potencial 90 · Transfer 35 · evidencia directa: React (react); evidencia directa: API integrations (api) |
 | 73 | 100 | 82 | [Senior AI Engineer](https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131) | Lemon.io | remote · Northern America, LATAM, Europe, APAC | Fit 100% · Potencial 82 · Transfer 35 · evidencia directa: Applied AI integration (ai); evidencia directa: Applied AI integration (llm) |
-| 72 | 90 | 82 | [Senior Independent AI Engineer / Architect](https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266) | A.Team | remote · Americas, Europe, Israel | Fit 90% · Potencial 82 · Transfer 42 · evidencia directa: API integrations (api); evidencia directa: Applied AI integration (ai) |
 
 ## SIDE — Top picks
 
@@ -22,23 +22,26 @@ Ingreso secundario: freelance, contrato, proyecto o part-time; **remoto obligato
 
 | Rank | Fit | Potencial | Rol | Empresa | Modalidad / ubicación | Por qué aparece |
 | ---: | ---: | ---: | --- | --- | --- | --- |
-| 62 | 90 | 82 | [Senior Independent AI Engineer / Architect](https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266) | A.Team | remote · Americas, Europe, Israel | Fit 90% · Potencial 82 · Transfer 42 · evidencia directa: API integrations (api); evidencia directa: Applied AI integration (ai) |
-| 59 | 75 | 65 | [Senior Independent Software Developer](https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265) | A.Team | remote · Americas, Europe, Israel | Fit 75% · Potencial 65 · Transfer 61 · evidencia directa: Automation and developer tooling (cli); evidencia directa: Automation and developer tooling (build) |
-| 55 | 75 | 45 | [Senior Shopify Developer](https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140) | Sanctuary Computer Inc | remote · Worldwide | Fit 75% · Potencial 45 · Transfer 49 · evidencia directa: Automation and developer tooling (cli); evidencia directa: Automation and developer tooling (build) |
+| 63 | 100 | 82 | [Customer Support & Success Specialist](https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302) | Warehance | remote · Remote | Fit 100% · Potencial 82 · Transfer 35 · evidencia directa: Applied AI integration (ai); evidencia directa: Applied AI integration (llm) |
+| 63 | 100 | 82 | [AI Engineer Data APIs](https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224) | Benzinga | remote · Remote | Fit 100% · Potencial 82 · Transfer 35 · evidencia directa: API integrations (api); evidencia directa: Applied AI integration (ai) |
+| 63 | 100 | 82 | [Education Designer UX UI and AI](https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138) | Interaction Design Foundation | remote · Remote | Fit 100% · Potencial 82 · Transfer 35 · evidencia directa: Applied AI integration (ai); evidencia directa: Applied AI integration (llm) |
 
 ## Relocation watch
 
 - [Senior QA Engineer](https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100) — Lemon.io · Europe · MAIN 72
+- [Surveyor I](https://remoteOK.com/remote-jobs/remote-surveyor-i-american-bureau-of-shipping-abs-1136592) — American Bureau of Shipping (ABS) · Port of Spain,  · MAIN 61
 - [🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland)](https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139) — hey contact heroes GmbH · Europe · MAIN 58
 
 ## Cobertura
 
-- Universo curado guardado: **96** oportunidades.
+- Universo curado guardado: **168** oportunidades.
 - Top picks: máximo **3 MAIN** + **3 SIDE** por corrida.
 - Nada del universo curado se descarta silenciosamente: ver reports/all-candidates.md.
 - Para adaptar el CV sin inventar experiencia: ver reports/application-prep.md.
 
 ## Confianza
 
-Las fuentes actuales entran por APIs públicas/oficiales. Eso valida el canal de obtención, no garantiza por sí solo que una empresa o vacante sea legítima. La verificación de empresa queda como una capa separada del radar.
+Las fuentes actuales entran por APIs públicas/oficiales. Eso valida el canal de obtención, no garantiza por sí solo que una empresa o vacante sea legítima.
+
+Cada oportunidad incluye `trust` en JSON: **source_trust**, **company_trust**, **listing_risk** (`low` / `unknown` / `medium` / `high`) y señales de advertencia. Riesgo alto penaliza el ranking; no oculta la vacante automáticamente.
 

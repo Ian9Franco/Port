@@ -23,6 +23,21 @@
       "pages": 2,
       "per_page": 100,
       "trust": "official_public_api"
+    },
+    "remoteok": {
+      "enabled": true,
+      "endpoint": "https://remoteok.com/api",
+      "limit": 120,
+      "trust": "official_public_api",
+      "attribution": "https://remoteok.com"
+    },
+    "jobicy": {
+      "enabled": true,
+      "endpoint": "https://jobicy.com/api/v2/remote-jobs",
+      "count": 60,
+      "geo": "anywhere",
+      "trust": "official_public_api",
+      "attribution": "https://jobicy.com"
     }
   },
   "roles": {

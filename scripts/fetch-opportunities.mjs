@@ -2,6 +2,7 @@ import fs from "node:fs/promises";
 import crypto from "node:crypto";
 import { loadCareerModel } from "./load-career-model.mjs";
 import { evaluatePotential } from "./potential-matcher.mjs";
+import { applyTrustToOpportunity, markDuplicateClusters } from "./trust-layer.mjs";
 
 const CONFIG_PATH = "config/radar.json";
 const DATA_PATH = "data/opportunities.json";
@@ -346,6 +347,84 @@ async function fetchGetOnBoard() {
   return jobs;
 }
 
+async function fetchRemoteOk() {
+  const source = config.sources.remoteok;
+  if (!source?.enabled) return [];
+
+  const payload = await fetchJson(source.endpoint, { retries: 4 });
+  const rows = Array.isArray(payload) ? payload.filter(item => item?.id && item?.position) : [];
+
+  return rows.slice(0, source.limit ?? 120).map(job => {
+    const listingUrl = String(job.url ?? job.apply_url ?? "").trim();
+    const location = [job.location, job.country].filter(Boolean).join(", ") || "Remote";
+    const salary = job.salary_min || job.salary_max
+      ? [job.salary_min, job.salary_max].filter(Boolean).join(" - ")
+      : String(job.salary ?? "");
+
+    return {
+      id: stableId("remoteok", job.id, listingUrl),
+      source: "RemoteOK",
+      source_trust: source.trust,
+      external_id: String(job.id ?? ""),
+      url: listingUrl,
+      apply_url: String(job.apply_url ?? listingUrl),
+      title: job.position ?? "",
+      company: job.company ?? "",
+      location,
+      remote: true,
+      workplace: "remote",
+      employment_type: normalizeEmployment(job.employment_type ?? ""),
+      published_at: parseDate(job.date ?? job.epoch),
+      salary,
+      tags: Array.isArray(job.tags) ? job.tags : [],
+      description: stripHtml(job.description).slice(0, 1600)
+    };
+  });
+}
+
+async function fetchJobicy() {
+  const source = config.sources.jobicy;
+  if (!source?.enabled) return [];
+
+  const url = new URL(source.endpoint);
+  url.searchParams.set("count", String(source.count ?? 60));
+  if (source.geo) url.searchParams.set("geo", source.geo);
+
+  const payload = await fetchJson(url.toString(), { retries: 4 });
+  const jobs = [];
+
+  for (const job of payload.jobs ?? []) {
+    const listingUrl = String(job.url ?? "").trim();
+    if (!listingUrl.startsWith("https://")) continue;
+
+    const salaryParts = [job.salaryMin, job.salaryMax].filter(v => v !== null && v !== undefined && v !== "");
+    const salary = salaryParts.length
+      ? salaryParts.join(" - ") + (job.salaryCurrency ? " " + job.salaryCurrency : "") + (job.salaryPeriod ? " / " + job.salaryPeriod : "")
+      : "";
+
+    jobs.push({
+      id: stableId("jobicy", job.id, listingUrl),
+      source: "Jobicy",
+      source_trust: source.trust,
+      external_id: String(job.id ?? ""),
+      url: listingUrl,
+      apply_url: listingUrl,
+      title: job.jobTitle ?? "",
+      company: job.companyName ?? "",
+      location: job.jobGeo ? String(job.jobGeo) : "Remote",
+      remote: true,
+      workplace: "remote",
+      employment_type: normalizeEmployment(job.jobType?.[0] ?? ""),
+      published_at: parseDate(job.pubDate),
+      salary,
+      tags: [...(job.jobIndustry ?? []), job.jobLevel].filter(Boolean),
+      description: stripHtml(job.jobDescription ?? job.jobExcerpt ?? "").slice(0, 1600)
+    });
+  }
+
+  return jobs;
+}
+
 function dedupe(jobs) {
   const seen = new Map();
   for (const job of jobs) {
@@ -470,7 +549,9 @@ function buildLatestReport(opportunities, topMain, topSide, sourceStats, generat
     "",
     "## Confianza",
     "",
-    "Las fuentes actuales entran por APIs públicas/oficiales. Eso valida el canal de obtención, no garantiza por sí solo que una empresa o vacante sea legítima. La verificación de empresa queda como una capa separada del radar.",
+    "Las fuentes actuales entran por APIs públicas/oficiales. Eso valida el canal de obtención, no garantiza por sí solo que una empresa o vacante sea legítima.",
+    "",
+    "Cada oportunidad incluye `trust` en JSON: **source_trust**, **company_trust**, **listing_risk** (`low` / `unknown` / `medium` / `high`) y señales de advertencia. Riesgo alto penaliza el ranking; no oculta la vacante automáticamente.",
     ""
   );
 
@@ -489,8 +570,8 @@ function buildAllCandidates(opportunities, generatedAt) {
     "",
     "Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.",
     "",
-    "| MAIN | Fit | Potencial | SIDE | Rol | Empresa | Acceso | Fuente | Estado |",
-    "| ---: | ---: | ---: | ---: | --- | --- | --- | --- | --- |"
+    "| MAIN | Fit | Potencial | Riesgo | SIDE | Rol | Empresa | Fuente | Estado |",
+    "| ---: | ---: | ---: | --- | ---: | --- | --- | --- | --- |"
   ];
 
   for (const job of rows) {
@@ -498,10 +579,10 @@ function buildAllCandidates(opportunities, generatedAt) {
       "| " + job.main_score +
       " | " + (job.potential?.current_fit ?? "—") +
       " | " + (job.potential?.career_potential ?? "—") +
+      " | " + escapeMd(job.trust?.listing_risk ?? "—") +
       " | " + job.side_score +
       " | [" + escapeMd(job.title) + "](" + job.url + ")" +
       " | " + escapeMd(job.company) +
-      " | " + escapeMd(job.access + " · " + (job.location || "")) +
       " | " + escapeMd(job.source) +
       " | " + escapeMd(job.status) + " |"
     );
@@ -544,7 +625,9 @@ function buildApplicationPrep(topMain, topSide, generatedAt) {
         "### " + job.title + " — " + job.company,
         "",
         "- Oferta: " + job.url,
-        "- Fuente: " + job.source + " (" + job.source_trust + ")",
+        "- Fuente: " + job.source + " · SOURCE TRUST: " + (job.trust?.source_trust ?? job.source_trust),
+        "- COMPANY TRUST: " + (job.trust?.company_trust ?? "—") + " · LISTING RISK: **" + (job.trust?.listing_risk ?? "—") + "**",
+        "- Señales trust: " + (job.trust?.warnings?.length ? job.trust.warnings.join(", ") : "ninguna"),
         "- Modalidad: " + job.workplace + " · " + (job.location || "sin ubicación"),
         "- Tipo detectado: " + job.employment_type,
         "- Current Fit: **" + (p?.current_fit ?? "—") + "** · Transferability: **" + (p?.transferability ?? "—") + "** · Gap Cost: **" + (p?.gap_cost ?? "—") + "**",
@@ -572,13 +655,16 @@ try {
 const priorById = new Map((existing.opportunities ?? []).map(job => [job.id, job]));
 const generatedAt = new Date().toISOString();
 
-const sourceResults = await Promise.allSettled([
-  fetchRemotive(),
-  fetchArbeitnow(),
-  fetchGetOnBoard()
-]);
+const sourcePipeline = [
+  { name: "Remotive", fetch: fetchRemotive },
+  { name: "Arbeitnow", fetch: fetchArbeitnow },
+  { name: "Get on Board", fetch: fetchGetOnBoard },
+  { name: "RemoteOK", fetch: fetchRemoteOk },
+  { name: "Jobicy", fetch: fetchJobicy }
+];
 
-const sourceNames = ["Remotive", "Arbeitnow", "Get on Board"];
+const sourceResults = await Promise.allSettled(sourcePipeline.map(entry => entry.fetch()));
+const sourceNames = sourcePipeline.map(entry => entry.name);
 const fetched = [];
 const sourceStats = {};
 const failures = [];
@@ -619,7 +705,7 @@ const opportunities = dedupe(fetched)
       legacy
     });
     const prior = priorById.get(job.id);
-    return {
+    const scored = {
       ...job,
       ...legacy,
       main_score: potential.main_rank,
@@ -633,6 +719,7 @@ const opportunities = dedupe(fetched)
       first_seen: prior?.first_seen ?? generatedAt,
       last_seen: generatedAt
     };
+    return applyTrustToOpportunity(scored);
   })
   .filter(job => !job.published_at || daysOld(job.published_at) <= config.retention.max_age_days)
   .filter(job => job.potential?.retain);
@@ -642,6 +729,8 @@ for (const prior of priorById.values()) {
     opportunities.push(prior);
   }
 }
+
+markDuplicateClusters(opportunities);
 
 opportunities.sort((a, b) => Math.max(b.main_score ?? 0, b.side_score ?? 0) - Math.max(a.main_score ?? 0, a.side_score ?? 0));
 opportunities.splice(config.retention.max_opportunities);
@@ -667,6 +756,7 @@ await fs.writeFile(
   JSON.stringify({
     version: 4,
     matcher: "potential-v1",
+    trust_layer: "listing-v1",
     generated_at: generatedAt,
     career_model_version: careerModel.github_evidence?.version ?? 1,
     application_mode: config.application.mode,
