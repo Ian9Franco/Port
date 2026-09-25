@@ -93,6 +93,10 @@ SIDE is stricter:
 - `scripts/potential-matcher.mjs` — Potential Matcher v1 (fit, transferability, gaps)
 - `scripts/trust-layer.mjs` — listing / company trust heuristics
 
+## Private UI (Next.js)
+
+See [`web/README.md`](web/README.md) for the dashboard (Top Picks, actions, **Run Radar** button).
+
 ## Privacy
 
 This repository is intentionally private because it can contain job leads, application strategy and career planning.
