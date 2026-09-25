@@ -1,7 +1,7 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import { dispatchRadarWorkflow, readGithubJsonFile, writeGithubJsonFile } from "./github-api";
-import { getDataBackend, getRepoRoot } from "./repo";
+import { assertDataBackendConfigured, getDataBackend, getRepoRoot } from "./repo";
 
 export type PortOpportunity = {
   id: string;
@@ -42,12 +42,21 @@ export type PortDatabase = {
 };
 
 export async function loadPortDatabase(): Promise<PortDatabase> {
+  assertDataBackendConfigured();
   if (getDataBackend() === "github") {
     const { data } = await readGithubJsonFile<PortDatabase>("data/opportunities.json");
     return data;
   }
   const file = path.join(getRepoRoot(), "data/opportunities.json");
-  return JSON.parse(await fs.readFile(file, "utf8")) as PortDatabase;
+  try {
+    return JSON.parse(await fs.readFile(file, "utf8")) as PortDatabase;
+  } catch (error) {
+    const message = error instanceof Error ? error.message : String(error);
+    throw new Error(
+      "Could not read data/opportunities.json at " + file + ". " + message +
+      " On Vercel, set PORT_DATA_BACKEND=github and GITHUB_TOKEN."
+    );
+  }
 }
 
 async function savePortDatabaseLocal(data: PortDatabase) {

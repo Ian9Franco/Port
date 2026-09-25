@@ -1,12 +1,20 @@
 import Link from "next/link";
+import { ConfigHelp } from "@/components/ConfigHelp";
 import { OpportunityCard } from "@/components/OpportunityCard";
 import { RadarButton } from "@/components/RadarButton";
 import { loadPortDatabase, pickByIds } from "@/lib/port-data";
+import { getDataBackend } from "@/lib/repo";
 
 export const dynamic = "force-dynamic";
 
 export default async function DashboardPage() {
-  const data = await loadPortDatabase();
+  let data;
+  try {
+    data = await loadPortDatabase();
+  } catch (error) {
+    const message = error instanceof Error ? error.message : String(error);
+    return <ConfigHelp message={message} />;
+  }
   const main = pickByIds(data.opportunities, data.top_picks?.main ?? []);
   const side = pickByIds(data.opportunities, data.top_picks?.side ?? []);
 
@@ -22,7 +30,7 @@ export default async function DashboardPage() {
         <div>
           <h1 className="text-2xl font-semibold tracking-tight">Port</h1>
           <p className="mt-1 text-sm text-zinc-400">
-            Private dashboard · datos de <code className="text-zinc-300">data/opportunities.json</code>
+            Private dashboard · backend <code className="text-zinc-300">{getDataBackend()}</code>
           </p>
           <p className="mt-1 text-xs text-zinc-500">
             Última corrida: {data.generated_at ? new Date(data.generated_at).toLocaleString() : "—"}

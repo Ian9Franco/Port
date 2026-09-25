@@ -21,15 +21,26 @@ Open http://localhost:3000
 
 ## Vercel deployment
 
-1. Set project **Root Directory** to `web`.
-2. Environment variables:
-   - `PORT_DATA_BACKEND=github`
-   - `GITHUB_TOKEN` — fine-grained or classic PAT with `contents:write` and `actions:write`
-   - `GITHUB_REPOSITORY=Ian9Franco/Port`
-   - `PORT_UI_SECRET` — private access password
+1. Set project **Root Directory** to `web` (not the monorepo root).
+2. **Required** environment variables (Production + Preview):
+
+   | Variable | Value |
+   |----------|--------|
+   | `PORT_DATA_BACKEND` | `github` |
+   | `GITHUB_TOKEN` | PAT with `contents:write` + `actions:write` on `Ian9Franco/Port` |
+   | `GITHUB_REPOSITORY` | `Ian9Franco/Port` |
+   | `PORT_UI_SECRET` | your UI password |
+
+   On Vercel, `PORT_DATA_BACKEND` defaults to `github` automatically (`VERCEL=1`). Without `GITHUB_TOKEN`, the dashboard shows a setup error (build can still succeed).
+
 3. Enable **Vercel Deployment Protection** as an extra layer.
 
 **Run Radar** dispatches the `Opportunity Radar` GitHub Actions workflow. Refresh the UI after the workflow commits new data.
+
+### Build log notes
+
+- `next@15.5.4` deprecation: use **15.5.26+** (patched for CVE-2025-66478).
+- Warnings about `eslint` / `install-scripts` are non-fatal on Vercel.
 
 ## Scope (MVP A)
 
