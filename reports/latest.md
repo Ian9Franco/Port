@@ -1,5 +1,11 @@
-# Opportunity Radar
+# Port — Opportunity Radar
 
-The automated report will be generated after the workflow runs for the first time.
+The automated MAIN / SIDE report will be generated on the next workflow run.
 
-See docs/RADAR.md for the workflow and source details.
+Expected output:
+- up to 3 MAIN Top Picks
+- up to 3 SIDE Top Picks
+- relocation watchlist
+- source coverage summary
+
+See `reports/all-candidates.md` for the wider candidate universe and `reports/application-prep.md` for CV / intro tailoring notes.

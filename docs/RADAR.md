@@ -1,45 +1,112 @@
 # Opportunity Radar
 
-The radar turns this repository into a lightweight career and freelance opportunity tracker.
+Port's radar is a private career-opportunity system. It searches, filters and prepares opportunities, but application remains manual.
 
 ## Schedule
 
-GitHub Actions runs it every 8 hours at minute 23, which is three runs per day.
+GitHub Actions runs every 8 hours at minute 23, three times per day.
 
 The workflow can also be triggered manually from GitHub Actions.
+
+## Tracks
+
+### MAIN
+
+For a primary job.
+
+Allowed:
+- full-time
+- part-time
+- contract when it behaves like a stable role
+- remote from Argentina
+- local hybrid / on-site roles in Buenos Aires / CABA / GBA when reasonable
+- Europe / Spain as a separate relocation watchlist
+
+The report shows at most 3 MAIN Top Picks per run.
+
+### SIDE
+
+For secondary income.
+
+Allowed:
+- freelance
+- project / contract work
+- part-time
+- commission-oriented work when technically relevant
+
+SIDE must be remote.
+
+The report shows at most 3 SIDE Top Picks per run.
 
 ## Sources
 
 ### Remotive
 
-Uses the public remote-jobs API. Every retained result keeps its original Remotive URL and identifies Remotive as the source. Three scheduled runs per day stays within Remotive's guidance to fetch only a few times daily.
+Public remote-jobs API.
 
 ### Arbeitnow
 
-Uses the public job-board API with no API key. The radar checks the first three pages and keeps remote listings.
+Public job-board API. The radar uses remote listings.
 
-## What the radar does
+### Get on Board
 
-1. Fetches current listings.
-2. Normalizes them into one schema.
-3. Scores role relevance from the profile configuration.
-4. Classifies location as remote-now, relocation-watch, or restricted-or-unclear.
-5. Deduplicates listings.
-6. Preserves application status and notes from previous runs.
-7. Keeps recent, relevant opportunities.
-8. Writes data/opportunities.json and reports/latest.md.
+Public API. The radar reads category feeds for:
+- programming
+- machine-learning-ai
+- operations-management
 
-## What the score means
+Get on Board is especially useful for Latin America and can surface both remote roles and geographically relevant local roles.
 
-The score is a triage heuristic. It is not a verdict on the quality of the company or role.
+## Outputs
 
-Current high-signal terms include Zapier, automation, integrations, workflows, APIs, Supabase, React/Next.js, full-stack work, Growth Engineering, RevOps and related implementation work.
+The radar writes:
 
-Edit config/radar.json to tune the search without changing code.
+- `data/opportunities.json` — machine-readable database and status state
+- `reports/latest.md` — only the strongest MAIN and SIDE picks
+- `reports/all-candidates.md` — the wider curated universe
+- `reports/application-prep.md` — CV / intro tailoring notes for Top Picks
 
-## Application statuses
+## Why there are two layers
 
-These can be edited manually and are preserved across refreshes:
+The algorithm should focus your attention without hiding its work.
+
+`latest.md` is intentionally short.
+
+`all-candidates.md` exists so you can still inspect jobs the scoring system did not rank in the top three.
+
+## Application preparation
+
+For each Top Pick, the radar extracts recognizable requirement terms.
+
+It separates:
+
+- terms already supported by the working profile and worth emphasizing
+- terms found in the listing that should be verified before being claimed
+
+This is intentionally conservative. Port must not invent years of experience, technologies, credentials or results.
+
+## Application policy
+
+Current mode: **manual**.
+
+Port may:
+- find jobs
+- rank jobs
+- preserve links
+- prepare CV / intro notes
+- track application status
+
+Port does not automatically submit applications.
+
+## Scoring
+
+Scoring is a triage heuristic, not a claim that a company or role is objectively better.
+
+MAIN and SIDE use different weights because they optimize for different outcomes.
+
+## Status preservation
+
+These states are preserved between runs:
 
 - new
 - shortlisted
@@ -52,8 +119,10 @@ These can be edited manually and are preserved across refreshes:
 
 Applied, replied, interview and won records are protected from automatic pruning.
 
-## Limitations
+## Trust and limitations
 
-LinkedIn is not scraped by this workflow. LinkedIn access should use authorized integrations rather than browser scraping or session cookies.
+The current automated sources are API-based rather than browser scraping.
 
-Some job boards impose geographic restrictions even on remote roles. Always confirm the original listing before applying.
+That validates the acquisition path, but it does not prove every employer or posting is legitimate. Company-level verification is a separate future layer.
+
+Remote jobs can still have country restrictions. Always confirm the original listing before applying.
