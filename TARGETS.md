@@ -1,6 +1,44 @@
 # Opportunity Targets
 
-## Primary targets
+## Track A — Professional roles
+
+Primary role families:
+
+1. Growth Engineer
+2. Automation Engineer
+3. Integration Engineer
+4. Full-Stack Developer / Engineer
+5. Solutions Engineer
+6. Implementation Engineer / Specialist
+7. Technical RevOps / Marketing Automation
+8. AI Automation / Applied AI Engineer
+
+Strong technical signals:
+
+- Zapier / Make / n8n
+- API integrations and webhooks
+- React / Next.js
+- TypeScript / JavaScript
+- Supabase
+- workflow automation
+- internal tooling
+- AI-assisted product or business workflows
+
+Preferred arrangements:
+
+- remote from Argentina
+- full-time or part-time
+- contract is acceptable
+- async-friendly when possible
+
+Secondary career watch:
+
+- Spain
+- broader Europe when relocation is realistic
+
+## Track B — Freelance / extra income
+
+Primary project types:
 
 1. Zapier automation projects
 2. API / webhook integrations
@@ -9,59 +47,44 @@
 5. Supabase setup, auth, data flows and debugging
 6. AI workflow implementation for business processes
 
-## Good opportunity signals
+Good signals:
 
-- Clear business pain
-- Scope can be completed in hours or a few days
-- Buyer already knows what outcome they need
-- Existing system needs connecting or repairing
-- Repetitive manual work is costing time
-- Requires technical judgment, not only data entry
-- Remote and async-friendly
-- Fixed-price or clearly bounded hourly scope
+- clear business pain
+- bounded scope
+- repetitive manual work that can be automated
+- existing systems that need connecting or repairing
+- technical judgment matters more than commodity labor
+- remote and async-friendly
+- fixed-price or clearly bounded hourly work
 
-## Avoid / deprioritize
+## Deprioritize
 
-- Unpaid tests that resemble real client work
-- Vague "build my entire startup" requests with tiny budgets
+- pure data entry
+- call-center or generic customer support
+- pure sales roles
+- unpaid tests resembling real client work
+- vague entire-startup builds with tiny budgets
 - 24/7 support expectations
-- Pure commodity data entry
-- Projects requiring full-time availability
-- Requests with unclear access, ownership or payment terms
+- roles whose location restriction clearly excludes Argentina unless they belong to the relocation watchlist
 
-## Search phrases
+## Search channels
 
-- Zapier automation
-- Zapier expert
-- workflow automation
-- API integration
-- webhook integration
-- CRM automation
-- lead automation
-- Next.js bug fix
-- React bug fix
-- Supabase integration
-- internal tool
-- AI automation
-- business process automation
-
-## Initial channels
-
+- automated public job APIs in Opportunity Radar
+- LinkedIn
 - Upwork
 - Contra
 - Fiverr selectively
-- LinkedIn
-- Direct outreach to agencies and small businesses
+- direct outreach to agencies and small businesses
 
-## Initial scoring
+## Ranking principle
 
-Score each lead from 0 to 5 on:
+Automated scores are only triage. Final decisions should consider:
 
-- Fit
-- Budget
-- Clarity
-- Speed to deliver
-- Portfolio value
-- Probability of closing
-
-Prioritize opportunities with a total score of 20+ / 30.
+- actual responsibilities
+- compensation
+- employment type
+- location eligibility
+- technical growth
+- schedule compatibility
+- company quality
+- realistic chance of being hired
