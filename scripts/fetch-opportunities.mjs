@@ -3,6 +3,7 @@ import crypto from "node:crypto";
 import { loadCareerModel } from "./load-career-model.mjs";
 import { evaluatePotential } from "./potential-matcher.mjs";
 import { applyTrustToOpportunity, markDuplicateClusters } from "./trust-layer.mjs";
+import { compileShortlistedApplications } from "./compile-application.mjs";
 
 const CONFIG_PATH = "config/radar.json";
 const DATA_PATH = "data/opportunities.json";
@@ -774,8 +775,15 @@ await fs.writeFile(REPORT_PATH, buildLatestReport(opportunities, topMain, topSid
 await fs.writeFile(ALL_PATH, buildAllCandidates(opportunities, generatedAt));
 await fs.writeFile(PREP_PATH, buildApplicationPrep(topMain, topSide, generatedAt) + "\n");
 
+const compiledApplications = await compileShortlistedApplications(opportunities, {
+  careerModel,
+  matcherProfile,
+  generatedAt
+});
+
 console.log(
   "Radar potential-v1: " + fetched.length + " fetched, " + opportunities.length +
   " retained, " + topMain.length + " MAIN picks, " + topSide.length +
-  " SIDE picks, " + failures.length + " source failures."
+  " SIDE picks, " + failures.length + " source failures, " +
+  compiledApplications.length + " application bundles."
 );

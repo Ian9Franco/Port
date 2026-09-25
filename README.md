@@ -81,6 +81,8 @@ SIDE is stricter:
 - `reports/all-candidates.md` — full curated layer
 - `reports/application-prep.md` — application preparation
 - `templates/` — proposal material
+- `applications/` — compiled apply bundles for shortlisted opportunities
+- `scripts/compile-application.mjs` — Application Compiler
 - `docs/WORKFLOW.md` — manual application workflow
 - `docs/RADAR.md` — automated radar documentation
 - `scripts/fetch-opportunities.mjs` — automated ingestion and ranking
