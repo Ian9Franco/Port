@@ -96,7 +96,11 @@ The algorithm should focus your attention without hiding its work.
 
 `all-candidates.md` exists so you can still inspect jobs the scoring system did not rank in the top three.
 
-## Application preparation
+## Application Compiler
+
+When `data/opportunities.json` marks a role as **`shortlisted`** or **`prepared`**, Port writes a full bundle under `applications/` (see `docs/WORKFLOW.md`). Each bundle includes fit analysis, gaps, CV lens, intro, cover letter draft, and interview prep — all derived from career evidence and matcher output.
+
+## Application preparation (Top Picks)
 
 For each Top Pick, the radar extracts recognizable requirement terms.
 

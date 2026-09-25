@@ -47,11 +47,37 @@ For high-scoring leads:
 - prepare a tailored proposal
 - avoid generic copy-paste applications
 
-## 4. Apply
+## 4. Shortlist → Application Compiler
+
+When an opportunity `status` is **`shortlisted`** or **`prepared`**, the radar (or manual CLI) generates:
+
+```text
+applications/<company-role>/
+  opportunity.md
+  fit-analysis.md
+  gaps.md
+  cv.md
+  intro.md
+  cover-letter.md
+  interview-prep.md
+```
+
+Automatic: every successful radar run refreshes bundles for shortlisted rows.
+
+Manual:
+
+```bash
+node scripts/compile-application.mjs
+node scripts/compile-application.mjs <opportunity-id>   # one-off compile (ignores status)
+```
+
+The compiler adapts emphasis and ordering only — it must not invent employers, years, or tools.
+
+## 5. Apply
 
 Use the templates as a base, but rewrite the first paragraph and implementation plan for every opportunity.
 
-## 5. Track
+## 6. Track
 
 Suggested statuses:
 
@@ -64,7 +90,7 @@ Suggested statuses:
 - lost
 - skipped
 
-## 6. Learn
+## 7. Learn
 
 For every reply or rejection, capture what changed:
 
