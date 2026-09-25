@@ -4,6 +4,14 @@ import { loadCareerModel } from "./load-career-model.mjs";
 import { evaluatePotential } from "./potential-matcher.mjs";
 import { applyTrustToOpportunity, markDuplicateClusters } from "./trust-layer.mjs";
 import { compileShortlistedApplications } from "./compile-application.mjs";
+import {
+  buildPipelineReport,
+  isProtectedStatus,
+  isTerminalStatus,
+  loadTrackingConfig,
+  mergeOpportunityState
+} from "./tracking.mjs";
+import { computeFeedbackRankBonus, loadFeedbackState } from "./feedback-loop.mjs";
 
 const CONFIG_PATH = "config/radar.json";
 const DATA_PATH = "data/opportunities.json";
@@ -14,6 +22,9 @@ const PREP_PATH = "reports/application-prep.md";
 const config = JSON.parse(await fs.readFile(CONFIG_PATH, "utf8"));
 const careerModel = await loadCareerModel();
 const matcherProfile = careerModel.matcher_profile;
+const trackingConfig = await loadTrackingConfig();
+const feedbackState = await loadFeedbackState();
+const feedbackAdjustments = feedbackState.weight_adjustments;
 
 function stripHtml(value = "") {
   return String(value)
@@ -445,9 +456,8 @@ function escapeMd(value = "") {
 }
 
 function topEligible(opportunities, predicate, scoreKey, limit) {
-  const terminal = new Set(["applied", "replied", "interview", "won", "lost", "skipped"]);
   return opportunities
-    .filter(job => predicate(job) && !terminal.has(job.status))
+    .filter(job => predicate(job) && !isTerminalStatus(job.status, trackingConfig))
     .sort((a, b) => b[scoreKey] - a[scoreKey] || String(b.published_at).localeCompare(String(a.published_at)))
     .slice(0, limit);
 }
@@ -685,16 +695,6 @@ if (!fetched.length && failures.length === sourceResults.length) {
   throw new Error("All sources failed: " + failures.join(" | "));
 }
 
-const protectedStatuses = new Set([
-  "shortlisted",
-  "applied",
-  "replied",
-  "interview",
-  "won",
-  "lost",
-  "skipped"
-]);
-
 const opportunities = dedupe(fetched)
   .map(job => {
     const legacy = scoreOpportunity(job);
@@ -706,7 +706,7 @@ const opportunities = dedupe(fetched)
       legacy
     });
     const prior = priorById.get(job.id);
-    const scored = {
+    let scored = {
       ...job,
       ...legacy,
       main_score: potential.main_rank,
@@ -714,19 +714,27 @@ const opportunities = dedupe(fetched)
       main_eligible_now: potential.main_eligible,
       side_eligible: potential.side_eligible,
       relocation_watch: legacy.relocation_watch || potential.relocation_watch,
-      potential,
-      status: prior?.status ?? "new",
-      notes: prior?.notes ?? "",
-      first_seen: prior?.first_seen ?? generatedAt,
-      last_seen: generatedAt
+      potential
     };
-    return applyTrustToOpportunity(scored);
+    scored = applyTrustToOpportunity(scored);
+
+    const { bonus, reasons } = computeFeedbackRankBonus(scored, feedbackAdjustments);
+    if (bonus) {
+      scored.main_score = Math.round(scored.main_score + bonus);
+      scored.side_score = Math.round(scored.side_score + bonus);
+      scored.potential.feedback_rank_bonus = bonus;
+      for (const reason of reasons.slice(0, 3)) {
+        scored.potential.reasons.push("+ " + reason);
+      }
+    }
+
+    return mergeOpportunityState(prior, scored, generatedAt);
   })
   .filter(job => !job.published_at || daysOld(job.published_at) <= config.retention.max_age_days)
   .filter(job => job.potential?.retain);
 
 for (const prior of priorById.values()) {
-  if (protectedStatuses.has(prior.status) && !opportunities.some(job => job.id === prior.id)) {
+  if (isProtectedStatus(prior.status, trackingConfig) && !opportunities.some(job => job.id === prior.id)) {
     opportunities.push(prior);
   }
 }
@@ -774,6 +782,10 @@ await fs.writeFile(
 await fs.writeFile(REPORT_PATH, buildLatestReport(opportunities, topMain, topSide, sourceStats, generatedAt) + "\n");
 await fs.writeFile(ALL_PATH, buildAllCandidates(opportunities, generatedAt));
 await fs.writeFile(PREP_PATH, buildApplicationPrep(topMain, topSide, generatedAt) + "\n");
+await fs.writeFile(
+  "reports/pipeline.md",
+  buildPipelineReport(opportunities, trackingConfig, generatedAt) + "\n"
+);
 
 const compiledApplications = await compileShortlistedApplications(opportunities, {
   careerModel,

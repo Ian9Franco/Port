@@ -83,6 +83,10 @@ SIDE is stricter:
 - `templates/` — proposal material
 - `applications/` — compiled apply bundles for shortlisted opportunities
 - `scripts/compile-application.mjs` — Application Compiler
+- `scripts/opportunity-track.mjs` — pipeline status + feedback CLI
+- `scripts/tracking.mjs` / `scripts/feedback-loop.mjs` — state merge + rank adjustments
+- `reports/pipeline.md` — funnel summary (regenerated each radar run)
+- `data/feedback.json` — explicit feedback events and explainable weight tweaks
 - `docs/WORKFLOW.md` — manual application workflow
 - `docs/RADAR.md` — automated radar documentation
 - `scripts/fetch-opportunities.mjs` — automated ingestion and ranking

@@ -34,6 +34,9 @@ jobs:
           node --check scripts/potential-matcher.mjs
           node --check scripts/trust-layer.mjs
           node --check scripts/compile-application.mjs
+          node --check scripts/tracking.mjs
+          node --check scripts/feedback-loop.mjs
+          node --check scripts/opportunity-track.mjs
           node --check scripts/fetch-opportunities.mjs
 
       - name: Fetch and rank opportunities
@@ -76,7 +79,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/opportunities.json reports/latest.md reports/all-candidates.md reports/application-prep.md applications/
+          git add data/opportunities.json data/feedback.json reports/latest.md reports/all-candidates.md reports/application-prep.md reports/pipeline.md applications/
           if git diff --cached --quiet; then
             echo "No opportunity changes."
             exit 0
