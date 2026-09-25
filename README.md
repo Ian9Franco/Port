@@ -18,6 +18,8 @@ Current API sources:
 - Remotive
 - Arbeitnow
 - Get on Board
+- RemoteOK
+- Jobicy
 
 The radar:
 
@@ -83,6 +85,7 @@ SIDE is stricter:
 - `docs/RADAR.md` — automated radar documentation
 - `scripts/fetch-opportunities.mjs` — automated ingestion and ranking
 - `scripts/potential-matcher.mjs` — Potential Matcher v1 (fit, transferability, gaps)
+- `scripts/trust-layer.mjs` — listing / company trust heuristics
 
 ## Privacy
 

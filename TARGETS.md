@@ -101,6 +101,8 @@ Automated API sources:
 - Remotive
 - Arbeitnow
 - Get on Board
+- RemoteOK
+- Jobicy
 
 Manual / assisted sources to connect later where permitted:
 - LinkedIn

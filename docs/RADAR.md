@@ -71,6 +71,14 @@ Public API. The radar reads category feeds for:
 
 Get on Board is especially useful for Latin America and can surface both remote roles and geographically relevant local roles.
 
+### RemoteOK
+
+Public JSON API (`remoteok.com/api`). Attribution link to [RemoteOK](https://remoteok.com) is required by their API terms.
+
+### Jobicy
+
+Public JSON API for remote roles (`jobicy.com/api/v2/remote-jobs`). Credit [Jobicy](https://jobicy.com) when sharing listings.
+
 ## Outputs
 
 The radar writes:
@@ -146,6 +154,18 @@ Applied, replied, interview and won records are protected from automatic pruning
 
 The current automated sources are API-based rather than browser scraping.
 
-That validates the acquisition path, but it does not prove every employer or posting is legitimate. Company-level verification is a separate future layer.
+That validates the acquisition path, but it does not prove every employer or posting is legitimate.
+
+### Listing trust layer (v1)
+
+Each opportunity includes:
+
+```text
+SOURCE TRUST: official_public_api (channel)
+COMPANY TRUST: low | medium
+LISTING RISK: low | unknown | medium | high
+```
+
+Heuristics include board URL consistency, ATS/careers links, short descriptions, salary outliers, scam-pattern phrases, gambling industry, and duplicate title/company clusters. **High risk** lowers rank; it does not auto-delete listings.
 
 Remote jobs can still have country restrictions. Always confirm the original listing before applying.
