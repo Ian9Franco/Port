@@ -4,6 +4,8 @@
 
 Growth Engineer & Full-Stack Developer focused on automation, integrations, internal tools and product execution.
 
+The career goal is not to abandon marketing entirely. It is to move toward roles where technical implementation is central, while retaining growth and marketing knowledge as a differentiator.
+
 ## Strong fit
 
 - Zapier automations and workflow design
@@ -11,28 +13,45 @@ Growth Engineer & Full-Stack Developer focused on automation, integrations, inte
 - React / Next.js product work
 - Supabase-backed applications
 - AI-assisted internal tools and workflows
-- Debugging, maintenance and small feature delivery
-- Technical work for non-technical founders, agencies and SMBs
+- debugging, maintenance and feature delivery
+- technical work for non-technical founders, agencies and SMBs
+- technical growth / RevOps / marketing automation
+- solutions and implementation work
+
+## Role families to test in the market
+
+- Growth Engineer
+- Automation Engineer
+- Integration Engineer
+- Full-Stack Developer / Engineer
+- Solutions Engineer
+- Implementation Engineer / Specialist
+- AI Automation Engineer
+- Technical RevOps / Marketing Automation
 
 ## Proof / assets
 
 - Portfolio: https://ian-pontorno-portfolio.vercel.app/
 - GitHub: https://github.com/Ian9Franco
-- Zapier certification: include credential link/details when applying
+- Zapier certification: add credential URL/details when available
 - Flagship project: MIM / FOMO Hub
 
-## Availability
+## Availability strategy
 
-This workspace is optimized for flexible remote work that can coexist with an existing part-time role.
+Two parallel searches:
+
+1. flexible freelance / contract work for additional income
+2. stronger full-time or part-time employment aligned with the technical profile
 
 ## Selling principle
 
-Do not sell "hours of coding". Sell a concrete business outcome:
+Sell outcomes rather than hours:
 
-- connect two systems
+- connect systems
 - remove repetitive manual work
-- fix a broken workflow
-- ship a small internal tool
+- fix broken workflows
+- ship internal tools
 - automate lead or customer operations
-- repair an integration
-- add an API-backed feature
+- repair integrations
+- add API-backed features
+- bridge growth goals with implementation

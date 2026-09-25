@@ -1,34 +1,55 @@
 # Port
 
-Private workspace for finding, qualifying and tracking remote freelance work.
+Private career and opportunity workspace for finding, qualifying and tracking better work.
 
-The initial focus is work that fits around an existing part-time role and makes use of automation, integrations and full-stack development skills.
+Port is not limited to freelancing. It supports two parallel goals:
+
+- generate extra income through flexible freelance / contract work
+- move toward stronger full-time or part-time roles aligned with automation, integrations and full-stack development
 
 ## Focus
 
-- Zapier automation
+- Zapier and workflow automation
 - APIs and webhooks
 - React / Next.js
 - Supabase
 - AI-assisted workflows
+- Growth Engineering / RevOps-adjacent technical work
+- Solutions and implementation roles
 - Small internal tools
-- Debugging and scoped feature work
+- Scoped debugging and feature work
+
+## Opportunity Radar
+
+A GitHub Actions workflow runs every 8 hours and checks public job APIs.
+
+It currently uses:
+
+- Remotive
+- Arbeitnow
+
+The radar normalizes, deduplicates and ranks roles, then updates:
+
+- data/opportunities.json
+- reports/latest.md
+
+Configuration lives in config/radar.json.
+
+See docs/RADAR.md for details.
 
 ## Repository map
 
-- `PROFILE.md` — positioning, skills and proof
-- `TARGETS.md` — target project types and qualification rules
-- `data/opportunities.json` — opportunity database
-- `templates/` — reusable proposal material
-- `docs/WORKFLOW.md` — operating process
-- `scripts/score-opportunity.mjs` — simple lead scoring utility
+- PROFILE.md — master professional positioning
+- TARGETS.md — target role and project criteria
+- config/radar.json — search and ranking configuration
+- data/opportunities.json — opportunity database
+- reports/latest.md — latest readable shortlist
+- templates/ — reusable proposal material
+- docs/WORKFLOW.md — manual application workflow
+- docs/RADAR.md — automated search workflow
+- scripts/fetch-opportunities.mjs — automated source ingestion and ranking
+- scripts/score-opportunity.mjs — manual scoring utility
 
-## Basic usage
+## Privacy
 
-Add leads to `data/opportunities.json`, score them, shortlist the strongest opportunities and prepare a tailored proposal.
-
-```bash
-node scripts/score-opportunity.mjs data/opportunities.json
-```
-
-This repository is intentionally private because it may contain job leads, client notes and application strategy.
+This repository is intentionally private because it can contain job leads, client notes, application strategy and career planning.
