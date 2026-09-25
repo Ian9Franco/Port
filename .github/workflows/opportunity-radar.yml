@@ -15,11 +15,13 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
 
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Set up Node
         uses: actions/setup-node@v4
@@ -30,9 +32,41 @@ jobs:
         run: node --check scripts/fetch-opportunities.mjs
 
       - name: Fetch and rank opportunities
+        id: fetch
         run: node scripts/fetch-opportunities.mjs
 
+      - name: Write job summary
+        if: always() && steps.fetch.outcome == 'success'
+        shell: bash
+        run: |
+          node --input-type=module -e "
+          import fs from 'node:fs';
+          const data = JSON.parse(fs.readFileSync('data/opportunities.json', 'utf8'));
+          const stats = data.source_stats ?? {};
+          const failures = data.source_failures ?? [];
+          const lines = [
+            '## Opportunity Radar',
+            '',
+            '- Generated: ' + data.generated_at,
+            '- Opportunities retained: **' + (data.opportunities?.length ?? 0) + '**',
+            '- MAIN picks: **' + (data.top_picks?.main?.length ?? 0) + '**',
+            '- SIDE picks: **' + (data.top_picks?.side?.length ?? 0) + '**',
+            '',
+            '### Sources',
+            ''
+          ];
+          for (const [name, count] of Object.entries(stats)) {
+            lines.push('- ' + name + ': ' + count);
+          }
+          if (failures.length) {
+            lines.push('', '### Source failures', '');
+            for (const failure of failures) lines.push('- ' + failure);
+          }
+          fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, lines.join('\n') + '\n');
+          "
+
       - name: Commit updated radar data
+        id: radar_commit
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
@@ -43,4 +77,24 @@ jobs:
             exit 0
           fi
           git commit -m "chore(radar): refresh opportunities"
-          git push
+          git push origin HEAD:main
+
+      - name: Upload radar output if push failed
+        if: steps.fetch.outcome == 'success' && steps.radar_commit.outcome == 'failure'
+        uses: actions/upload-artifact@v4
+        with:
+          name: radar-output-${{ github.run_id }}
+          path: |
+            data/opportunities.json
+            reports/latest.md
+            reports/all-candidates.md
+            reports/application-prep.md
+          retention-days: 14
+
+      - name: Warn when commit could not push
+        if: steps.fetch.outcome == 'success' && steps.radar_commit.outcome == 'failure'
+        run: |
+          echo "::warning::Radar data was generated but could not be pushed to main."
+          echo "::warning::If branch protection blocks github-actions[bot], allow Actions bypass or store a PAT with contents:write."
+          echo "Download the radar-output artifact from this run."
+          exit 1

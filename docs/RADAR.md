@@ -4,9 +4,23 @@ Port's radar is a private career-opportunity system. It searches, filters and pr
 
 ## Schedule
 
-GitHub Actions runs every 8 hours at minute 23, three times per day.
+GitHub Actions runs every 8 hours at minute 23, three times per day (UTC).
 
-The workflow can also be triggered manually from GitHub Actions.
+The workflow can also be triggered manually from GitHub Actions (**Run workflow** on `Opportunity Radar`).
+
+### First run / troubleshooting
+
+- Scheduled workflows only run on the repository **default branch** (`main`). After merging the workflow, wait for the next cron slot or use **workflow_dispatch**.
+- GitHub may delay the first scheduled run on a new workflow until the next cron boundary.
+- The job needs `contents: write` so `github-actions[bot]` can commit refreshed JSON and reports. If **branch protection** blocks direct pushes, either allow the Actions bot to bypass protection or download the `radar-output-*` artifact from the failed run.
+- Partial source outages are expected: each API is fetched independently. Transient HTTP errors are retried; failures are recorded in `source_failures` inside `data/opportunities.json` without aborting the whole run (unless every source fails).
+
+### Local run
+
+```bash
+node --check scripts/fetch-opportunities.mjs
+node scripts/fetch-opportunities.mjs
+```
 
 ## Tracks
 
