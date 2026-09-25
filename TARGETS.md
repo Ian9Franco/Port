@@ -1,8 +1,10 @@
 # Opportunity Targets
 
-## Track A — Professional roles
+## MAIN — Primary job
 
-Primary role families:
+Goal: replace or improve the current primary employment with work closer to the technical profile.
+
+### Role families
 
 1. Growth Engineer
 2. Automation Engineer
@@ -13,7 +15,7 @@ Primary role families:
 7. Technical RevOps / Marketing Automation
 8. AI Automation / Applied AI Engineer
 
-Strong technical signals:
+### Strong technical signals
 
 - Zapier / Make / n8n
 - API integrations and webhooks
@@ -24,67 +26,99 @@ Strong technical signals:
 - internal tooling
 - AI-assisted product or business workflows
 
-Preferred arrangements:
+### Employment
 
-- remote from Argentina
-- full-time or part-time
-- contract is acceptable
-- async-friendly when possible
+Preferred:
+- full-time
+- part-time
+- selected contract roles
 
-Secondary career watch:
+### Location
 
+Accept:
+- remote work compatible with Argentina
+- hybrid / on-site roles in Buenos Aires, CABA or GBA when the commute is reasonable
+
+Separate watchlist:
 - Spain
-- broader Europe when relocation is realistic
+- Europe when relocation is realistic
 
-## Track B — Freelance / extra income
+Deprioritize:
+- clearly non-local on-site jobs
+- remote roles that explicitly exclude Argentina / LATAM
 
-Primary project types:
+## SIDE — Secondary income
 
-1. Zapier automation projects
+Goal: additional income without replacing the MAIN job.
+
+### Project types
+
+1. Zapier automation
 2. API / webhook integrations
-3. Internal tools for small businesses
+3. internal tools
 4. React / Next.js fixes and small features
-5. Supabase setup, auth, data flows and debugging
-6. AI workflow implementation for business processes
+5. Supabase setup and debugging
+6. AI workflow implementation
+7. technical consulting / implementation work
 
-Good signals:
+### Employment
+
+Accept:
+- freelance
+- contract
+- project
+- part-time
+- commission-oriented work when technically relevant
+
+### Location
+
+**Remote only.**
+
+### Good signals
 
 - clear business pain
 - bounded scope
 - repetitive manual work that can be automated
 - existing systems that need connecting or repairing
-- technical judgment matters more than commodity labor
-- remote and async-friendly
 - fixed-price or clearly bounded hourly work
+- async-friendly delivery
 
-## Deprioritize
+## Common deprioritization
 
 - pure data entry
-- call-center or generic customer support
+- call-center work
+- generic customer support
 - pure sales roles
 - unpaid tests resembling real client work
 - vague entire-startup builds with tiny budgets
 - 24/7 support expectations
-- roles whose location restriction clearly excludes Argentina unless they belong to the relocation watchlist
 
 ## Search channels
 
-- automated public job APIs in Opportunity Radar
+Automated API sources:
+- Remotive
+- Arbeitnow
+- Get on Board
+
+Manual / assisted sources to connect later where permitted:
 - LinkedIn
 - Upwork
 - Contra
-- Fiverr selectively
-- direct outreach to agencies and small businesses
+- Fiverr
+- Workana
+- direct outreach
 
-## Ranking principle
+## Recommendation policy
 
-Automated scores are only triage. Final decisions should consider:
+Each radar run should expose at most:
 
-- actual responsibilities
-- compensation
-- employment type
-- location eligibility
-- technical growth
-- schedule compatibility
-- company quality
-- realistic chance of being hired
+- 3 MAIN Top Picks
+- 3 SIDE Top Picks
+
+The wider curated candidate set must remain available separately so a ranking mistake does not hide an opportunity.
+
+## Application policy
+
+Port prepares; the user decides.
+
+No automatic application is enabled.
