@@ -1,15 +1,42 @@
 {
+  "application": {
+    "mode": "manual",
+    "auto_apply": false
+  },
   "sources": {
     "remotive": {
       "enabled": true,
       "endpoint": "https://remotive.com/api/remote-jobs",
-      "limit": 200
+      "limit": 200,
+      "trust": "official_public_api"
     },
     "arbeitnow": {
       "enabled": true,
       "endpoint": "https://www.arbeitnow.com/api/job-board-api",
-      "pages": 3
+      "pages": 3,
+      "trust": "official_public_api"
+    },
+    "getonboard": {
+      "enabled": true,
+      "base_url": "https://www.getonbrd.com/api/v0/categories",
+      "categories": ["programming", "machine-learning-ai", "operations-management"],
+      "pages": 2,
+      "per_page": 100,
+      "trust": "official_public_api"
     }
+  },
+  "profile": {
+    "known_skills": [
+      "zapier", "automation", "api", "webhook", "react", "next.js", "nextjs",
+      "supabase", "typescript", "javascript", "node.js", "nodejs", "crm",
+      "ai workflow", "growth", "marketing automation", "integration"
+    ],
+    "requirement_terms": [
+      "zapier", "make.com", "n8n", "automation", "api", "webhook", "react", "next.js",
+      "typescript", "javascript", "node.js", "python", "java", ".net", "c#", "aws", "azure",
+      "gcp", "docker", "kubernetes", "terraform", "supabase", "postgres", "sql", "graphql",
+      "salesforce", "hubspot", "crm", "revops", "growth", "seo", "analytics", "ai", "llm"
+    ]
   },
   "roles": {
     "positive_keywords": [
@@ -28,9 +55,11 @@
       { "term": "api", "weight": 4 },
       { "term": "webhook", "weight": 5 },
       { "term": "ai engineer", "weight": 5 },
-      { "term": "solutions engineer", "weight": 4 },
+      { "term": "solutions engineer", "weight": 5 },
+      { "term": "implementation engineer", "weight": 5 },
       { "term": "implementation specialist", "weight": 4 },
       { "term": "technical marketing", "weight": 4 },
+      { "term": "marketing automation", "weight": 6 },
       { "term": "typescript", "weight": 3 },
       { "term": "javascript", "weight": 3 },
       { "term": "node.js", "weight": 3 },
@@ -39,8 +68,7 @@
     ],
     "negative_keywords": [
       { "term": "data entry", "weight": -10 },
-      { "term": "customer support", "weight": -6 },
-      { "term": "call center", "weight": -10 },
+      { "term": "call center", "weight": -12 },
       { "term": "sales representative", "weight": -7 },
       { "term": "account executive", "weight": -6 },
       { "term": "vice president", "weight": -8 },
@@ -48,36 +76,58 @@
       { "term": "principal", "weight": -4 }
     ]
   },
-  "employment": {
-    "preferred": ["full_time", "part_time", "contract", "freelance"],
-    "bonus": 2
-  },
   "location": {
     "remote_now_terms": [
-      "worldwide",
-      "anywhere",
-      "latin america",
-      "latam",
-      "argentina",
-      "south america",
-      "americas",
-      "global"
+      "worldwide", "anywhere", "latin america", "latam", "argentina",
+      "south america", "americas", "global"
     ],
-    "relocation_terms": [
-      "europe",
-      "european union",
-      "eu",
-      "spain",
-      "españa"
+    "local_area_terms": [
+      "buenos aires", "caba", "capital federal", "gba", "gran buenos aires", "la matanza"
     ],
-    "restricted_penalty": -8,
-    "relocation_penalty": -2,
-    "remote_now_bonus": 3
+    "relocation_terms": ["europe", "european union", "eu", "spain", "españa"]
+  },
+  "tracks": {
+    "main": {
+      "top_picks": 3,
+      "minimum_score": 9,
+      "preferred_employment": ["full_time", "part_time", "contract"],
+      "employment_bonus": 3,
+      "remote_bonus": 4,
+      "local_bonus": 4,
+      "nonlocal_onsite_penalty": -14,
+      "relocation_penalty": -3,
+      "signals": [
+        { "term": "full time", "weight": 3 },
+        { "term": "full-time", "weight": 3 },
+        { "term": "part time", "weight": 2 },
+        { "term": "part-time", "weight": 2 },
+        { "term": "growth engineer", "weight": 5 },
+        { "term": "automation engineer", "weight": 5 },
+        { "term": "integration engineer", "weight": 5 },
+        { "term": "solutions engineer", "weight": 4 },
+        { "term": "implementation engineer", "weight": 4 }
+      ]
+    },
+    "side": {
+      "top_picks": 3,
+      "minimum_score": 8,
+      "remote_required": true,
+      "preferred_employment": ["part_time", "contract", "freelance"],
+      "employment_bonus": 4,
+      "signals": [
+        { "term": "freelance", "weight": 6 },
+        { "term": "contract", "weight": 4 },
+        { "term": "part time", "weight": 4 },
+        { "term": "part-time", "weight": 4 },
+        { "term": "project", "weight": 2 },
+        { "term": "hourly", "weight": 2 },
+        { "term": "commission", "weight": 1 }
+      ]
+    }
   },
   "retention": {
-    "max_opportunities": 150,
+    "max_opportunities": 250,
     "max_age_days": 60,
-    "minimum_score": 8,
-    "report_limit": 20
+    "all_candidates_limit": 200
   }
 }
