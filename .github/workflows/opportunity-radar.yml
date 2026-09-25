@@ -29,7 +29,9 @@ jobs:
           node-version: "20"
 
       - name: Syntax check
-        run: node --check scripts/fetch-opportunities.mjs
+        run: |
+          node --check scripts/load-career-model.mjs
+          node --check scripts/fetch-opportunities.mjs
 
       - name: Fetch and rank opportunities
         id: fetch

@@ -1224,7 +1224,7 @@ These are the remaining inputs required from the user before Port can become a r
 
 # 12. Recommended next schema
 
-This file should become input to a future structured evidence model.
+Structured files now live under `career/` (see `github-evidence.json`, `self-assessment.json`, etc.) and are loaded by `scripts/load-career-model.mjs`.
 
 Suggested separation:
 

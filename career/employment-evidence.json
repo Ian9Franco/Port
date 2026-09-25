@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "positioning": "Growth Engineer and full-stack developer focused on automation, integrations, internal tools and product execution.",
+  "assets": {
+    "portfolio_url": "https://ian-pontorno-portfolio.vercel.app/",
+    "github_url": "https://github.com/Ian9Franco",
+    "flagship_project": "MIM / FOMO Hub"
+  },
+  "entries": [
+    {
+      "area": "marketing",
+      "type": "work_experience",
+      "confidence": "confirmed",
+      "source": "self-assessment",
+      "include_in_matcher": true,
+      "match_terms": ["growth", "marketing automation", "revops"],
+      "notes": "Practical experience not fully visible on GitHub; differentiator, not sole identity."
+    },
+    {
+      "area": "WordPress",
+      "type": "work_experience",
+      "confidence": "confirmed",
+      "source": "self-assessment",
+      "include_in_matcher": true,
+      "match_terms": ["wordpress"],
+      "notes": "Maintenance work became repetitive; deprioritize purely operational WP roles."
+    }
+  ]
+}

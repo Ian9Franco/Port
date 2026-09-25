@@ -1,5 +1,6 @@
 import fs from "node:fs/promises";
 import crypto from "node:crypto";
+import { loadCareerModel } from "./load-career-model.mjs";
 
 const CONFIG_PATH = "config/radar.json";
 const DATA_PATH = "data/opportunities.json";
@@ -8,6 +9,8 @@ const ALL_PATH = "reports/all-candidates.md";
 const PREP_PATH = "reports/application-prep.md";
 
 const config = JSON.parse(await fs.readFile(CONFIG_PATH, "utf8"));
+const careerModel = await loadCareerModel();
+const matcherProfile = careerModel.matcher_profile;
 
 function stripHtml(value = "") {
   return String(value)
@@ -491,8 +494,8 @@ function buildAllCandidates(opportunities, generatedAt) {
 
 function requirementAnalysis(job) {
   const body = normalizedText(job.title, job.description, ...(job.tags ?? []));
-  const required = config.profile.requirement_terms.filter(term => body.includes(term.toLowerCase()));
-  const known = config.profile.known_skills;
+  const required = matcherProfile.requirement_terms.filter(term => body.includes(term.toLowerCase()));
+  const known = matcherProfile.known_skills;
   const emphasize = required.filter(term => known.some(skill => skill === term || skill.includes(term) || term.includes(skill)));
   const verify = required.filter(term => !emphasize.includes(term));
   return { emphasize: [...new Set(emphasize)], verify: [...new Set(verify)] };
@@ -633,6 +636,7 @@ await fs.writeFile(
   JSON.stringify({
     version: 3,
     generated_at: generatedAt,
+    career_model_version: careerModel.github_evidence?.version ?? 1,
     application_mode: config.application.mode,
     source_failures: failures,
     source_stats: sourceStats,

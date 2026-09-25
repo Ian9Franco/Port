@@ -25,19 +25,6 @@
       "trust": "official_public_api"
     }
   },
-  "profile": {
-    "known_skills": [
-      "zapier", "automation", "api", "webhook", "react", "next.js", "nextjs",
-      "supabase", "typescript", "javascript", "node.js", "nodejs", "crm",
-      "ai workflow", "growth", "marketing automation", "integration"
-    ],
-    "requirement_terms": [
-      "zapier", "make.com", "n8n", "automation", "api", "webhook", "react", "next.js",
-      "typescript", "javascript", "node.js", "python", "java", ".net", "c#", "aws", "azure",
-      "gcp", "docker", "kubernetes", "terraform", "supabase", "postgres", "sql", "graphql",
-      "salesforce", "hubspot", "crm", "revops", "growth", "seo", "analytics", "ai", "llm"
-    ]
-  },
   "roles": {
     "positive_keywords": [
       { "term": "zapier", "weight": 10 },
