@@ -29,7 +29,9 @@ Suggested fields:
 
 ## 2. Score
 
-Run:
+The **Opportunity Radar** (`node scripts/fetch-opportunities.mjs`) scores MAIN/SIDE automatically and writes `data/opportunities.json`.
+
+For legacy manual leads that still use the older numeric rubric (`fit`, `budget_score`, …), run:
 
 ```bash
 node scripts/score-opportunity.mjs data/opportunities.json

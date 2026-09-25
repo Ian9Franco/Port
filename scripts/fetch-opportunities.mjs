@@ -54,20 +54,48 @@ function normalizeEmployment(value = "") {
   return text || "unknown";
 }
 
-async function fetchJson(url) {
-  const response = await fetch(url, {
-    redirect: "error",
-    headers: {
-      accept: "application/json",
-      "user-agent": "Port-Opportunity-Radar/2.0"
-    }
-  });
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
 
-  if (!response.ok) {
-    throw new Error(response.status + " " + response.statusText + " from " + url);
+async function fetchJson(url, { retries = 3, timeoutMs = 45_000 } = {}) {
+  let lastError;
+
+  for (let attempt = 1; attempt <= retries; attempt += 1) {
+    try {
+      const response = await fetch(url, {
+        redirect: "error",
+        signal: AbortSignal.timeout(timeoutMs),
+        headers: {
+          accept: "application/json",
+          "user-agent": "Port-Opportunity-Radar/2.0"
+        }
+      });
+
+      if (response.status === 429 || (response.status >= 500 && response.status <= 599)) {
+        throw new Error(response.status + " " + response.statusText + " from " + url);
+      }
+
+      if (!response.ok) {
+        throw new Error(response.status + " " + response.statusText + " from " + url);
+      }
+
+      const contentType = response.headers.get("content-type") ?? "";
+      if (!contentType.includes("application/json") && !contentType.includes("+json")) {
+        throw new Error("Non-JSON response (" + contentType + ") from " + url);
+      }
+
+      return await response.json();
+    } catch (error) {
+      lastError = error;
+      if (attempt < retries) {
+        const backoffMs = Math.min(8_000, 750 * 2 ** (attempt - 1));
+        await sleep(backoffMs);
+      }
+    }
   }
 
-  return response.json();
+  throw lastError;
 }
 
 function textIncludesAny(text, terms) {
@@ -208,7 +236,8 @@ async function fetchArbeitnow() {
   for (let page = 1; page <= (source.pages ?? 1); page += 1) {
     const url = new URL(source.endpoint);
     url.searchParams.set("page", String(page));
-    const payload = await fetchJson(url);
+    const payload = await fetchJson(url, { retries: 4 });
+    if (page < (source.pages ?? 1)) await sleep(250);
 
     for (const job of payload.data ?? []) {
       if (!job.remote) continue;
@@ -265,7 +294,8 @@ async function fetchGetOnBoard() {
       url.searchParams.append("expand[]", "company");
       url.searchParams.set("page", String(page));
 
-      const payload = await fetchJson(url);
+      const payload = await fetchJson(url, { retries: 4, timeoutMs: 60_000 });
+      if (page < (source.pages ?? 1)) await sleep(350);
       if (!Array.isArray(payload.data)) {
         throw new Error("Unexpected Get on Board response for " + category + " page " + page);
       }
@@ -543,7 +573,15 @@ if (!fetched.length && failures.length === sourceResults.length) {
   throw new Error("All sources failed: " + failures.join(" | "));
 }
 
-const protectedStatuses = new Set(["applied", "replied", "interview", "won"]);
+const protectedStatuses = new Set([
+  "shortlisted",
+  "applied",
+  "replied",
+  "interview",
+  "won",
+  "lost",
+  "skipped"
+]);
 
 const opportunities = dedupe(fetched)
   .map(job => {
