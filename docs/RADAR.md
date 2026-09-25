@@ -114,9 +114,18 @@ Port does not automatically submit applications.
 
 ## Scoring
 
-Scoring is a triage heuristic, not a claim that a company or role is objectively better.
+**Potential Matcher v1** ranks opportunities using evidence from `career/*.json`:
 
-MAIN and SIDE use different weights because they optimize for different outcomes.
+- **Current Fit** — how much of the listing maps to direct profile evidence today
+- **Transferability** — overlap when exact tools differ but capabilities transfer
+- **Gap Cost** — low / medium / high (tool, ecosystem, operational, fundamental gaps)
+- **Evidence Confidence** — how defendible the match is
+- **Career Potential** — transition value (including DevOps, Cloud, Data, SAP-adjacent paths)
+- **Relocation Value**, **Compensation Fit**, **Workstyle Fit**, **Commute Burden**
+
+Each retained job stores `potential.reasons` and `potential.gaps` in `data/opportunities.json`. Keyword scoring remains as a legacy signal (`keyword_main_score` / `keyword_side_score` internally).
+
+MAIN and SIDE ranks use different weights because they optimize for different outcomes.
 
 ## Status preservation
 
