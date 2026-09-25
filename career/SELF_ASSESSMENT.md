@@ -1,6 +1,6 @@
 # SELF_ASSESSMENT.md
 
-> User-confirmed information.
+> User-confirmed information. Structured mirror: `career/self-assessment.json`.
 >
 > This file is intentionally separate from `thougtian.md`, which is GitHub-only evidence.
 

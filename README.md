@@ -69,8 +69,10 @@ SIDE is stricter:
 
 ## Repository map
 
-- `PROFILE.md` — master professional positioning
-- `TARGETS.md` — MAIN / SIDE target criteria
+- `PROFILE.md` — master professional positioning (human summary)
+- `TARGETS.md` — MAIN / SIDE target criteria (human summary)
+- `career/*.json` — canonical structured career model for the matcher
+- `scripts/load-career-model.mjs` — loads career JSON for the radar
 - `config/radar.json` — scoring and source configuration
 - `data/opportunities.json` — opportunity database
 - `reports/latest.md` — short recommendation layer

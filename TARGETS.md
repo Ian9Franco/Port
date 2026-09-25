@@ -1,5 +1,7 @@
 # Opportunity Targets
 
+> **Canonical machine-readable source:** `career/preferences.json`, `career/constraints.json`, and `career/career-paths.json`.
+
 ## MAIN — Primary job
 
 Goal: replace or improve the current primary employment with work closer to the technical profile.

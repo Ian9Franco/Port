@@ -1,0 +1,215 @@
+{
+  "version": 1,
+  "source": "thougtian.md",
+  "source_rule": "GitHub repositories only; not LinkedIn or portfolio copy.",
+  "capabilities": [
+    {
+      "skill": "TypeScript",
+      "match_terms": ["typescript", "javascript", "node.js", "nodejs"],
+      "evidence_strength": "strong",
+      "confidence": "medium",
+      "sources": ["MIM", "Pontorno-vault", "Web-Sling-Optimizer", "Factu"],
+      "type": "direct",
+      "last_seen": "2026",
+      "notes": "Repeated across modern repositories; self-calibrated depth still partial."
+    },
+    {
+      "skill": "React",
+      "match_terms": ["react", "next.js", "nextjs"],
+      "evidence_strength": "strong",
+      "confidence": "medium",
+      "sources": ["MIM", "Pontorno-vault", "Factu", "proyecto-live"],
+      "type": "direct",
+      "last_seen": "2026",
+      "notes": "User can ship landing pages without docs; broader work with docs/AI."
+    },
+    {
+      "skill": "Full-stack product engineering",
+      "match_terms": ["full stack", "full-stack", "product engineer"],
+      "evidence_strength": "strong",
+      "confidence": "medium",
+      "sources": ["MIM", "Factu", "Pontorno-vault"],
+      "type": "direct",
+      "last_seen": "2026",
+      "notes": "UI + API + data + auth + business rules."
+    },
+    {
+      "skill": "API integrations",
+      "match_terms": ["api", "webhook", "rest", "integration"],
+      "evidence_strength": "strong",
+      "confidence": "medium",
+      "sources": ["MIM", "Factu", "Web-Sling-Optimizer", "proyecto-live"],
+      "type": "direct",
+      "last_seen": "2026",
+      "notes": "Includes provider abstractions and ingestion routes."
+    },
+    {
+      "skill": "PostgreSQL",
+      "match_terms": ["postgresql", "postgres", "sql"],
+      "evidence_strength": "strong",
+      "confidence": "low",
+      "sources": ["MIM", "Pontorno-vault", "Factu", "dashpostgre"],
+      "type": "direct",
+      "last_seen": "2026",
+      "notes": "RLS, Drizzle, joins/aggregates; depth not fully self-calibrated."
+    },
+    {
+      "skill": "Supabase",
+      "match_terms": ["supabase"],
+      "evidence_strength": "strong",
+      "confidence": "low",
+      "sources": ["MIM", "Pontorno-vault"],
+      "type": "direct",
+      "last_seen": "2026",
+      "notes": "Auth and Postgres-backed apps."
+    },
+    {
+      "skill": "Automated testing",
+      "match_terms": ["vitest", "jest", "testing", "test automation"],
+      "evidence_strength": "strong",
+      "confidence": "medium",
+      "sources": ["MIM", "Pontorno-vault", "Web-Sling-Optimizer"],
+      "type": "direct",
+      "last_seen": "2026",
+      "notes": "Unit, integration, architecture and security tests."
+    },
+    {
+      "skill": "GitHub Actions",
+      "match_terms": ["github actions", "ci/cd", "ci cd"],
+      "evidence_strength": "strong",
+      "confidence": "low",
+      "sources": ["MIM", "Pontorno-vault"],
+      "type": "direct",
+      "last_seen": "2026",
+      "notes": "Multi-stage pipelines, coverage, security gates."
+    },
+    {
+      "skill": "Docker",
+      "match_terms": ["docker", "container"],
+      "evidence_strength": "moderate",
+      "confidence": "low",
+      "sources": ["MIM"],
+      "type": "direct",
+      "last_seen": "2026",
+      "notes": "Verification environments; not production fleet ops."
+    },
+    {
+      "skill": "Applied AI integration",
+      "match_terms": ["ai", "llm", "openai", "gemini", "ollama", "ai engineer"],
+      "evidence_strength": "strong",
+      "confidence": "medium",
+      "sources": ["MIM", "Web-Sling-Optimizer"],
+      "type": "direct",
+      "last_seen": "2026",
+      "notes": "Provider routing and product integration, not ML research."
+    },
+    {
+      "skill": "Security-aware application engineering",
+      "match_terms": ["appsec", "security", "rls", "encryption", "csp"],
+      "evidence_strength": "moderate",
+      "confidence": "medium",
+      "sources": ["Pontorno-vault", "MIM"],
+      "type": "direct",
+      "last_seen": "2026",
+      "notes": "Auth boundaries, crypto model, DAST; not dedicated SOC ops."
+    },
+    {
+      "skill": "Automation and developer tooling",
+      "match_terms": ["automation", "workflow", "cli", "tooling", "build"],
+      "evidence_strength": "strong",
+      "confidence": "medium",
+      "sources": ["MIM", "Web-Sling-Optimizer"],
+      "type": "direct",
+      "last_seen": "2026",
+      "notes": "Build/release, batch processing, CI automation."
+    },
+    {
+      "skill": "Python backend",
+      "match_terms": ["python", "fastapi", "flask"],
+      "evidence_strength": "moderate",
+      "confidence": "low",
+      "sources": ["proyecto-live", "dashpostgre"],
+      "type": "direct",
+      "last_seen": "2026",
+      "notes": "Breadth meaningful; depth vs TypeScript unknown."
+    },
+    {
+      "skill": "Java Spring Boot",
+      "match_terms": ["java", "spring"],
+      "evidence_strength": "moderate",
+      "confidence": "low",
+      "sources": ["Ian-franco-collada-pontorno-java"],
+      "type": "direct",
+      "last_seen": "unknown",
+      "notes": "Foundational academic project; not enterprise seniority."
+    },
+    {
+      "skill": "MongoDB",
+      "match_terms": ["mongodb", "mongoose"],
+      "evidence_strength": "moderate",
+      "confidence": "low",
+      "sources": ["Ian-franco-collada-pontorno-Backend"],
+      "type": "direct",
+      "last_seen": "unknown",
+      "notes": "Depth and recency unknown."
+    },
+    {
+      "skill": "Electron desktop engineering",
+      "match_terms": ["electron", "desktop"],
+      "evidence_strength": "moderate",
+      "confidence": "medium",
+      "sources": ["MIM"],
+      "type": "direct",
+      "last_seen": "2026",
+      "notes": "Packaging and release flows."
+    },
+    {
+      "skill": "Zapier",
+      "match_terms": ["zapier"],
+      "evidence_strength": "moderate",
+      "confidence": "medium",
+      "sources": ["PROFILE.md", "portfolio-practice"],
+      "type": "transferable",
+      "last_seen": "2026",
+      "notes": "Strong commercial fit area; confirm certification URL when available."
+    },
+    {
+      "skill": "DevOps transition base",
+      "match_terms": ["devops", "platform engineer", "sre", "build release"],
+      "evidence_strength": "moderate",
+      "confidence": "low",
+      "sources": ["MIM", "Pontorno-vault"],
+      "type": "transferable",
+      "last_seen": "2026",
+      "notes": "CI/CD and packaging overlap; K8s/Terraform/AWS gaps remain."
+    },
+    {
+      "skill": "SAP technical transition",
+      "match_terms": ["sap", "sap btp", "integration suite"],
+      "evidence_strength": "foundational",
+      "confidence": "low",
+      "sources": ["transferability-analysis"],
+      "type": "inference",
+      "last_seen": "2026",
+      "notes": "No direct SAP experience; APIs/Java/enterprise modeling transfer only."
+    },
+    {
+      "skill": "Data analytics engineering",
+      "match_terms": ["pandas", "analytics", "data engineering", "bi"],
+      "evidence_strength": "moderate",
+      "confidence": "low",
+      "sources": ["dashpostgre"],
+      "type": "transferable",
+      "last_seen": "2026",
+      "notes": "No dbt/Airflow/Spark evidence yet."
+    }
+  ],
+  "documented_gaps": [
+    "Kubernetes administration",
+    "Terraform / IaC",
+    "AWS / Azure / GCP infrastructure",
+    "Production on-call / SRE operations",
+    "SAP ABAP / functional consulting",
+    "dbt / Airflow / Spark at scale"
+  ]
+}

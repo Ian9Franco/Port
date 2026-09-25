@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "work_style": {
+    "prefers_low_friction": true,
+    "prefers_lower_repetitiveness": true,
+    "penalize_monotonous_ops": true,
+    "examples_deprioritized": ["paid_media_repetition", "wordpress_stock_maintenance"]
+  },
+  "human_interaction": {
+    "initial_preference": "low_stakeholder_pressure",
+    "prioritize_ic_roles": true,
+    "solutions_roles": "not_permanently_excluded"
+  },
+  "career_priorities_ordered": [
+    "relocation_emigration",
+    "technical_growth",
+    "compensation",
+    "learning"
+  ],
+  "tracks": {
+    "main": {
+      "goal": "Replace or improve primary employment with technically central roles.",
+      "employment_preferred": ["full_time", "part_time", "selected_contract"],
+      "location": {
+        "accept_remote_argentina_compatible": true,
+        "accept_local_hybrid_onsite_gba": true,
+        "relocation_watchlist": ["Spain", "Europe"]
+      }
+    },
+    "side": {
+      "goal": "Additional income compatible with MAIN.",
+      "remote_required": true,
+      "employment_preferred": ["freelance", "contract", "project", "part_time"]
+    }
+  },
+  "selling_principle": "Sell outcomes (systems connected, manual work removed, tools shipped) rather than hours."
+}

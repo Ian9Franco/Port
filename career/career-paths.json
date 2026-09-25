@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "rule": "Families guide discovery; they are not a whitelist.",
+  "families": {
+    "core": [
+      {
+        "id": "full_stack",
+        "label": "Full-Stack Software Engineer",
+        "current_evidence": "strong",
+        "transition_potential": "high"
+      },
+      {
+        "id": "product_engineering",
+        "label": "Product Engineer",
+        "current_evidence": "strong",
+        "transition_potential": "high"
+      },
+      {
+        "id": "automation",
+        "label": "Automation Engineer",
+        "current_evidence": "strong",
+        "transition_potential": "high"
+      },
+      {
+        "id": "integration",
+        "label": "Integration Engineer",
+        "current_evidence": "strong",
+        "transition_potential": "high"
+      },
+      {
+        "id": "growth_engineering",
+        "label": "Growth Engineer / Technical RevOps",
+        "current_evidence": "strong",
+        "transition_potential": "high",
+        "notes": "One option, not identity anchor."
+      },
+      {
+        "id": "applied_ai",
+        "label": "Applied AI / AI Product Engineer",
+        "current_evidence": "strong",
+        "transition_potential": "high"
+      },
+      {
+        "id": "internal_tools",
+        "label": "Internal Tools / Technical Product Engineer",
+        "current_evidence": "strong",
+        "transition_potential": "high"
+      }
+    ],
+    "adjacent": [
+      {
+        "id": "solutions_implementation",
+        "label": "Solutions / Implementation Engineer",
+        "current_evidence": "strong",
+        "transition_potential": "high",
+        "caveat": "Customer-facing fit unknown."
+      },
+      {
+        "id": "devex",
+        "label": "Developer Experience / Developer Tools",
+        "current_evidence": "strong",
+        "transition_potential": "high"
+      },
+      {
+        "id": "build_release",
+        "label": "Build / Release Engineer",
+        "current_evidence": "moderate_strong",
+        "transition_potential": "high"
+      },
+      {
+        "id": "qa_automation",
+        "label": "QA Automation / Software Quality",
+        "current_evidence": "moderate_strong",
+        "transition_potential": "high"
+      },
+      {
+        "id": "devops",
+        "label": "DevOps Engineer",
+        "current_evidence": "moderate_adjacent",
+        "transition_potential": "medium_high",
+        "main_gaps": ["kubernetes", "terraform", "cloud_iac", "on_call"]
+      },
+      {
+        "id": "platform",
+        "label": "Platform Engineer",
+        "current_evidence": "moderate_adjacent",
+        "transition_potential": "medium_high"
+      },
+      {
+        "id": "data_analytics",
+        "label": "Data / Analytics Engineering",
+        "current_evidence": "moderate",
+        "transition_potential": "medium_high"
+      },
+      {
+        "id": "appsec_adjacent",
+        "label": "AppSec / Product Security (adjacent)",
+        "current_evidence": "moderate_adjacent",
+        "transition_potential": "medium_high"
+      }
+    ],
+    "exploratory": [
+      {
+        "id": "sap_btp",
+        "label": "SAP BTP / Integration technical path",
+        "current_evidence": "none_direct",
+        "transition_potential": "medium",
+        "main_gaps": ["sap_specific_stack"]
+      },
+      {
+        "id": "cloud_engineering",
+        "label": "Cloud Engineering",
+        "current_evidence": "foundational_adjacent",
+        "transition_potential": "medium"
+      },
+      {
+        "id": "cybersecurity",
+        "label": "Cybersecurity operations",
+        "current_evidence": "foundational_adjacent",
+        "transition_potential": "medium"
+      },
+      {
+        "id": "java_enterprise",
+        "label": "Java / Spring Backend (deeper enterprise)",
+        "current_evidence": "foundational_moderate",
+        "transition_potential": "medium"
+      }
+    ]
+  },
+  "market_role_titles_to_test": [
+    "Growth Engineer",
+    "Automation Engineer",
+    "Integration Engineer",
+    "Full-Stack Developer",
+    "Solutions Engineer",
+    "Implementation Engineer",
+    "AI Automation Engineer",
+    "Technical RevOps"
+  ]
+}

@@ -1,5 +1,7 @@
 # Working Profile
 
+> **Canonical machine-readable source:** `career/*.json` (loaded by the radar via `scripts/load-career-model.mjs`). This file stays a human-readable summary.
+
 ## Positioning
 
 Growth Engineer & Full-Stack Developer focused on automation, integrations, internal tools and product execution.

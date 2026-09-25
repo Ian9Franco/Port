@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "positioning": "Ideas and product direction are user-owned; implementation is often AI-assisted with iteration until behavior matches intent.",
+  "authorship": {
+    "product_ideas": "self_originated",
+    "implementation": "often_ai_assisted",
+    "interpretation": "Do not equate AI assistance with lack of ownership; do not claim unaided implementation."
+  },
+  "technology_confidence": [
+    {
+      "skill": "React / Next.js",
+      "self_rating": "can_ship_landing_without_docs",
+      "with_docs_and_ai": "broader_implementation",
+      "status": "confirmed"
+    },
+    {
+      "skill": "TypeScript",
+      "status": "to_verify"
+    },
+    {
+      "skill": "SQL / PostgreSQL",
+      "status": "to_verify"
+    },
+    {
+      "skill": "Supabase",
+      "status": "to_verify"
+    },
+    {
+      "skill": "Python / FastAPI",
+      "status": "to_verify"
+    },
+    {
+      "skill": "Java / Spring",
+      "status": "to_verify"
+    },
+    {
+      "skill": "Docker",
+      "status": "to_verify"
+    },
+    {
+      "skill": "GitHub Actions",
+      "status": "to_verify"
+    },
+    {
+      "skill": "MongoDB",
+      "status": "to_verify"
+    },
+    {
+      "skill": "AI tooling",
+      "status": "to_verify"
+    }
+  ],
+  "transition_openness": ["SAP", "DevOps", "Cybersecurity", "Cloud", "Data"],
+  "gap_tolerance": {
+    "default": "prefer_low_ramp_up",
+    "strong_match_override": true,
+    "interpretation": "Small tool gaps should not block strong opportunities; distinguish learnable gaps from fundamental experience gaps."
+  },
+  "seniority_flexibility": {
+    "willing_junior_reset_for_transition": true,
+    "fields": ["SAP", "DevOps", "Cloud", "Cybersecurity", "Data"]
+  },
+  "english": {
+    "self_rating": "7-8/10",
+    "eligible_for_english_jobs": true,
+    "notes": "Not native fluency; interview confidence may improve with practice."
+  }
+}

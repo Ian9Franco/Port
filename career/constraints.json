@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "industry_exclusions": ["gambling", "betting"],
+  "compensation": {
+    "main": {
+      "minimum_monthly_baseline": 1000000,
+      "currency": "to_confirm",
+      "gross_or_net": "to_confirm",
+      "notes": "Approximately current salary level; normalize before automated filtering."
+    },
+    "side": {
+      "minimum": null,
+      "notes": "Flexible depending on workload."
+    }
+  },
+  "modality": {
+    "onsite_ft_acceptable": true,
+    "hybrid_days_acceptable": [1, 2, 3, 4, 5],
+    "remote_attractive_when_commute_high": true,
+    "home_region": "Zona Oeste, Greater Buenos Aires",
+    "commute_reference_job": "Ramos Mejía (acceptable)",
+    "commute_rule": "rank_burden_not_hard_veto",
+    "commute_factors_ordered": [
+      "distance_time",
+      "days_onsite",
+      "compensation",
+      "technical_growth",
+      "relocation_leverage",
+      "economic_reasonableness",
+      "hybrid_remote_relief"
+    ]
+  },
+  "deprioritize_role_signals": [
+    "data entry",
+    "call center",
+    "generic customer support",
+    "pure sales",
+    "unpaid_tests_as_real_work",
+    "vague_startup_build_tiny_budget",
+    "24/7 support expectations"
+  ]
+}
