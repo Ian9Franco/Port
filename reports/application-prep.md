@@ -1,6 +1,6 @@
 # Port — Application prep
 
-Generado: 2026-09-25T17:05:21.746Z
+Generado: 2026-09-25T17:16:19.609Z
 
 Borradores de preparación para los Top Picks. No aplica automáticamente y no agrega experiencia que no esté respaldada por el perfil.
 
@@ -12,20 +12,12 @@ Borradores de preparación para los Top Picks. No aplica automáticamente y no a
 - Fuente: Remotive (official_public_api)
 - Modalidad: remote · LATAM, Europe, USA, Canada, APAC
 - Tipo detectado: full_time
-- Enfatizar en CV/intro: react, next.js, node.js, ai
+- Current Fit: **100** · Transferability: **35** · Gap Cost: **low**
+- Career Potential: **90** · Evidence: **medium**
+- Enfatizar en CV/intro: node.js, react, next.js, full-stack, ai, cli
 - Verificar antes de afirmar: sin gaps obvios detectados por palabras clave
-- Ángulo sugerido: conectar experiencia en automatización, integraciones y producto con el resultado concreto que pide la vacante.
-- Regla: no inventar años, tecnologías ni resultados que no estén documentados.
-
-### Senior Independent AI Engineer / Architect — A.Team
-
-- Oferta: https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266
-- Fuente: Remotive (official_public_api)
-- Modalidad: remote · Americas, Europe, Israel
-- Tipo detectado: contract
-- Enfatizar en CV/intro: api, ai
-- Verificar antes de afirmar: llm
-- Ángulo sugerido: conectar experiencia en automatización, integraciones y producto con el resultado concreto que pide la vacante.
+- Por qué apareció: + evidencia directa: TypeScript (node.js); + evidencia directa: React (react); + evidencia directa: React (next.js); + evidencia directa: Full-stack product engineering (full-stack)
+- Gaps: ninguno destacado
 - Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 
 ### Senior AI Engineer — Lemon.io
@@ -34,9 +26,26 @@ Borradores de preparación para los Top Picks. No aplica automáticamente y no a
 - Fuente: Remotive (official_public_api)
 - Modalidad: remote · Northern America, LATAM, Europe, APAC
 - Tipo detectado: full_time
-- Enfatizar en CV/intro: automation, ai
-- Verificar antes de afirmar: python, llm
-- Ángulo sugerido: conectar experiencia en automatización, integraciones y producto con el resultado concreto que pide la vacante.
+- Current Fit: **100** · Transferability: **35** · Gap Cost: **low**
+- Career Potential: **82** · Evidence: **medium**
+- Enfatizar en CV/intro: ai, llm, openai, ai engineer, automation, cli, python
+- Verificar antes de afirmar: sin gaps obvios detectados por palabras clave
+- Por qué apareció: + evidencia directa: Applied AI integration (ai); + evidencia directa: Applied AI integration (llm); + evidencia directa: Applied AI integration (openai); + evidencia directa: Applied AI integration (ai engineer)
+- Gaps: ninguno destacado
+- Regla: no inventar años, tecnologías ni resultados que no estén documentados.
+
+### Senior Independent AI Engineer / Architect — A.Team
+
+- Oferta: https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266
+- Fuente: Remotive (official_public_api)
+- Modalidad: remote · Americas, Europe, Israel
+- Tipo detectado: contract
+- Current Fit: **90** · Transferability: **42** · Gap Cost: **low**
+- Career Potential: **82** · Evidence: **medium**
+- Enfatizar en CV/intro: api, ai, llm, ai engineer, workflow, build, bi
+- Verificar antes de afirmar: sin gaps obvios detectados por palabras clave
+- Por qué apareció: + evidencia directa: API integrations (api); + evidencia directa: Applied AI integration (ai); + evidencia directa: Applied AI integration (llm); + evidencia directa: Applied AI integration (ai engineer)
+- Gaps: ninguno destacado
 - Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 
 ## SIDE
@@ -47,30 +56,39 @@ Borradores de preparación para los Top Picks. No aplica automáticamente y no a
 - Fuente: Remotive (official_public_api)
 - Modalidad: remote · Americas, Europe, Israel
 - Tipo detectado: contract
-- Enfatizar en CV/intro: api, ai
-- Verificar antes de afirmar: llm
-- Ángulo sugerido: conectar experiencia en automatización, integraciones y producto con el resultado concreto que pide la vacante.
-- Regla: no inventar años, tecnologías ni resultados que no estén documentados.
-
-### Freelance Writer — IAPWE
-
-- Oferta: https://remotive.com/remote-jobs/writing/freelance-writer-1185979
-- Fuente: Remotive (official_public_api)
-- Modalidad: remote · Worldwide
-- Tipo detectado: freelance
-- Enfatizar en CV/intro: experiencia relevante del perfil general; revisar manualmente
+- Current Fit: **90** · Transferability: **42** · Gap Cost: **low**
+- Career Potential: **82** · Evidence: **medium**
+- Enfatizar en CV/intro: api, ai, llm, ai engineer, workflow, build, bi
 - Verificar antes de afirmar: sin gaps obvios detectados por palabras clave
-- Ángulo sugerido: conectar experiencia en automatización, integraciones y producto con el resultado concreto que pide la vacante.
+- Por qué apareció: + evidencia directa: API integrations (api); + evidencia directa: Applied AI integration (ai); + evidencia directa: Applied AI integration (llm); + evidencia directa: Applied AI integration (ai engineer)
+- Gaps: ninguno destacado
 - Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 
-### Freelance Copywriter — Coalition Technologies 
+### Senior Independent Software Developer — A.Team
 
-- Oferta: https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306
+- Oferta: https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265
+- Fuente: Remotive (official_public_api)
+- Modalidad: remote · Americas, Europe, Israel
+- Tipo detectado: contract
+- Current Fit: **75** · Transferability: **61** · Gap Cost: **low**
+- Career Potential: **65** · Evidence: **medium**
+- Enfatizar en CV/intro: cli, build, bi, growth
+- Verificar antes de afirmar: sin gaps obvios detectados por palabras clave
+- Por qué apareció: + evidencia directa: Automation and developer tooling (cli); + evidencia directa: Automation and developer tooling (build); + transferible: Data analytics engineering → bi; + perfil: growth
+- Gaps: ninguno destacado
+- Regla: no inventar años, tecnologías ni resultados que no estén documentados.
+
+### Senior Shopify Developer — Sanctuary Computer Inc
+
+- Oferta: https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140
 - Fuente: Remotive (official_public_api)
 - Modalidad: remote · Worldwide
-- Tipo detectado: freelance
-- Enfatizar en CV/intro: ai
-- Verificar antes de afirmar: seo
-- Ángulo sugerido: conectar experiencia en automatización, integraciones y producto con el resultado concreto que pide la vacante.
+- Tipo detectado: contract
+- Current Fit: **75** · Transferability: **49** · Gap Cost: **low**
+- Career Potential: **45** · Evidence: **medium**
+- Enfatizar en CV/intro: cli, build, bi, growth
+- Verificar antes de afirmar: sin gaps obvios detectados por palabras clave
+- Por qué apareció: + evidencia directa: Automation and developer tooling (cli); + evidencia directa: Automation and developer tooling (build); + transferible: Data analytics engineering → bi; + perfil: growth
+- Gaps: ninguno destacado
 - Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 

@@ -82,6 +82,7 @@ SIDE is stricter:
 - `docs/WORKFLOW.md` — manual application workflow
 - `docs/RADAR.md` — automated radar documentation
 - `scripts/fetch-opportunities.mjs` — automated ingestion and ranking
+- `scripts/potential-matcher.mjs` — Potential Matcher v1 (fit, transferability, gaps)
 
 ## Privacy
 

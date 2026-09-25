@@ -1,6 +1,7 @@
 import fs from "node:fs/promises";
 import crypto from "node:crypto";
 import { loadCareerModel } from "./load-career-model.mjs";
+import { evaluatePotential } from "./potential-matcher.mjs";
 
 const CONFIG_PATH = "config/radar.json";
 const DATA_PATH = "data/opportunities.json";
@@ -191,15 +192,16 @@ function scoreOpportunity(job) {
 
   return {
     base_score: positive.score + negative.score,
-    main_score: mainScore,
-    side_score: sideScore,
+    keyword_main_score: mainScore,
+    keyword_side_score: sideScore,
     main_eligible_now: mainEligibleNow,
     side_eligible: sideEligible,
     relocation_watch: relocationWatch,
     access,
     matched_keywords: [...new Set(positive.matched)].slice(0, 10),
     main_signals: [...new Set(mainSignals.matched)].slice(0, 6),
-    side_signals: [...new Set(sideSignals.matched)].slice(0, 6)
+    side_signals: [...new Set(sideSignals.matched)].slice(0, 6),
+    negative_hits: negative.matched.length
   };
 }
 
@@ -371,6 +373,18 @@ function topEligible(opportunities, predicate, scoreKey, limit) {
 }
 
 function reasonFor(job, track) {
+  const p = job.potential;
+  if (p?.reasons?.length) {
+    const positives = p.reasons.filter(r => r.startsWith("+")).slice(0, 2).map(r => r.slice(2));
+    const summary = [
+      "Fit " + p.current_fit + "%",
+      "Potencial " + p.career_potential,
+      "Transfer " + p.transferability
+    ];
+    if (positives.length) summary.push(positives.join("; "));
+    return summary.join(" · ");
+  }
+
   const pieces = [];
   if (job.matched_keywords?.length) pieces.push("perfil: " + job.matched_keywords.slice(0, 4).join(", "));
   if (track === "main" && job.main_signals?.length) pieces.push("main: " + job.main_signals.slice(0, 3).join(", "));
@@ -384,29 +398,32 @@ function reasonFor(job, track) {
 function buildTopTable(rows, track) {
   const scoreKey = track === "main" ? "main_score" : "side_score";
   const lines = [
-    "| Score | Rol | Empresa | Modalidad / ubicación | Tipo | Por qué aparece |",
-    "| ---: | --- | --- | --- | --- | --- |"
+    "| Rank | Fit | Potencial | Rol | Empresa | Modalidad / ubicación | Por qué aparece |",
+    "| ---: | ---: | ---: | --- | --- | --- | --- |"
   ];
 
   for (const job of rows) {
+    const fit = job.potential?.current_fit ?? "—";
+    const potential = job.potential?.career_potential ?? "—";
     lines.push(
       "| " + job[scoreKey] +
+      " | " + fit +
+      " | " + potential +
       " | [" + escapeMd(job.title) + "](" + job.url + ")" +
       " | " + escapeMd(job.company) +
       " | " + escapeMd(job.workplace + " · " + (job.location || "sin ubicación")) +
-      " | " + escapeMd(job.employment_type) +
       " | " + escapeMd(reasonFor(job, track)) + " |"
     );
   }
 
-  if (!rows.length) lines.push("| — | Sin picks fuertes en esta corrida | — | — | — | — |");
+  if (!rows.length) lines.push("| — | — | — | Sin picks fuertes en esta corrida | — | — | — |");
   return lines;
 }
 
 function buildLatestReport(opportunities, topMain, topSide, sourceStats, generatedAt) {
   const relocation = opportunities
     .filter(job => job.relocation_watch)
-    .sort((a, b) => b.main_score - a.main_score)
+    .sort((a, b) => b.main_score - a.main_score || (b.potential?.career_potential ?? 0) - (a.potential?.career_potential ?? 0))
     .slice(0, 5);
 
   const lines = [
@@ -472,18 +489,19 @@ function buildAllCandidates(opportunities, generatedAt) {
     "",
     "Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.",
     "",
-    "| MAIN | SIDE | Rol | Empresa | Acceso | Tipo | Fuente | Estado |",
-    "| ---: | ---: | --- | --- | --- | --- | --- | --- |"
+    "| MAIN | Fit | Potencial | SIDE | Rol | Empresa | Acceso | Fuente | Estado |",
+    "| ---: | ---: | ---: | ---: | --- | --- | --- | --- | --- |"
   ];
 
   for (const job of rows) {
     lines.push(
       "| " + job.main_score +
+      " | " + (job.potential?.current_fit ?? "—") +
+      " | " + (job.potential?.career_potential ?? "—") +
       " | " + job.side_score +
       " | [" + escapeMd(job.title) + "](" + job.url + ")" +
       " | " + escapeMd(job.company) +
       " | " + escapeMd(job.access + " · " + (job.location || "")) +
-      " | " + escapeMd(job.employment_type) +
       " | " + escapeMd(job.source) +
       " | " + escapeMd(job.status) + " |"
     );
@@ -521,6 +539,7 @@ function buildApplicationPrep(topMain, topSide, generatedAt) {
 
     for (const job of jobs) {
       const req = requirementAnalysis(job);
+      const p = job.potential;
       sections.push(
         "### " + job.title + " — " + job.company,
         "",
@@ -528,9 +547,12 @@ function buildApplicationPrep(topMain, topSide, generatedAt) {
         "- Fuente: " + job.source + " (" + job.source_trust + ")",
         "- Modalidad: " + job.workplace + " · " + (job.location || "sin ubicación"),
         "- Tipo detectado: " + job.employment_type,
+        "- Current Fit: **" + (p?.current_fit ?? "—") + "** · Transferability: **" + (p?.transferability ?? "—") + "** · Gap Cost: **" + (p?.gap_cost ?? "—") + "**",
+        "- Career Potential: **" + (p?.career_potential ?? "—") + "** · Evidence: **" + (p?.evidence_confidence ?? "—") + "**",
         "- Enfatizar en CV/intro: " + (req.emphasize.length ? req.emphasize.join(", ") : "experiencia relevante del perfil general; revisar manualmente"),
         "- Verificar antes de afirmar: " + (req.verify.length ? req.verify.join(", ") : "sin gaps obvios detectados por palabras clave"),
-        "- Ángulo sugerido: conectar experiencia en automatización, integraciones y producto con el resultado concreto que pide la vacante.",
+        "- Por qué apareció: " + (p?.reasons?.filter(r => r.startsWith("+")).slice(0, 4).join("; ") || "revisión manual"),
+        "- Gaps: " + (p?.gaps?.length ? p.gaps.map(g => g.term + " (" + g.type + ")").join(", ") : "ninguno destacado"),
         "- Regla: no inventar años, tecnologías ni resultados que no estén documentados.",
         ""
       );
@@ -588,11 +610,24 @@ const protectedStatuses = new Set([
 
 const opportunities = dedupe(fetched)
   .map(job => {
-    const score = scoreOpportunity(job);
+    const legacy = scoreOpportunity(job);
+    const potential = evaluatePotential(job, {
+      careerModel,
+      matcherProfile,
+      config,
+      access: legacy.access,
+      legacy
+    });
     const prior = priorById.get(job.id);
     return {
       ...job,
-      ...score,
+      ...legacy,
+      main_score: potential.main_rank,
+      side_score: potential.side_rank,
+      main_eligible_now: potential.main_eligible,
+      side_eligible: potential.side_eligible,
+      relocation_watch: legacy.relocation_watch || potential.relocation_watch,
+      potential,
       status: prior?.status ?? "new",
       notes: prior?.notes ?? "",
       first_seen: prior?.first_seen ?? generatedAt,
@@ -600,11 +635,7 @@ const opportunities = dedupe(fetched)
     };
   })
   .filter(job => !job.published_at || daysOld(job.published_at) <= config.retention.max_age_days)
-  .filter(job =>
-    job.main_score >= config.tracks.main.minimum_score ||
-    job.side_score >= config.tracks.side.minimum_score ||
-    job.relocation_watch
-  );
+  .filter(job => job.potential?.retain);
 
 for (const prior of priorById.values()) {
   if (protectedStatuses.has(prior.status) && !opportunities.some(job => job.id === prior.id)) {
@@ -634,7 +665,8 @@ await fs.mkdir("reports", { recursive: true });
 await fs.writeFile(
   DATA_PATH,
   JSON.stringify({
-    version: 3,
+    version: 4,
+    matcher: "potential-v1",
     generated_at: generatedAt,
     career_model_version: careerModel.github_evidence?.version ?? 1,
     application_mode: config.application.mode,
@@ -653,7 +685,7 @@ await fs.writeFile(ALL_PATH, buildAllCandidates(opportunities, generatedAt));
 await fs.writeFile(PREP_PATH, buildApplicationPrep(topMain, topSide, generatedAt) + "\n");
 
 console.log(
-  "Radar v2 complete: " + fetched.length + " fetched, " + opportunities.length +
+  "Radar potential-v1: " + fetched.length + " fetched, " + opportunities.length +
   " retained, " + topMain.length + " MAIN picks, " + topSide.length +
   " SIDE picks, " + failures.length + " source failures."
 );
