@@ -73,6 +73,26 @@ The user is explicitly open to transition into:
 
 Port should search these as legitimate adjacent paths when transferability is good.
 
+## Learning / gap tolerance
+
+Default preference:
+
+- low ramp-up before applying when possible
+- do not require long pre-study for ordinary opportunities
+
+However:
+
+- if the match and career upside are strong, the user is willing to learn what is necessary
+- this is especially acceptable when the missing skill is something the user is likely to learn eventually anyway
+- learning can happen before applying, during interviews, or alongside onboarding depending on the role
+
+Interpretation for Port:
+
+- a small skill gap should not block an otherwise strong opportunity
+- a larger gap may still be acceptable when relocation leverage, technical growth or long-term career value is high
+- rank the cost of learning, but do not hard-filter solely because a tool is unfamiliar
+- distinguish "learnable tool/ecosystem gap" from "fundamental experience gap"
+
 ## Work-style preferences
 
 No specific technical-domain preference.
@@ -129,6 +149,56 @@ SIDE:
 - flexible depending on workload.
 - no hard minimum yet.
 
+## Work modality and commute
+
+The user is highly flexible about work modality because technical growth is a priority.
+
+### On-site
+
+- fully on-site Monday through Friday is acceptable
+- the current job is fully on-site
+- commuting itself is not an automatic rejection
+
+### Hybrid
+
+- 1, 2, 3 or 4 on-site days per week are all acceptable
+- no fixed preferred hybrid split
+
+### Remote
+
+- remote is attractive, especially when the physical distance is large
+- remote should gain relative value as commute cost/time increases
+
+### Geographic context supplied by the user
+
+- lives in Zona Oeste, Greater Buenos Aires
+- current job is in Ramos Mejía and the commute is acceptable
+- a role in Microcentro or another more distant area should be evaluated case-by-case
+
+### Commute ranking rule
+
+Do **not** use a single hard kilometer/time cutoff.
+
+Instead evaluate local roles with a commute-cost tradeoff:
+
+1. distance / travel time
+2. days per week on-site
+3. compensation
+4. technical growth
+5. relocation / career leverage
+6. whether compensation makes the commute economically reasonable
+7. whether hybrid/remote reduces the burden
+
+Examples:
+
+- nearby on-site role with adequate compensation: normal candidate
+- distant on-site role with weak compensation: penalize strongly
+- distant on-site role with strong compensation and growth: still show for review
+- distant hybrid role: penalize less
+- distant remote role: no commute penalty
+
+The user is open to changing transportation circumstances in the future, including purchasing a car if compensation justifies it. Port should therefore **rank** commute burden rather than hard-rejecting based on current transportation assumptions.
+
 ## English
 
 Self-assessed level:
@@ -168,24 +238,18 @@ Interpretation:
 
 ## Remaining unresolved inputs
 
-Two questions still require clarification:
+### Technology-by-technology confidence
 
-### Gap budget
+GitHub shows evidence, but explicit self-calibration is still missing for:
 
-How much ramp-up would the user accept before applying to a role with strong potential?
+- TypeScript
+- SQL / PostgreSQL
+- Supabase
+- Python / FastAPI
+- Java / Spring
+- Docker
+- GitHub Actions
+- MongoDB
+- AI tooling
 
-Examples:
-
-- apply immediately and learn during interview/onboarding
-- spend a few days preparing
-- spend 2–3 weeks learning
-- spend 1–2 months before applying
-
-### On-site / hybrid travel tolerance
-
-Need a concrete limit for local roles:
-
-- maximum days per week on-site
-- maximum one-way commute time or distance
-
-These should be added before local/hybrid ranking becomes strict.
+This does not need to block opportunity search. Until calibrated, Port should use repository evidence strength and clearly label uncertainty.
