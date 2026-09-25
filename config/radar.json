@@ -1,0 +1,83 @@
+{
+  "sources": {
+    "remotive": {
+      "enabled": true,
+      "endpoint": "https://remotive.com/api/remote-jobs",
+      "limit": 200
+    },
+    "arbeitnow": {
+      "enabled": true,
+      "endpoint": "https://www.arbeitnow.com/api/job-board-api",
+      "pages": 3
+    }
+  },
+  "roles": {
+    "positive_keywords": [
+      { "term": "zapier", "weight": 10 },
+      { "term": "automation", "weight": 7 },
+      { "term": "integration", "weight": 6 },
+      { "term": "workflow", "weight": 5 },
+      { "term": "supabase", "weight": 6 },
+      { "term": "growth engineer", "weight": 8 },
+      { "term": "revops", "weight": 6 },
+      { "term": "full stack", "weight": 5 },
+      { "term": "full-stack", "weight": 5 },
+      { "term": "next.js", "weight": 5 },
+      { "term": "nextjs", "weight": 5 },
+      { "term": "react", "weight": 4 },
+      { "term": "api", "weight": 4 },
+      { "term": "webhook", "weight": 5 },
+      { "term": "ai engineer", "weight": 5 },
+      { "term": "solutions engineer", "weight": 4 },
+      { "term": "implementation specialist", "weight": 4 },
+      { "term": "technical marketing", "weight": 4 },
+      { "term": "typescript", "weight": 3 },
+      { "term": "javascript", "weight": 3 },
+      { "term": "node.js", "weight": 3 },
+      { "term": "nodejs", "weight": 3 },
+      { "term": "crm", "weight": 3 }
+    ],
+    "negative_keywords": [
+      { "term": "data entry", "weight": -10 },
+      { "term": "customer support", "weight": -6 },
+      { "term": "call center", "weight": -10 },
+      { "term": "sales representative", "weight": -7 },
+      { "term": "account executive", "weight": -6 },
+      { "term": "vice president", "weight": -8 },
+      { "term": "director", "weight": -5 },
+      { "term": "principal", "weight": -4 }
+    ]
+  },
+  "employment": {
+    "preferred": ["full_time", "part_time", "contract", "freelance"],
+    "bonus": 2
+  },
+  "location": {
+    "remote_now_terms": [
+      "worldwide",
+      "anywhere",
+      "latin america",
+      "latam",
+      "argentina",
+      "south america",
+      "americas",
+      "global"
+    ],
+    "relocation_terms": [
+      "europe",
+      "european union",
+      "eu",
+      "spain",
+      "españa"
+    ],
+    "restricted_penalty": -8,
+    "relocation_penalty": -2,
+    "remote_now_bonus": 3
+  },
+  "retention": {
+    "max_opportunities": 150,
+    "max_age_days": 60,
+    "minimum_score": 8,
+    "report_limit": 20
+  }
+}
