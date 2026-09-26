@@ -1,6 +1,6 @@
 # Port — Application prep
 
-Generado: 2026-09-26T05:08:33.361Z
+Generado: 2026-09-26T13:12:31.882Z
 
 Borradores de preparación para los Top Picks. No aplica automáticamente y no agrega experiencia que no esté respaldada por el perfil.
 
@@ -88,19 +88,19 @@ Borradores de preparación para los Top Picks. No aplica automáticamente y no a
 - Gaps: ninguno destacado
 - Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 
-### Education Designer UX UI and AI — Interaction Design Foundation
+### Senior Backend Engineer Build AI Agents — Salesforge
 
-- Oferta: https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138
+- Oferta: https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114
 - Fuente: RemoteOK · SOURCE TRUST: official_public_api
 - COMPANY TRUST: medium · LISTING RISK: **low**
 - Señales trust: ninguna
 - Modalidad: remote · Remote
 - Tipo detectado: unknown
 - Current Fit: **100** · Transferability: **35** · Gap Cost: **low**
-- Career Potential: **82** · Evidence: **medium**
-- Enfatizar en CV/intro: ai, llm
+- Career Potential: **90** · Evidence: **medium**
+- Enfatizar en CV/intro: ai, build
 - Verificar antes de afirmar: sin gaps obvios detectados por palabras clave
-- Por qué apareció: + evidencia directa: Applied AI integration (ai); + evidencia directa: Applied AI integration (llm)
+- Por qué apareció: + evidencia directa: Applied AI integration (ai); + evidencia directa: Automation and developer tooling (build); + feedback family full_stack +0.3
 - Gaps: ninguno destacado
 - Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 
