@@ -2,13 +2,13 @@
   "version": 4,
   "matcher": "potential-v1",
   "trust_layer": "listing-v1",
-  "generated_at": "2026-09-25T20:03:09.612Z",
+  "generated_at": "2026-09-26T05:08:33.361Z",
   "career_model_version": 1,
   "application_mode": "manual",
   "source_failures": [],
   "source_stats": {
     "Remotive": 19,
-    "Arbeitnow": 24,
+    "Arbeitnow": 28,
     "Get on Board": 295,
     "RemoteOK": 99,
     "Jobicy": 60
@@ -117,11 +117,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:03:43.279Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149527",
@@ -213,11 +213,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remotive-2091131",
@@ -307,11 +307,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:03:43.279Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remotive-2091100",
@@ -423,11 +423,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:03:43.279Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137114",
@@ -451,7 +451,7 @@
         "engineer",
         "backend"
       ],
-      "description": "Remote - Most sales tools help you send emails. Weâre building something different.At Salesforge, weâre creating autonomous AI agents that can:Find the right prospectsGenerate highly personalized outreachRun conversationsAnd book meetingsAll without human invo... Please mention the word **EMPATHY** and tag RNC4yNDIuMTk3LjMy when applying to show you read the job post completely (#RNC4yNDIuMTk3LjMy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Most sales tools help you send emails. Weâre building something different.At Salesforge, weâre creating autonomous AI agents that can:Find the right prospectsGenerate highly personalized outreachRun conversationsAnd book meetingsAll without human invo... Please mention the word **EMPATHY** and tag RMTcyLjIwMy4yNTQuMjA5 when applying to show you read the job post completely (#RMTcyLjIwMy4yNTQuMjA5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "base_score": 0,
       "keyword_main_score": 1,
       "keyword_side_score": 0,
@@ -512,11 +512,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remotive-1919266",
@@ -605,11 +605,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:03:43.279Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-full-stack-product-engineer-react-next-js-ai-infrastructu-crost-ai-remote",
@@ -710,11 +710,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-senior-full-stack-software-developer-one-click-technology-llc-remote",
@@ -816,11 +816,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137302",
@@ -899,11 +899,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137224",
@@ -925,7 +925,7 @@
         "video",
         "engineer"
       ],
-      "description": "Remote - Before you read further: applying to this role requires a Loom video walkthrough under 5 minutes of the best thing you have built, plus a repo or live link. Tell us the hardest problem you hit and how you solved it. Focus on architecture decisions and tradeoffs, not a f... Please mention the word **CHARMINGLY** and tag RNC4yNDIuMTk3LjMy when applying to show you read the job post completely (#RNC4yNDIuMTk3LjMy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Before you read further: applying to this role requires a Loom video walkthrough under 5 minutes of the best thing you have built, plus a repo or live link. Tell us the hardest problem you hit and how you solved it. Focus on architecture decisions and tradeoffs, not a f... Please mention the word **CHARMINGLY** and tag RMTcyLjIwMy4yNTQuMjA5 when applying to show you read the job post completely (#RMTcyLjIwMy4yNTQuMjA5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "base_score": 18,
       "keyword_main_score": 19,
       "keyword_side_score": 18,
@@ -988,11 +988,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137138",
@@ -1073,11 +1073,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-fullstack-developer-react-node-js-improving-remote",
@@ -1176,11 +1176,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-bilingual-spanish-english-full-stack-developer-tabiya-us-remote",
@@ -1281,11 +1281,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-desarrollador-a-full-stack-node-js-bc-tecnologia-remote",
@@ -1378,11 +1378,102 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
+    },
+    {
+      "id": "jobicy-154082",
+      "source": "Jobicy",
+      "source_trust": "official_public_api",
+      "external_id": "154082",
+      "url": "https://jobicy.com/jobs/154082-senior-software-engineer-backend-money-movement",
+      "apply_url": "https://jobicy.com/jobs/154082-senior-software-engineer-backend-money-movement",
+      "title": "Senior Software Engineer, Backend (Money Movement)",
+      "company": "Phantom",
+      "location": "Anywhere",
+      "remote": true,
+      "workplace": "remote",
+      "employment_type": "full_time",
+      "published_at": "2026-09-25T20:53:51.000Z",
+      "salary": "",
+      "tags": [
+        "Software Engineering",
+        "Senior"
+      ],
+      "description": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural moments that shape them, building conviction through real-time data and the verified performance of top traders. With self-custody and access to open networks at its core, Phantom lets them control their financial moves in the same app they use to safely store or spend money worldwide. Phantom has reached #1 in Google Play's finance category and consistently ranks in the top 50 apps across all categories. Phantom partners with many of the most trusted and influential names in finance like Hyperliquid, Stripe, Kalshi and Visa, to make the most popular and innovative financial products accessible to everyone. We are around 180 people, fully remote, backed by a $150M Series C investment from a16z, Sequoia Capital and Paradigm. Responsibilities Staff Backend Engineer who blends systems thinking with product pragmatism and a real passion for crypto. You’ll design, maintain, and evolve the backend services and APIs that connect Phantom Cash to blockchains. You understand both client-server architecture and blockchain protocols, and you know how to balance reliability, quality, and speed. You communicate clearly across pods, document rigorously, and elevate the engineering bar through execution and mentorship. Your work will make Phantom Cash feel de",
+      "base_score": 4,
+      "keyword_main_score": 11,
+      "keyword_side_score": 7,
+      "main_eligible_now": true,
+      "side_eligible": false,
+      "relocation_watch": false,
+      "access": "remote-now",
+      "matched_keywords": [
+        "api"
+      ],
+      "main_signals": [],
+      "side_signals": [],
+      "negative_hits": 0,
+      "main_score": 70,
+      "side_score": 60,
+      "potential": {
+        "current_fit": 81,
+        "transferability": 46,
+        "gap_cost": "low",
+        "gap_cost_score": 100,
+        "evidence_confidence": "medium",
+        "evidence_confidence_score": 64,
+        "career_potential": 90,
+        "relocation_value": 30,
+        "compensation_fit": 50,
+        "workstyle_fit": 82,
+        "commute_burden": 5,
+        "role_families": [
+          "full_stack"
+        ],
+        "reasons": [
+          "+ evidencia directa: API integrations (api)",
+          "+ evidencia directa: Applied AI integration (ai)",
+          "+ evidencia directa: Automation and developer tooling (cli)",
+          "+ evidencia directa: Automation and developer tooling (build)",
+          "+ transferible: Data analytics engineering → bi",
+          "familias: full_stack",
+          "+ feedback family full_stack +0.3"
+        ],
+        "gaps": [],
+        "main_rank": 70,
+        "side_rank": 60,
+        "main_eligible": true,
+        "side_eligible": false,
+        "relocation_watch": false,
+        "retain": true,
+        "feedback_rank_bonus": 0.4
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "low",
+        "signals": [
+          "listing_on_official_board"
+        ],
+        "warnings": []
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-09-26T05:08:33.361Z",
+        "history": []
+      },
+      "first_seen": "2026-09-26T05:08:33.361Z",
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149540",
@@ -1464,11 +1555,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-fractional-full-stack-engineer-valsnapp-remote",
@@ -1567,11 +1658,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-web-app-full-stack-engineer-niuro-remote",
@@ -1658,11 +1749,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-full-stack-engineer-node-js-react-ai-niuro-remote",
@@ -1767,11 +1858,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-full-stack-developer-niuro-remote-0f51",
@@ -1877,11 +1968,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-full-stack-web-developer-kutoku-ltd-remote",
@@ -1972,11 +2063,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-senior-full-stack-engineer-bavardio-remote",
@@ -2065,11 +2156,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149558",
@@ -2155,11 +2246,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149542",
@@ -2240,11 +2331,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149541",
@@ -2326,11 +2417,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remotive-1919265",
@@ -2415,11 +2506,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:03:43.279Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remotive-2069746",
@@ -2511,11 +2602,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:03:43.279Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-principal-engineer-cocoon-remote",
@@ -2607,11 +2698,110 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
+    },
+    {
+      "id": "getonboard-full-stack-developer-lead-gen-team-llc-remote",
+      "source": "Get on Board",
+      "source_trust": "official_public_api",
+      "external_id": "full-stack-developer-lead-gen-team-llc-remote",
+      "url": "https://www.getonbrd.com/jobs/full-stack-developer-lead-gen-team-llc-remote",
+      "title": "Full-Stack Developer",
+      "company": "Lead Gen Team LLC",
+      "location": "Remote — Remote",
+      "remote": true,
+      "workplace": "remote",
+      "employment_type": "[object_object]",
+      "published_at": "2026-09-25T23:05:05.000Z",
+      "salary": "",
+      "tags": [
+        "programming"
+      ],
+      "description": "2+ years of hands-on development experience. You’ve personally built features and fixed issues on real projects. Solid PHP and JavaScript skills, plus HTML, CSS, and experience working with databases. Custom WordPress development experience. You can read existing code and build functionality beyond configuring themes, plugins, and Elementor. Experience with APIs and webhooks. You understand authentication, request payloads, responses, validation, and error handling. Hands-on conversion tracking experience with Meta, Google, or TikTok. Tell us what you’ve personally implemented or troubleshot. You don’t need experience with every platform. The ability to turn a requirement into a technical approach. We may explain what needs to happen without telling you which plugin, endpoint, or database structure to use. Good judgment when changing existing systems. You can explain when you’d make a small fix, when you’d refactor, and when you’d ask our senior developer to review the approach. Strong English and reliable availability during the required hours. You can explain what broke, what you changed, and what still needs attention.",
+      "base_score": 22,
+      "keyword_main_score": 12,
+      "keyword_side_score": 4,
+      "main_eligible_now": false,
+      "side_eligible": false,
+      "relocation_watch": false,
+      "access": "restricted-remote",
+      "matched_keywords": [
+        "full-stack",
+        "api",
+        "webhook",
+        "javascript"
+      ],
+      "main_signals": [],
+      "side_signals": [
+        "project"
+      ],
+      "negative_hits": 0,
+      "main_score": 68,
+      "side_score": 63,
+      "potential": {
+        "current_fit": 93,
+        "transferability": 41,
+        "gap_cost": "low",
+        "gap_cost_score": 100,
+        "evidence_confidence": "medium",
+        "evidence_confidence_score": 62,
+        "career_potential": 90,
+        "relocation_value": 30,
+        "compensation_fit": 50,
+        "workstyle_fit": 82,
+        "commute_burden": 40,
+        "role_families": [
+          "full_stack"
+        ],
+        "reasons": [
+          "+ evidencia directa: TypeScript (javascript)",
+          "+ evidencia directa: Full-stack product engineering (full-stack)",
+          "+ evidencia directa: API integrations (api)",
+          "+ evidencia directa: API integrations (webhook)",
+          "+ evidencia directa: Applied AI integration (ai)",
+          "+ evidencia directa: Automation and developer tooling (build)",
+          "+ evidencia directa: Java Spring Boot (java)",
+          "+ transferible: Data analytics engineering → bi",
+          "+ perfil: wordpress",
+          "familias: full_stack",
+          "+ feedback family full_stack +0.3",
+          "+ feedback keyword full-stack +0.2"
+        ],
+        "gaps": [],
+        "main_rank": 67,
+        "side_rank": 62,
+        "main_eligible": false,
+        "side_eligible": false,
+        "relocation_watch": false,
+        "retain": true,
+        "feedback_rank_bonus": 0.5
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "low",
+        "signals": [
+          "listing_on_official_board"
+        ],
+        "warnings": []
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-09-26T05:08:33.361Z",
+        "history": []
+      },
+      "first_seen": "2026-09-25T17:05:14.871Z",
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-senior-full-stack-developer-roadway-moving-remote",
@@ -2709,110 +2899,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
-    },
-    {
-      "id": "getonboard-full-stack-developer-lead-gen-team-llc-remote",
-      "source": "Get on Board",
-      "source_trust": "official_public_api",
-      "external_id": "full-stack-developer-lead-gen-team-llc-remote",
-      "url": "https://www.getonbrd.com/jobs/full-stack-developer-lead-gen-team-llc-remote",
-      "title": "Full-Stack Developer",
-      "company": "Lead Gen Team LLC",
-      "location": "Remote — Remote",
-      "remote": true,
-      "workplace": "remote",
-      "employment_type": "[object_object]",
-      "published_at": "2026-09-24T17:55:22.000Z",
-      "salary": "",
-      "tags": [
-        "programming"
-      ],
-      "description": "2+ years of hands-on development experience. You’ve personally built features and fixed issues on real projects. Solid PHP and JavaScript skills, plus HTML, CSS, and experience working with databases. Custom WordPress development experience. You can read existing code and build functionality beyond configuring themes, plugins, and Elementor. Experience with APIs and webhooks. You understand authentication, request payloads, responses, validation, and error handling. Hands-on conversion tracking experience with Meta, Google, or TikTok. Tell us what you’ve personally implemented or troubleshot. You don’t need experience with every platform. The ability to turn a requirement into a technical approach. We may explain what needs to happen without telling you which plugin, endpoint, or database structure to use. Good judgment when changing existing systems. You can explain when you’d make a small fix, when you’d refactor, and when you’d ask our senior developer to review the approach. Strong English and reliable availability during the required hours. You can explain what broke, what you changed, and what still needs attention.",
-      "base_score": 22,
-      "keyword_main_score": 12,
-      "keyword_side_score": 4,
-      "main_eligible_now": false,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "restricted-remote",
-      "matched_keywords": [
-        "full-stack",
-        "api",
-        "webhook",
-        "javascript"
-      ],
-      "main_signals": [],
-      "side_signals": [
-        "project"
-      ],
-      "negative_hits": 0,
-      "main_score": 68,
-      "side_score": 63,
-      "potential": {
-        "current_fit": 93,
-        "transferability": 41,
-        "gap_cost": "low",
-        "gap_cost_score": 100,
-        "evidence_confidence": "medium",
-        "evidence_confidence_score": 62,
-        "career_potential": 90,
-        "relocation_value": 30,
-        "compensation_fit": 50,
-        "workstyle_fit": 82,
-        "commute_burden": 40,
-        "role_families": [
-          "full_stack"
-        ],
-        "reasons": [
-          "+ evidencia directa: TypeScript (javascript)",
-          "+ evidencia directa: Full-stack product engineering (full-stack)",
-          "+ evidencia directa: API integrations (api)",
-          "+ evidencia directa: API integrations (webhook)",
-          "+ evidencia directa: Applied AI integration (ai)",
-          "+ evidencia directa: Automation and developer tooling (build)",
-          "+ evidencia directa: Java Spring Boot (java)",
-          "+ transferible: Data analytics engineering → bi",
-          "+ perfil: wordpress",
-          "familias: full_stack",
-          "+ feedback family full_stack +0.3",
-          "+ feedback keyword full-stack +0.2"
-        ],
-        "gaps": [],
-        "main_rank": 67,
-        "side_rank": 62,
-        "main_eligible": false,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true,
-        "feedback_rank_bonus": 0.5
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
-        "history": []
-      },
-      "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-desarrollador-full-stack-mediastream-remote",
@@ -2905,11 +2996,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-forward-deployed-engineer-niuro-remote",
@@ -2998,11 +3089,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-fullstack-developer-python-fastapi-react-bc-tecnologia-remote",
@@ -3099,11 +3190,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-platform-engineering-lead-niuro-remote",
@@ -3199,11 +3290,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-desarrollador-fullstack-mean-bc-tecnologia-remote",
@@ -3290,11 +3381,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-senior-full-stack-engineer-go-react-native-california-injury-group-apc-remote",
@@ -3389,11 +3480,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-senior-fullstack-developer-arara-remote",
@@ -3486,11 +3577,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-desarrollador-a-full-stack-ia-react-node-js-bc-tecnologia-remote",
@@ -3593,11 +3684,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-desarrollador-full-stack-python-react-alluxi-remote-8b7d",
@@ -3696,11 +3787,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-full-stack-developer-ai-voice-agents-phoneninjas-ai-remote",
@@ -3799,11 +3890,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137314",
@@ -3895,11 +3986,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137062",
@@ -4014,11 +4105,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-151456",
@@ -4110,11 +4201,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149578",
@@ -4197,11 +4288,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remotive-2091130",
@@ -4304,11 +4395,115 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:03:43.279Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
+    },
+    {
+      "id": "getonboard-software-engineer-semi-senior-buho-remote",
+      "source": "Get on Board",
+      "source_trust": "official_public_api",
+      "external_id": "software-engineer-semi-senior-buho-remote",
+      "url": "https://www.getonbrd.com/jobs/software-engineer-semi-senior-buho-remote",
+      "title": "Software Engineer Semi Senior",
+      "company": "Búho",
+      "location": "Remote — Remote",
+      "remote": true,
+      "workplace": "remote",
+      "employment_type": "[object_object]",
+      "published_at": "2026-09-25T21:03:03.000Z",
+      "salary": "",
+      "tags": [
+        "programming"
+      ],
+      "description": "Ingeniería Civil en Informática/Computación, o experiencia equivalente que la respalde. Entre 3 y 5 años de experiencia como software engineer o fullstack construyendo y manteniendo productos en producción. Sólido manejo de backend y frontend: Node.js / TypeScript , React y bases de datos relacionales ( SQL / PostgreSQL ). Experiencia diseñando y consumiendo APIs e integraciones con servicios de terceros. Comodidad con infraestructura cloud y despliegues (GCP, Vercel o similares). Mentalidad de producto: foco en el usuario y en el negocio, entendiendo el \"por qué\" detrás de cada desarrollo. Orientación a resultados y toma de decisiones basada en datos. Buena comunicación, priorización y trabajo autónomo en un equipo remoto. Mentalidad AI First: usas herramientas de IA de forma activa en tu trabajo diario.",
+      "base_score": 14,
+      "keyword_main_score": 4,
+      "keyword_side_score": -6,
+      "main_eligible_now": false,
+      "side_eligible": false,
+      "relocation_watch": false,
+      "access": "restricted-remote",
+      "matched_keywords": [
+        "react",
+        "api",
+        "typescript",
+        "node.js"
+      ],
+      "main_signals": [],
+      "side_signals": [],
+      "negative_hits": 0,
+      "main_score": 67,
+      "side_score": 62,
+      "potential": {
+        "current_fit": 93,
+        "transferability": 43,
+        "gap_cost": "low",
+        "gap_cost_score": 92,
+        "evidence_confidence": "medium",
+        "evidence_confidence_score": 59,
+        "career_potential": 90,
+        "relocation_value": 30,
+        "compensation_fit": 50,
+        "workstyle_fit": 82,
+        "commute_burden": 40,
+        "role_families": [
+          "cloud",
+          "full_stack"
+        ],
+        "reasons": [
+          "+ evidencia directa: TypeScript (typescript)",
+          "+ evidencia directa: TypeScript (node.js)",
+          "+ evidencia directa: React (react)",
+          "+ evidencia directa: API integrations (api)",
+          "+ evidencia directa: PostgreSQL (postgresql)",
+          "+ evidencia directa: PostgreSQL (postgres)",
+          "+ evidencia directa: PostgreSQL (sql)",
+          "+ evidencia directa: Applied AI integration (ai)",
+          "- gap tool: gcp",
+          "familias: cloud, full_stack",
+          "+ feedback family full_stack +0.3",
+          "+ feedback keyword react +0.2",
+          "+ feedback keyword node.js +0.2"
+        ],
+        "gaps": [
+          {
+            "term": "gcp",
+            "type": "tool"
+          }
+        ],
+        "main_rank": 66,
+        "side_rank": 61,
+        "main_eligible": false,
+        "side_eligible": false,
+        "relocation_watch": false,
+        "retain": true,
+        "feedback_rank_bonus": 0.7
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "low",
+        "signals": [
+          "listing_on_official_board"
+        ],
+        "warnings": []
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-09-26T05:08:33.361Z",
+        "history": []
+      },
+      "first_seen": "2026-09-26T05:08:33.361Z",
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-desarrollador-full-stack-react-nestjs-aws-witi-remote",
@@ -4408,11 +4603,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-full-stack-developer-senior-witi-remote-b430",
@@ -4505,11 +4700,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-ingeniero-senior-full-stack-khipu-remote-bd75",
@@ -4600,11 +4795,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-senior-fullstack-software-engineer-react-y-python-maxxa-remote",
@@ -4694,11 +4889,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-mid-level-backend-software-engineer-for-ai-platform-systems-niuro-remote",
@@ -4797,11 +4992,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137408",
@@ -4911,11 +5106,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137139",
@@ -4997,11 +5192,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149550",
@@ -5084,11 +5279,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149565",
@@ -5171,11 +5366,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-web-app-full-stack-engineer-niuro-remote-4461",
@@ -5264,11 +5459,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-tech-lead-grupo-mariposa-remote-c340",
@@ -5361,11 +5556,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-sr-front-end-software-engineer-improving-remote",
@@ -5450,11 +5645,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-full-stack-developer-python-nodejs-bc-tecnologia-santiago",
@@ -5549,11 +5744,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-software-developer-full-stack-react-ror-rankmi-remote",
@@ -5639,11 +5834,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149563",
@@ -5744,11 +5939,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-technical-lead-full-stack-bc-tecnologia-remote",
@@ -5867,11 +6062,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-full-stack-developer-foco-back-end-nestjs-next-js-aws-witi-remote",
@@ -5980,11 +6175,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-fullstack-developer-node-js-typescript-react-aws-bc-tecnologia-remote",
@@ -6089,11 +6284,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-desarrollador-backend-lisit-remote",
@@ -6185,11 +6380,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-full-stack-developer-aws-bc-tecnologia-remote",
@@ -6287,11 +6482,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-full-stack-developer-react-ror-rankmi-ciudad-de-mexico-santiago-lima-58b2",
@@ -6301,7 +6496,7 @@
       "url": "https://www.getonbrd.com/jobs/full-stack-developer-react-ror-rankmi-ciudad-de-mexico-santiago-lima-58b2",
       "title": "Full-Stack Developer React + RoR",
       "company": "Rankmi",
-      "location": "Mexico, Peru, Chile",
+      "location": "Peru, Chile, Mexico",
       "remote": false,
       "workplace": "onsite-or-hybrid",
       "employment_type": "[object_object]",
@@ -6380,11 +6575,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-founding-senior-ai-engineer-niuro-remote-2d03",
@@ -6469,11 +6664,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-senior-forward-deployed-ai-engineer-gemini-enterprise-artefact-us-remote",
@@ -6585,11 +6780,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137420",
@@ -6714,11 +6909,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137410",
@@ -6843,11 +7038,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149572",
@@ -6930,11 +7125,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149561",
@@ -7025,11 +7220,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149564",
@@ -7110,11 +7305,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149526",
@@ -7197,11 +7392,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149544",
@@ -7288,11 +7483,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149553",
@@ -7379,11 +7574,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remotive-2091129",
@@ -7477,11 +7672,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:03:43.279Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remotive-2091045",
@@ -7561,11 +7756,111 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
+    },
+    {
+      "id": "arbeitnow-remote-senior-ai-product-engineer-berlin-286735",
+      "source": "Arbeitnow",
+      "source_trust": "official_public_api",
+      "external_id": "remote-senior-ai-product-engineer-berlin-286735",
+      "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-286735",
+      "title": "(Senior) AI Product Engineer (m/w/d)",
+      "company": "Legalhero",
+      "location": "Berlin",
+      "remote": true,
+      "workplace": "remote",
+      "employment_type": "experienced",
+      "published_at": "2026-09-26T02:09:43.000Z",
+      "salary": "",
+      "tags": [
+        "AI",
+        "Product Engineer",
+        "AI Product Engineer",
+        "Berlin",
+        "Jobs",
+        "Homeoffice",
+        "Remote",
+        "Hybrid",
+        "Senior AI Product Engineer",
+        "AI Projects",
+        "AI features"
+      ],
+      "description": "What You'll Do You’ll identify open AI opportunities, build them from start to finish, and bring them to real users. As a Senior AI Product Engineer, you’ll work across our three product squads: You’ll single-handedly turn unaddressed topics into products, hand them off once they’re up and running, and serve as a sparring partner for the squad PMs on all AI-related topics. For us, “senior” refers to your approach to work, not your years of experience. You’ll report directly to Product Leadership. Your Responsibilities Independent AI projects (about half of your time) You’ll identify high-impact AI opportunities in our legal workflows - in areas where no specific squad is responsible Validation happens quickly: discussions with attorneys, Legal Ops, and insurers; prototypes built in days You’ll bring the winning solutions into production yourself: routing, chaining, summarization, and agent-based loops You’ll hand off mature features to the squad - complete with documentation, evaluations, and a handover plan Support for the squads (the other half) Feasibility, costs, model selection, risks: You’ll answer these questions before every AI feature is launched You support the teams in designing evaluations, golden datasets, and guardrails You review concepts before they go into the roadmap - including prompt injection and compliance risks (GDPR, Section 203 of the German Criminal Code) You advance AI best practices: prompt engineering standards, LLM observability, and agent-based coding workflows What you bring Must-have Multiple production-ready AI/LLM systems that you’ve shipp",
+      "base_score": 5,
+      "keyword_main_score": -5,
+      "keyword_side_score": -13,
+      "main_eligible_now": false,
+      "side_eligible": false,
+      "relocation_watch": false,
+      "access": "restricted-remote",
+      "matched_keywords": [
+        "workflow"
+      ],
+      "main_signals": [],
+      "side_signals": [
+        "project"
+      ],
+      "negative_hits": 0,
+      "main_score": 64,
+      "side_score": 60,
+      "potential": {
+        "current_fit": 86,
+        "transferability": 43,
+        "gap_cost": "low",
+        "gap_cost_score": 100,
+        "evidence_confidence": "medium",
+        "evidence_confidence_score": 65,
+        "career_potential": 82,
+        "relocation_value": 30,
+        "compensation_fit": 50,
+        "workstyle_fit": 82,
+        "commute_burden": 40,
+        "role_families": [
+          "applied_ai"
+        ],
+        "reasons": [
+          "+ evidencia directa: Full-stack product engineering (product engineer)",
+          "+ evidencia directa: Applied AI integration (ai)",
+          "+ evidencia directa: Applied AI integration (llm)",
+          "+ evidencia directa: Automation and developer tooling (workflow)",
+          "+ evidencia directa: Automation and developer tooling (build)",
+          "+ transferible: Data analytics engineering → bi",
+          "familias: applied_ai"
+        ],
+        "gaps": [],
+        "main_rank": 64,
+        "side_rank": 60,
+        "main_eligible": false,
+        "side_eligible": false,
+        "relocation_watch": false,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "low",
+        "signals": [
+          "listing_on_official_board"
+        ],
+        "warnings": []
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-09-26T05:08:33.361Z",
+        "history": []
+      },
+      "first_seen": "2026-09-26T05:08:33.361Z",
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-108798",
@@ -7646,11 +7941,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-desarrollador-full-stack-hibrido-agilesoft-spa-santiago-d50c",
@@ -7739,11 +8034,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-senior-full-stack-engineer-we-built-it-remote",
@@ -7845,11 +8140,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-desarrollador-a-drupal-full-stack-bc-tecnologia-lima",
@@ -7938,11 +8233,100 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
+    },
+    {
+      "id": "getonboard-desarrollador-full-stack-senior-factor-it-bogota",
+      "source": "Get on Board",
+      "source_trust": "official_public_api",
+      "external_id": "desarrollador-full-stack-senior-factor-it-bogota",
+      "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-senior-factor-it-bogota",
+      "title": "Desarrollador Full-Stack Senior",
+      "company": "Factor IT",
+      "location": "Colombia",
+      "remote": false,
+      "workplace": "onsite-or-hybrid",
+      "employment_type": "[object_object]",
+      "published_at": "2026-09-21T22:36:03.000Z",
+      "salary": "",
+      "tags": [
+        "programming"
+      ],
+      "description": "Buscamos una persona con: Comunicación asertiva. Orientación al cliente. Capacidad de negociación. Trabajo en equipo. Liderazgo técnico. Planificación y organización. Pensamiento analítico. Innovación. Capacidad de aprendizaje. Orientación a la calidad y mejora continua. Experiencia Mínimo 5 años de experiencia profesional, idealmente entre 4 y 6 años o más en desarrollo Full Stack, participando en proyectos productivos y con experiencia en liderazgo técnico o coordinación de equipos. Idioma Inglés B1–B2, con capacidad para comprender documentación técnica y desenvolverse en contextos profesionales.",
+      "base_score": 15,
+      "keyword_main_score": 1,
+      "keyword_side_score": -5,
+      "main_eligible_now": false,
+      "side_eligible": false,
+      "relocation_watch": false,
+      "access": "nonlocal-onsite",
+      "matched_keywords": [
+        "full stack",
+        "full-stack"
+      ],
+      "main_signals": [],
+      "side_signals": [],
+      "negative_hits": 0,
+      "main_score": 64,
+      "side_score": 64,
+      "potential": {
+        "current_fit": 100,
+        "transferability": 35,
+        "gap_cost": "low",
+        "gap_cost_score": 100,
+        "evidence_confidence": "medium",
+        "evidence_confidence_score": 68,
+        "career_potential": 90,
+        "relocation_value": 30,
+        "compensation_fit": 50,
+        "workstyle_fit": 82,
+        "commute_burden": 72,
+        "role_families": [
+          "full_stack"
+        ],
+        "reasons": [
+          "+ evidencia directa: Full-stack product engineering (full stack)",
+          "+ evidencia directa: Full-stack product engineering (full-stack)",
+          "+ evidencia directa: Automation and developer tooling (cli)",
+          "familias: full_stack",
+          "+ feedback family full_stack +0.3",
+          "+ feedback keyword full-stack +0.2"
+        ],
+        "gaps": [],
+        "main_rank": 63,
+        "side_rank": 63,
+        "main_eligible": false,
+        "side_eligible": false,
+        "relocation_watch": false,
+        "retain": true,
+        "feedback_rank_bonus": 0.5
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "low",
+        "signals": [
+          "listing_on_official_board"
+        ],
+        "warnings": []
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-09-26T05:08:33.361Z",
+        "history": []
+      },
+      "first_seen": "2026-09-25T17:15:55.324Z",
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-desarrollador-fullstack-java-angular-improving-remote",
@@ -8044,11 +8428,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-staff-backend-engineer-dugu-remote",
@@ -8149,100 +8533,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
-    },
-    {
-      "id": "getonboard-desarrollador-full-stack-senior-factor-it-bogota",
-      "source": "Get on Board",
-      "source_trust": "official_public_api",
-      "external_id": "desarrollador-full-stack-senior-factor-it-bogota",
-      "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-senior-factor-it-bogota",
-      "title": "Desarrollador Full-Stack Senior",
-      "company": "Factor IT",
-      "location": "Colombia",
-      "remote": false,
-      "workplace": "onsite-or-hybrid",
-      "employment_type": "[object_object]",
-      "published_at": "2026-09-21T22:36:03.000Z",
-      "salary": "",
-      "tags": [
-        "programming"
-      ],
-      "description": "Buscamos una persona con: Comunicación asertiva. Orientación al cliente. Capacidad de negociación. Trabajo en equipo. Liderazgo técnico. Planificación y organización. Pensamiento analítico. Innovación. Capacidad de aprendizaje. Orientación a la calidad y mejora continua. Experiencia Mínimo 5 años de experiencia profesional, idealmente entre 4 y 6 años o más en desarrollo Full Stack, participando en proyectos productivos y con experiencia en liderazgo técnico o coordinación de equipos. Idioma Inglés B1–B2, con capacidad para comprender documentación técnica y desenvolverse en contextos profesionales.",
-      "base_score": 15,
-      "keyword_main_score": 1,
-      "keyword_side_score": -5,
-      "main_eligible_now": false,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "nonlocal-onsite",
-      "matched_keywords": [
-        "full stack",
-        "full-stack"
-      ],
-      "main_signals": [],
-      "side_signals": [],
-      "negative_hits": 0,
-      "main_score": 64,
-      "side_score": 64,
-      "potential": {
-        "current_fit": 100,
-        "transferability": 35,
-        "gap_cost": "low",
-        "gap_cost_score": 100,
-        "evidence_confidence": "medium",
-        "evidence_confidence_score": 68,
-        "career_potential": 90,
-        "relocation_value": 30,
-        "compensation_fit": 50,
-        "workstyle_fit": 82,
-        "commute_burden": 72,
-        "role_families": [
-          "full_stack"
-        ],
-        "reasons": [
-          "+ evidencia directa: Full-stack product engineering (full stack)",
-          "+ evidencia directa: Full-stack product engineering (full-stack)",
-          "+ evidencia directa: Automation and developer tooling (cli)",
-          "familias: full_stack",
-          "+ feedback family full_stack +0.3",
-          "+ feedback keyword full-stack +0.2"
-        ],
-        "gaps": [],
-        "main_rank": 63,
-        "side_rank": 63,
-        "main_eligible": false,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true,
-        "feedback_rank_bonus": 0.5
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
-        "history": []
-      },
-      "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-desarrollador-fullstack-react-spring-boot-oracle-db-sonda-santiago",
@@ -8333,11 +8628,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-outsystems-solution-architect-i2b-technologies-remote-c9f1",
@@ -8423,11 +8718,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-programador-fullstack-contabilidad-c-d-agromanagement-remote",
@@ -8512,11 +8807,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-fullstack-developer-java-angular-improving-remote",
@@ -8618,11 +8913,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-desarrollador-a-full-stack-semi-senior-senior-timining-remote",
@@ -8721,11 +9016,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-product-builder-comunidadfeliz-remote",
@@ -8824,11 +9119,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-senior-deployed-ai-engineer-anthropic-artefact-us-remote",
@@ -8940,11 +9235,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-senior-deployed-ai-engineer-openai-artefact-us-remote",
@@ -9052,11 +9347,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-senior-ai-agentic-engineer-artefact-us-remote",
@@ -9167,11 +9462,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137162",
@@ -9192,7 +9487,7 @@
         "golang",
         "engineer"
       ],
-      "description": "Remote - About AIWIAIWI is an independent non-profit that exists to ensure that insiders at frontier AI companies can speak up safely and effectively when they see something that should be addressed. We do this by integrating the ecosystem of lawyers, AI researchers, AI advoc... Please mention the word **EARNESTNESS** and tag RNC4yNDIuMTk3LjMy when applying to show you read the job post completely (#RNC4yNDIuMTk3LjMy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - About AIWIAIWI is an independent non-profit that exists to ensure that insiders at frontier AI companies can speak up safely and effectively when they see something that should be addressed. We do this by integrating the ecosystem of lawyers, AI researchers, AI advoc... Please mention the word **EARNESTNESS** and tag RMTcyLjIwMy4yNTQuMjA5 when applying to show you read the job post completely (#RMTcyLjIwMy4yNTQuMjA5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "base_score": -8,
       "keyword_main_score": -7,
       "keyword_side_score": -8,
@@ -9247,11 +9542,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137136",
@@ -9327,11 +9622,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1136949",
@@ -9423,11 +9718,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1136701",
@@ -9451,7 +9746,7 @@
         "quality assurance",
         "digital nomad"
       ],
-      "description": "Looking to start or restart your career in Software Quality Assurance?Ace IT Careers is reviewing candidates for QA Tester and QA Analyst opportunities with employers and staffing partners across the United States.This opportunity may be suitable for r... Please mention the word **SMOOTHES** and tag RNC4yNDIuMTk3LjMy when applying to show you read the job post completely (#RNC4yNDIuMTk3LjMy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Looking to start or restart your career in Software Quality Assurance?Ace IT Careers is reviewing candidates for QA Tester and QA Analyst opportunities with employers and staffing partners across the United States.This opportunity may be suitable for r... Please mention the word **SMOOTHES** and tag RMTcyLjIwMy4yNTQuMjA5 when applying to show you read the job post completely (#RMTcyLjIwMy4yNTQuMjA5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "base_score": 0,
       "keyword_main_score": 1,
       "keyword_side_score": 0,
@@ -9507,11 +9802,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1135789",
@@ -9605,11 +9900,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149574",
@@ -9691,11 +9986,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149570",
@@ -9776,11 +10071,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149530",
@@ -9863,11 +10158,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149533",
@@ -9944,11 +10239,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149537",
@@ -10028,11 +10323,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149538",
@@ -10119,11 +10414,100 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
+    },
+    {
+      "id": "arbeitnow-remote-senior-advisor-project-excellence-ai-berlin-335684",
+      "source": "Arbeitnow",
+      "source_trust": "official_public_api",
+      "external_id": "remote-senior-advisor-project-excellence-ai-berlin-335684",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-advisor-project-excellence-ai-berlin-335684",
+      "title": "Senior Advisor Project Excellence & AI (m/w/d)",
+      "company": "Natuvion GmbH",
+      "location": "Remote job",
+      "remote": true,
+      "workplace": "remote",
+      "employment_type": "experienced",
+      "published_at": "2026-09-25T23:30:16.000Z",
+      "salary": "",
+      "tags": [
+        "Staffing Office",
+        "Remote"
+      ],
+      "description": "Du entwickelst und optimierst unser unternehmensweites Delivery- und Projekt-Operating-Model für die erfolgreiche Umsetzung unserer Beratungsprojekte, definierst Standards und Governance-Strukturen und treibst die Integration moderner KI-Lösungen zur Automatisierung und Standardisierung von Projekt- und Beratungsprozessen voran. Deine Aufgaben Entwicklung und kontinuierliche Optimierung eines unternehmensweiten S/4HANA Delivery- und Projektvorgehensmodells für unser Beratungsgeschäft Steuerung globaler Standardisierungsinitiativen sowie Einführung von Governance-, Qualitäts- und Quality-Gate-Konzepten Aufbau und Weiterentwicklung standardisierter Templates, Methoden, Projekt-Accelerators sowie eines zentralen Wissensmanagements mit Best Practices und Lessons Learned Definition und Etablierung von Reporting-, Risiko- und Eskalationsprozessen zur nachhaltigen Steuerung des Projektportfolios Identifikation, Bewertung und Implementierung KI-gestützter Lösungen zur Automatisierung, Standardisierung und Effizienzsteigerung von Projekt- und Beratungsprozessen Durchführung von Projekt-Health-Checks und Qualitätsreviews sowie Ableitung und Umsetzung von Maßnahmen zur kontinuierlichen Verbesserung der Delivery Excellence Dein Profil Abgeschlossenes Studium der Wirtschaftsinformatik, Informatik, Betriebswirtschaftslehre oder eine vergleichbare Qualifikation Mehrjährige Erfahrung im PMO, Projektmanagement, IT-Consulting oder einem vergleichbaren Projektumfeld Erfahrung in der Entwicklung, Einführung oder Weiterentwicklung von Governance-, Delivery- oder Operating-Modellen Fundierte Ken",
+      "base_score": 6,
+      "keyword_main_score": -4,
+      "keyword_side_score": -10,
+      "main_eligible_now": false,
+      "side_eligible": false,
+      "relocation_watch": false,
+      "access": "restricted-remote",
+      "matched_keywords": [
+        "integration"
+      ],
+      "main_signals": [],
+      "side_signals": [
+        "project"
+      ],
+      "negative_hits": 0,
+      "main_score": 63,
+      "side_score": 59,
+      "potential": {
+        "current_fit": 72,
+        "transferability": 63,
+        "gap_cost": "low",
+        "gap_cost_score": 100,
+        "evidence_confidence": "medium",
+        "evidence_confidence_score": 62,
+        "career_potential": 74,
+        "relocation_value": 30,
+        "compensation_fit": 50,
+        "workstyle_fit": 82,
+        "commute_burden": 40,
+        "role_families": [
+          "devops",
+          "sap"
+        ],
+        "reasons": [
+          "+ evidencia directa: API integrations (integration)",
+          "+ evidencia directa: Applied AI integration (ai)",
+          "+ transferible: DevOps transition base → sre",
+          "familias: devops, sap"
+        ],
+        "gaps": [],
+        "main_rank": 63,
+        "side_rank": 59,
+        "main_eligible": false,
+        "side_eligible": false,
+        "relocation_watch": false,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "low",
+        "signals": [
+          "listing_on_official_board"
+        ],
+        "warnings": []
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-09-26T05:08:33.361Z",
+        "history": []
+      },
+      "first_seen": "2026-09-26T05:08:33.361Z",
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-desarrollador-full-stack-lisit-santiago-f0dd",
@@ -10222,11 +10606,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-senior-agentic-ai-engineer-bc-tecnologia-remote",
@@ -10330,11 +10714,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-backend-ai-engineer-python-llm-orchestration-improving-remote",
@@ -10438,11 +10822,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137391",
@@ -10534,11 +10918,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1135788",
@@ -10622,11 +11006,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149521",
@@ -10708,11 +11092,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149557",
@@ -10805,11 +11189,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149569",
@@ -10898,11 +11282,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149560",
@@ -10996,11 +11380,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149529",
@@ -11079,11 +11463,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149525",
@@ -11162,11 +11546,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149543",
@@ -11245,11 +11629,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149573",
@@ -11338,11 +11722,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "arbeitnow-remote-lead-security-engineer-berlin-30087",
@@ -11426,11 +11810,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T20:03:09.612Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-ai-backend-engineer-improving-remote",
@@ -11532,11 +11916,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-fullstack-c-net-react-freelance-4-meses-remoto-continuum-remote",
@@ -11651,11 +12035,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-software-engineer-ii-dugu-remote",
@@ -11756,11 +12140,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-senior-ai-engineer-niuro-remote-42c5",
@@ -11860,11 +12244,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137396",
@@ -11960,11 +12344,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137394",
@@ -12060,11 +12444,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137378",
@@ -12147,11 +12531,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1136217",
@@ -12253,11 +12637,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149567",
@@ -12340,11 +12724,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149547",
@@ -12436,11 +12820,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-desarrollador-full-stack-uno-afp-santiago",
@@ -12541,11 +12925,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-full-stack-engineer-dynamic-devs-santiago-ace2",
@@ -12664,11 +13048,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-senior-ai-engineer-niuro-remote-803e",
@@ -12776,11 +13160,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137418",
@@ -12878,11 +13262,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137386",
@@ -12977,11 +13361,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1136592",
@@ -13083,98 +13467,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
-    },
-    {
-      "id": "jobicy-149552",
-      "source": "Jobicy",
-      "source_trust": "official_public_api",
-      "external_id": "149552",
-      "url": "https://jobicy.com/jobs/149552-software-engineer-app-stores",
-      "apply_url": "https://jobicy.com/jobs/149552-software-engineer-app-stores",
-      "title": "Software Engineer - App Stores",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "remote": true,
-      "workplace": "remote",
-      "employment_type": "full_time",
-      "published_at": "2026-09-23T03:45:07.000Z",
-      "salary": "",
-      "tags": [
-        "Software Engineering",
-        "Any"
-      ],
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. This is an exciting opportunity for an exceptional software engineer passionate about open source software, Linux, and Web Services at scale. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, a growing international software company. Canonical's Store team develops and operates a large system of backend services that power the Snap Store and Charmhub.io marketplaces. Our services are built primarily in Python, with a bit of Golang. We have some exciting challenges ahead including continuing to scale our production architecture, significantly expanding the range of software we can deliver through the system powering our marketplaces, and enhancing our offering for the booming world of IoT and for large Enterprise solutions. If you have a passion for clean APIs, have a bias towards shipping, and believe that automated",
-      "base_score": 4,
-      "keyword_main_score": 11,
-      "keyword_side_score": 7,
-      "main_eligible_now": true,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [
-        "api"
-      ],
-      "main_signals": [],
-      "side_signals": [],
-      "negative_hits": 0,
-      "main_score": 61,
-      "side_score": 56,
-      "potential": {
-        "current_fit": 84,
-        "transferability": 44,
-        "gap_cost": "low",
-        "gap_cost_score": 100,
-        "evidence_confidence": "medium",
-        "evidence_confidence_score": 61,
-        "career_potential": 45,
-        "relocation_value": 30,
-        "compensation_fit": 50,
-        "workstyle_fit": 82,
-        "commute_burden": 5,
-        "role_families": [],
-        "reasons": [
-          "+ evidencia directa: API integrations (api)",
-          "+ evidencia directa: API integrations (rest)",
-          "+ evidencia directa: Applied AI integration (ai)",
-          "+ evidencia directa: Automation and developer tooling (build)",
-          "+ evidencia directa: Python backend (python)",
-          "+ transferible: Data analytics engineering → bi"
-        ],
-        "gaps": [],
-        "main_rank": 61,
-        "side_rank": 56,
-        "main_eligible": true,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
-        "history": []
-      },
-      "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remotive-2091140",
@@ -13256,11 +13553,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:03:43.279Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "arbeitnow-remote-senior-clinical-scientist-immunology-europe-217428",
@@ -13338,11 +13635,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T20:03:09.612Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-front-end-developer-react-next-js-seo-bc-tecnologia-buenos-aires",
@@ -13442,11 +13739,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-desarrollador-fullstack-sonda-santiago-333d",
@@ -13552,11 +13849,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-full-stack-ia-engineer-semi-senior-3it-santiago",
@@ -13667,11 +13964,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-revops-gtm-systems-lead-allied-revenue-remote",
@@ -13783,11 +14080,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137398",
@@ -13873,11 +14170,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1136987",
@@ -13902,7 +14199,7 @@
         "golang",
         "engineer"
       ],
-      "description": "Harbor is seeking an Implementation Engineer to join our Enterprise Solutions practice. The Implementation Engineer ensures client satisfaction through successful installation of Intapp solutions that will improve the clientâs business efficiency and functionality. The Engineer applies advanced knowledge and experience to ensure client satisfaction by participating in complex projects and takes an active role, modeling best practices as an expert in the field. This is a remote position that can be located anywhere in the US or Canada. Responsibilities: - Assesses client needs and installs and implements industry-standard legal/accounting/consulting systems, integrations, and enterprise solutions - Provides leadership to all members of the team - Has advanced expertise with deployment methodologies - Acts as the escalation point for complex situations and creates effective solutions - Highly proficient with products and features - Acts as go-to for go-live off-hours help for internal resources or general technical hurdles - Performs upgrades to production systems as needed Please mention the word **AFFIRMATIVE** and tag RNC4yNDIuMTk3LjMy when applying to show you read the job post completely (#RNC4yNDIuMTk3LjMy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Harbor is seeking an Implementation Engineer to join our Enterprise Solutions practice. The Implementation Engineer ensures client satisfaction through successful installation of Intapp solutions that will improve the clientâs business efficiency and functionality. The Engineer applies advanced knowledge and experience to ensure client satisfaction by participating in complex projects and takes an active role, modeling best practices as an expert in the field. This is a remote position that can be located anywhere in the US or Canada. Responsibilities: - Assesses client needs and installs and implements industry-standard legal/accounting/consulting systems, integrations, and enterprise solutions - Provides leadership to all members of the team - Has advanced expertise with deployment methodologies - Acts as the escalation point for complex situations and creates effective solutions - Highly proficient with products and features - Acts as go-to for go-live off-hours help for internal resources or general technical hurdles - Performs upgrades to production systems as needed Please mention the word **AFFIRMATIVE** and tag RMTcyLjIwMy4yNTQuMjA5 when applying to show you read the job post completely (#RMTcyLjIwMy4yNTQuMjA5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "base_score": 16,
       "keyword_main_score": 25,
       "keyword_side_score": 18,
@@ -13966,11 +14263,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remotive-1185979",
@@ -14051,11 +14348,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:03:43.279Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-senior-ai-engineer-capital-express-santiago",
@@ -14160,11 +14457,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137411",
@@ -14286,11 +14583,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137307",
@@ -14388,11 +14685,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1136222",
@@ -14508,11 +14805,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remotive-2091139",
@@ -14591,11 +14888,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:03:43.279Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-desarrollador-full-stack-asesoria-y-gestion-de-procesos-s-a-santiago-ce3c",
@@ -14707,11 +15004,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T20:03:09.612Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-engineering-manager-senior-factor-it-remote",
@@ -14796,11 +15093,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-desarrollador-fullstack-django-next-js-expressdent-santiago",
@@ -14897,11 +15194,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-react-front-end-engineer-senior-prontopaga-santiago",
@@ -14984,11 +15281,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-react-front-end-engineer-prontopaga-santiago",
@@ -15071,11 +15368,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-data-scientist-ia-engineer-lisit-santiago",
@@ -15164,11 +15461,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:15:55.324Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remotive-2091141",
@@ -15247,11 +15544,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:03:43.279Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137169",
@@ -15350,11 +15647,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1136948",
@@ -15382,7 +15679,7 @@
         "medical",
         "digital nomad"
       ],
-      "description": "About Dreem Health, by Sunrise Dreem Health is Americaâs leading digital sleep clinic. Powered by Sunriseâs technology, Dreem Health makes sleep care simple â replacing long waits and in-lab sleep studies with home-based testing, expert telehealth visits, and personalized treatment plans that are easy for patients to follow. Weâre fixing the broken sleep care journey and helping more people get the care they need â from home, on their schedule. Your Opportunity The Workplace Technology & AI Automation Specialist owns the digital backbone of the employee experience at Sunrise/Dreem Health: IT provisioning and support, user access management, and the design and delivery of AI-powered automations across non-clinical teams. This role exists because we are a remote-first, fast-scaling organization where tooling, access, and AI capability are expanding faster than our processes can absorb. The role has two halves that share one purpose â removing friction so people can do their best work. - The first half is operational: provisioning hardware and accounts, managing access and permissions, and being the first line of support when something breaks. - The second half is developmental: identifying repetitive, low-human-value transactional work across non-clinical teams (Operations, G&A, Product, Sales & Marketing) and building the AI-powered solutions â agentic workflows, automations, integrations â that eliminate or streamline it. This is a foundational hire for the function. The person in this role Please mention the word **LIBERATE** and tag RNC4yNDIuMTk3LjMy when ",
+      "description": "About Dreem Health, by Sunrise Dreem Health is Americaâs leading digital sleep clinic. Powered by Sunriseâs technology, Dreem Health makes sleep care simple â replacing long waits and in-lab sleep studies with home-based testing, expert telehealth visits, and personalized treatment plans that are easy for patients to follow. Weâre fixing the broken sleep care journey and helping more people get the care they need â from home, on their schedule. Your Opportunity The Workplace Technology & AI Automation Specialist owns the digital backbone of the employee experience at Sunrise/Dreem Health: IT provisioning and support, user access management, and the design and delivery of AI-powered automations across non-clinical teams. This role exists because we are a remote-first, fast-scaling organization where tooling, access, and AI capability are expanding faster than our processes can absorb. The role has two halves that share one purpose â removing friction so people can do their best work. - The first half is operational: provisioning hardware and accounts, managing access and permissions, and being the first line of support when something breaks. - The second half is developmental: identifying repetitive, low-human-value transactional work across non-clinical teams (Operations, G&A, Product, Sales & Marketing) and building the AI-powered solutions â agentic workflows, automations, integrations â that eliminate or streamline it. This is a foundational hire for the function. The person in this role Please mention the word **LIBERATE** and tag RMTcyLjIwMy4yNTQuMjA5 w",
       "base_score": 25,
       "keyword_main_score": 15,
       "keyword_side_score": 5,
@@ -15449,11 +15746,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1136566",
@@ -15544,11 +15841,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149556",
@@ -15641,11 +15938,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149545",
@@ -15731,11 +16028,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "getonboard-salesforce-crm-admin-crest-it-resources-llc-remote",
@@ -15827,11 +16124,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:05:14.871Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149531",
@@ -15920,11 +16217,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "jobicy-149548",
@@ -16013,11 +16310,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1136213",
@@ -16143,11 +16440,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1136778",
@@ -16253,11 +16550,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remotive-1749306",
@@ -16344,11 +16641,96 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:03:43.279Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
+    },
+    {
+      "id": "arbeitnow-remote-sap-finance-fi-co-migration-architect-berlin-58106",
+      "source": "Arbeitnow",
+      "source_trust": "official_public_api",
+      "external_id": "remote-sap-finance-fi-co-migration-architect-berlin-58106",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-sap-finance-fi-co-migration-architect-berlin-58106",
+      "title": "SAP Finance (FI/CO) Migration Architect (m/w/d)",
+      "company": "Natuvion GmbH",
+      "location": "Remote job",
+      "remote": true,
+      "workplace": "remote",
+      "employment_type": "experienced",
+      "published_at": "2026-09-25T23:30:16.000Z",
+      "salary": "",
+      "tags": [
+        "Technical Migration",
+        "Remote"
+      ],
+      "description": "Möchtest du die Zukunft unserer Kunden aktiv mitgestalten und dabei sowohl fachlich als auch technisch Verantwortung übernehmen? Dann bist du bei uns genau richtig! Wir suchen einen Migration Architect SAP FI/CO (m/w/d) der unsere nationalen und internationalen Kunden in anspruchsvollen Transformations- und Datenmigrationsprojekten begleitet. Dich erwartet ein dynamisches Team, abwechslungsreiche Projekte und maximaler Gestaltungsspielraum. Deine Aufgaben: Eigenverantwortliche Umsetzung von SAP Transformations und Datenmigrationsprojekten im SAP Finance Umfeld – von der Analyse über die Konzeption bis zur technischen Realisierung im SAP-System . Erstellung und Umsetzung technischer Migrations und Transformationskonzepte , inkl. Validierung der Migrationsergebnisse sowie Optimierung in Test und Produktivsystemen. Standardisierung und Rollout von SAP FinanceServices wie New G/L, S/4HANA Finance Conversion, Geschäftsjahresumstellungen sowie Währungsmodifikationen/-einführungen. Fachliche (technische) Leitung von Teilprojekten und Projektteams in SAP Finance und S/4HANA Projekten und S/4HANAProjekten. Organisation und Durchführung von technisch geprägten Workshops, Schulungen und Meetings – auch in internationalen Projektkontexten. Technische Beratung unserer Kunden zu SAP FI/CO sowie Unterstützung bei PresalesAktivitäten mit Fokus auf SAPFinance und Transformationsthemen. Dein Profil: Fundierte Grundlagen der (Wirtschafts-)Informatik – ein abgeschlossenes Studium oder eine vergleichbare Ausbildung ist gern gesehen, ein technischanalytischer Hintergrund ist entscheidend. Mehrjä",
+      "base_score": 0,
+      "keyword_main_score": -10,
+      "keyword_side_score": -20,
+      "main_eligible_now": false,
+      "side_eligible": false,
+      "relocation_watch": false,
+      "access": "restricted-remote",
+      "matched_keywords": [],
+      "main_signals": [],
+      "side_signals": [],
+      "negative_hits": 0,
+      "main_score": 52,
+      "side_score": 47,
+      "potential": {
+        "current_fit": 0,
+        "transferability": 100,
+        "gap_cost": "low",
+        "gap_cost_score": 100,
+        "evidence_confidence": "low",
+        "evidence_confidence_score": 45,
+        "career_potential": 74,
+        "relocation_value": 30,
+        "compensation_fit": 50,
+        "workstyle_fit": 82,
+        "commute_burden": 40,
+        "role_families": [
+          "devops",
+          "sap"
+        ],
+        "reasons": [
+          "+ transferible: DevOps transition base → sre",
+          "+ transferible: SAP technical transition → sap",
+          "+ transferible: Data analytics engineering → bi",
+          "familias: devops, sap"
+        ],
+        "gaps": [],
+        "main_rank": 52,
+        "side_rank": 47,
+        "main_eligible": false,
+        "side_eligible": false,
+        "relocation_watch": false,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "low",
+        "signals": [
+          "listing_on_official_board"
+        ],
+        "warnings": []
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-09-26T05:08:33.361Z",
+        "history": []
+      },
+      "first_seen": "2026-09-26T05:08:33.361Z",
+      "last_seen": "2026-09-26T05:08:33.361Z"
     },
     {
       "id": "remoteok-1137415",
@@ -16369,7 +16751,7 @@
         "data annotation",
         "c"
       ],
-      "description": "Gana dinero grabando actividades de tu vida diaria Buscamos personas para grabar actividades cotidianas desde una perspectiva en primera persona utilizando una aplicaciÃ³n mÃ³vil. Puedes grabar tareas que ya realizas normalmente, como: â¢ Cocinar â¢ Limpiar â¢ Doblar ropa â¢ Ordenar espacios â¢ Hacer jardinerÃ­a â¢ Pasear al perro Los videos ayudan a entrenar sistemas de IA y robÃ³tica para comprender cÃ³mo las personas interactÃºan con el mundo real. Lo que ofrecemos: â¢ Horarios flexibles â¢ Trabajo remoto por proyecto â¢ USD $6 por hora de contenido aprobado â¢ Bono adicional por la primera hora aprobada Requisitos: â¢ iPhone 12 o superior, Google Pixel 6+ o Samsung Galaxy S21+ o superior â¢ Acceso a internet â¢ Nivel bÃ¡sico de inglÃ©s para registrarte y utilizar la plataforma No se requiere experiencia previa. Please mention the word **PROSPERITY** and tag RNC4yNDIuMTk3LjMy when applying to show you read the job post completely (#RNC4yNDIuMTk3LjMy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Gana dinero grabando actividades de tu vida diaria Buscamos personas para grabar actividades cotidianas desde una perspectiva en primera persona utilizando una aplicaciÃ³n mÃ³vil. Puedes grabar tareas que ya realizas normalmente, como: â¢ Cocinar â¢ Limpiar â¢ Doblar ropa â¢ Ordenar espacios â¢ Hacer jardinerÃ­a â¢ Pasear al perro Los videos ayudan a entrenar sistemas de IA y robÃ³tica para comprender cÃ³mo las personas interactÃºan con el mundo real. Lo que ofrecemos: â¢ Horarios flexibles â¢ Trabajo remoto por proyecto â¢ USD $6 por hora de contenido aprobado â¢ Bono adicional por la primera hora aprobada Requisitos: â¢ iPhone 12 o superior, Google Pixel 6+ o Samsung Galaxy S21+ o superior â¢ Acceso a internet â¢ Nivel bÃ¡sico de inglÃ©s para registrarte y utilizar la plataforma No se requiere experiencia previa. Please mention the word **PROSPERITY** and tag RMTcyLjIwMy4yNTQuMjA5 when applying to show you read the job post completely (#RMTcyLjIwMy4yNTQuMjA5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "base_score": 0,
       "keyword_main_score": 1,
       "keyword_side_score": 12,
@@ -16424,11 +16806,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-09-25T20:03:09.612Z",
+        "updated_at": "2026-09-26T05:08:33.361Z",
         "history": []
       },
       "first_seen": "2026-09-25T17:20:42.282Z",
-      "last_seen": "2026-09-25T20:03:09.612Z"
+      "last_seen": "2026-09-26T05:08:33.361Z"
     }
   ]
 }
