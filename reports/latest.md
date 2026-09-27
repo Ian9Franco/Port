@@ -1,10 +1,10 @@
 # Port — Opportunity Radar
 
-Generado: 2026-09-26T19:15:23.941Z
+Generado: 2026-09-27T05:26:22.912Z
 
 Modo de aplicación: **manual**. Port busca, filtra y prepara; Ian decide y aplica.
 
-Fuentes: Remotive (18), Arbeitnow (43), Get on Board (295), RemoteOK (99), Jobicy (60)
+Fuentes: Remotive (18), Arbeitnow (73), Get on Board (295), RemoteOK (99), Jobicy (60)
 
 ## MAIN — Top picks
 
@@ -30,12 +30,11 @@ Ingreso secundario: freelance, contrato, proyecto o part-time; **remoto obligato
 
 - [Senior QA Engineer](https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100) — Lemon.io · Europe · MAIN 73
 - [Surveyor I](https://remoteOK.com/remote-jobs/remote-surveyor-i-american-bureau-of-shipping-abs-1136592) — American Bureau of Shipping (ABS) · Port of Spain,  · MAIN 61
-- [Senior Clinical Scientist Immunology](https://www.arbeitnow.fr/jobs/companies/excelya/remote-senior-clinical-scientist-immunology-europe-217428) — Excelya · Europe, France · MAIN 60
 - [🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland)](https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139) — hey contact heroes GmbH · Europe · MAIN 58
 
 ## Cobertura
 
-- Universo curado guardado: **185** oportunidades.
+- Universo curado guardado: **207** oportunidades.
 - Top picks: máximo **3 MAIN** + **3 SIDE** por corrida.
 - Nada del universo curado se descarta silenciosamente: ver reports/all-candidates.md.
 - Para adaptar el CV sin inventar experiencia: ver reports/application-prep.md.
