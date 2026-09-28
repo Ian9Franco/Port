@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-09-27T19:47:42.028Z
+Generado: 2026-09-28T05:33:50.627Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -85,7 +85,6 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 64 | 100 | 45 | low | 59 | [Tier III Service Desk Engineer](https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045) | Unio Digital | Remotive | new |
 | 64 | 74 | 82 | unknown | 56 | [Data & Operations Specialist](https://www.arbeitnow.ch/jobs/companies/anyone-ai/remote-data-operations-specialist-358431) | Anyone Ai | Arbeitnow | new |
 | 64 | 100 | 65 | low | 61 | [Senior Oracle Data Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-75190) | virtual7 GmbH | Arbeitnow | new |
-| 64 | 100 | 45 | low | 58 | [Senior Infrastructure Solutions Engineer](https://www.arbeitnow.com/jobs/companies/planetlabs/remote-senior-infrastructure-solutions-engineer-59844) | planetlabs | Arbeitnow | new |
 | 64 | 86 | 90 | low | 63 | [Desarrollador Full-Stack (Híbrido)](https://www.getonbrd.com/jobs/desarrollador-full-stack-hibrido-agilesoft-spa-santiago-d50c) | Agilesoft SpA | Get on Board | new |
 | 64 | 89 | 90 | low | 60 | [Senior Full-Stack Engineer](https://www.getonbrd.com/jobs/senior-full-stack-engineer-we-built-it-remote) | We Built It | Get on Board | new |
 | 63 | 100 | 90 | low | 64 | [Desarrollador/a Drupal Full-Stack](https://www.getonbrd.com/jobs/desarrollador-a-drupal-full-stack-bc-tecnologia-lima) | BC Tecnología | Get on Board | new |
@@ -110,7 +109,6 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 64 | 100 | 45 | low | 59 | [Ubuntu Linux Kernel Engineer - Silicon Enablement](https://jobicy.com/jobs/149533-ubuntu-linux-kernel-engineer-silicon-enablement) | Canonical | Jobicy | new |
 | 64 | 100 | 45 | low | 59 | [Ubuntu Engineering Lead](https://jobicy.com/jobs/149537-ubuntu-engineering-lead) | Canonical | Jobicy | new |
 | 64 | 100 | 45 | low | 58 | [Golang Engineer](https://jobicy.com/jobs/149538-golang-engineer-2) | Canonical | Jobicy | new |
-| 63 | 87 | 65 | unknown | 60 | [Senior Data Engineer](https://www.arbeitnow.ch/jobs/companies/futurae/remote-senior-data-engineer-zurich-267061) | Futurae | Arbeitnow | new |
 | 63 | 100 | 90 | low | 63 | [Desarrollador Full-Stack](https://www.getonbrd.com/jobs/desarrollador-full-stack-lisit-santiago-f0dd) | Lisit | Get on Board | new |
 | 63 | 87 | 82 | low | 59 | [Senior Agentic AI Engineer](https://www.getonbrd.com/jobs/senior-agentic-ai-engineer-bc-tecnologia-remote) | BC Tecnología | Get on Board | new |
 | 63 | 82 | 82 | low | 59 | [Back-end AI Engineer Python / LLM Orchestration](https://www.getonbrd.com/jobs/backend-ai-engineer-python-llm-orchestration-improving-remote) | Improving | Get on Board | new |
@@ -171,5 +169,6 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 52 | 86 | 45 | low | 53 | [Freelance Designer](https://remoteOK.com/remote-jobs/remote-freelance-designer-control-shift-video-1136213) | Control Shift Video | RemoteOK | new |
 | 53 | 82 | 45 | low | 53 | [Operations Engineer II](https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778) | AWeber | RemoteOK | new |
 | 52 | 50 | 45 | low | 48 | [Freelance Copywriter](https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306) | Coalition Technologies  | Remotive | new |
+| 50 | 51 | 45 | unknown | 47 | [Head of Demand Generation (Remote, United Kingdom)](https://www.arbeitnow.ch/jobs/companies/easygenerator/head-of-demand-generation-remote-united-kingdom-48323) | Easygenerator | Arbeitnow | new |
 | 50 | 26 | 65 | low | 48 | [Senior Data Engineer & Consultant (all genders) – Microsoft Fabric](https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-191205) | teccle group GmbH | Arbeitnow | new |
 | 34 | 0 | 45 | low | 33 | [Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA](https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-mindrift-data-annotation-1137415) | Mindrift - Data annotation | RemoteOK | new |
