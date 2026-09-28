@@ -1,26 +1,10 @@
 # Port — Application prep
 
-Generado: 2026-09-28T05:33:50.627Z
+Generado: 2026-09-28T16:49:01.571Z
 
 Borradores de preparación para los Top Picks. No aplica automáticamente y no agrega experiencia que no esté respaldada por el perfil.
 
 ## MAIN
-
-### Senior React Full-stack Developer — Lemon.io
-
-- Oferta: https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091101
-- Fuente: Remotive · SOURCE TRUST: official_public_api
-- COMPANY TRUST: medium · LISTING RISK: **low**
-- Señales trust: ninguna
-- Modalidad: remote · LATAM, Europe, USA, Canada, APAC
-- Tipo detectado: full_time
-- Current Fit: **100** · Transferability: **35** · Gap Cost: **low**
-- Career Potential: **90** · Evidence: **medium**
-- Enfatizar en CV/intro: node.js, react, next.js, full-stack, ai, cli
-- Verificar antes de afirmar: sin gaps obvios detectados por palabras clave
-- Por qué apareció: + evidencia directa: TypeScript (node.js); + evidencia directa: React (react); + evidencia directa: React (next.js); + evidencia directa: Full-stack product engineering (full-stack)
-- Gaps: ninguno destacado
-- Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 
 ### Web Frontend Engineer - JS, CSS, React, Flutter — Canonical
 
@@ -51,6 +35,22 @@ Borradores de preparación para los Top Picks. No aplica automáticamente y no a
 - Enfatizar en CV/intro: ai, llm, openai, ai engineer, automation, cli, python
 - Verificar antes de afirmar: sin gaps obvios detectados por palabras clave
 - Por qué apareció: + evidencia directa: Applied AI integration (ai); + evidencia directa: Applied AI integration (llm); + evidencia directa: Applied AI integration (openai); + evidencia directa: Applied AI integration (ai engineer)
+- Gaps: ninguno destacado
+- Regla: no inventar años, tecnologías ni resultados que no estén documentados.
+
+### Senior Backend Engineer Build AI Agents — Salesforge
+
+- Oferta: https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114
+- Fuente: RemoteOK · SOURCE TRUST: official_public_api
+- COMPANY TRUST: medium · LISTING RISK: **low**
+- Señales trust: ninguna
+- Modalidad: remote · Remote
+- Tipo detectado: unknown
+- Current Fit: **100** · Transferability: **35** · Gap Cost: **low**
+- Career Potential: **90** · Evidence: **medium**
+- Enfatizar en CV/intro: ai, build
+- Verificar antes de afirmar: sin gaps obvios detectados por palabras clave
+- Por qué apareció: + evidencia directa: Applied AI integration (ai); + evidencia directa: Automation and developer tooling (build); + feedback family full_stack +0.3
 - Gaps: ninguno destacado
 - Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 

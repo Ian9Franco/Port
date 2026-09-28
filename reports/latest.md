@@ -1,10 +1,10 @@
 # Port — Opportunity Radar
 
-Generado: 2026-09-28T05:33:50.627Z
+Generado: 2026-09-28T16:49:01.571Z
 
 Modo de aplicación: **manual**. Port busca, filtra y prepara; Ian decide y aplica.
 
-Fuentes: Remotive (17), Arbeitnow (26), Get on Board (298), RemoteOK (99), Jobicy (60)
+Fuentes: Remotive (16), Arbeitnow (43), Get on Board (295), RemoteOK (99), Jobicy (60)
 
 ## MAIN — Top picks
 
@@ -12,9 +12,9 @@ Trabajo principal: full-time o part-time; remoto o presencial/híbrido si la ubi
 
 | Rank | Fit | Potencial | Rol | Empresa | Modalidad / ubicación | Por qué aparece |
 | ---: | ---: | ---: | --- | --- | --- | --- |
-| 76 | 100 | 90 | [Senior React Full-stack Developer](https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091101) | Lemon.io | remote · LATAM, Europe, USA, Canada, APAC | Fit 100% · Potencial 90 · Transfer 35 · evidencia directa: TypeScript (node.js); evidencia directa: React (react) |
 | 74 | 100 | 90 | [Web Frontend Engineer - JS, CSS, React, Flutter](https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter) | Canonical | remote · Anywhere | Fit 100% · Potencial 90 · Transfer 35 · evidencia directa: React (react); evidencia directa: API integrations (api) |
 | 73 | 100 | 82 | [Senior AI Engineer](https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131) | Lemon.io | remote · Northern America, LATAM, Europe, APAC | Fit 100% · Potencial 82 · Transfer 35 · evidencia directa: Applied AI integration (ai); evidencia directa: Applied AI integration (llm) |
+| 73 | 100 | 90 | [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114) | Salesforge | remote · Remote | Fit 100% · Potencial 90 · Transfer 35 · evidencia directa: Applied AI integration (ai); evidencia directa: Automation and developer tooling (build) |
 
 ## SIDE — Top picks
 
@@ -33,7 +33,7 @@ Ingreso secundario: freelance, contrato, proyecto o part-time; **remoto obligato
 
 ## Cobertura
 
-- Universo curado guardado: **166** oportunidades.
+- Universo curado guardado: **171** oportunidades.
 - Top picks: máximo **3 MAIN** + **3 SIDE** por corrida.
 - Nada del universo curado se descarta silenciosamente: ver reports/all-candidates.md.
 - Para adaptar el CV sin inventar experiencia: ver reports/application-prep.md.
