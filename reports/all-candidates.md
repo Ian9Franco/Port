@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-09-29T20:53:20.224Z
+Generado: 2026-09-30T05:41:58.965Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -14,8 +14,8 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 71 | 98 | 90 | low | 66 | [Full-Stack Product Engineer (React/Next.JS + AI Infrastructu](https://www.getonbrd.com/jobs/full-stack-product-engineer-react-next-js-ai-infrastructu-crost-ai-remote) | Crost AI | Get on Board | new |
 | 71 | 100 | 82 | low | 63 | [Customer Support & Success Specialist](https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302) | Warehance | RemoteOK | new |
 | 71 | 100 | 82 | low | 63 | [AI Engineer Data APIs](https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224) | Benzinga | RemoteOK | new |
-| 70 | 100 | 82 | unknown | 60 | [Network Operation Engineer](https://www.arbeitnow.com/jobs/companies/share/remote-network-operation-engineer-320363) | Share | Arbeitnow | new |
 | 70 | 100 | 82 | unknown | 60 | [Network Operation Engineer](https://www.arbeitnow.ch/jobs/companies/share/remote-network-operation-engineer-411432) | Share | Arbeitnow | new |
+| 70 | 100 | 82 | unknown | 60 | [Network Operation Engineer](https://www.arbeitnow.com/jobs/companies/share/remote-network-operation-engineer-320363) | Share | Arbeitnow | new |
 | 70 | 98 | 90 | low | 65 | [Full-Stack Developer: React & Node.js](https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote) | Improving | Get on Board | new |
 | 70 | 91 | 90 | low | 64 | [Bilingual (Spanish/English) Full-Stack Developer](https://www.getonbrd.com/jobs/bilingual-spanish-english-full-stack-developer-tabiya-us-remote) | Tabiya US | Get on Board | new |
 | 70 | 100 | 90 | low | 65 | [Desarrollador/a Full-Stack Node.js](https://www.getonbrd.com/jobs/desarrollador-a-full-stack-node-js-bc-tecnologia-remote) | BC Tecnología | Get on Board | new |
@@ -84,13 +84,13 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 65 | 55 | 74 | low | 56 | [Senior Site Reliability / Gitops Engineer](https://jobicy.com/jobs/149544-senior-site-reliability-gitops-engineer) | Canonical | Jobicy | new |
 | 64 | 57 | 82 | low | 54 | [Senior Data Scientist](https://remotive.com/remote-jobs/data/senior-data-scientist-2091129) | Lemon.io | Remotive | new |
 | 64 | 100 | 45 | low | 59 | [Tier III Service Desk Engineer](https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045) | Unio Digital | Remotive | new |
-| 64 | 100 | 62 | unknown | 61 | [Sales Account Executive - Cybersecurity](https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-67712) | Crowdsec | Arbeitnow | new |
 | 64 | 100 | 45 | unknown | 59 | [Network Developer](https://www.arbeitnow.ch/jobs/companies/share/remote-network-developer-269751) | Share | Arbeitnow | new |
 | 64 | 100 | 45 | unknown | 59 | [Senior Software Engineer - REDAPL Graph Engine](https://www.arbeitnow.ch/jobs/companies/datadog/remote-senior-software-engineer-redapl-graph-engine-47394) | Datadog | Arbeitnow | new |
 | 64 | 100 | 45 | unknown | 58 | [Major Account Manager (EMEA)](https://www.arbeitnow.ch/jobs/companies/datadog/remote-major-account-manager-emea-126206) | Datadog | Arbeitnow | new |
-| 64 | 83 | 82 | unknown | 60 | [AI Research Engineer (Pre-training - LLM & Multi-Modal) - 100% Remote Worldwide](https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-research-engineer-pre-training-llm-multi-modal-100-remote-worldwide-united-kindom-407254) | Tether Operations Limited | Arbeitnow | new |
+| 64 | 100 | 62 | unknown | 61 | [Sales Account Executive - Cybersecurity](https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-67712) | Crowdsec | Arbeitnow | new |
 | 64 | 86 | 90 | low | 63 | [Desarrollador Full-Stack (Híbrido)](https://www.getonbrd.com/jobs/desarrollador-full-stack-hibrido-agilesoft-spa-santiago-d50c) | Agilesoft SpA | Get on Board | new |
 | 64 | 89 | 90 | low | 60 | [Senior Full-Stack Engineer](https://www.getonbrd.com/jobs/senior-full-stack-engineer-we-built-it-remote) | We Built It | Get on Board | new |
+| 64 | 87 | 74 | low | 60 | [Back-end Developer Senior](https://www.getonbrd.com/jobs/backend-developer-senior-factor-it-remote-c0c9) | Factor IT | Get on Board | new |
 | 63 | 100 | 90 | low | 64 | [Desarrollador/a Drupal Full-Stack](https://www.getonbrd.com/jobs/desarrollador-a-drupal-full-stack-bc-tecnologia-lima) | BC Tecnología | Get on Board | new |
 | 64 | 83 | 90 | low | 59 | [Desarrollador Full-Stack: Java & Angular](https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote) | Improving | Get on Board | new |
 | 64 | 95 | 74 | low | 61 | [Staff Back-end Engineer](https://www.getonbrd.com/jobs/staff-backend-engineer-dugu-remote) | Dugu | Get on Board | new |
@@ -130,6 +130,7 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 63 | 60 | 74 | low | 55 | [OpenStack Engineering Manager](https://jobicy.com/jobs/149573-openstack-engineering-manager) | Canonical | Jobicy | new |
 | 62 | 55 | 82 | low | 57 | [Business Analyst (ATP / Order Fulfillment](https://www.arbeitnow.com/jobs/companies/market-cloud/business-analyst-atp-order-fulfillment-eschborn-412183) | Market Cloud | Arbeitnow | new |
 | 62 | 78 | 82 | low | 58 | [AI Back-end Engineer](https://www.getonbrd.com/jobs/ai-backend-engineer-improving-remote) | Improving | Get on Board | new |
+| 62 | 93 | 90 | low | 62 | [Desarrollador Full-Stack (React \| NestJS \| AWS)](https://www.getonbrd.com/jobs/desarrollador-full-stack-react-nestjs-aws-witi-remote-d63b) | WiTi | Get on Board | new |
 | 62 | 73 | 90 | low | 58 | [Full-Stack C#/.NET + React — Freelance 4 Meses](https://www.getonbrd.com/jobs/fullstack-c-net-react-freelance-4-meses-remoto-continuum-remote) | Continuum | Get on Board | new |
 | 62 | 90 | 74 | low | 59 | [Software Engineer II](https://www.getonbrd.com/jobs/software-engineer-ii-dugu-remote) | Dugu | Get on Board | new |
 | 62 | 82 | 82 | unknown | 59 | [Senior AI Engineer](https://www.getonbrd.com/jobs/senior-ai-engineer-niuro-remote-42c5) | Niuro | Get on Board | new |
@@ -138,6 +139,7 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 62 | 84 | 45 | low | 56 | [Senior People & Talent Operations Partner](https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378) | TestGorilla | RemoteOK | new |
 | 62 | 81 | 65 | low | 58 | [Data Analyst Assistant](https://remoteOK.com/remote-jobs/remote-data-analyst-assistant-arabian-private-holdings-1136217) | Arabian Private Holdings | RemoteOK | new |
 | 62 | 85 | 45 | low | 57 | [Embedded & Desktop Linux Systems Engineer - Optimisation](https://jobicy.com/jobs/149567-embedded-desktop-linux-systems-engineer-optimisation) | Canonical | Jobicy | new |
+| 61 | 76 | 45 | unknown | 55 | [Senior Software Engineer, Quality](https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-quality-67277) | Camunda | Arbeitnow | new |
 | 61 | 76 | 45 | unknown | 55 | [Senior Software Engineer, Quality](https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-quality-4113) | Camunda | Arbeitnow | new |
 | 61 | 85 | 90 | low | 61 | [Desarrollador Full-Stack](https://www.getonbrd.com/jobs/desarrollador-full-stack-uno-afp-santiago) | UNO afp | Get on Board | new |
 | 60 | 86 | 90 | low | 61 | [Full-Stack Engineer (TypeScript/React)](https://www.getonbrd.com/jobs/full-stack-engineer-dynamic-devs-santiago-ace2) | Dynamic Devs | Get on Board | new |
@@ -158,7 +160,6 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 59 | 68 | 45 | low | 54 | [Junior Crypto Analyst & Trader](https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307) | Empire Assets | RemoteOK | new |
 | 59 | 60 | 65 | low | 56 | [Data Analyst](https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222) | SEAhub Asia | RemoteOK | new |
 | 58 | 42 | 45 | low | 51 | [🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland)](https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139) | hey contact heroes GmbH | Remotive | new |
-| 58 | 41 | 74 | low | 54 | [Mainframe Engineer (w/m/d)](https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/mainframe-engineer-munich-56224) | CPU Consulting & Software GmbH | Arbeitnow | new |
 | 58 | 70 | 90 | low | 58 | [Desarrollador Full-Stack](https://www.getonbrd.com/jobs/desarrollador-full-stack-asesoria-y-gestion-de-procesos-s-a-santiago-ce3c) | Asesoría y Gestión de Procesos S.A | Get on Board | new |
 | 57 | 72 | 74 | low | 58 | [Engineering Manager Senior](https://www.getonbrd.com/jobs/engineering-manager-senior-factor-it-remote) | Factor IT | Get on Board | new |
 | 57 | 76 | 90 | low | 58 | [Desarrollador Full-Stack Django + Next.JS](https://www.getonbrd.com/jobs/desarrollador-fullstack-django-next-js-expressdent-santiago) | ExpressDent | Get on Board | new |
