@@ -1,10 +1,10 @@
 # Port — Opportunity Radar
 
-Generado: 2026-10-02T05:50:54.763Z
+Generado: 2026-10-02T14:47:24.184Z
 
 Modo de aplicación: **manual**. Port busca, filtra y prepara; Ian decide y aplica.
 
-Fuentes: Remotive (16), Arbeitnow (53), Get on Board (304), RemoteOK (99), Jobicy (8)
+Fuentes: Remotive (17), Arbeitnow (54), Get on Board (304), RemoteOK (99), Jobicy (8)
 
 ## MAIN — Top picks
 
@@ -28,12 +28,13 @@ Ingreso secundario: freelance, contrato, proyecto o part-time; **remoto obligato
 
 ## Relocation watch
 
+- [Senior back-end Engineer](https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132) — Lemon.io · Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway · MAIN 68
 - [Surveyor I](https://remoteOK.com/remote-jobs/remote-surveyor-i-american-bureau-of-shipping-abs-1136592) — American Bureau of Shipping (ABS) · Port of Spain,  · MAIN 61
 - [🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland)](https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139) — hey contact heroes GmbH · Europe · MAIN 58
 
 ## Cobertura
 
-- Universo curado guardado: **151** oportunidades.
+- Universo curado guardado: **157** oportunidades.
 - Top picks: máximo **3 MAIN** + **3 SIDE** por corrida.
 - Nada del universo curado se descarta silenciosamente: ver reports/all-candidates.md.
 - Para adaptar el CV sin inventar experiencia: ver reports/application-prep.md.
