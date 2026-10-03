@@ -1,10 +1,10 @@
 # Port — Opportunity Radar
 
-Generado: 2026-10-02T20:48:36.471Z
+Generado: 2026-10-03T05:27:01.623Z
 
 Modo de aplicación: **manual**. Port busca, filtra y prepara; Ian decide y aplica.
 
-Fuentes: Remotive (17), Arbeitnow (68), Get on Board (305), RemoteOK (99), Jobicy (8)
+Fuentes: Remotive (17), Arbeitnow (58), Get on Board (306), RemoteOK (99), Jobicy (7)
 
 ## MAIN — Top picks
 
@@ -22,9 +22,9 @@ Ingreso secundario: freelance, contrato, proyecto o part-time; **remoto obligato
 
 | Rank | Fit | Potencial | Rol | Empresa | Modalidad / ubicación | Por qué aparece |
 | ---: | ---: | ---: | --- | --- | --- | --- |
-| 63 | 100 | 82 | [Customer Support & Success Specialist](https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302) | Warehance | remote · Remote | Fit 100% · Potencial 82 · Transfer 35 · evidencia directa: Applied AI integration (ai); evidencia directa: Applied AI integration (llm) |
 | 63 | 100 | 82 | [AI Engineer Data APIs](https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224) | Benzinga | remote · Remote | Fit 100% · Potencial 82 · Transfer 35 · evidencia directa: API integrations (api); evidencia directa: Applied AI integration (ai) |
 | 63 | 100 | 90 | [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114) | Salesforge | remote · Remote | Fit 100% · Potencial 90 · Transfer 35 · evidencia directa: Applied AI integration (ai); evidencia directa: Automation and developer tooling (build) |
+| 62 | 90 | 82 | [Senior Independent AI Engineer / Architect](https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266) | A.Team | remote · Americas, Europe, Israel | Fit 90% · Potencial 82 · Transfer 42 · evidencia directa: API integrations (api); evidencia directa: Applied AI integration (ai) |
 
 ## Relocation watch
 
@@ -34,7 +34,7 @@ Ingreso secundario: freelance, contrato, proyecto o part-time; **remoto obligato
 
 ## Cobertura
 
-- Universo curado guardado: **172** oportunidades.
+- Universo curado guardado: **168** oportunidades.
 - Top picks: máximo **3 MAIN** + **3 SIDE** por corrida.
 - Nada del universo curado se descarta silenciosamente: ver reports/all-candidates.md.
 - Para adaptar el CV sin inventar experiencia: ver reports/application-prep.md.
