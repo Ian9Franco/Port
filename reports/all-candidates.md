@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-10-04T14:08:15.111Z
+Generado: 2026-10-04T19:42:05.138Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -62,8 +62,8 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 65 | 88 | 90 | unknown | 61 | [Frontend Engineer](https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410) | Bjak  | RemoteOK | new |
 | 64 | 57 | 82 | low | 54 | [Senior Data Scientist](https://remotive.com/remote-jobs/data/senior-data-scientist-2091129) | Lemon.io | Remotive | new |
 | 64 | 100 | 45 | low | 59 | [Tier III Service Desk Engineer](https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045) | Unio Digital | Remotive | new |
-| 64 | 100 | 62 | unknown | 61 | [Sales Account Executive - Cybersecurity](https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-362742) | Crowdsec | Arbeitnow | new |
 | 64 | 100 | 45 | unknown | 58 | [Senior Account Executive](https://www.arbeitnow.ch/jobs/companies/gitlab/remote-senior-account-executive-166089) | gitlab | Arbeitnow | new |
+| 64 | 100 | 62 | unknown | 61 | [Sales Account Executive - Cybersecurity](https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-362742) | Crowdsec | Arbeitnow | new |
 | 64 | 100 | 45 | unknown | 59 | [Senior Product Designer, Design Systems](https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-product-designer-design-systems-117305) | Duck Duck Go | Arbeitnow | new |
 | 64 | 100 | 45 | unknown | 59 | [Network Developer](https://www.arbeitnow.ch/jobs/companies/share/remote-network-developer-269751) | Share | Arbeitnow | new |
 | 64 | 72 | 90 | low | 59 | [Desarrollador/a Full-Stack](https://www.getonbrd.com/jobs/desarrollador-a-full-stack-agilistik-remote) | Agilistik | Get on Board | new |
@@ -108,8 +108,6 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 62 | 90 | 45 | low | 57 | [Sr Solutions Architect](https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394) | ExtraHop | RemoteOK | new |
 | 62 | 84 | 45 | low | 56 | [Senior People & Talent Operations Partner](https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378) | TestGorilla | RemoteOK | new |
 | 61 | 76 | 45 | unknown | 55 | [Senior Product Marketing Manager - EMEA](https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-product-marketing-manager-emea-237709) | Camunda | Arbeitnow | new |
-| 61 | 76 | 45 | unknown | 55 | [Senior Software Engineer, Quality](https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-quality-4113) | Camunda | Arbeitnow | new |
-| 61 | 81 | 45 | low | 56 | [Provider Credentialing and Practice Lead](https://www.arbeitnow.com/jobs/companies/neko-health/remote-provider-credentialing-and-practice-lead-465997) | Neko Health | Arbeitnow | new |
 | 60 | 86 | 90 | low | 61 | [Full-Stack Engineer (TypeScript/React)](https://www.getonbrd.com/jobs/full-stack-engineer-dynamic-devs-santiago-ace2) | Dynamic Devs | Get on Board | new |
 | 61 | 81 | 45 | low | 56 | [Junior Digital Assets Operations Analyst](https://remoteOK.com/remote-jobs/remote-junior-digital-assets-operations-analyst-omega-enterprises-1137418) | Omega Enterprises | RemoteOK | new |
 | 61 | 76 | 45 | low | 55 | [HR Operations Specialist](https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386) | Law Offices of Sabrina Li | RemoteOK | new |
