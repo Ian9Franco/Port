@@ -1,10 +1,10 @@
 # Port — Opportunity Radar
 
-Generado: 2026-10-04T06:02:16.330Z
+Generado: 2026-10-04T14:08:15.111Z
 
 Modo de aplicación: **manual**. Port busca, filtra y prepara; Ian decide y aplica.
 
-Fuentes: Remotive (16), Arbeitnow (40), Get on Board (290), RemoteOK (99), Jobicy (8)
+Fuentes: Remotive (18), Arbeitnow (36), Get on Board (289), RemoteOK (99), Jobicy (14)
 
 ## MAIN — Top picks
 
@@ -28,13 +28,14 @@ Ingreso secundario: freelance, contrato, proyecto o part-time; **remoto obligato
 
 ## Relocation watch
 
+- [Senior React Full-stack Developer](https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133) — Lemon.io · Europe, USA, Canada, APAC · MAIN 68
 - [Senior back-end Engineer](https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132) — Lemon.io · Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway · MAIN 68
 - [Surveyor I](https://remoteOK.com/remote-jobs/remote-surveyor-i-american-bureau-of-shipping-abs-1136592) — American Bureau of Shipping (ABS) · Port of Spain,  · MAIN 61
 - [🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland)](https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139) — hey contact heroes GmbH · Europe · MAIN 58
 
 ## Cobertura
 
-- Universo curado guardado: **134** oportunidades.
+- Universo curado guardado: **136** oportunidades.
 - Top picks: máximo **3 MAIN** + **3 SIDE** por corrida.
 - Nada del universo curado se descarta silenciosamente: ver reports/all-candidates.md.
 - Para adaptar el CV sin inventar experiencia: ver reports/application-prep.md.
