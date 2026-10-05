@@ -1,10 +1,10 @@
 # Port — Opportunity Radar
 
-Generado: 2026-10-04T19:42:05.138Z
+Generado: 2026-10-05T05:52:38.913Z
 
 Modo de aplicación: **manual**. Port busca, filtra y prepara; Ian decide y aplica.
 
-Fuentes: Remotive (18), Arbeitnow (41), Get on Board (289), RemoteOK (99), Jobicy (14)
+Fuentes: Remotive (18), Arbeitnow (52), Get on Board (290), RemoteOK (99), Jobicy (14)
 
 ## MAIN — Top picks
 
@@ -35,7 +35,7 @@ Ingreso secundario: freelance, contrato, proyecto o part-time; **remoto obligato
 
 ## Cobertura
 
-- Universo curado guardado: **134** oportunidades.
+- Universo curado guardado: **136** oportunidades.
 - Top picks: máximo **3 MAIN** + **3 SIDE** por corrida.
 - Nada del universo curado se descarta silenciosamente: ver reports/all-candidates.md.
 - Para adaptar el CV sin inventar experiencia: ver reports/application-prep.md.
