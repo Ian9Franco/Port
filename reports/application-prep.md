@@ -1,10 +1,26 @@
 # Port — Application prep
 
-Generado: 2026-10-05T05:52:38.913Z
+Generado: 2026-10-05T17:13:34.385Z
 
 Borradores de preparación para los Top Picks. No aplica automáticamente y no agrega experiencia que no esté respaldada por el perfil.
 
 ## MAIN
+
+### Senior Full Stack Engineer — Fueled
+
+- Oferta: https://jobicy.com/jobs/152547-senior-full-stack-engineer
+- Fuente: Jobicy · SOURCE TRUST: official_public_api
+- COMPANY TRUST: medium · LISTING RISK: **low**
+- Señales trust: ninguna
+- Modalidad: remote · Anywhere
+- Tipo detectado: contract
+- Current Fit: **95** · Transferability: **40** · Gap Cost: **low**
+- Career Potential: **90** · Evidence: **medium**
+- Enfatizar en CV/intro: typescript, react, next.js, full stack, api, rest, ai, cli, build, bi
+- Verificar antes de afirmar: sin gaps obvios detectados por palabras clave
+- Por qué apareció: + evidencia directa: TypeScript (typescript); + evidencia directa: React (react); + evidencia directa: React (next.js); + evidencia directa: Full-stack product engineering (full stack)
+- Gaps: ninguno destacado
+- Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 
 ### Senior AI Engineer — Lemon.io
 
@@ -38,23 +54,23 @@ Borradores de preparación para los Top Picks. No aplica automáticamente y no a
 - Gaps: ninguno destacado
 - Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 
-### Senior Independent AI Engineer / Architect — A.Team
+## SIDE
 
-- Oferta: https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266
-- Fuente: Remotive · SOURCE TRUST: official_public_api
+### Senior Full Stack Engineer — Fueled
+
+- Oferta: https://jobicy.com/jobs/152547-senior-full-stack-engineer
+- Fuente: Jobicy · SOURCE TRUST: official_public_api
 - COMPANY TRUST: medium · LISTING RISK: **low**
 - Señales trust: ninguna
-- Modalidad: remote · Americas, Europe, Israel
+- Modalidad: remote · Anywhere
 - Tipo detectado: contract
-- Current Fit: **90** · Transferability: **42** · Gap Cost: **low**
-- Career Potential: **82** · Evidence: **medium**
-- Enfatizar en CV/intro: api, ai, llm, ai engineer, workflow, build, bi
+- Current Fit: **95** · Transferability: **40** · Gap Cost: **low**
+- Career Potential: **90** · Evidence: **medium**
+- Enfatizar en CV/intro: typescript, react, next.js, full stack, api, rest, ai, cli, build, bi
 - Verificar antes de afirmar: sin gaps obvios detectados por palabras clave
-- Por qué apareció: + evidencia directa: API integrations (api); + evidencia directa: Applied AI integration (ai); + evidencia directa: Applied AI integration (llm); + evidencia directa: Applied AI integration (ai engineer)
+- Por qué apareció: + evidencia directa: TypeScript (typescript); + evidencia directa: React (react); + evidencia directa: React (next.js); + evidencia directa: Full-stack product engineering (full stack)
 - Gaps: ninguno destacado
 - Regla: no inventar años, tecnologías ni resultados que no estén documentados.
-
-## SIDE
 
 ### AI Engineer Data APIs — Benzinga
 
@@ -85,22 +101,6 @@ Borradores de preparación para los Top Picks. No aplica automáticamente y no a
 - Enfatizar en CV/intro: ai, build
 - Verificar antes de afirmar: sin gaps obvios detectados por palabras clave
 - Por qué apareció: + evidencia directa: Applied AI integration (ai); + evidencia directa: Automation and developer tooling (build); + feedback family full_stack +0.3
-- Gaps: ninguno destacado
-- Regla: no inventar años, tecnologías ni resultados que no estén documentados.
-
-### Senior Independent AI Engineer / Architect — A.Team
-
-- Oferta: https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266
-- Fuente: Remotive · SOURCE TRUST: official_public_api
-- COMPANY TRUST: medium · LISTING RISK: **low**
-- Señales trust: ninguna
-- Modalidad: remote · Americas, Europe, Israel
-- Tipo detectado: contract
-- Current Fit: **90** · Transferability: **42** · Gap Cost: **low**
-- Career Potential: **82** · Evidence: **medium**
-- Enfatizar en CV/intro: api, ai, llm, ai engineer, workflow, build, bi
-- Verificar antes de afirmar: sin gaps obvios detectados por palabras clave
-- Por qué apareció: + evidencia directa: API integrations (api); + evidencia directa: Applied AI integration (ai); + evidencia directa: Applied AI integration (llm); + evidencia directa: Applied AI integration (ai engineer)
 - Gaps: ninguno destacado
 - Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 
