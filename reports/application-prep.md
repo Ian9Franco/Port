@@ -1,6 +1,6 @@
 # Port — Application prep
 
-Generado: 2026-10-06T15:17:24.584Z
+Generado: 2026-10-06T21:02:42.235Z
 
 Borradores de preparación para los Top Picks. No aplica automáticamente y no agrega experiencia que no esté respaldada por el perfil.
 
