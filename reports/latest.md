@@ -1,10 +1,10 @@
 # Port — Opportunity Radar
 
-Generado: 2026-10-08T21:23:01.124Z
+Generado: 2026-10-09T06:19:14.402Z
 
 Modo de aplicación: **manual**. Port busca, filtra y prepara; Ian decide y aplica.
 
-Fuentes: Remotive (19), Arbeitnow (54), Get on Board (308), RemoteOK (99), Jobicy (16)
+Fuentes: Remotive (19), Arbeitnow (54), Get on Board (309), RemoteOK (99), Jobicy (18)
 
 ## MAIN — Top picks
 
@@ -12,9 +12,9 @@ Trabajo principal: full-time o part-time; remoto o presencial/híbrido si la ubi
 
 | Rank | Fit | Potencial | Rol | Empresa | Modalidad / ubicación | Por qué aparece |
 | ---: | ---: | ---: | --- | --- | --- | --- |
+| 73 | 91 | 90 | [Full-stack Engineer - Creative Agents](https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-full-stack-engineer-creative-agents-292788) | ElevenLabs | remote · Remote | Fit 91% · Potencial 90 · Transfer 42 · evidencia directa: Full-stack product engineering (full-stack); evidencia directa: API integrations (api) |
+| 73 | 91 | 90 | [Full-Stack Engineer (Backend Leaning) - Creative Agents](https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-323217) | ElevenLabs | remote · Remote | Fit 91% · Potencial 90 · Transfer 42 · evidencia directa: Full-stack product engineering (full-stack); evidencia directa: API integrations (api) |
 | 73 | 100 | 82 | [Senior AI Engineer](https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131) | Lemon.io | remote · Northern America, LATAM, Europe, APAC | Fit 100% · Potencial 82 · Transfer 35 · evidencia directa: Applied AI integration (ai); evidencia directa: Applied AI integration (llm) |
-| 73 | 100 | 90 | [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114) | Salesforge | remote · Remote | Fit 100% · Potencial 90 · Transfer 35 · evidencia directa: Applied AI integration (ai); evidencia directa: Automation and developer tooling (build) |
-| 72 | 90 | 82 | [Senior Independent AI Engineer / Architect](https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266) | A.Team | remote · Americas, Europe, Israel | Fit 90% · Potencial 82 · Transfer 42 · evidencia directa: API integrations (api); evidencia directa: Applied AI integration (ai) |
 
 ## SIDE — Top picks
 
@@ -36,7 +36,7 @@ Ingreso secundario: freelance, contrato, proyecto o part-time; **remoto obligato
 
 ## Cobertura
 
-- Universo curado guardado: **162** oportunidades.
+- Universo curado guardado: **178** oportunidades.
 - Top picks: máximo **3 MAIN** + **3 SIDE** por corrida.
 - Nada del universo curado se descarta silenciosamente: ver reports/all-candidates.md.
 - Para adaptar el CV sin inventar experiencia: ver reports/application-prep.md.
