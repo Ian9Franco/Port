@@ -1,10 +1,26 @@
 # Port — Application prep
 
-Generado: 2026-10-13T06:53:20.154Z
+Generado: 2026-10-13T16:06:20.708Z
 
 Borradores de preparación para los Top Picks. No aplica automáticamente y no agrega experiencia que no esté respaldada por el perfil.
 
 ## MAIN
+
+### Forward Deployed Engineer — Breakmark
+
+- Oferta: https://www.arbeitnow.com/jobs/companies/breakmark/remote-forward-deployed-engineer-296700
+- Fuente: Arbeitnow · SOURCE TRUST: official_public_api
+- COMPANY TRUST: medium · LISTING RISK: **low**
+- Señales trust: ninguna
+- Modalidad: remote · Remote
+- Tipo detectado: full_time
+- Current Fit: **94** · Transferability: **41** · Gap Cost: **low**
+- Career Potential: **90** · Evidence: **medium**
+- Enfatizar en CV/intro: typescript, node.js, react, full-stack, ai, workflow, build, python, bi
+- Verificar antes de afirmar: sin gaps obvios detectados por palabras clave
+- Por qué apareció: + evidencia directa: TypeScript (typescript); + evidencia directa: TypeScript (node.js); + evidencia directa: React (react); + evidencia directa: Full-stack product engineering (full-stack)
+- Gaps: ninguno destacado
+- Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 
 ### Full-stack Engineer - Creative Agents — ElevenLabs
 
@@ -35,22 +51,6 @@ Borradores de preparación para los Top Picks. No aplica automáticamente y no a
 - Enfatizar en CV/intro: full-stack, api, integration, testing, ai, build, bi, growth
 - Verificar antes de afirmar: sin gaps obvios detectados por palabras clave
 - Por qué apareció: + evidencia directa: Full-stack product engineering (full-stack); + evidencia directa: API integrations (api); + evidencia directa: API integrations (integration); + evidencia directa: Automated testing (testing)
-- Gaps: ninguno destacado
-- Regla: no inventar años, tecnologías ni resultados que no estén documentados.
-
-### Senior AI Engineer — Lemon.io
-
-- Oferta: https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131
-- Fuente: Remotive · SOURCE TRUST: official_public_api
-- COMPANY TRUST: medium · LISTING RISK: **low**
-- Señales trust: ninguna
-- Modalidad: remote · Northern America, LATAM, Europe, APAC
-- Tipo detectado: full_time
-- Current Fit: **100** · Transferability: **35** · Gap Cost: **low**
-- Career Potential: **82** · Evidence: **medium**
-- Enfatizar en CV/intro: ai, llm, openai, ai engineer, automation, cli, python
-- Verificar antes de afirmar: sin gaps obvios detectados por palabras clave
-- Por qué apareció: + evidencia directa: Applied AI integration (ai); + evidencia directa: Applied AI integration (llm); + evidencia directa: Applied AI integration (openai); + evidencia directa: Applied AI integration (ai engineer)
 - Gaps: ninguno destacado
 - Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 

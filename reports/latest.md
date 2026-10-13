@@ -1,10 +1,10 @@
 # Port — Opportunity Radar
 
-Generado: 2026-10-13T06:53:20.154Z
+Generado: 2026-10-13T16:06:20.708Z
 
 Modo de aplicación: **manual**. Port busca, filtra y prepara; Ian decide y aplica.
 
-Fuentes: Remotive (15), Arbeitnow (50), Get on Board (307), RemoteOK (99), Jobicy (11)
+Fuentes: Remotive (16), Arbeitnow (82), Get on Board (306), RemoteOK (99), Jobicy (12)
 
 ## MAIN — Top picks
 
@@ -12,9 +12,9 @@ Trabajo principal: full-time o part-time; remoto o presencial/híbrido si la ubi
 
 | Rank | Fit | Potencial | Rol | Empresa | Modalidad / ubicación | Por qué aparece |
 | ---: | ---: | ---: | --- | --- | --- | --- |
+| 73 | 94 | 90 | [Forward Deployed Engineer](https://www.arbeitnow.com/jobs/companies/breakmark/remote-forward-deployed-engineer-296700) | Breakmark | remote · Remote | Fit 94% · Potencial 90 · Transfer 41 · evidencia directa: TypeScript (typescript); evidencia directa: TypeScript (node.js) |
 | 73 | 91 | 90 | [Full-stack Engineer - Creative Agents](https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-full-stack-engineer-creative-agents-292788) | ElevenLabs | remote · Remote | Fit 91% · Potencial 90 · Transfer 42 · evidencia directa: Full-stack product engineering (full-stack); evidencia directa: API integrations (api) |
 | 73 | 91 | 90 | [Full-Stack Engineer (Backend Leaning) - Creative Agents](https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-323217) | ElevenLabs | remote · Remote | Fit 91% · Potencial 90 · Transfer 42 · evidencia directa: Full-stack product engineering (full-stack); evidencia directa: API integrations (api) |
-| 73 | 100 | 82 | [Senior AI Engineer](https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131) | Lemon.io | remote · Northern America, LATAM, Europe, APAC | Fit 100% · Potencial 82 · Transfer 35 · evidencia directa: Applied AI integration (ai); evidencia directa: Applied AI integration (llm) |
 
 ## SIDE — Top picks
 
@@ -34,7 +34,7 @@ Ingreso secundario: freelance, contrato, proyecto o part-time; **remoto obligato
 
 ## Cobertura
 
-- Universo curado guardado: **171** oportunidades.
+- Universo curado guardado: **186** oportunidades.
 - Top picks: máximo **3 MAIN** + **3 SIDE** por corrida.
 - Nada del universo curado se descarta silenciosamente: ver reports/all-candidates.md.
 - Para adaptar el CV sin inventar experiencia: ver reports/application-prep.md.
