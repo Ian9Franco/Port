@@ -1,10 +1,10 @@
 # Port — Opportunity Radar
 
-Generado: 2026-10-13T21:20:19.183Z
+Generado: 2026-10-14T05:02:46.170Z
 
 Modo de aplicación: **manual**. Port busca, filtra y prepara; Ian decide y aplica.
 
-Fuentes: Remotive (16), Arbeitnow (98), Get on Board (296), RemoteOK (99), Jobicy (12)
+Fuentes: Remotive (16), Arbeitnow (101), Get on Board (296), RemoteOK (99), Jobicy (11)
 
 ## MAIN — Top picks
 
@@ -12,9 +12,9 @@ Trabajo principal: full-time o part-time; remoto o presencial/híbrido si la ubi
 
 | Rank | Fit | Potencial | Rol | Empresa | Modalidad / ubicación | Por qué aparece |
 | ---: | ---: | ---: | --- | --- | --- | --- |
-| 73 | 94 | 90 | [Forward Deployed Engineer](https://www.arbeitnow.com/jobs/companies/breakmark/remote-forward-deployed-engineer-296700) | Breakmark | remote · Remote | Fit 94% · Potencial 90 · Transfer 41 · evidencia directa: TypeScript (typescript); evidencia directa: TypeScript (node.js) |
-| 73 | 91 | 90 | [Full-stack Engineer - Creative Agents](https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-full-stack-engineer-creative-agents-292788) | ElevenLabs | remote · Remote | Fit 91% · Potencial 90 · Transfer 42 · evidencia directa: Full-stack product engineering (full-stack); evidencia directa: API integrations (api) |
-| 73 | 91 | 90 | [Full-Stack Engineer (Backend Leaning) - Creative Agents](https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-323217) | ElevenLabs | remote · Remote | Fit 91% · Potencial 90 · Transfer 42 · evidencia directa: Full-stack product engineering (full-stack); evidencia directa: API integrations (api) |
+| 73 | 91 | 90 | [Full-Stack Engineer - ElevenMusic](https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-elevenmusic-445764) | ElevenLabs | remote · Remote | Fit 91% · Potencial 90 · Transfer 42 · evidencia directa: Full-stack product engineering (full-stack); evidencia directa: API integrations (api) |
+| 73 | 91 | 90 | [Full-Stack Engineer (Backend-Leaning) - CoreMusic](https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-coremusic-140966) | ElevenLabs | remote · Remote | Fit 91% · Potencial 90 · Transfer 42 · evidencia directa: Full-stack product engineering (full-stack); evidencia directa: API integrations (api) |
+| 73 | 91 | 90 | [Full-Stack Engineer - Productions](https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-productions-292727) | ElevenLabs | remote · Remote | Fit 91% · Potencial 90 · Transfer 42 · evidencia directa: Full-stack product engineering (full-stack); evidencia directa: API integrations (api) |
 
 ## SIDE — Top picks
 
@@ -34,7 +34,7 @@ Ingreso secundario: freelance, contrato, proyecto o part-time; **remoto obligato
 
 ## Cobertura
 
-- Universo curado guardado: **185** oportunidades.
+- Universo curado guardado: **187** oportunidades.
 - Top picks: máximo **3 MAIN** + **3 SIDE** por corrida.
 - Nada del universo curado se descarta silenciosamente: ver reports/all-candidates.md.
 - Para adaptar el CV sin inventar experiencia: ver reports/application-prep.md.
