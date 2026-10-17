@@ -1,6 +1,6 @@
 # Port — Application prep
 
-Generado: 2026-10-17T04:39:12.131Z
+Generado: 2026-10-17T12:15:24.864Z
 
 Borradores de preparación para los Top Picks. No aplica automáticamente y no agrega experiencia que no esté respaldada por el perfil.
 
@@ -38,19 +38,19 @@ Borradores de preparación para los Top Picks. No aplica automáticamente y no a
 - Gaps: ninguno destacado
 - Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 
-### Senior Independent AI Engineer / Architect — A.Team
+### Senior Software Engineer II Applied AI — Wrapbook
 
-- Oferta: https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266
-- Fuente: Remotive · SOURCE TRUST: official_public_api
+- Oferta: https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527
+- Fuente: RemoteOK · SOURCE TRUST: official_public_api
 - COMPANY TRUST: medium · LISTING RISK: **low**
 - Señales trust: ninguna
-- Modalidad: remote · Americas, Europe, Israel
-- Tipo detectado: contract
-- Current Fit: **90** · Transferability: **42** · Gap Cost: **low**
+- Modalidad: remote · Remote
+- Tipo detectado: unknown
+- Current Fit: **95** · Transferability: **40** · Gap Cost: **low**
 - Career Potential: **82** · Evidence: **medium**
-- Enfatizar en CV/intro: api, ai, llm, ai engineer, workflow, build, bi
+- Enfatizar en CV/intro: typescript, javascript, node.js, api, ai, workflow, build, python, java, bi
 - Verificar antes de afirmar: sin gaps obvios detectados por palabras clave
-- Por qué apareció: + evidencia directa: API integrations (api); + evidencia directa: Applied AI integration (ai); + evidencia directa: Applied AI integration (llm); + evidencia directa: Applied AI integration (ai engineer)
+- Por qué apareció: + evidencia directa: TypeScript (typescript); + evidencia directa: TypeScript (javascript); + evidencia directa: TypeScript (node.js); + evidencia directa: API integrations (api)
 - Gaps: ninguno destacado
 - Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 
