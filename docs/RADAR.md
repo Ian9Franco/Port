@@ -34,7 +34,7 @@ Allowed:
 - contract when it behaves like a stable role
 - remote from Argentina
 - local hybrid / on-site roles in Buenos Aires / CABA / GBA when reasonable
-- Europe / Spain as a separate relocation watchlist
+- Valencia / Spain as a later move with family, tracked separately from MAIN. Generic Europe is not that watchlist.
 
 The report shows at most 3 MAIN Top Picks per run.
 
@@ -77,7 +77,15 @@ Public JSON API (`remoteok.com/api`). Attribution link to [RemoteOK](https://rem
 
 ### Jobicy
 
-Public JSON API for remote roles (`jobicy.com/api/v2/remote-jobs`). Credit [Jobicy](https://jobicy.com) when sharing listings.
+Public JSON API for remote roles (`jobicy.com/api/v2/remote-jobs`). Credit [Jobicy](https://jobicy.com) when sharing listings. `geo=spain` is not used: it still returns Europe-wide listings.
+
+### Himalayas
+
+Public search API, no key (`himalayas.app/jobs/api/search`). Queries are Valencia/Spain (worldwide results excluded) plus a SAP BTP query. Credit [Himalayas](https://himalayas.app). Each stored URL is the API `applicationLink`.
+
+### Get on Board families
+
+Besides programming, the radar reads `sysadmin-devops-qa`, `data-science-analytics`, and `cybersecurity`. Modality and seniority are expanded objects, not dumped as `[object Object]`. Country strings are kept; a bare "Remote" is not written as "Remote — Remote".
 
 ## Outputs
 
@@ -130,11 +138,28 @@ Port does not automatically submit applications.
 
 ## Scoring
 
-**Potential Matcher v1** ranks opportunities using evidence from `career/*.json`:
+**Potential Matcher** ranks opportunities using evidence from `career/*.json`. Keyword scores are stored and do not grant retention or a Top Pick.
+
+Place:
+
+- home is zona oeste, Buenos Aires, with no municipality; on-site commute is an unknown cost, not a radius
+- Valencia and Spain are a future move with family
+- the word "Europe" alone does not enter the relocation watch
+- on-site roles in other countries are not kept
+
+Matching:
+
+- short tokens (`ai`, `api`, `build`, `bi`, `rest`, `sql`, `java`) are not evidence
+- a cut-off description cannot produce a low gap cost
+- senior / staff / lead / principal / head lowers fit, because the evidence is project or coursework
+- SIDE requires freelance, contract, or part-time, not an unknown employment type
+- the same company and role cannot take two of the three slots
+
+Dimensions:
 
 - **Current Fit** — how much of the listing maps to direct profile evidence today
 - **Transferability** — overlap when exact tools differ but capabilities transfer
-- **Gap Cost** — low / medium / high (tool, ecosystem, operational, fundamental gaps)
+- **Gap Cost** — low / medium / high / unknown (tool, ecosystem, operational, fundamental; unknown when the listing was cut off or no distinguishing requirement was read)
 - **Evidence Confidence** — how defendible the match is
 - **Career Potential** — transition value (including DevOps, Cloud, Data, SAP-adjacent paths)
 - **Relocation Value**, **Compensation Fit**, **Workstyle Fit**, **Commute Burden**

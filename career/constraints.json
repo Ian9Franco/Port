@@ -13,11 +13,29 @@
       "notes": "Flexible depending on workload."
     }
   },
+  "home": {
+    "label": "zona oeste, Buenos Aires",
+    "metro": "Buenos Aires",
+    "country": "Argentina",
+    "municipality": null,
+    "commute_cost_starts_here": true,
+    "notes": "No finer municipality is known. Do not invent one. Commute cost starts here."
+  },
+  "relocation": {
+    "timing": "future_with_family",
+    "immediate": false,
+    "with_family": true,
+    "family_location": "Valencia, Spain",
+    "preferred_places": ["Valencia", "Spain"],
+    "not_generic_eu": true,
+    "notes": "Emigration is a later move together with family in Valencia, not an immediate move and not a generic EU destination."
+  },
   "modality": {
     "onsite_ft_acceptable": true,
     "hybrid_days_acceptable": [1, 2, 3, 4, 5],
     "remote_attractive_when_commute_high": true,
-    "home_region": "Zona Oeste, Greater Buenos Aires",
+    "home_region": "zona oeste, Buenos Aires",
+    "municipality": null,
     "commute_reference_job": "Ramos Mejía (acceptable)",
     "commute_rule": "rank_burden_not_hard_veto",
     "commute_factors_ordered": [

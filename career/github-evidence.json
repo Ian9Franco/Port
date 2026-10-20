@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "source": "thougtian.md",
   "source_rule": "GitHub repositories only; not LinkedIn or portfolio copy.",
   "capabilities": [
@@ -35,7 +35,7 @@
     },
     {
       "skill": "API integrations",
-      "match_terms": ["api", "webhook", "rest", "integration"],
+      "match_terms": ["webhook", "openapi"],
       "evidence_strength": "strong",
       "confidence": "medium",
       "sources": ["MIM", "Factu", "Web-Sling-Optimizer", "proyecto-live"],
@@ -45,7 +45,7 @@
     },
     {
       "skill": "PostgreSQL",
-      "match_terms": ["postgresql", "postgres", "sql"],
+      "match_terms": ["postgresql", "postgres"],
       "evidence_strength": "strong",
       "confidence": "low",
       "sources": ["MIM", "Pontorno-vault", "Factu", "dashpostgre"],
@@ -65,7 +65,7 @@
     },
     {
       "skill": "Automated testing",
-      "match_terms": ["vitest", "jest", "testing", "test automation"],
+      "match_terms": ["vitest", "jest", "test automation"],
       "evidence_strength": "strong",
       "confidence": "medium",
       "sources": ["MIM", "Pontorno-vault", "Web-Sling-Optimizer"],
@@ -95,7 +95,7 @@
     },
     {
       "skill": "Applied AI integration",
-      "match_terms": ["ai", "llm", "openai", "gemini", "ollama", "ai engineer"],
+      "match_terms": ["llm", "openai", "gemini", "ollama", "ai engineer"],
       "evidence_strength": "strong",
       "confidence": "medium",
       "sources": ["MIM", "Web-Sling-Optimizer"],
@@ -105,7 +105,7 @@
     },
     {
       "skill": "Security-aware application engineering",
-      "match_terms": ["appsec", "security", "rls", "encryption", "csp"],
+      "match_terms": ["appsec", "rls", "encryption", "csp"],
       "evidence_strength": "moderate",
       "confidence": "medium",
       "sources": ["Pontorno-vault", "MIM"],
@@ -115,7 +115,7 @@
     },
     {
       "skill": "Automation and developer tooling",
-      "match_terms": ["automation", "workflow", "cli", "tooling", "build"],
+      "match_terms": ["automation", "workflow", "cli", "tooling"],
       "evidence_strength": "strong",
       "confidence": "medium",
       "sources": ["MIM", "Web-Sling-Optimizer"],
@@ -135,7 +135,7 @@
     },
     {
       "skill": "Java Spring Boot",
-      "match_terms": ["java", "spring"],
+      "match_terms": ["spring boot", "spring"],
       "evidence_strength": "moderate",
       "confidence": "low",
       "sources": ["Ian-franco-collada-pontorno-java"],
@@ -155,23 +155,13 @@
     },
     {
       "skill": "Electron desktop engineering",
-      "match_terms": ["electron", "desktop"],
+      "match_terms": ["electron"],
       "evidence_strength": "moderate",
       "confidence": "medium",
       "sources": ["MIM"],
       "type": "direct",
       "last_seen": "2026",
       "notes": "Packaging and release flows."
-    },
-    {
-      "skill": "Zapier",
-      "match_terms": ["zapier"],
-      "evidence_strength": "moderate",
-      "confidence": "medium",
-      "sources": ["PROFILE.md", "portfolio-practice"],
-      "type": "transferable",
-      "last_seen": "2026",
-      "notes": "Strong commercial fit area; confirm certification URL when available."
     },
     {
       "skill": "DevOps transition base",
@@ -195,7 +185,7 @@
     },
     {
       "skill": "Data analytics engineering",
-      "match_terms": ["pandas", "analytics", "data engineering", "bi"],
+      "match_terms": ["pandas", "data engineering"],
       "evidence_strength": "moderate",
       "confidence": "low",
       "sources": ["dashpostgre"],

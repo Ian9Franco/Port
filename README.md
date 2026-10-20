@@ -4,8 +4,8 @@ Private career and opportunity workspace for finding, qualifying and tracking be
 
 Port has two parallel tracks:
 
-- **MAIN** — a stronger primary job, full-time or part-time, preferably aligned with development, automation, integrations, Growth Engineering or adjacent technical work
-- **SIDE** — remote freelance / contract / project work for additional income
+- **MAIN** — a stronger primary job, full-time or part-time, from zona oeste (Buenos Aires) now: Argentina-compatible remote, or hybrid/on-site in AMBA. The search is cross-field. Growth Engineering is one lens, not the boundary.
+- **SIDE** — remote freelance / contract / project work for additional income. Unknown or full-time listings do not take a SIDE slot.
 
 Application remains manual: Port does the search and preparation work; Ian makes the final decision and applies.
 
@@ -47,7 +47,7 @@ MAIN accepts:
 - selected contract roles
 - remote work compatible with Argentina
 - hybrid / on-site roles around Buenos Aires, CABA or GBA
-- Spain / Europe as a separate relocation watchlist
+- Valencia / Spain as a later move with family, not a generic Europe watchlist
 
 ## SIDE
 
@@ -59,15 +59,18 @@ SIDE is stricter:
 
 ## Focus
 
-- Zapier and workflow automation
-- APIs and webhooks
-- React / Next.js
-- Supabase
-- AI-assisted workflows
-- Growth Engineering / RevOps-adjacent technical work
-- Solutions and implementation roles
-- internal tools
-- scoped debugging and feature work
+The matcher reads `career/*.json`, not a single job title. Families:
+
+- Core: full-stack, product engineering, automation, integration, applied AI, internal tools
+- Adjacent: DevOps/platform, data/analytics, AppSec, solutions/implementation
+- Exploratory: SAP technical, cloud, cybersecurity, deeper Java — only when the gap is a tool or an ecosystem, and the gap stays visible
+
+Growth / RevOps and Zapier are lenses over the same evidence. Zapier is not treated as GitHub evidence until a credential URL is confirmed.
+
+Geography:
+
+- Now: zona oeste, Buenos Aires. Commute cost starts there. No municipality is stored.
+- Later: Valencia, Spain, with family. Not an immediate move and not a generic EU search.
 
 ## Repository map
 

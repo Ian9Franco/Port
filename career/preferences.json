@@ -24,7 +24,11 @@
       "location": {
         "accept_remote_argentina_compatible": true,
         "accept_local_hybrid_onsite_gba": true,
-        "relocation_watchlist": ["Spain", "Europe"]
+        "home": "zona oeste, Buenos Aires",
+        "municipality": null,
+        "relocation_watchlist": ["Valencia", "Spain"],
+        "relocation_timing": "future_with_family",
+        "relocation_not_generic_eu": true
       }
     },
     "side": {

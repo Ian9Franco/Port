@@ -2,6 +2,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { loadCareerModel } from "./load-career-model.mjs";
+import { termMatches } from "./text-match.mjs";
 
 const APPLICATIONS_ROOT = "applications";
 const COMPILE_STATUSES = new Set(["shortlisted", "prepared"]);
@@ -28,11 +29,9 @@ function normalizedText(...parts) {
 
 function requirementSplit(job, matcherProfile) {
   const body = normalizedText(job.title, job.description, ...(job.tags ?? []));
-  const required = (matcherProfile.requirement_terms ?? []).filter(term => body.includes(term.toLowerCase()));
+  const required = (matcherProfile.requirement_terms ?? []).filter(term => termMatches(body, term));
   const known = matcherProfile.known_skills ?? [];
-  const emphasize = required.filter(term =>
-    known.some(skill => skill === term || skill.includes(term) || term.includes(skill))
-  );
+  const emphasize = required.filter(term => known.some(skill => skill === term));
   const verify = required.filter(term => !emphasize.includes(term));
   return {
     emphasize: [...new Set(emphasize)],
@@ -45,7 +44,7 @@ function matchedCapabilities(job, careerModel) {
   const capabilities = careerModel.github_evidence?.capabilities ?? [];
   return capabilities.filter(cap => {
     const terms = [cap.skill, ...(cap.match_terms ?? []), ...(cap.aliases ?? [])].map(t => t.toLowerCase());
-    return terms.some(term => body.includes(term));
+    return terms.some(term => term.length > 2 && termMatches(body, term));
   });
 }
 
@@ -159,7 +158,7 @@ function buildCvMd(job, careerModel, req) {
     "",
     employment.positioning ?? "Growth Engineer & full-stack developer focused on automation, integrations, and product execution.",
     "",
-    "Angle for **" + job.title + "** at **" + job.company + "**: connect shipped automation, integrations, and product work to the outcomes this listing describes — without overstating stack depth.",
+    "Angle for **" + job.title + "** at **" + job.company + "**: reorder the same verified projects. Growth/Zapier is a lens, not the identity. Do not claim seniority the evidence does not show.",
     "",
     "## Emphasize (listing overlap)",
     ""

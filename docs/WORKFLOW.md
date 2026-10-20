@@ -1,55 +1,56 @@
 # Workflow
 
-## 1. Capture
+Port prepares. Ian decides. Nothing in this repo submits an application.
 
-Add each interesting lead to `data/opportunities.json`.
-
-Suggested fields:
-
-```json
-{
-  "id": "source-001",
-  "source": "Upwork",
-  "url": "",
-  "title": "",
-  "client": "",
-  "description": "",
-  "budget": "",
-  "fit": 0,
-  "budget_score": 0,
-  "clarity": 0,
-  "speed": 0,
-  "portfolio_value": 0,
-  "close_probability": 0,
-  "total": 0,
-  "status": "new",
-  "notes": ""
-}
-```
-
-## 2. Score
-
-The **Opportunity Radar** (`node scripts/fetch-opportunities.mjs`) scores MAIN/SIDE automatically and writes `data/opportunities.json`.
-
-For legacy manual leads that still use the older numeric rubric (`fit`, `budget_score`, …), run:
+The only writer of `data/opportunities.json` is the Opportunity Radar:
 
 ```bash
-node scripts/score-opportunity.mjs data/opportunities.json
+node scripts/fetch-opportunities.mjs
 ```
 
-## 3. Qualify
+`scripts/score-opportunity.mjs` is retired. It exits without touching the database. The old freelance rubric (`fit`, `budget_score`, `clarity`, `speed`) is not part of the ranking.
 
-For high-scoring leads:
+## 1. Radar
 
-- identify the actual business outcome
-- estimate the smallest useful scope
-- identify access or technical risks
-- prepare a tailored proposal
-- avoid generic copy-paste applications
+Each run:
 
-## 4. Shortlist → Application Compiler
+1. fetches Remotive, Arbeitnow, Get on Board, RemoteOK, Jobicy, and Himalayas
+2. classifies place: Argentina-compatible remote, AMBA/Argentina on-site, Valencia/Spain later, or out of scope
+3. scores with the Potential Matcher against `career/*.json`
+4. keeps a wider universe and writes at most 3 MAIN and 3 SIDE picks
+5. writes a Valencia/Spain relocation watch that is not a current move and not generic Europe
 
-When an opportunity `status` is **`shortlisted`** or **`prepared`**, the radar (or manual CLI) generates:
+Keyword overlap does not put a job into the universe or the short list.
+
+## 2. Read
+
+- `reports/latest.md` — short list, with evidence sources, gaps, seniority, and salary next to the unconfirmed floor
+- `reports/all-candidates.md` — the rest of the curated set
+- `reports/application-prep.md` — what to emphasize and what is still unknown
+- the private UI in `web/` reads the same JSON
+
+On-site Chile (and other countries) are not kept as if they were a commute from zona oeste.
+
+## 3. Decide
+
+Statuses in `config/tracking.json`:
+
+```text
+new → reviewing → shortlisted → prepared → applied → replied → interview → offer → won
+                                                      ↘ lost / skipped
+```
+
+```bash
+node scripts/opportunity-track.mjs status <id> shortlisted --cv applications/.../cv.md --note "..."
+node scripts/opportunity-track.mjs feedback <id> shortlist --note "esto sí"
+node scripts/opportunity-track.mjs report
+```
+
+One note does not permanently rewrite the matcher. A test event must not be left in `data/feedback.json`.
+
+## 4. Prepare
+
+When status is `shortlisted` or `prepared`, the radar writes:
 
 ```text
 applications/<company-role>/
@@ -62,51 +63,13 @@ applications/<company-role>/
   interview-prep.md
 ```
 
-Automatic: every successful radar run refreshes bundles for shortlisted rows.
-
-Manual:
-
 ```bash
 node scripts/compile-application.mjs
-node scripts/compile-application.mjs <opportunity-id>   # one-off compile (ignores status)
+node scripts/compile-application.mjs <opportunity-id>
 ```
 
-The compiler adapts emphasis and ordering only — it must not invent employers, years, or tools.
+The compiler changes order and emphasis. It does not add employers, years, or tools.
 
 ## 5. Apply
 
-Use the templates as a base, but rewrite the first paragraph and implementation plan for every opportunity.
-
-## 6. Track
-
-Statuses (`config/tracking.json`):
-
-```text
-new → reviewing → shortlisted → prepared → applied → replied → interview → offer → won
-                                                      ↘ lost / skipped
-```
-
-CLI:
-
-```bash
-node scripts/opportunity-track.mjs status <id> shortlisted --cv applications/.../cv.md --note "..."
-node scripts/opportunity-track.mjs feedback <id> shortlist --note "esto sí"
-node scripts/opportunity-track.mjs report
-```
-
-Signals for feedback (`data/feedback.json`): `skip`, `reject`, `save`, `shortlist`, `apply`, `interview`, `offer`, `won`. Adjustments are damped and explained — one event does not permanently rewrite the matcher.
-
-Each opportunity stores `tracking.cv_used`, `tracking.contact`, `tracking.salary_offered`, `tracking.feedback`, `tracking.applied_at`, and `tracking.history[]`.
-
-## 7. Learn
-
-For every reply or rejection, capture what changed:
-
-- price
-- proposal angle
-- platform
-- project type
-- client size
-- response time
-
-The goal is to learn which type of work closes fastest and pays best for the available time.
+Rewrite the opening for the specific listing. Use the original URL. For Himalayas, use the application link stored on the row.

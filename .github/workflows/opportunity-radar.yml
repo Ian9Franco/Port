@@ -38,6 +38,14 @@ jobs:
           node --check scripts/feedback-loop.mjs
           node --check scripts/opportunity-track.mjs
           node --check scripts/fetch-opportunities.mjs
+          node --check scripts/text-match.mjs
+          node --check scripts/employment.mjs
+          node --check scripts/geography.mjs
+          node --check scripts/role-dedupe.mjs
+          node --check scripts/check-radar-logic.mjs
+
+      - name: Radar logic checks
+        run: node scripts/check-radar-logic.mjs
 
       - name: Fetch and rank opportunities
         id: fetch

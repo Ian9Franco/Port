@@ -171,9 +171,13 @@ The user is highly flexible about work modality because technical growth is a pr
 
 ### Geographic context supplied by the user
 
-- lives in Zona Oeste, Greater Buenos Aires
-- current job is in Ramos Mejía and the commute is acceptable
-- a role in Microcentro or another more distant area should be evaluated case-by-case
+- lives in zona oeste, Buenos Aires
+- no finer municipality is known; do not invent one
+- commute cost starts at zona oeste
+- current job is in Ramos Mejía and that commute is acceptable
+- a role elsewhere in AMBA is ranked by commute cost, not rejected by a radius
+- family is in Valencia, Spain
+- emigration is a future possibility together with that family, not an immediate move and not a generic EU destination
 
 ### Commute ranking rule
 

@@ -4,9 +4,9 @@
 
 ## Positioning
 
-Growth Engineer & Full-Stack Developer focused on automation, integrations, internal tools and product execution.
+Product-oriented software engineer. The canonical facts for matching live in `career/*.json`. This file is the human summary.
 
-The career goal is not to abandon marketing entirely. It is to move toward roles where technical implementation is central, while retaining growth and marketing knowledge as a differentiator.
+The search is not anchored to one title. Full-stack, automation, integration, data, and applied AI are all in play. Growth and marketing stay as a differentiator and as one CV lens. They are not the identity and not the edge of the search.
 
 ## Strong fit
 
@@ -35,15 +35,16 @@ The career goal is not to abandon marketing entirely. It is to move toward roles
 
 - Portfolio: https://ian-pontorno-portfolio.vercel.app/
 - GitHub: https://github.com/Ian9Franco
-- Zapier certification: add credential URL/details when available
+- Zapier certification: not matcher evidence until a credential URL is confirmed (`career/certifications.json`)
 - Flagship project: MIM / FOMO Hub
 
 ## Availability strategy
 
-Two parallel searches:
+Two parallel searches, plus a later move:
 
-1. flexible freelance / contract work for additional income
-2. stronger full-time or part-time employment aligned with the technical profile
+1. MAIN now, from zona oeste, Buenos Aires (municipality unknown): Argentina-compatible remote, or hybrid/on-site in AMBA
+2. SIDE: remote freelance, contract, or bounded part-time that can sit beside MAIN
+3. Later, not now: Valencia / Spain with family. Generic Europe is not the destination.
 
 ## Selling principle
 
