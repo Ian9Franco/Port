@@ -3,8 +3,10 @@ import crypto from "node:crypto";
 import { loadCareerModel } from "./load-career-model.mjs";
 import { evaluatePotential } from "./potential-matcher.mjs";
 import { normalizeEmployment } from "./employment.mjs";
+import { publishedVenue, venueLocation } from "./commute.mjs";
 import { classifyAccess } from "./geography.mjs";
-import { collapseNearDuplicates } from "./role-dedupe.mjs";
+import { shortList } from "./role-dedupe.mjs";
+import { parseSalary } from "./salary.mjs";
 import { termMatches } from "./text-match.mjs";
 import { applyTrustToOpportunity, markDuplicateClusters } from "./trust-layer.mjs";
 import { compileShortlistedApplications } from "./compile-application.mjs";
@@ -303,8 +305,7 @@ function getOnBoardSalary(attr) {
   const min = attr.min_salary;
   const max = attr.max_salary;
   if (min || max) {
-    return [min, max].filter(value => value !== null && value !== undefined && value !== "").join("-")
-      + " (cifra de Get on Board, moneda no confirmada)";
+    return [min, max].filter(value => value !== null && value !== undefined && value !== "").join("-");
   }
   return "";
 }
@@ -333,6 +334,8 @@ async function fetchGetOnBoard() {
       url.searchParams.append("expand[]", "modality");
       url.searchParams.append("expand[]", "seniority");
       url.searchParams.append("expand[]", "tags");
+      url.searchParams.append("expand[]", "location_cities");
+      url.searchParams.append("expand[]", "location_tenants");
       url.searchParams.set("page", String(page));
 
       const payload = await fetchJson(url, { retries: 4, timeoutMs: 60_000 });
@@ -350,15 +353,17 @@ async function fetchGetOnBoard() {
         seen.add(publicUrl);
 
         const countries = namedCountries(attr);
+        const venue = publishedVenue(attr);
         const company = attr.company?.data?.attributes?.name ?? "Get on Board";
         const remote = getOnBoardRemote(attr);
-        const location = countries.join(", ") || "Remote";
+        const location = venueLocation(venue, countries);
         const workplace = attr.remote_modality === "hybrid"
           ? "hybrid"
           : remote
             ? "remote"
             : "onsite";
         const narrative = [attr.description, attr.functions, attr.desirable].filter(Boolean).join("\n");
+        const salary = getOnBoardSalary(attr);
 
         jobs.push({
           id: stableId("getonboard", item.id, publicUrl),
@@ -370,12 +375,16 @@ async function fetchGetOnBoard() {
           company: String(company),
           location,
           place_text: location,
+          venue,
           remote,
           workplace,
           seniority: attr.seniority?.data?.attributes?.name ?? "",
           employment_type: normalizeEmployment(attr.modality),
           published_at: parseDate(attr.published_at),
-          salary: getOnBoardSalary(attr),
+          salary,
+          salary_value: parseSalary(salary, "getonboard"),
+          mandatory_text: typeof attr.functions === "string" ? attr.functions : "",
+          desirable_text: typeof attr.desirable === "string" ? attr.desirable : "",
           tags: [category.id, ...tagNames(attr)],
           ...boundDescription(narrative)
         });
@@ -543,10 +552,8 @@ function escapeMd(value = "") {
 }
 
 function topEligible(opportunities, predicate, scoreKey, limit) {
-  const ranked = opportunities
-    .filter(job => predicate(job) && !isTerminalStatus(job.status, trackingConfig))
-    .sort((a, b) => b[scoreKey] - a[scoreKey] || String(b.published_at).localeCompare(String(a.published_at)));
-  return collapseNearDuplicates(ranked, scoreKey).slice(0, limit);
+  const ranked = opportunities.filter(job => predicate(job) && !isTerminalStatus(job.status, trackingConfig));
+  return shortList(ranked, scoreKey, limit, "score");
 }
 
 function reasonFor(job, track) {
@@ -591,7 +598,7 @@ function buildTopTable(rows, track) {
       " | [" + escapeMd(job.title) + "](" + job.url + ")" +
       " | " + escapeMd(job.company) +
       " | " + escapeMd(job.workplace + " · " + (job.location || "sin ubicación")) +
-      " | " + escapeMd(reasonFor(job, track)) + " |"
+      " | " + escapeMd(reasonFor(job, track) + (job.merged_urls?.length ? " · fusiona " + job.merged_urls.join(", ") : "")) + " |"
     );
   }
 
@@ -600,12 +607,12 @@ function buildTopTable(rows, track) {
 }
 
 function buildLatestReport(opportunities, topMain, topSide, sourceStats, generatedAt) {
-  const relocation = collapseNearDuplicates(
-    opportunities
-      .filter(job => job.relocation_watch)
-      .sort((a, b) => b.main_score - a.main_score || (b.potential?.career_potential ?? 0) - (a.potential?.career_potential ?? 0)),
-    "main_score"
-  ).slice(0, 5);
+  const relocation = shortList(
+    opportunities.filter(job => job.relocation_watch),
+    "main_score",
+    5,
+    "title"
+  );
 
   const lines = [
     "# Port — Opportunity Radar",
@@ -630,13 +637,14 @@ function buildLatestReport(opportunities, topMain, topSide, sourceStats, generat
     "",
     "## Relocation watch",
     "",
-    "Valencia y España, para una mudanza posterior con la familia. No es un traslado inmediato ni un destino europeo genérico. El viaje de hoy se mide desde zona oeste, Buenos Aires.",
+    "Valencia y España, para una mudanza posterior con la familia. La ventana de mudanza sigue unknown: esta lista no rankea el viaje como inminente.",
     ""
   ];
 
   if (relocation.length) {
     for (const job of relocation) {
-      lines.push("- [" + escapeMd(job.title) + "](" + job.url + ") — " + escapeMd(job.company) + " · " + escapeMd(job.location) + " · MAIN " + job.main_score);
+      const merged = job.merged_urls?.length ? " · fusiona " + job.merged_urls.join(", ") : "";
+      lines.push("- [" + escapeMd(job.title) + "](" + job.url + ") — " + escapeMd(job.company) + " · " + escapeMd(job.location) + " · not_yet_ordered" + merged);
     }
   } else {
     lines.push("Sin candidatos de relocalización fuertes en esta corrida.");
@@ -797,6 +805,7 @@ if (!fetched.length && failures.length === sourceResults.length) {
 const opportunities = dedupe(fetched)
   .map(job => {
     const legacy = scoreOpportunity(job);
+    if (!job.salary_value) job.salary_value = parseSalary(job.salary, job.source);
     const potential = evaluatePotential(job, {
       careerModel,
       matcherProfile,
@@ -856,6 +865,21 @@ const topSide = topEligible(
   "side_score",
   config.tracks.side.top_picks
 );
+
+const watchList = shortList(
+  opportunities.filter(job => job.relocation_watch),
+  "main_score",
+  5,
+  "title"
+);
+
+for (const row of [...topMain, ...topSide, ...watchList]) {
+  const original = opportunities.find(job => job.id === row.id);
+  if (!original) continue;
+  original.merged_urls = row.merged_urls ?? [];
+  original.listing_identity = row.listing_identity ?? null;
+  original.blocking_key = row.blocking_key ?? null;
+}
 
 await fs.mkdir("reports", { recursive: true });
 

@@ -92,21 +92,43 @@ export function commuteBurden(access) {
   return 70;
 }
 
-export function relocationScore(text, access, geo) {
-  let score = access === "relocation-watch" ? 58 : 18;
-  if (mentionsValencia(text, geo)) score += 28;
-  else if (spainOrValencia(text, geo)) score += 16;
-  const moveSignal = matchesAnyTerm(text, geo.relocation_signals);
-  if (moveSignal && spainOrValencia(text, geo)) score += 10;
-  if (geo.relocation?.with_family && access === "relocation-watch") score += 4;
-  return Math.max(0, Math.min(100, Math.round(score)));
-}
+const WORLDWIDE_TERMS = ["worldwide", "anywhere", "global"];
+const LATAM_TERMS = ["latin america", "latam", "south america", "americas", "argentina"];
 
-export function salaryComparisonNote(job, constraints) {
-  const listed = String(job?.salary ?? "").trim();
-  const main = constraints?.compensation?.main ?? {};
-  const floor = main.minimum_monthly_baseline ?? "sin piso";
-  const currency = main.currency ?? "to_confirm";
-  const shown = listed || "no indicado";
-  return "salario del aviso: " + shown + " · piso MAIN ~" + floor + " (moneda " + currency + ", no filtra)";
+/**
+ * Two independent booleans. "Europe" is not Spain.
+ * Bridge is both true: workable now and still legal after Valencia.
+ */
+export function placeFlags(job, config) {
+  const geo = config?.geography;
+  if (!geo) throw new Error("config.geography is required");
+  const text = placeText(job);
+  const remote = job?.remote === true;
+  const worldwide = matchesAnyTerm(text, WORLDWIDE_TERMS);
+  const latam = matchesAnyTerm(text, LATAM_TERMS);
+  const local = matchesAnyTerm(text, geo.local_onsite_terms);
+  const countryArgentina = matchesAnyTerm(text, geo.argentina_country_terms);
+  const spain = spainOrValencia(text, geo);
+
+  let workFrom = false;
+  let workAfter = false;
+
+  if (remote && bareRemote(text)) {
+    workFrom = true;
+  } else if (remote && worldwide) {
+    workFrom = true;
+    workAfter = true;
+  } else if (!remote) {
+    if (local || countryArgentina) workFrom = true;
+    if (spain) workAfter = true;
+  } else {
+    if (latam || countryArgentina) workFrom = true;
+    if (spain) workAfter = true;
+  }
+
+  return {
+    work_from_zona_oeste: workFrom,
+    work_after_valencia: workAfter,
+    place_bridge: workFrom && workAfter
+  };
 }

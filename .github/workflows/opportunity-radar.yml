@@ -42,6 +42,11 @@ jobs:
           node --check scripts/employment.mjs
           node --check scripts/geography.mjs
           node --check scripts/role-dedupe.mjs
+          node --check scripts/requirements.mjs
+          node --check scripts/commute.mjs
+          node --check scripts/salary.mjs
+          node --check scripts/sap-grammar.mjs
+          node --check scripts/move-window.mjs
           node --check scripts/check-radar-logic.mjs
 
       - name: Radar logic checks

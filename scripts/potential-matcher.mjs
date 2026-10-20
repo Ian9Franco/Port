@@ -1,5 +1,10 @@
+import { explainCommute } from "./commute.mjs";
 import { confirmedSideNature } from "./employment.mjs";
-import { commuteBurden, commuteNote, placeText, relocationScore, salaryComparisonNote, spainOrValencia } from "./geography.mjs";
+import { commuteBurden, placeFlags } from "./geography.mjs";
+import { parseListingWindow, readMoveWindow, relocationValue } from "./move-window.mjs";
+import { splitRequirements } from "./requirements.mjs";
+import { compareSalary, floorFromConstraints, parseSalary, salaryComparisonNote } from "./salary.mjs";
+import { classifySap } from "./sap-grammar.mjs";
 import { termMatches } from "./text-match.mjs";
 
 const CONFIDENCE_SCORE = { low: 45, medium: 68, high: 85, unknown: 50 };
@@ -67,6 +72,7 @@ const SENIORITY_LEVELS = [
 ];
 
 const REPETITIVE_PATTERNS = ["data entry", "ticket queue", "wordpress maintenance", "paid media", "call center"];
+const UNREAD_FIT_CEILING = 40;
 
 const GAP_LABEL = {
   tool: "herramienta",
@@ -126,6 +132,23 @@ function classifyGap(term) {
     if (rule.patterns.some(pattern => textHas(term, pattern) || textHas(pattern, term))) return rule.type;
   }
   return "tool";
+}
+
+function classifyRequirementGap(item) {
+  for (const rule of GAP_CLASSIFIERS) {
+    if (rule.patterns.some(pattern => textHas(item, pattern))) return rule.type;
+  }
+  return "unknown";
+}
+
+function requirementCovered(item, capabilities) {
+  for (const cap of capabilities) {
+    if (cap.type !== "direct" && cap.type !== "work") continue;
+    for (const term of capabilityTerms(cap)) {
+      if (textHas(item, term)) return true;
+    }
+  }
+  return false;
 }
 
 function extractRequirementTerms(bodyText, requirementTerms) {
@@ -218,12 +241,13 @@ function buildRankScore(dimensions, track) {
   const weights = track === "main"
     ? { current_fit: 0.22, transferability: 0.18, career_potential: 0.2, evidence_confidence: 0.12, relocation_value: 0.1, workstyle_fit: 0.08, gap_cost: 0.1 }
     : { current_fit: 0.2, transferability: 0.12, career_potential: 0.1, evidence_confidence: 0.1, relocation_value: 0.02, workstyle_fit: 0.18, gap_cost: 0.08 };
+  const relocationComponent = typeof dimensions.relocation_value === "number" ? dimensions.relocation_value : 0;
   const composite =
     dimensions.current_fit * weights.current_fit +
     dimensions.transferability * weights.transferability +
     dimensions.career_potential * weights.career_potential +
     dimensions.evidence_confidence_score * weights.evidence_confidence +
-    dimensions.relocation_value * weights.relocation_value +
+    relocationComponent * weights.relocation_value +
     dimensions.workstyle_fit * weights.workstyle_fit +
     dimensions.gap_cost_score * weights.gap_cost;
   return clamp(composite);
@@ -248,14 +272,22 @@ export function evaluatePotential(job, context) {
   const capabilities = [...githubCaps, ...workEvidenceCaps(careerModel.employment_evidence)];
   const constraints = careerModel.constraints ?? {};
   const byTerm = capabilityIndex(capabilities);
-  const geo = config.geography;
 
   const titleText = normalizedText(job.title, job.seniority);
-  const bodyText = normalizedText(job.title, job.seniority, job.description, ...(job.tags ?? []));
+  const bodyText = normalizedText(
+    job.title,
+    job.seniority,
+    job.description,
+    job.mandatory_text,
+    ...(job.mandatory_requirements ?? []),
+    job.desirable_text,
+    ...(job.desirable_requirements ?? []),
+    ...(job.tags ?? [])
+  );
   const requirementTerms = (matcherProfile.requirement_terms ?? []).map(term => term.toLowerCase());
   const knownSkills = new Set((matcherProfile.known_skills ?? []).map(skill => skill.toLowerCase()));
 
-  const roleFamilies = detectRoleFamilies(titleText, bodyText);
+  let roleFamilies = detectRoleFamilies(titleText, bodyText);
   const mentioned = extractRequirementTerms(bodyText, requirementTerms);
   const direct = [];
   const transferable = [];
@@ -315,14 +347,7 @@ export function evaluatePotential(job, context) {
   const distinctSkills = new Set(technicalDirect.map(item => item.skill)).size;
   const weightedDirect = technicalDirect.reduce((sum, item) => sum + item.weight, 0);
   const weightedTransfer = transferable.reduce((sum, item) => sum + item.weight, 0);
-  const concreteGaps = gaps.filter(gap => gap.type !== "unknown");
-  const denom = Math.max(1, weightedDirect + weightedTransfer + concreteGaps.length);
-
-  let currentFit = clamp((weightedDirect / denom) * 100);
-  let transferability = clamp(((weightedDirect * 0.8 + weightedTransfer) / denom) * 100);
-  if (distinctSkills === 0) currentFit = Math.min(currentFit, 32);
-  else if (distinctSkills === 1) currentFit = Math.min(currentFit, 58);
-  else currentFit = Math.min(currentFit, 86);
+  let transferability = clamp(((weightedDirect * 0.8 + weightedTransfer) / Math.max(1, weightedDirect + weightedTransfer + gaps.filter(gap => gap.type !== "unknown").length)) * 100);
 
   for (const family of roleFamilies) {
     const bridgeName = FAMILY_BRIDGE[family];
@@ -331,17 +356,46 @@ export function evaluatePotential(job, context) {
     }
   }
 
-  const readSomething = technicalDirect.length + transferable.length + concreteGaps.length > 0;
-  const incomplete = job.description_truncated === true || !readSomething;
-  if (!readSomething) {
+  const requirements = splitRequirements(job);
+  const uncoveredMandatory = [];
+  let coveredMandatory = 0;
+  let currentFit;
+  if (requirements.status === "unread") {
+    currentFit = Math.min(clamp((weightedDirect / Math.max(1, weightedDirect + gaps.length)) * 100), UNREAD_FIT_CEILING);
+    gaps.push({ term: "requisitos obligatorios no leídos", type: "unknown" });
+    reasons.push("fit: requisitos obligatorios no leídos; techo " + UNREAD_FIT_CEILING);
+  } else {
+    for (const item of requirements.mandatory) {
+      if (requirementCovered(item, capabilities)) coveredMandatory += 1;
+      else uncoveredMandatory.push(item);
+    }
+    currentFit = clamp((coveredMandatory / requirements.mandatory.length) * 100);
+    for (const item of uncoveredMandatory) {
+      const type = classifyRequirementGap(item);
+      if (!gaps.some(gap => gap.term === item)) gaps.push({ term: item, type });
+    }
+    reasons.push("fit: " + coveredMandatory + "/" + requirements.mandatory.length + " obligatorios");
+  }
+
+  const requirementBlob = requirements.mandatory.join(" ") || String(job.description ?? "").slice(0, 600);
+  const sapKind = classifySap(job.title + " " + (job.seniority ?? ""), requirementBlob);
+  if (sapKind === "sap_functional") {
+    roleFamilies = roleFamilies.filter(id => id !== "sap");
+    if (!roleFamilies.includes("sap_functional")) roleFamilies.push("sap_functional");
+  }
+  if (sapKind === "sap_technical") {
+    if (!roleFamilies.includes("sap")) roleFamilies.push("sap");
+    if (!gaps.some(gap => gap.term === "producto SAP")) gaps.push({ term: "producto SAP", type: "ecosystem" });
+    reasons.push("- gap ecosistema: producto SAP");
+  }
+
+  if (!technicalDirect.length && !transferable.length && !gaps.some(gap => gap.type !== "unknown")) {
     gaps.push({ term: "requisitos distinguibles no identificados en el texto leído", type: "unknown" });
-    currentFit = Math.min(currentFit, 35);
     transferability = Math.min(transferability, 40);
-  } else if (!concreteGaps.length) {
-    gaps.push({ term: "no aparecieron gaps de la lista vigilada; puede haber requisitos que el vocabulario no nombra", type: "unknown" });
   }
   if (job.description_truncated === true) {
     gaps.push({ term: "descripción cortada: la lista de requisitos está incompleta", type: "unknown" });
+    if (requirements.status === "unread") currentFit = Math.min(currentFit, UNREAD_FIT_CEILING);
   }
 
   const seniority = seniorityAsk(job, titleText);
@@ -350,21 +404,29 @@ export function evaluatePotential(job, context) {
     reasons.push("- seniority: el aviso pide " + seniority.label + "; la evidencia es de proyecto o curso, no seniority profesional confirmado");
   }
 
+  const concreteGaps = gaps.filter(gap => gap.type !== "unknown");
   let gapCostScore = clamp(100 - gapPenalty(gaps));
   let gapCost = concreteGaps.length ? gapCostLabel(gapCostScore) : "unknown";
-  if (incomplete && gapCost === "low") gapCost = "unknown";
+  const incompleteList = requirements.status === "unread" || job.description_truncated === true || uncoveredMandatory.length > 0;
+  if (incompleteList && gapCost === "low") gapCost = requirements.status === "read" && uncoveredMandatory.length ? "medium" : "unknown";
   if (gapCost === "unknown") gapCostScore = Math.min(gapCostScore, 60);
 
   let evidenceScore = confidenceCount ? clamp(confidenceTotal / confidenceCount) : 40;
   if (usedUncalibrated) evidenceScore = Math.min(evidenceScore, 54);
   if (usedUncalibrated) reasons.push("- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró");
 
-  const places = placeText(job);
   const careerPotential = careerPotentialScore(roleFamilies, githubCaps);
-  const relocationValue = relocationScore(places, access, geo);
+  const flags = placeFlags(job, config);
+  const listingWindow = parseListingWindow(normalizedText(job.title, job.description));
+  const moveWindow = readMoveWindow(constraints);
+  const relocationOrder = relocationValue(moveWindow, listingWindow);
   const compensationFit = 50;
+  const salaryValue = job.salary_value?.status ? parseSalary(job.salary_value, job.source) : parseSalary(job.salary, job.source);
+  const salaryComparison = compareSalary(salaryValue, floorFromConstraints(constraints));
   const workstyleFit = scoreWorkstyle(bodyText, constraints);
   const burden = commuteBurden(access);
+  const trip = explainCommute(job, config, flags);
+  if (flags.place_bridge) reasons.push("puente: sirve desde zona oeste y sigue siendo posible después de Valencia");
 
   for (const gap of gaps.filter(item => item.type !== "unknown").slice(0, 5)) {
     reasons.push("- gap " + (GAP_LABEL[gap.type] ?? gap.type) + ": " + gap.term);
@@ -373,7 +435,7 @@ export function evaluatePotential(job, context) {
     reasons.push("- gap desconocido: " + gap.term);
   }
   if (roleFamilies.length) reasons.push("familias: " + roleFamilies.join(", "));
-  reasons.push(commuteNote(access, config));
+  reasons.push(trip.note);
 
   const dimensions = {
     current_fit: currentFit,
@@ -383,12 +445,15 @@ export function evaluatePotential(job, context) {
     evidence_confidence: evidenceConfidenceLabel(evidenceScore),
     evidence_confidence_score: evidenceScore,
     career_potential: careerPotential,
-    relocation_value: relocationValue,
+    relocation_value: relocationOrder,
     compensation_fit: compensationFit,
-    compensation_note: salaryComparisonNote(job, constraints),
+    compensation_note: salaryComparisonNote({ ...job, salary_value: salaryValue }, constraints),
+    salary_comparison: salaryComparison.status,
     workstyle_fit: workstyleFit,
     commute_burden: burden,
-    commute_note: commuteNote(access, config)
+    commute_note: trip.note,
+    commute_status: trip.status,
+    commute_km: trip.km
   };
 
   const mainRank = buildRankScore(dimensions, "main") - clamp(burden * 0.12);
@@ -397,7 +462,8 @@ export function evaluatePotential(job, context) {
   const learnable = concreteGaps.every(gap => gap.type === "tool" || gap.type === "ecosystem");
   const transitionFamilies = new Set(["devops", "cloud", "data", "sap", "security"]);
   const transitionDiscovery = roleFamilies.some(id => transitionFamilies.has(id));
-  const usablePlace = ["remote-now", "remote-unclear", "local-onsite", "relocation-watch"].includes(access);
+  const spainWatch = flags.work_after_valencia && !flags.work_from_zona_oeste;
+  const usablePlace = ["remote-now", "remote-unclear", "local-onsite", "relocation-watch"].includes(access) || spainWatch;
 
   const transitionFriendly =
     transferability >= 48 &&
@@ -408,40 +474,59 @@ export function evaluatePotential(job, context) {
 
   const technicalEnough = distinctSkills >= 2 || (transitionFriendly && distinctSkills + transferable.length >= 2);
 
-  const mainEligible =
+  let mainEligible =
     technicalEnough &&
+    flags.work_from_zona_oeste &&
     ["remote-now", "remote-unclear", "local-onsite"].includes(access) &&
     workstyleFit >= 40 &&
     (mainRank >= 52 || (transitionFriendly && currentFit >= 28));
 
-  const sideEligible =
+  let sideEligible =
     technicalEnough &&
     job.remote === true &&
+    flags.work_from_zona_oeste &&
     ["remote-now", "remote-unclear"].includes(access) &&
     confirmedSideNature(job) &&
     workstyleFit >= 40 &&
     sideRank >= 48;
 
-  const relocationWatch =
-    access === "relocation-watch" &&
-    spainOrValencia(places, geo) &&
+  let relocationWatch =
+    spainWatch &&
+    sapKind !== "sap_functional" &&
     !fundamental &&
     roleFamilies.length > 0 &&
     workstyleFit >= 45 &&
     (mainRank >= 50 || transitionFriendly);
 
-  const retain =
+  let retain =
     usablePlace &&
     (
       mainEligible ||
       sideEligible ||
       relocationWatch ||
-      (transitionDiscovery && transitionFriendly && learnable && (access === "remote-now" || access === "remote-unclear" || access === "local-onsite" || access === "relocation-watch"))
+      (transitionDiscovery && transitionFriendly && learnable && (flags.work_from_zona_oeste || spainWatch))
     );
+
+  if (sapKind === "sap_functional") {
+    mainEligible = false;
+    sideEligible = false;
+    relocationWatch = false;
+    retain = false;
+  }
 
   return {
     ...dimensions,
     role_families: roleFamilies,
+    requirements_status: requirements.status,
+    mandatory_requirements: requirements.mandatory,
+    desirable_requirements: requirements.desirable,
+    sap_kind: sapKind,
+    work_from_zona_oeste: flags.work_from_zona_oeste,
+    work_after_valencia: flags.work_after_valencia,
+    place_bridge: flags.place_bridge,
+    move_window: moveWindow === "unknown" ? "unknown" : moveWindow,
+    earliest_start: listingWindow.earliest_start,
+    must_start_before: listingWindow.must_start_before,
     reasons: [...new Set(reasons)].slice(0, 14),
     gaps,
     main_rank: clamp(mainRank),

@@ -109,7 +109,8 @@
       "with_family": true,
       "family_location": "Valencia, Spain",
       "preferred_places": ["Valencia", "Spain"],
-      "not_generic_eu": true
+      "not_generic_eu": true,
+      "move_window": "unknown"
     },
     "argentina_remote_terms": [
       "worldwide", "anywhere", "latin america", "latam", "argentina",

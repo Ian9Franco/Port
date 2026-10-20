@@ -4,9 +4,10 @@
   "compensation": {
     "main": {
       "minimum_monthly_baseline": 1000000,
-      "currency": "to_confirm",
-      "gross_or_net": "to_confirm",
-      "notes": "Approximately current salary level; normalize before automated filtering."
+      "currency": "ARS",
+      "period": "monthly",
+      "gross_or_net": "unknown",
+      "notes": "Floor is 1000000 ARS per month. Gross versus net is unknown. Only ARS amounts are compared; other currencies stay incomparable. Salary does not drop a listing."
     },
     "side": {
       "minimum": null,
@@ -28,7 +29,8 @@
     "family_location": "Valencia, Spain",
     "preferred_places": ["Valencia", "Spain"],
     "not_generic_eu": true,
-    "notes": "Emigration is a later move together with family in Valencia, not an immediate move and not a generic EU destination."
+    "move_window": "unknown",
+    "notes": "Emigration is a later move together with family in Valencia, not an immediate move and not a generic EU destination. move_window stays unknown until Ian gives a date or a range."
   },
   "modality": {
     "onsite_ft_acceptable": true,
