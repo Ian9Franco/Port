@@ -1,6 +1,14 @@
 # Huecos de lógica
 
-No están implementados. El trabajo de hoy deja el radar usable; estos mecanismos subirían la ingeniería del mismo objetivo: trabajo desde zona oeste ahora, y una mudanza posterior a Valencia con la familia.
+Los siete mecanismos están en el código. Sirven al mismo objetivo: trabajo desde zona oeste ahora, y una mudanza posterior a Valencia con la familia. El texto de cada sección es el diseño que esos scripts cumplen.
+
+1. Requisitos obligatorios y deseables: `scripts/requirements.mjs`
+2. Sede publicada y `commute`: `scripts/commute.mjs`
+3. `work_from_zona_oeste` y `work_after_valencia`: `scripts/geography.mjs`
+4. Salario tipado frente al piso en ARS: `scripts/salary.mjs`
+5. Gramática SAP técnica y funcional: `scripts/sap-grammar.mjs`
+6. Ventana de mudanza: `scripts/move-window.mjs`
+7. Clave de bloqueo empresa, familia y país: `scripts/role-dedupe.mjs`
 
 ## 1. El fit sigue siendo un cociente sobre el vocabulario propio
 
