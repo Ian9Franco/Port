@@ -1,10 +1,10 @@
 # Port — Opportunity Radar
 
-Generado: 2026-10-20T13:39:33.944Z
+Generado: 2026-10-20T20:01:53.158Z
 
 Modo de aplicación: **manual**. Port busca, filtra y prepara; Ian decide y aplica.
 
-Fuentes: Remotive (10), Arbeitnow (68), Get on Board (304), RemoteOK (99), Jobicy (42)
+Fuentes: Remotive (10), Arbeitnow (63), Get on Board (305), RemoteOK (99), Jobicy (42)
 
 ## MAIN — Top picks
 
@@ -12,9 +12,9 @@ Trabajo principal: full-time o part-time; remoto o presencial/híbrido si la ubi
 
 | Rank | Fit | Potencial | Rol | Empresa | Modalidad / ubicación | Por qué aparece |
 | ---: | ---: | ---: | --- | --- | --- | --- |
+| 73 | 91 | 90 | [Full-Stack Engineer - ElevenMusic](https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-elevenmusic-401054) | ElevenLabs | remote · Remote | Fit 91% · Potencial 90 · Transfer 42 · evidencia directa: Full-stack product engineering (full-stack); evidencia directa: API integrations (api) |
+| 73 | 91 | 90 | [Full-Stack Engineer (Backend Leaning) - CoreMusic](https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-coremusic-118556) | ElevenLabs | remote · Remote | Fit 91% · Potencial 90 · Transfer 42 · evidencia directa: Full-stack product engineering (full-stack); evidencia directa: API integrations (api) |
 | 73 | 91 | 90 | [Full-Stack Engineer - Creative Agents](https://jobicy.com/jobs/155941-full-stack-engineer-creative-agents) | Elevenlabs | remote · Anywhere | Fit 91% · Potencial 90 · Transfer 42 · evidencia directa: Full-stack product engineering (full-stack); evidencia directa: API integrations (api) |
-| 73 | 91 | 90 | [Full-Stack Engineer (Backend Leaning) - Creative Agents](https://jobicy.com/jobs/155939-full-stack-engineer-backend-leaning-creative-agents) | Elevenlabs | remote · Anywhere | Fit 91% · Potencial 90 · Transfer 42 · evidencia directa: Full-stack product engineering (full-stack); evidencia directa: API integrations (api) |
-| 73 | 100 | 90 | [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114) | Salesforge | remote · Remote | Fit 100% · Potencial 90 · Transfer 35 · evidencia directa: Applied AI integration (ai); evidencia directa: Automation and developer tooling (build) |
 
 ## SIDE — Top picks
 
@@ -34,7 +34,7 @@ Ingreso secundario: freelance, contrato, proyecto o part-time; **remoto obligato
 
 ## Cobertura
 
-- Universo curado guardado: **171** oportunidades.
+- Universo curado guardado: **176** oportunidades.
 - Top picks: máximo **3 MAIN** + **3 SIDE** por corrida.
 - Nada del universo curado se descarta silenciosamente: ver reports/all-candidates.md.
 - Para adaptar el CV sin inventar experiencia: ver reports/application-prep.md.
