@@ -19,8 +19,15 @@
     "getonboard": {
       "enabled": true,
       "base_url": "https://www.getonbrd.com/api/v0/categories",
-      "categories": ["programming", "machine-learning-ai", "operations-management"],
-      "pages": 2,
+      "categories": [
+        { "id": "programming", "pages": 2 },
+        { "id": "machine-learning-ai", "pages": 1 },
+        { "id": "operations-management", "pages": 1 },
+        { "id": "sysadmin-devops-qa", "pages": 1 },
+        { "id": "data-science-analytics", "pages": 1 },
+        { "id": "cybersecurity", "pages": 1 }
+      ],
+      "pages": 1,
       "per_page": 100,
       "trust": "official_public_api"
     },
@@ -38,35 +45,45 @@
       "geo": "anywhere",
       "trust": "official_public_api",
       "attribution": "https://jobicy.com"
+    },
+    "himalayas": {
+      "enabled": true,
+      "endpoint": "https://himalayas.app/jobs/api/search",
+      "trust": "official_public_api",
+      "attribution": "https://himalayas.app",
+      "apply_via": "applicationLink",
+      "queries": [
+        { "q": "valencia", "country": "ES", "exclude_worldwide": true, "intent": "valencia-relocation" },
+        { "q": "sap", "country": "ES", "exclude_worldwide": true, "intent": "sap-spain" },
+        { "q": "devops", "country": "ES", "exclude_worldwide": true, "intent": "cloud-spain" },
+        { "q": "data engineer", "country": "ES", "exclude_worldwide": true, "intent": "data-spain" },
+        { "q": "SAP BTP", "intent": "sap-technical" }
+      ]
     }
   },
   "roles": {
+    "keyword_score_gates_retention": false,
     "positive_keywords": [
-      { "term": "zapier", "weight": 10 },
-      { "term": "automation", "weight": 7 },
-      { "term": "integration", "weight": 6 },
-      { "term": "workflow", "weight": 5 },
-      { "term": "supabase", "weight": 6 },
-      { "term": "growth engineer", "weight": 8 },
-      { "term": "revops", "weight": 6 },
-      { "term": "full stack", "weight": 5 },
-      { "term": "full-stack", "weight": 5 },
-      { "term": "next.js", "weight": 5 },
-      { "term": "nextjs", "weight": 5 },
-      { "term": "react", "weight": 4 },
-      { "term": "api", "weight": 4 },
-      { "term": "webhook", "weight": 5 },
-      { "term": "ai engineer", "weight": 5 },
-      { "term": "solutions engineer", "weight": 5 },
-      { "term": "implementation engineer", "weight": 5 },
-      { "term": "implementation specialist", "weight": 4 },
-      { "term": "technical marketing", "weight": 4 },
-      { "term": "marketing automation", "weight": 6 },
+      { "term": "full stack", "weight": 4 },
+      { "term": "full-stack", "weight": 4 },
+      { "term": "backend", "weight": 3 },
+      { "term": "next.js", "weight": 4 },
       { "term": "typescript", "weight": 3 },
-      { "term": "javascript", "weight": 3 },
-      { "term": "node.js", "weight": 3 },
-      { "term": "nodejs", "weight": 3 },
-      { "term": "crm", "weight": 3 }
+      { "term": "automation", "weight": 4 },
+      { "term": "integration", "weight": 4 },
+      { "term": "webhook", "weight": 4 },
+      { "term": "devops", "weight": 4 },
+      { "term": "platform engineer", "weight": 4 },
+      { "term": "data engineer", "weight": 4 },
+      { "term": "analytics engineer", "weight": 4 },
+      { "term": "cloud engineer", "weight": 4 },
+      { "term": "sap btp", "weight": 4 },
+      { "term": "security engineer", "weight": 3 },
+      { "term": "ai engineer", "weight": 3 },
+      { "term": "growth engineer", "weight": 3 },
+      { "term": "zapier", "weight": 3 },
+      { "term": "react", "weight": 3 },
+      { "term": "supabase", "weight": 3 }
     ],
     "negative_keywords": [
       { "term": "data entry", "weight": -10 },
@@ -78,15 +95,38 @@
       { "term": "principal", "weight": -4 }
     ]
   },
-  "location": {
-    "remote_now_terms": [
+  "geography": {
+    "home": {
+      "label": "zona oeste, Buenos Aires",
+      "metro": "Buenos Aires",
+      "country": "Argentina",
+      "municipality": null,
+      "commute_cost_starts_here": true
+    },
+    "relocation": {
+      "timing": "future_with_family",
+      "immediate": false,
+      "with_family": true,
+      "family_location": "Valencia, Spain",
+      "preferred_places": ["Valencia", "Spain"],
+      "not_generic_eu": true,
+      "move_window": "unknown"
+    },
+    "argentina_remote_terms": [
       "worldwide", "anywhere", "latin america", "latam", "argentina",
       "south america", "americas", "global"
     ],
-    "local_area_terms": [
-      "buenos aires", "caba", "capital federal", "gba", "gran buenos aires", "la matanza"
+    "argentina_country_terms": ["argentina"],
+    "local_onsite_terms": [
+      "buenos aires", "caba", "capital federal", "gba", "gran buenos aires",
+      "zona oeste", "amba"
     ],
-    "relocation_terms": ["europe", "european union", "eu", "spain", "españa"]
+    "spain_terms": ["spain", "españa", "espana"],
+    "valencia_terms": ["valencia"],
+    "relocation_signals": ["relocation", "visa sponsorship", "relocation package", "relocate to"]
+  },
+  "location": {
+    "note": "Superseded by geography. Europe is not a destination."
   },
   "tracks": {
     "main": {
@@ -97,7 +137,7 @@
       "remote_bonus": 4,
       "local_bonus": 4,
       "nonlocal_onsite_penalty": -14,
-      "relocation_penalty": -3,
+      "relocation_penalty": 0,
       "signals": [
         { "term": "full time", "weight": 3 },
         { "term": "full-time", "weight": 3 },

@@ -8,6 +8,8 @@ Goal: replace or improve the current primary employment with work closer to the 
 
 ### Role families
 
+These are discovery aids, not a whitelist. Growth is one option.
+
 1. Growth Engineer
 2. Automation Engineer
 3. Integration Engineer
@@ -41,9 +43,10 @@ Accept:
 - remote work compatible with Argentina
 - hybrid / on-site roles in Buenos Aires, CABA or GBA when the commute is reasonable
 
-Separate watchlist:
-- Spain
-- Europe when relocation is realistic
+Separate watchlist, not a current move:
+- Valencia first, then the rest of Spain
+- a later move together with family
+- not a generic EU or "Europe" destination
 
 Deprioritize:
 - clearly non-local on-site jobs
@@ -55,7 +58,7 @@ Goal: additional income without replacing the MAIN job.
 
 ### Project types
 
-1. Zapier automation
+1. bounded automation and integration work
 2. API / webhook integrations
 3. internal tools
 4. React / Next.js fixes and small features
@@ -97,12 +100,13 @@ Accept:
 
 ## Search channels
 
-Automated API sources:
+Automated API sources (no extra secrets):
 - Remotive
 - Arbeitnow
-- Get on Board
+- Get on Board, including DevOps/QA, data, and cybersecurity categories
 - RemoteOK
 - Jobicy
+- Himalayas search for Valencia/Spain and for SAP, DevOps, and data. Apply links are Himalayas application links.
 
 Manual / assisted sources to connect later where permitted:
 - LinkedIn

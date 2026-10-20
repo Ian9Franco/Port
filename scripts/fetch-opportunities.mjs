@@ -2,6 +2,12 @@ import fs from "node:fs/promises";
 import crypto from "node:crypto";
 import { loadCareerModel } from "./load-career-model.mjs";
 import { evaluatePotential } from "./potential-matcher.mjs";
+import { normalizeEmployment } from "./employment.mjs";
+import { publishedVenue, venueLocation } from "./commute.mjs";
+import { classifyAccess } from "./geography.mjs";
+import { shortList } from "./role-dedupe.mjs";
+import { parseSalary } from "./salary.mjs";
+import { termMatches } from "./text-match.mjs";
 import { applyTrustToOpportunity, markDuplicateClusters } from "./trust-layer.mjs";
 import { compileShortlistedApplications } from "./compile-application.mjs";
 import {
@@ -13,6 +19,7 @@ import {
 } from "./tracking.mjs";
 import { computeFeedbackRankBonus, loadFeedbackState } from "./feedback-loop.mjs";
 
+const DESCRIPTION_LIMIT = 8000;
 const CONFIG_PATH = "config/radar.json";
 const DATA_PATH = "data/opportunities.json";
 const REPORT_PATH = "reports/latest.md";
@@ -61,14 +68,12 @@ function parseDate(value) {
   return Number.isNaN(date.getTime()) ? null : date.toISOString();
 }
 
-function normalizeEmployment(value = "") {
-  const text = String(value).toLowerCase().replace(/[\s-]+/g, "_");
-  if (text.includes("part")) return "part_time";
-  if (text.includes("contract")) return "contract";
-  if (text.includes("freelance")) return "freelance";
-  if (text.includes("full")) return "full_time";
-  if (text.includes("intern")) return "internship";
-  return text || "unknown";
+function boundDescription(value) {
+  const clean = stripHtml(value);
+  return {
+    description: clean.slice(0, DESCRIPTION_LIMIT),
+    description_truncated: clean.length > DESCRIPTION_LIMIT
+  };
 }
 
 function sleep(ms) {
@@ -119,22 +124,8 @@ function textIncludesAny(text, terms) {
   return terms.some(term => text.includes(term.toLowerCase()));
 }
 
-function classifyAccess(job) {
-  const text = normalizedText(job.location);
-  const remoteNow = textIncludesAny(text, config.location.remote_now_terms);
-  const local = textIncludesAny(text, config.location.local_area_terms);
-  const relocation = textIncludesAny(text, config.location.relocation_terms);
-
-  if (job.remote) {
-    if (remoteNow || local) return "remote-now";
-    if (relocation) return "relocation-watch";
-    if (!text || text === "remote" || text === "remoto") return "remote-unclear";
-    return "restricted-remote";
-  }
-
-  if (local) return "local-onsite";
-  if (relocation) return "relocation-watch";
-  return "nonlocal-onsite";
+function classifyJobAccess(job) {
+  return classifyAccess(job, config);
 }
 
 function scoreRules(text, titleText, rules) {
@@ -158,7 +149,7 @@ function scoreOpportunity(job) {
   const bodyText = normalizedText(job.title, job.description, ...(job.tags ?? []));
   const positive = scoreRules(bodyText, titleText, config.roles.positive_keywords);
   const negative = scoreRules(bodyText, titleText, config.roles.negative_keywords);
-  const access = classifyAccess(job);
+  const access = classifyJobAccess(job);
 
   const mainSignals = scoreRules(bodyText, titleText, config.tracks.main.signals);
   let mainScore = positive.score + negative.score + mainSignals.score;
@@ -241,7 +232,7 @@ async function fetchRemotive() {
     published_at: parseDate(job.publication_date),
     salary: job.salary ?? "",
     tags: [job.category].filter(Boolean),
-    description: stripHtml(job.description).slice(0, 1600)
+    ...boundDescription(job.description)
   }));
 }
 
@@ -273,8 +264,8 @@ async function fetchArbeitnow() {
         employment_type: normalizeEmployment(job.job_types?.[0] ?? ""),
         published_at: parseDate(job.created_at),
         salary: "",
-        tags: Array.isArray(job.tags) ? job.tags : [],
-        description: stripHtml(job.description).slice(0, 1600)
+        tags: Array.isArray(job.tags) ? job.tags.map(tag => typeof tag === "string" ? tag : tag?.name).filter(Boolean) : [],
+        ...boundDescription(job.description)
       });
     }
 
@@ -284,14 +275,44 @@ async function fetchArbeitnow() {
   return jobs;
 }
 
-function getOnBoardCountries(attr) {
-  if (Array.isArray(attr.countries)) {
-    return attr.countries.filter(Boolean).map(String);
+function categorySpecs(source) {
+  return (source.categories ?? ["programming"]).map(entry => {
+    if (typeof entry === "string") return { id: entry, pages: source.pages ?? 1 };
+    return { id: entry.id, pages: entry.pages ?? source.pages ?? 1 };
+  });
+}
+
+function namedCountries(attr) {
+  const values = Array.isArray(attr.countries)
+    ? attr.countries
+    : typeof attr.countries === "string"
+      ? [attr.countries]
+      : [];
+  return values
+    .map(value => typeof value === "string" ? value.trim() : "")
+    .filter(value => value && !/^remote$/i.test(value));
+}
+
+function tagNames(attr) {
+  const rows = attr.tags?.data ?? [];
+  return rows
+    .map(tag => tag?.attributes?.name)
+    .filter(name => typeof name === "string" && name.trim())
+    .slice(0, 12);
+}
+
+function getOnBoardSalary(attr) {
+  const min = attr.min_salary;
+  const max = attr.max_salary;
+  if (min || max) {
+    return [min, max].filter(value => value !== null && value !== undefined && value !== "").join("-");
   }
-  if (typeof attr.countries === "string" && attr.countries.trim()) {
-    return [attr.countries.trim()];
-  }
-  return [];
+  return "";
+}
+
+function getOnBoardRemote(attr) {
+  if (attr.remote_modality === "no_remote" || attr.remote_modality === "hybrid") return false;
+  return attr.remote === true;
 }
 
 async function fetchGetOnBoard() {
@@ -301,21 +322,26 @@ async function fetchGetOnBoard() {
   const jobs = [];
   const seen = new Set();
 
-  for (const category of source.categories ?? ["programming"]) {
-    if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(category)) {
-      throw new Error("Invalid Get on Board category: " + category);
+  for (const category of categorySpecs(source)) {
+    if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(category.id)) {
+      throw new Error("Invalid Get on Board category: " + category.id);
     }
 
-    for (let page = 1; page <= (source.pages ?? 1); page += 1) {
-      const url = new URL(source.base_url + "/" + category + "/jobs");
+    for (let page = 1; page <= category.pages; page += 1) {
+      const url = new URL(source.base_url + "/" + category.id + "/jobs");
       url.searchParams.set("per_page", String(source.per_page ?? 100));
       url.searchParams.append("expand[]", "company");
+      url.searchParams.append("expand[]", "modality");
+      url.searchParams.append("expand[]", "seniority");
+      url.searchParams.append("expand[]", "tags");
+      url.searchParams.append("expand[]", "location_cities");
+      url.searchParams.append("expand[]", "location_tenants");
       url.searchParams.set("page", String(page));
 
       const payload = await fetchJson(url, { retries: 4, timeoutMs: 60_000 });
-      if (page < (source.pages ?? 1)) await sleep(350);
+      if (page < category.pages) await sleep(350);
       if (!Array.isArray(payload.data)) {
-        throw new Error("Unexpected Get on Board response for " + category + " page " + page);
+        throw new Error("Unexpected Get on Board response for " + category.id + " page " + page);
       }
 
       for (const item of payload.data) {
@@ -326,12 +352,18 @@ async function fetchGetOnBoard() {
         if (seen.has(publicUrl)) continue;
         seen.add(publicUrl);
 
-        const countries = getOnBoardCountries(attr);
+        const countries = namedCountries(attr);
+        const venue = publishedVenue(attr);
         const company = attr.company?.data?.attributes?.name ?? "Get on Board";
-        const remote = attr.remote === true;
-        const location = remote
-          ? "Remote" + (countries.length ? " — " + countries.join(", ") : "")
-          : countries.join(", ") || String(attr.location ?? "");
+        const remote = getOnBoardRemote(attr);
+        const location = venueLocation(venue, countries);
+        const workplace = attr.remote_modality === "hybrid"
+          ? "hybrid"
+          : remote
+            ? "remote"
+            : "onsite";
+        const narrative = [attr.description, attr.functions, attr.desirable].filter(Boolean).join("\n");
+        const salary = getOnBoardSalary(attr);
 
         jobs.push({
           id: stableId("getonboard", item.id, publicUrl),
@@ -342,13 +374,19 @@ async function fetchGetOnBoard() {
           title,
           company: String(company),
           location,
+          place_text: location,
+          venue,
           remote,
-          workplace: remote ? "remote" : "onsite-or-hybrid",
-          employment_type: normalizeEmployment(attr.modality ?? attr.employment_type ?? attr.job_type ?? ""),
+          workplace,
+          seniority: attr.seniority?.data?.attributes?.name ?? "",
+          employment_type: normalizeEmployment(attr.modality),
           published_at: parseDate(attr.published_at),
-          salary: String(attr.salary ?? attr.compensation ?? ""),
-          tags: [category],
-          description: stripHtml(attr.description ?? attr.summary ?? "").slice(0, 1600)
+          salary,
+          salary_value: parseSalary(salary, "getonboard"),
+          mandatory_text: typeof attr.functions === "string" ? attr.functions : "",
+          desirable_text: typeof attr.desirable === "string" ? attr.desirable : "",
+          tags: [category.id, ...tagNames(attr)],
+          ...boundDescription(narrative)
         });
       }
 
@@ -388,8 +426,8 @@ async function fetchRemoteOk() {
       employment_type: normalizeEmployment(job.employment_type ?? ""),
       published_at: parseDate(job.date ?? job.epoch),
       salary,
-      tags: Array.isArray(job.tags) ? job.tags : [],
-      description: stripHtml(job.description).slice(0, 1600)
+      tags: Array.isArray(job.tags) ? job.tags.filter(tag => typeof tag === "string") : [],
+      ...boundDescription(job.description)
     };
   });
 }
@@ -429,9 +467,67 @@ async function fetchJobicy() {
       employment_type: normalizeEmployment(job.jobType?.[0] ?? ""),
       published_at: parseDate(job.pubDate),
       salary,
-      tags: [...(job.jobIndustry ?? []), job.jobLevel].filter(Boolean),
-      description: stripHtml(job.jobDescription ?? job.jobExcerpt ?? "").slice(0, 1600)
+      seniority: typeof job.jobLevel === "string" ? job.jobLevel : "",
+      tags: [...(job.jobIndustry ?? []), job.jobLevel].filter(tag => typeof tag === "string"),
+      ...boundDescription(job.jobDescription ?? job.jobExcerpt ?? "")
     });
+  }
+
+  return jobs;
+}
+
+async function fetchHimalayas() {
+  const source = config.sources.himalayas;
+  if (!source?.enabled) return [];
+
+  const jobs = [];
+  const seen = new Set();
+
+  for (const query of source.queries ?? []) {
+    const url = new URL(source.endpoint);
+    url.searchParams.set("q", query.q);
+    if (query.country) url.searchParams.set("country", query.country);
+    if (query.exclude_worldwide) url.searchParams.set("exclude_worldwide", "true");
+    url.searchParams.set("page", "1");
+
+    const payload = await fetchJson(url, { retries: 3, timeoutMs: 45_000 });
+    await sleep(400);
+
+    for (const job of payload.jobs ?? []) {
+      const listingUrl = String(job.applicationLink ?? "").trim();
+      if (!listingUrl.startsWith("https://")) continue;
+      if (seen.has(listingUrl)) continue;
+      seen.add(listingUrl);
+
+      const restrictions = Array.isArray(job.locationRestrictions) ? job.locationRestrictions.filter(Boolean) : [];
+      const location = restrictions.length ? restrictions.join(", ") : "Worldwide";
+      const salaryParts = [job.minSalary, job.maxSalary].filter(value => value !== null && value !== undefined && value !== "");
+      const salary = salaryParts.length
+        ? salaryParts.join("-") + (job.currency ? " " + job.currency : "") + (job.salaryPeriod ? " / " + job.salaryPeriod : "")
+        : "";
+      const seniority = Array.isArray(job.seniority) ? job.seniority.join(", ") : String(job.seniority ?? "");
+
+      jobs.push({
+        id: stableId("himalayas", job.guid, listingUrl),
+        source: "Himalayas",
+        source_trust: source.trust,
+        external_id: String(job.guid ?? ""),
+        url: listingUrl,
+        apply_url: listingUrl,
+        title: job.title ?? "",
+        company: job.companyName ?? "",
+        location,
+        place_text: location,
+        remote: true,
+        workplace: "remote",
+        seniority,
+        employment_type: normalizeEmployment(job.employmentType ?? ""),
+        published_at: parseDate(job.pubDate),
+        salary,
+        tags: [...(job.parentCategories ?? []), ...(job.categories ?? []), query.intent].filter(Boolean).slice(0, 12),
+        ...boundDescription(job.description ?? job.excerpt ?? "")
+      });
+    }
   }
 
   return jobs;
@@ -456,10 +552,8 @@ function escapeMd(value = "") {
 }
 
 function topEligible(opportunities, predicate, scoreKey, limit) {
-  return opportunities
-    .filter(job => predicate(job) && !isTerminalStatus(job.status, trackingConfig))
-    .sort((a, b) => b[scoreKey] - a[scoreKey] || String(b.published_at).localeCompare(String(a.published_at)))
-    .slice(0, limit);
+  const ranked = opportunities.filter(job => predicate(job) && !isTerminalStatus(job.status, trackingConfig));
+  return shortList(ranked, scoreKey, limit, "score");
 }
 
 function reasonFor(job, track) {
@@ -471,7 +565,9 @@ function reasonFor(job, track) {
       "Potencial " + p.career_potential,
       "Transfer " + p.transferability
     ];
+    const gap = p.reasons.find(reason => reason.startsWith("- gap") || reason.startsWith("- seniority"));
     if (positives.length) summary.push(positives.join("; "));
+    if (gap) summary.push(gap.replace(/^- /, ""));
     return summary.join(" · ");
   }
 
@@ -502,7 +598,7 @@ function buildTopTable(rows, track) {
       " | [" + escapeMd(job.title) + "](" + job.url + ")" +
       " | " + escapeMd(job.company) +
       " | " + escapeMd(job.workplace + " · " + (job.location || "sin ubicación")) +
-      " | " + escapeMd(reasonFor(job, track)) + " |"
+      " | " + escapeMd(reasonFor(job, track) + (job.merged_urls?.length ? " · fusiona " + job.merged_urls.join(", ") : "")) + " |"
     );
   }
 
@@ -511,10 +607,12 @@ function buildTopTable(rows, track) {
 }
 
 function buildLatestReport(opportunities, topMain, topSide, sourceStats, generatedAt) {
-  const relocation = opportunities
-    .filter(job => job.relocation_watch)
-    .sort((a, b) => b.main_score - a.main_score || (b.potential?.career_potential ?? 0) - (a.potential?.career_potential ?? 0))
-    .slice(0, 5);
+  const relocation = shortList(
+    opportunities.filter(job => job.relocation_watch),
+    "main_score",
+    5,
+    "title"
+  );
 
   const lines = [
     "# Port — Opportunity Radar",
@@ -538,12 +636,15 @@ function buildLatestReport(opportunities, topMain, topSide, sourceStats, generat
     ...buildTopTable(topSide, "side"),
     "",
     "## Relocation watch",
+    "",
+    "Valencia y España, para una mudanza posterior con la familia. La ventana de mudanza sigue unknown: esta lista no rankea el viaje como inminente.",
     ""
   ];
 
   if (relocation.length) {
     for (const job of relocation) {
-      lines.push("- [" + escapeMd(job.title) + "](" + job.url + ") — " + escapeMd(job.company) + " · " + escapeMd(job.location) + " · MAIN " + job.main_score);
+      const merged = job.merged_urls?.length ? " · fusiona " + job.merged_urls.join(", ") : "";
+      lines.push("- [" + escapeMd(job.title) + "](" + job.url + ") — " + escapeMd(job.company) + " · " + escapeMd(job.location) + " · not_yet_ordered" + merged);
     }
   } else {
     lines.push("Sin candidatos de relocalización fuertes en esta corrida.");
@@ -561,6 +662,8 @@ function buildLatestReport(opportunities, topMain, topSide, sourceStats, generat
     "## Confianza",
     "",
     "Las fuentes actuales entran por APIs públicas/oficiales. Eso valida el canal de obtención, no garantiza por sí solo que una empresa o vacante sea legítima.",
+    "",
+    "Himalayas se acredita en [himalayas.app](https://himalayas.app). El enlace de cada aviso de esa fuente es su applicationLink.",
     "",
     "Cada oportunidad incluye `trust` en JSON: **source_trust**, **company_trust**, **listing_risk** (`low` / `unknown` / `medium` / `high`) y señales de advertencia. Riesgo alto penaliza el ranking; no oculta la vacante automáticamente.",
     ""
@@ -604,9 +707,9 @@ function buildAllCandidates(opportunities, generatedAt) {
 
 function requirementAnalysis(job) {
   const body = normalizedText(job.title, job.description, ...(job.tags ?? []));
-  const required = matcherProfile.requirement_terms.filter(term => body.includes(term.toLowerCase()));
+  const required = matcherProfile.requirement_terms.filter(term => termMatches(body, term));
   const known = matcherProfile.known_skills;
-  const emphasize = required.filter(term => known.some(skill => skill === term || skill.includes(term) || term.includes(skill)));
+  const emphasize = required.filter(term => known.some(skill => skill === term));
   const verify = required.filter(term => !emphasize.includes(term));
   return { emphasize: [...new Set(emphasize)], verify: [...new Set(verify)] };
 }
@@ -641,12 +744,15 @@ function buildApplicationPrep(topMain, topSide, generatedAt) {
         "- Señales trust: " + (job.trust?.warnings?.length ? job.trust.warnings.join(", ") : "ninguna"),
         "- Modalidad: " + job.workplace + " · " + (job.location || "sin ubicación"),
         "- Tipo detectado: " + job.employment_type,
+        "- Seniority del aviso: " + (job.seniority || "no indicado"),
         "- Current Fit: **" + (p?.current_fit ?? "—") + "** · Transferability: **" + (p?.transferability ?? "—") + "** · Gap Cost: **" + (p?.gap_cost ?? "—") + "**",
         "- Career Potential: **" + (p?.career_potential ?? "—") + "** · Evidence: **" + (p?.evidence_confidence ?? "—") + "**",
-        "- Enfatizar en CV/intro: " + (req.emphasize.length ? req.emphasize.join(", ") : "experiencia relevante del perfil general; revisar manualmente"),
-        "- Verificar antes de afirmar: " + (req.verify.length ? req.verify.join(", ") : "sin gaps obvios detectados por palabras clave"),
-        "- Por qué apareció: " + (p?.reasons?.filter(r => r.startsWith("+")).slice(0, 4).join("; ") || "revisión manual"),
-        "- Gaps: " + (p?.gaps?.length ? p.gaps.map(g => g.term + " (" + g.type + ")").join(", ") : "ninguno destacado"),
+        "- " + (p?.compensation_note ?? "salario no comparado"),
+        "- Viaje: " + (p?.commute_note ?? "—"),
+        "- Enfatizar en CV/intro: " + (req.emphasize.length ? req.emphasize.join(", ") : "solo hechos con fuente; no completar con tokens genéricos"),
+        "- Verificar antes de afirmar: " + (p?.gaps?.length ? p.gaps.map(gap => gap.term + " (" + gap.type + ")").join(", ") : (req.verify.join(", ") || "el texto leído no alcanzó para listar requisitos")),
+        "- Por qué apareció: " + (p?.reasons?.filter(reason => reason.startsWith("+")).slice(0, 4).join("; ") || "revisión manual"),
+        "- Gaps: " + (p?.gaps?.length ? p.gaps.map(gap => gap.term + " (" + gap.type + ")").join(", ") : "desconocido: no se leyeron requisitos distinguibles"),
         "- Regla: no inventar años, tecnologías ni resultados que no estén documentados.",
         ""
       );
@@ -671,7 +777,8 @@ const sourcePipeline = [
   { name: "Arbeitnow", fetch: fetchArbeitnow },
   { name: "Get on Board", fetch: fetchGetOnBoard },
   { name: "RemoteOK", fetch: fetchRemoteOk },
-  { name: "Jobicy", fetch: fetchJobicy }
+  { name: "Jobicy", fetch: fetchJobicy },
+  { name: "Himalayas", fetch: fetchHimalayas }
 ];
 
 const sourceResults = await Promise.allSettled(sourcePipeline.map(entry => entry.fetch()));
@@ -698,6 +805,7 @@ if (!fetched.length && failures.length === sourceResults.length) {
 const opportunities = dedupe(fetched)
   .map(job => {
     const legacy = scoreOpportunity(job);
+    if (!job.salary_value) job.salary_value = parseSalary(job.salary, job.source);
     const potential = evaluatePotential(job, {
       careerModel,
       matcherProfile,
@@ -713,7 +821,7 @@ const opportunities = dedupe(fetched)
       side_score: potential.side_rank,
       main_eligible_now: potential.main_eligible,
       side_eligible: potential.side_eligible,
-      relocation_watch: legacy.relocation_watch || potential.relocation_watch,
+      relocation_watch: potential.relocation_watch,
       potential
     };
     scored = applyTrustToOpportunity(scored);
@@ -757,6 +865,21 @@ const topSide = topEligible(
   "side_score",
   config.tracks.side.top_picks
 );
+
+const watchList = shortList(
+  opportunities.filter(job => job.relocation_watch),
+  "main_score",
+  5,
+  "title"
+);
+
+for (const row of [...topMain, ...topSide, ...watchList]) {
+  const original = opportunities.find(job => job.id === row.id);
+  if (!original) continue;
+  original.merged_urls = row.merged_urls ?? [];
+  original.listing_identity = row.listing_identity ?? null;
+  original.blocking_key = row.blocking_key ?? null;
+}
 
 await fs.mkdir("reports", { recursive: true });
 

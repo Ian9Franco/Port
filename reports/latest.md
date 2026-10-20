@@ -1,10 +1,10 @@
 # Port — Opportunity Radar
 
-Generado: 2026-10-20T20:01:53.158Z
+Generado: 2026-10-20T21:32:37.626Z
 
 Modo de aplicación: **manual**. Port busca, filtra y prepara; Ian decide y aplica.
 
-Fuentes: Remotive (10), Arbeitnow (63), Get on Board (305), RemoteOK (99), Jobicy (42)
+Fuentes: Remotive (10), Arbeitnow (66), Get on Board (526), RemoteOK (99), Jobicy (42), Himalayas (83)
 
 ## MAIN — Top picks
 
@@ -12,9 +12,9 @@ Trabajo principal: full-time o part-time; remoto o presencial/híbrido si la ubi
 
 | Rank | Fit | Potencial | Rol | Empresa | Modalidad / ubicación | Por qué aparece |
 | ---: | ---: | ---: | --- | --- | --- | --- |
-| 73 | 91 | 90 | [Full-Stack Engineer - ElevenMusic](https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-elevenmusic-401054) | ElevenLabs | remote · Remote | Fit 91% · Potencial 90 · Transfer 42 · evidencia directa: Full-stack product engineering (full-stack); evidencia directa: API integrations (api) |
-| 73 | 91 | 90 | [Full-Stack Engineer (Backend Leaning) - CoreMusic](https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-coremusic-118556) | ElevenLabs | remote · Remote | Fit 91% · Potencial 90 · Transfer 42 · evidencia directa: Full-stack product engineering (full-stack); evidencia directa: API integrations (api) |
-| 73 | 91 | 90 | [Full-Stack Engineer - Creative Agents](https://jobicy.com/jobs/155941-full-stack-engineer-creative-agents) | Elevenlabs | remote · Anywhere | Fit 91% · Potencial 90 · Transfer 42 · evidencia directa: Full-stack product engineering (full-stack); evidencia directa: API integrations (api) |
+| 58 | 22 | 90 | [SAP BTP Lead](https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-lead?utm_source=api) | Pontoonglobal | remote · Worldwide | Fit 22% · Potencial 90 · Transfer 97 · evidencia directa: TypeScript (node.js, nodejs) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar; evidencia directa: Full-stack product engineering (full-stack) · fuentes: MIM, Factu, Pontorno-vault · gap ecosistema: producto SAP · fusiona https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-integration-specialist-consultant?utm_source=api |
+| 58 | 24 | 82 | [Senior DevOps Engineer](https://jobicy.com/jobs/155494-senior-devops-engineer-9) | Documo Inc. | remote · Anywhere | Fit 24% · Potencial 82 · Transfer 99 · evidencia directa: Automation and developer tooling (tooling) · fuentes: MIM, Web-Sling-Optimizer; transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar · seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado |
+| 57 | 24 | 90 | [Full-Stack Developer: React & Node.js](https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote) | Improving | remote · Argentina | Fit 24% · Potencial 90 · Transfer 88 · evidencia directa: TypeScript (node.js) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar; evidencia directa: React (react) · fuentes: MIM, Pontorno-vault, Factu · seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado · fusiona https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote, https://www.getonbrd.com/jobs/senior-full-stack-engineer-improving-remote |
 
 ## SIDE — Top picks
 
@@ -22,19 +22,22 @@ Ingreso secundario: freelance, contrato, proyecto o part-time; **remoto obligato
 
 | Rank | Fit | Potencial | Rol | Empresa | Modalidad / ubicación | Por qué aparece |
 | ---: | ---: | ---: | --- | --- | --- | --- |
-| 63 | 100 | 82 | [AI Engineer Data APIs](https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224) | Benzinga | remote · Remote | Fit 100% · Potencial 82 · Transfer 35 · evidencia directa: API integrations (api); evidencia directa: Applied AI integration (ai) |
-| 63 | 100 | 90 | [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114) | Salesforge | remote · Remote | Fit 100% · Potencial 90 · Transfer 35 · evidencia directa: Applied AI integration (ai); evidencia directa: Automation and developer tooling (build) |
-| 62 | 95 | 82 | [Senior Software Engineer II Applied AI](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527) | Wrapbook | remote · Remote | Fit 95% · Potencial 82 · Transfer 40 · evidencia directa: TypeScript (typescript); evidencia directa: TypeScript (javascript) |
+| 50 | 22 | 90 | [SAP BTP Lead](https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-lead?utm_source=api) | Pontoonglobal | remote · Worldwide | Fit 22% · Potencial 90 · Transfer 97 · evidencia directa: TypeScript (node.js, nodejs) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar; evidencia directa: Full-stack product engineering (full-stack) · fuentes: MIM, Factu, Pontorno-vault · gap ecosistema: producto SAP |
+| 23 | 22 | 90 | [Lead Developer / Architect Web3](https://jobicy.com/jobs/155565-1140-lead-developer-architect-web3) | GoFasti | remote · Anywhere | Fit 22% · Potencial 90 · Transfer 80 · evidencia directa: TypeScript (typescript, javascript) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar; evidencia directa: React (react, next.js) · fuentes: MIM, Pontorno-vault, Factu · seniority: el aviso pide lead; la evidencia es de proyecto o curso, no seniority profesional confirmado |
 
 ## Relocation watch
 
-- [Senior React Full-stack Developer](https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133) — Lemon.io · Europe, USA, Canada, APAC · MAIN 68
-- [Senior back-end Engineer](https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132) — Lemon.io · Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway · MAIN 68
-- [Telefondienst fÃ¼r Tierarztpraxis Neuruppin o](https://remoteOK.com/remote-jobs/remote-telefondienst-fur-tierarztpraxis-neuruppin-o-tierarzt-plus-partner-1137469) — Tierarzt Plus Partner · Neuruppin · MAIN 57
+Valencia y España, para una mudanza posterior con la familia. La ventana de mudanza sigue unknown: esta lista no rankea el viaje como inminente.
+
+- [Automation & DevOps Engineer (Remoto)](https://himalayas.app/companies/knowmad-mood/jobs/automation-devops-engineer-remoto?utm_source=api) — knowmad mood · Spain · not_yet_ordered · fusiona https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto?utm_source=api, https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100?utm_source=api, https://himalayas.app/companies/knowmad-mood/jobs/arquitecto-a-de-preventa-devops?utm_source=api, https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-sme-presales-engineer-lead-aws-remoto-100?utm_source=api, https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-platform-engineering-remoto-100?utm_source=api
+- [Azure DevOps Engineer – Pipelines & Guardrails](https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails?utm_source=api) — BIP · Spain · not_yet_ordered
+- [Data & Analytics Engineer (freelancer)](https://himalayas.app/companies/the-agile-monkeys/jobs/data-analytics-engineer-freelancer?utm_source=api) — The Agile Monkeys · Spain · not_yet_ordered
+- [Data Engineer](https://himalayas.app/companies/all-your-bi/jobs/data-engineer?utm_source=api) — All Your BI · Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Holy See (Vatican City State), Hungary, Iceland, Ireland, Italy, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, Russian Federation, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine, United Kingdom · not_yet_ordered
+- [Data Engineer](https://himalayas.app/companies/scalian/jobs/data-engineer?utm_source=api) — Scalian · Spain · not_yet_ordered
 
 ## Cobertura
 
-- Universo curado guardado: **176** oportunidades.
+- Universo curado guardado: **71** oportunidades.
 - Top picks: máximo **3 MAIN** + **3 SIDE** por corrida.
 - Nada del universo curado se descarta silenciosamente: ver reports/all-candidates.md.
 - Para adaptar el CV sin inventar experiencia: ver reports/application-prep.md.
@@ -42,6 +45,8 @@ Ingreso secundario: freelance, contrato, proyecto o part-time; **remoto obligato
 ## Confianza
 
 Las fuentes actuales entran por APIs públicas/oficiales. Eso valida el canal de obtención, no garantiza por sí solo que una empresa o vacante sea legítima.
+
+Himalayas se acredita en [himalayas.app](https://himalayas.app). El enlace de cada aviso de esa fuente es su applicationLink.
 
 Cada oportunidad incluye `trust` en JSON: **source_trust**, **company_trust**, **listing_risk** (`low` / `unknown` / `medium` / `high`) y señales de advertencia. Riesgo alto penaliza el ranking; no oculta la vacante automáticamente.
 

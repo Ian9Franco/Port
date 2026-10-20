@@ -17,7 +17,16 @@ Sin reemplazar la decisión humana.
 
 ---
 
-# Estado actual
+# Estado de código (octubre 2026)
+
+Varias fases de abajo ya tienen código. La definición de hecho que todavía falla es otra:
+
+- El matcher ya no debería tratar un token suelto como fit, ni un seniority de proyecto como seniority profesional. Eso se está corrigiendo en el radar; los Top Picks se validan con `node scripts/check-radar-logic.mjs` y con la corrida real.
+- SIDE solo entra con freelance, contrato o part-time. Un tipo desconocido no ocupa un cupo.
+- La relocalización es Valencia / España, más adelante y con la familia. No es Europa genérica y no es un MAIN de esta semana.
+- El viaje de un rol presencial sale de zona oeste, Buenos Aires. No hay municipio guardado y no se inventa una distancia.
+- La UI, el compilador, el tracking y el feedback ya existen. No hay que reconstruirlos. El feedback no debe aprender de un evento de prueba.
+- Sigue sin fuente pública, sin clave, para el tablero de empleos de SAP (`jobs.sap.com`) y para InfoJobs, Adzuna, The Muse, Reed y Findwork.
 
 ## ✅ Fase 0 — Foundation
 
@@ -593,63 +602,16 @@ La calidad del match tiene prioridad sobre el volumen.
 
 # Orden de ejecución recomendado
 
-## Próximos PRs
+## Qué ya tiene código
 
-### PR #6
+Fases 0 a 10 tienen implementación: radar, `career/*.json`, Potential Matcher, fuentes, confianza, compilador, tracking, feedback y UI en `web/`.
 
-- `filosofia.md`
-- `roadmap.md`
+## Qué falta para la definición de hecho
 
-Documenta intención y dirección del proyecto.
-
-### PR #7
-
-**Radar reliability**
-
-- primera ejecución real;
-- arreglar Actions;
-- validar fuentes;
-- generar primeros datos reales.
-
-### PR #8
-
-**Structured Career Model**
-
-- pasar evidencia/preferencias/constraints a datos estructurados.
-
-### PR #9
-
-**Potential Matcher v1**
-
-- Current Fit;
-- Transferability;
-- Gap Cost;
-- Career Potential;
-- Evidence Confidence.
-
-### PR #10
-
-**Source Expansion + Trust**
-
-- nuevas fuentes;
-- company/listing trust.
-
-### PR #11
-
-**Application Compiler**
-
-- CV;
-- intro;
-- gaps;
-- interview prep.
-
-### PR #12
-
-**Tracking + feedback**
-
-### PR #13
-
-**Private UI**
+- Top Picks con fit, gaps y seniority defendibles
+- SIDE que sea ingreso adicional de verdad
+- watch de Valencia/España separado del trabajo que se puede hacer hoy desde zona oeste
+- cobertura de data, cloud/DevOps y SAP técnico por APIs públicas, sin volver a armar la UI
 
 ---
 
@@ -687,7 +649,7 @@ Port no debe medirse por cantidad de ofertas encontradas.
 
 # Qué no hacer
 
-- no construir UI antes de validar el matcher;
+- no ampliar la UI mientras los Top Picks no sean defendibles; la UI actual ya existe;
 - no sumar 30 fuentes de baja calidad sólo por volumen;
 - no convertir cada keyword en una skill;
 - no inflar seniority;
