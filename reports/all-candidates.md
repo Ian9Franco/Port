@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-10-21T04:59:37.053Z
+Generado: 2026-10-21T13:55:43.598Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -60,7 +60,6 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 47 | 0 | 72 | low | 42 | [Sr. Java Platform Engineer](https://www.getonbrd.com/jobs/sr-java-platform-engineer-improving-remote) | Improving | Get on Board | new |
 | 47 | 18 | 72 | low | 43 | [Staff Software Engineer (SRE)](https://jobicy.com/jobs/155601-staff-software-engineer-sre-2) | Phantom | Jobicy | new |
 | 47 | 17 | 72 | unknown | 42 | [DevOps Engineer](https://himalayas.app/companies/scalian/jobs/devops-engineer?utm_source=api) | Scalian | Himalayas | new |
-| 45 | 40 | 72 | unknown | 47 | [Devops Engineer (REMOTO/ESPAÑA)](https://himalayas.app/companies/irium-portugal/jobs/devops-engineer-remoto-espana?utm_source=api) | IRIUM Portugal | Himalayas | new |
 | 46 | 0 | 72 | low | 41 | [Tech Lead Outsystems con Inglés y Español (LATAM)](https://www.getonbrd.com/jobs/tech-lead-outsystems-con-ingles-y-espanol-latam-i2b-technologies-remote) | I2B Technologies | Get on Board | new |
 | 46 | 24 | 72 | low | 42 | [Senior .NET Engineer](https://www.getonbrd.com/jobs/net-engineer-autoraptor-remote) | AutoRaptor | Get on Board | new |
 | 45 | 0 | 72 | low | 41 | [Data Engineer – Databricks](https://www.getonbrd.com/jobs/data-engineer-databricks-improving-remote) | Improving | Get on Board | new |
