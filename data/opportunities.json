@@ -2,17 +2,17 @@
   "version": 4,
   "matcher": "potential-v1",
   "trust_layer": "listing-v1",
-  "generated_at": "2026-10-21T13:55:43.598Z",
+  "generated_at": "2026-10-21T20:13:56.964Z",
   "career_model_version": 2,
   "application_mode": "manual",
   "source_failures": [],
   "source_stats": {
     "Remotive": 10,
-    "Arbeitnow": 69,
-    "Get on Board": 528,
+    "Arbeitnow": 77,
+    "Get on Board": 531,
     "RemoteOK": 99,
-    "Jobicy": 43,
-    "Himalayas": 80
+    "Jobicy": 41,
+    "Himalayas": 82
   },
   "top_picks": {
     "main": [
@@ -167,11 +167,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "jobicy-155494",
@@ -288,11 +288,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-17T04:39:12.131Z",
-      "last_seen": "2026-10-21T13:55:43.598Z",
+      "last_seen": "2026-10-21T20:13:56.964Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://jobicy.com/jobs/155494-senior-devops-engineer-9",
@@ -441,11 +441,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z",
+      "last_seen": "2026-10-21T20:13:56.964Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-lead",
@@ -593,11 +593,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z",
+      "last_seen": "2026-10-21T20:13:56.964Z",
       "merged_urls": [
         "https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote",
         "https://www.getonbrd.com/jobs/senior-full-stack-engineer-improving-remote"
@@ -738,11 +738,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-17T12:15:24.864Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/automation-devops-engineer-remoto",
@@ -870,11 +870,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z",
+      "last_seen": "2026-10-21T20:13:56.964Z",
       "merged_urls": [
         "https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto?utm_source=api",
         "https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100?utm_source=api",
@@ -1019,11 +1019,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-integration-specialist-consultant",
@@ -1161,11 +1161,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-qa-automation-engineer-azure-improving-remote",
@@ -1366,11 +1366,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-especialista-qa-senior-latam-bc-tecnologia-remote",
@@ -1505,11 +1505,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "jobicy-155928",
@@ -1632,11 +1632,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-19T21:08:31.731Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "jobicy-150846",
@@ -1769,11 +1769,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-17T12:15:24.864Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "jobicy-153326",
@@ -1905,11 +1905,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-16T13:20:13.441Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-desarrollador-mobile-mediastream-bogota-santiago-bf34",
@@ -2093,11 +2093,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "jobicy-155391",
@@ -2234,11 +2234,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-15T19:55:37.288Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "jobicy-155385",
@@ -2370,11 +2370,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-15T19:55:37.288Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto",
@@ -2518,11 +2518,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100",
@@ -2672,11 +2672,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/mercor/jobs/devops-engineer-ai-model-evaluator-5752080247",
@@ -2833,11 +2833,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/odilo/jobs/devops-engineer",
@@ -2983,11 +2983,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-sr-front-end-software-engineer-improving-remote",
@@ -3174,11 +3174,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-senior-full-stack-engineer-improving-remote",
@@ -3359,11 +3359,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-ai-backend-engineer-improving-remote",
@@ -3568,11 +3568,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-tech-lead-grupo-mariposa-remote-c340",
@@ -3757,11 +3757,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-desarrollador-fullstack-java-angular-improving-remote",
@@ -3973,11 +3973,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-senior-fullstack-software-engineer-react-y-python-maxxa-remote",
@@ -4170,11 +4170,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "jobicy-146254",
@@ -4303,11 +4303,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-18T12:39:26.241Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "jobicy-150994",
@@ -4432,11 +4432,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T13:39:33.944Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "jobicy-155389",
@@ -4570,11 +4570,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-15T19:55:37.288Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/doodle/jobs/data-infrastructure-engineer-spain",
@@ -4724,11 +4724,187 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
+    },
+    {
+      "id": "getonboard-machine-learning-engineer-improving-remote",
+      "source": "Get on Board",
+      "source_trust": "official_public_api",
+      "external_id": "machine-learning-engineer-improving-remote",
+      "url": "https://www.getonbrd.com/jobs/machine-learning-engineer-improving-remote",
+      "title": "Machine Learning Engineer",
+      "company": "Improving",
+      "location": "Chile, Peru, Argentina, Colombia",
+      "place_text": "Chile, Peru, Argentina, Colombia",
+      "venue": {
+        "cities": [],
+        "tenants": [
+          {
+            "id": "chile",
+            "name": "Chile"
+          },
+          {
+            "id": "peru",
+            "name": "Peru"
+          },
+          {
+            "id": "argentina",
+            "name": "Argentina"
+          },
+          {
+            "id": "colombia",
+            "name": "Colombia"
+          }
+        ],
+        "unresolved_ids": []
+      },
+      "remote": true,
+      "workplace": "remote",
+      "seniority": "Senior",
+      "employment_type": "full_time",
+      "published_at": "2026-10-21T15:42:47.000Z",
+      "salary": "",
+      "salary_value": {
+        "status": "unparsed",
+        "source": "getonboard",
+        "gross_or_net": "unknown"
+      },
+      "mandatory_text": "<p>We are looking for an ML Engineer to join our data science and machine learning engineering team. The candidate will be responsible for designing, developing, and deploying advanced machine learning models, with an emphasis on clustering models, time series analysis, and complex heuristics.</p>",
+      "desirable_text": "<ul><li>Model-serving or ML platform experience: KServe, Seldon, BentoML, MLflow or similar.</li><li>Familiarity with common model artifact formats (scikit-learn, PyTorch, ONNX) and their packaging conventions, even if you have not trained the models yourself.</li><li>Helm chart authoring and Terraform (including Datadog monitors and dashboards as code).</li><li>Experience with LLM or agent infrastructure: RAG pipelines, vector stores, agent orchestration, MCP integrations, LLM evaluation harnesses or guardrails. This is the main differentiator for the Copilot side of the team.</li><li>Experience with API gateways and production hardening of AWS-hosted services (for example Kong, secrets management, monitoring).</li><li>Artifact repository publishing (JFrog Artifactory) and Gradle familiarity.</li><li>Claude Code or similar AI coding tools, and spec-driven development.</li></ul>",
+      "tags": [
+        "machine-learning-ai",
+        "Python",
+        "Snowflake",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Pytest",
+        "SQL",
+        "Observability",
+        "Github"
+      ],
+      "description": "Strong production Python (3.12+), well beyond scripting-level. Snowflake: writing and optimizing SQL, with an understanding of schema, warehouse and role concepts. Key-pair (JWT) authentication experience is a plus. Docker: building and optimizing container images, including packaging ML artifacts and their dependencies. Kubernetes: deploying and operating workloads (pods, deployments, resource limits, networking basics), with hands-on experience building, scheduling and debugging CronJobs. AWS: working knowledge of core services (S3, IAM, boto3). EMR experience is a plus. Log- and metrics-based troubleshooting across scheduled jobs and services (Elastic, Datadog or equivalent). Testing discipline: pytest fluency and the ability to design meaningful edge-case tests. Git/GitHub workflow fluency: feature branching, pull requests, code review. Comfort working in a fast-moving agile team and communicating clearly in writing. We are looking for an ML Engineer to join our data science and machine learning engineering team. The candidate will be responsible for designing, developing, and deploying advanced machine learning models, with an emphasis on clustering models, time series analysis, and complex heuristics. Model-serving or ML platform experience: KServe, Seldon, BentoML, MLflow or similar. Familiarity with common model artifact formats (scikit-learn, PyTorch, ONNX) and their packaging conventions, even if you have not trained the models yourself. Helm chart authoring and Terraform (including Datadog monitors and dashboards as code). Experience with LLM or agent infrastructure: RAG pipelines, vector stores, agent orchestration, MCP integrations, LLM evaluation harnesses or guardrails. This is the main differentiator for the Copilot side of the team. Experience with API gateways and production hardening of AWS-hosted services (for example Kong, secrets management, monitoring). Artifact repository publishing (JFrog Artifactory) and Gradle familiarity. Claude Code or similar AI coding tools, and spec-driven development.",
+      "description_truncated": false,
+      "base_score": 4,
+      "keyword_main_score": 11,
+      "keyword_side_score": 7,
+      "main_eligible_now": false,
+      "side_eligible": false,
+      "relocation_watch": false,
+      "access": "remote-now",
+      "matched_keywords": [
+        "integration"
+      ],
+      "main_signals": [],
+      "side_signals": [],
+      "negative_hits": 0,
+      "main_score": 50,
+      "side_score": 45,
+      "potential": {
+        "current_fit": 24,
+        "transferability": 58,
+        "gap_cost": "unknown",
+        "gap_cost_score": 60,
+        "evidence_confidence": "low",
+        "evidence_confidence_score": 54,
+        "career_potential": 82,
+        "relocation_value": "not_yet_ordered",
+        "compensation_fit": 50,
+        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
+        "salary_comparison": "incomparable",
+        "workstyle_fit": 82,
+        "commute_burden": 8,
+        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
+        "commute_status": "not_a_daily_commute",
+        "commute_km": null,
+        "role_families": [
+          "data",
+          "applied_ai"
+        ],
+        "requirements_status": "unread",
+        "mandatory_requirements": [],
+        "desirable_requirements": [
+          "Model-serving or ML platform experience: KServe, Seldon, BentoML, MLflow or similar.",
+          "Familiarity with common model artifact formats (scikit-learn, PyTorch, ONNX) and their packaging conventions, even if you have not trained the models yourself.",
+          "Helm chart authoring and Terraform (including Datadog monitors and dashboards as code).",
+          "Experience with LLM or agent infrastructure: RAG pipelines, vector stores, agent orchestration, MCP integrations, LLM evaluation harnesses or guardrails. This is the main differentiator for the Copilot side of the team.",
+          "Experience with API gateways and production hardening of AWS-hosted services (for example Kong, secrets management, monitoring).",
+          "Artifact repository publishing (JFrog Artifactory) and Gradle familiarity.",
+          "Claude Code or similar AI coding tools, and spec-driven development."
+        ],
+        "sap_kind": null,
+        "work_from_zona_oeste": true,
+        "work_after_valencia": false,
+        "place_bridge": false,
+        "move_window": "unknown",
+        "earliest_start": "unknown",
+        "must_start_before": "unknown",
+        "reasons": [
+          "+ evidencia directa: Docker (docker, container) · fuentes: MIM · profundidad sin confirmar",
+          "+ evidencia directa: Applied AI integration (llm) · fuentes: MIM, Web-Sling-Optimizer · profundidad sin confirmar",
+          "+ evidencia directa: Automation and developer tooling (workflow) · fuentes: MIM, Web-Sling-Optimizer",
+          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
+          "fit: requisitos obligatorios no leídos; techo 40",
+          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
+          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
+          "- gap herramienta: aws",
+          "- gap herramienta: kubernetes",
+          "- gap herramienta: terraform",
+          "- gap desconocido: requisitos obligatorios no leídos",
+          "familias: data, applied_ai",
+          "sin viaje diario desde zona oeste, Buenos Aires"
+        ],
+        "gaps": [
+          {
+            "term": "aws",
+            "type": "tool"
+          },
+          {
+            "term": "kubernetes",
+            "type": "tool"
+          },
+          {
+            "term": "terraform",
+            "type": "tool"
+          },
+          {
+            "term": "requisitos obligatorios no leídos",
+            "type": "unknown"
+          }
+        ],
+        "main_rank": 50,
+        "side_rank": 45,
+        "main_eligible": false,
+        "side_eligible": false,
+        "relocation_watch": false,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "low",
+        "signals": [
+          "listing_on_official_board"
+        ],
+        "warnings": []
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-10-21T20:13:56.964Z",
+        "history": []
+      },
+      "first_seen": "2026-10-21T20:13:56.964Z",
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-senior-data-engineer-databricks-on-azure-devsu-remote-7b55",
@@ -4963,11 +5139,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails",
@@ -5104,17 +5280,161 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z",
+      "last_seen": "2026-10-21T20:13:56.964Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails",
         "title_hash": "2ccf99e906f2"
       },
       "blocking_key": "bip|devops|spain"
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/rekluti/jobs/devops-aws-espanol-100-remoto",
+      "source": "Himalayas",
+      "source_trust": "official_public_api",
+      "external_id": "https://himalayas.app/companies/rekluti/jobs/devops-aws-espanol-100-remoto",
+      "url": "https://himalayas.app/companies/rekluti/jobs/devops-aws-espanol-100-remoto?utm_source=api",
+      "apply_url": "https://himalayas.app/companies/rekluti/jobs/devops-aws-espanol-100-remoto?utm_source=api",
+      "title": "DEVOPS AWS - Español - 100% Remoto",
+      "company": "XKTalent Inc. - Rimutee",
+      "location": "Spain",
+      "place_text": "Spain",
+      "remote": true,
+      "workplace": "remote",
+      "seniority": "Senior",
+      "employment_type": "contract",
+      "published_at": "2026-09-09T17:49:35.000Z",
+      "salary": "",
+      "tags": [
+        "Developer",
+        "DevOps-Engineer",
+        "AWS-DevOps",
+        "Cloud-Infrastructure-Engineer",
+        "Site-Reliability-Engineer",
+        "Cloud-Architecture",
+        "AWS-DevOps-Engineering",
+        "AWS-DevOps-Engineer",
+        "AWS-DevOps-Specialist",
+        "DevOps",
+        "cloud-spain"
+      ],
+      "description": "En Rekluti, consultora especializada en talento tecnológico en LATAM, buscamos DevOps AWS para impulsar los proyectos de software a gran escala de nuestros principales clientes internacionales. Buscamos un especialista con visión integral de infraestructura cloud, automatización y continuidad operativa para liderar la arquitectura y despliegue de soluciones critical-mission. La posición se desempeñará en modalidad 100% remota con una dedicación full time , enfocada en asegurar altos estándares de seguridad y alta disponibilidad. Tus principales desafíos: Definir, evolucionar y mantener la infraestructura como código (IaC) mediante Terraform y Terragrunt para garantizar entornos escalables y reproducibles en Prod, QA y Dev. Construir e implementar pipelines de CI/CD automatizados en GitHub Actions y orquestar despliegues sin interrupción ( blue/green ) sobre AWS ECS Fargate. Diseñar, configurar e implementar el plan de recuperación ante desastres (DRP) cross-region e integrar esquemas de observabilidad avanzada con CloudWatch y X-Ray. Modelar la arquitectura de componentes y estimación de costos/licenciamiento garantizando la continuidad del servicio y la sostenibilidad financiera con proyección a 5 años. Hard Skills (Requisitos Excluyentes): Experiencia: Más de 5 años de trayectoria comprobable en roles Senior de DevOps, SysOps o Cloud Architecture. Educación: Título profesional en Ingeniería de Sistemas, Ingeniería de Software o carreras afines (Excluyente). Ecosistema AWS & Contenedores: Dominio de AWS (ECS Fargate, Aurora, CloudWatch, X-Ray), AWS CLI y Docker. IaC & CI/CD: Sólida experiencia práctica con Terraform, Terragrunt y creación de pipelines en GitHub Actions. Alta Disponibilidad & DRP: Experiencia diseñando e implementando arquitecturas cross-region , DRP y despliegues blue/green . Conocimiento Sectorial: Comprensión de requerimientos de infraestructura y comunicaciones en entornos del sector financiero/bancario. Power Skills: Proactividad y Autonomía: Capacidad para asumir la toma de decisiones técnicas complejas e impulsar mejoras en la infraestructura sin supervisión directa. Resolución de Incidentes bajo Presión: Calma operativa y criterio analítico para mitigar eventos críticos y asegurar la continuidad operativa de la plataforma. Comunicación Asertiva: Habilidad para coordinar estrategias de forma fluida con los equipos de desarrollo, arquitectura y ciberseguridad. Proyectos globales de alto impacto. Remoto Full-Time, acompañamiento 1:1 de HRBP y desafíos técnicos de alta complejidad. Cultura de alto rendimiento e innovación. Requirements Que se requiere para la vacante: AWS (ECS Fargate, Aurora, CloudWatch, X-Ray), AWS CLI y Docker - Expert Terraform, Terragrunt y creación de pipelines en GitHub Action - Expert Spanish - B2 Originally posted on Himalayas",
+      "description_truncated": false,
+      "salary_value": {
+        "status": "unparsed",
+        "source": "Himalayas",
+        "gross_or_net": "unknown"
+      },
+      "base_score": 4,
+      "keyword_main_score": 13,
+      "keyword_side_score": 8,
+      "main_eligible_now": false,
+      "side_eligible": false,
+      "relocation_watch": true,
+      "access": "relocation-watch",
+      "matched_keywords": [
+        "devops"
+      ],
+      "main_signals": [
+        "full time",
+        "full-time"
+      ],
+      "side_signals": [],
+      "negative_hits": 1,
+      "main_score": 50,
+      "side_score": 45,
+      "potential": {
+        "current_fit": 24,
+        "transferability": 70,
+        "gap_cost": "unknown",
+        "gap_cost_score": 60,
+        "evidence_confidence": "low",
+        "evidence_confidence_score": 50,
+        "career_potential": 72,
+        "relocation_value": "not_yet_ordered",
+        "compensation_fit": 50,
+        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
+        "salary_comparison": "incomparable",
+        "workstyle_fit": 82,
+        "commute_burden": 12,
+        "commute_note": "no es viaje diario; commute() no recibe Valencia",
+        "commute_status": "not_a_daily_commute",
+        "commute_km": null,
+        "role_families": [
+          "devops"
+        ],
+        "requirements_status": "unread",
+        "mandatory_requirements": [],
+        "desirable_requirements": [],
+        "sap_kind": null,
+        "work_from_zona_oeste": false,
+        "work_after_valencia": true,
+        "place_bridge": false,
+        "move_window": "unknown",
+        "earliest_start": "unknown",
+        "must_start_before": "unknown",
+        "reasons": [
+          "+ evidencia directa: GitHub Actions (github actions, ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "+ evidencia directa: Docker (docker) · fuentes: MIM · profundidad sin confirmar",
+          "+ evidencia directa: Automation and developer tooling (cli) · fuentes: MIM, Web-Sling-Optimizer",
+          "+ transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "fit: requisitos obligatorios no leídos; techo 40",
+          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
+          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
+          "- gap herramienta: aws",
+          "- gap herramienta: terraform",
+          "- gap desconocido: requisitos obligatorios no leídos",
+          "familias: devops",
+          "no es viaje diario; commute() no recibe Valencia"
+        ],
+        "gaps": [
+          {
+            "term": "aws",
+            "type": "tool"
+          },
+          {
+            "term": "terraform",
+            "type": "tool"
+          },
+          {
+            "term": "requisitos obligatorios no leídos",
+            "type": "unknown"
+          }
+        ],
+        "main_rank": 50,
+        "side_rank": 45,
+        "main_eligible": false,
+        "side_eligible": false,
+        "relocation_watch": true,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "unknown",
+        "signals": [],
+        "warnings": [
+          "listing_url_off_board",
+          "apply_url_external"
+        ]
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-10-21T20:13:56.964Z",
+        "history": []
+      },
+      "first_seen": "2026-10-21T20:13:56.964Z",
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/power-digital-marketing/jobs/data-engineer-ai-analytics-3803593581",
@@ -5270,11 +5590,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-tech-lead-grupo-mariposa-remote-56da",
@@ -5458,11 +5778,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-ruby-on-rails-developer-improving-remote",
@@ -5611,11 +5931,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-forward-deployed-engineer-diverse-programmers-remote",
@@ -5860,11 +6180,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-senior-qa-automation-engineer-net-c-improving-remote",
@@ -6054,11 +6374,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-qa-funcional-senior-microsoft-dynamics-365-latam-bc-tecnologia-remote",
@@ -6271,11 +6591,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/dentsu-international/jobs/dev-ops-developer",
@@ -6416,11 +6736,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/apptiva-core-technologies/jobs/devops-engineer-665181510",
@@ -6570,11 +6890,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-data-engineer",
@@ -6717,11 +7037,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/tenthpin/jobs/sap-btp-developer-architect-anywhere-in-india-preferred-bengaluru-hyderabad",
@@ -6864,11 +7184,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-ingeniero-a-de-software-c-c-atentus-cordoba-buenos-aires-mendoza-santiago",
@@ -7017,11 +7337,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-arquitecto-de-datos-sr-data-ai-grupo-mariposa-remote-48e8",
@@ -7251,11 +7571,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-databricks-engineer-tax-audit-improving-remote",
@@ -7455,11 +7775,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/logicalis-com/jobs/devops-engineer",
@@ -7618,11 +7938,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/logicalis-com/jobs/devops-architect",
@@ -7776,11 +8096,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/all-your-bi/jobs/data-engineer",
@@ -7919,11 +8239,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z",
+      "last_seen": "2026-10-21T20:13:56.964Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/all-your-bi/jobs/data-engineer",
@@ -8070,11 +8390,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z",
+      "last_seen": "2026-10-21T20:13:56.964Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/scalian/jobs/data-engineer",
@@ -8221,11 +8541,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z",
+      "last_seen": "2026-10-21T20:13:56.964Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/the-agile-monkeys/jobs/data-analytics-engineer-freelancer",
@@ -8416,11 +8736,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-17T04:39:12.131Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-sr-java-platform-engineer-improving-remote",
@@ -8617,11 +8937,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "jobicy-155601",
@@ -8761,11 +9081,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-17T18:34:20.009Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/scalian/jobs/devops-engineer",
@@ -8914,11 +9234,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-tech-lead-outsystems-con-ingles-y-espanol-latam-i2b-technologies-remote",
@@ -9097,11 +9417,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-net-engineer-autoraptor-remote",
@@ -9253,11 +9573,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-data-engineer-databricks-improving-remote",
@@ -9448,11 +9768,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/sopra-steria/jobs/devops-engineer-cloud-database-con-ingles",
@@ -9588,11 +9908,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/arquitecto-a-de-preventa-devops",
@@ -9744,11 +10064,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/plain-concepts/jobs/senior-data-engineer",
@@ -9897,11 +10217,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-sas-to-databricks-migration-engineer-ai-improving-remote",
@@ -10101,11 +10421,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "getonboard-big-data-engineer-databricks-improving-remote",
@@ -10312,11 +10632,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/devops-engineer",
@@ -10465,11 +10785,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/smartcat/jobs/senior-devops-and-infrastructure-engineer-3918390478",
@@ -10621,11 +10941,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-sme-presales-engineer-lead-aws-remoto-100",
@@ -10787,11 +11107,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/smartcat/jobs/senior-ai-first-data-engineer",
@@ -10942,11 +11262,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-platform-engineering-remoto-100",
@@ -11105,11 +11425,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/ookla/jobs/data-engineer-iii",
@@ -11249,11 +11569,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     },
     {
       "id": "jobicy-155565",
@@ -11388,11 +11708,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-17T12:15:24.864Z",
-      "last_seen": "2026-10-21T13:55:43.598Z",
+      "last_seen": "2026-10-21T20:13:56.964Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://jobicy.com/jobs/155565-1140-lead-developer-architect-web3",
@@ -11544,11 +11864,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-21T13:55:43.598Z",
+        "updated_at": "2026-10-21T20:13:56.964Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-21T13:55:43.598Z"
+      "last_seen": "2026-10-21T20:13:56.964Z"
     }
   ]
 }

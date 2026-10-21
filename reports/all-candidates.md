@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-10-21T13:55:43.598Z
+Generado: 2026-10-21T20:13:56.964Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -36,8 +36,10 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 51 | 24 | 72 | low | 46 | [Software Engineer - Secure Container Images](https://jobicy.com/jobs/150994-software-engineer-secure-container-images) | Canonical | Jobicy | new |
 | 51 | 24 | 72 | low | 46 | [Platform Engineer, Managed Postgres](https://jobicy.com/jobs/155389-platform-engineer-managed-postgres) | Supabase | Jobicy | new |
 | 51 | 38 | 72 | unknown | 47 | [Data Infrastructure Engineer-Spain](https://himalayas.app/companies/doodle/jobs/data-infrastructure-engineer-spain?utm_source=api) | Doodle | Himalayas | new |
+| 50 | 24 | 82 | low | 45 | [Machine Learning Engineer](https://www.getonbrd.com/jobs/machine-learning-engineer-improving-remote) | Improving | Get on Board | new |
 | 50 | 9 | 72 | low | 45 | [Senior Data Engineer (Databricks on Azure)](https://www.getonbrd.com/jobs/senior-data-engineer-databricks-on-azure-devsu-remote-7b55) | Devsu | Get on Board | new |
 | 50 | 24 | 72 | unknown | 45 | [Azure DevOps Engineer – Pipelines & Guardrails](https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails?utm_source=api) | BIP | Himalayas | new |
+| 50 | 24 | 72 | unknown | 45 | [DEVOPS AWS - Español - 100% Remoto](https://himalayas.app/companies/rekluti/jobs/devops-aws-espanol-100-remoto?utm_source=api) | XKTalent Inc. - Rimutee | Himalayas | new |
 | 50 | 40 | 72 | unknown | 45 | [Data Engineer, AI & Analytics](https://himalayas.app/companies/power-digital-marketing/jobs/data-engineer-ai-analytics-3803593581?utm_source=api) | Power Digital Marketing | Himalayas | new |
 | 49 | 0 | 72 | low | 43 | [Tech Lead](https://www.getonbrd.com/jobs/tech-lead-grupo-mariposa-remote-56da) | Grupo Mariposa | Get on Board | new |
 | 49 | 24 | 72 | low | 44 | [Ruby on Rails Developer](https://www.getonbrd.com/jobs/ruby-on-rails-developer-improving-remote) | Improving | Get on Board | new |
