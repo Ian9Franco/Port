@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-10-22T13:54:14.641Z
+Generado: 2026-10-22T20:12:11.882Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -42,6 +42,7 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 49 | 0 | 72 | low | 43 | [Tech Lead](https://www.getonbrd.com/jobs/tech-lead-grupo-mariposa-remote-56da) | Grupo Mariposa | Get on Board | new |
 | 49 | 24 | 72 | low | 44 | [Ruby on Rails Developer](https://www.getonbrd.com/jobs/ruby-on-rails-developer-improving-remote) | Improving | Get on Board | new |
 | 49 | 0 | 82 | low | 43 | [Forward Deployed Engineer](https://www.getonbrd.com/jobs/forward-deployed-engineer-diverse-programmers-remote) | Diverse Programmers | Get on Board | new |
+| 49 | 0 | 72 | low | 43 | [QA Manual Tester](https://www.getonbrd.com/jobs/qa-tester-grupo-mariposa-remote-8728) | Grupo Mariposa | Get on Board | new |
 | 49 | 1 | 88 | low | 43 | [Senior QA Automation Engineer (.NET/C#)](https://www.getonbrd.com/jobs/senior-qa-automation-engineer-net-c-improving-remote) | Improving | Get on Board | new |
 | 49 | 0 | 72 | low | 43 | [QA Funcional Senior Microsoft Dynamics 365 (LATAM)](https://www.getonbrd.com/jobs/qa-funcional-senior-microsoft-dynamics-365-latam-bc-tecnologia-remote) | BC Tecnología | Get on Board | new |
 | 49 | 33 | 72 | unknown | 45 | [Dev/Ops Developer](https://himalayas.app/companies/dentsu-international/jobs/dev-ops-developer?utm_source=api) | dentsu international | Himalayas | new |
