@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-10-21T20:13:56.964Z
+Generado: 2026-10-22T05:01:33.698Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -19,6 +19,7 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 54 | 24 | 72 | low | 48 | [Senior Software Development Engineer in Test (SDET)](https://jobicy.com/jobs/155928-senior-software-development-engineer-in-test-sdet-2) | Flex | Jobicy | new |
 | 54 | 40 | 90 | low | 48 | [Software engineer](https://jobicy.com/jobs/150846-software-engineer-3) | Sticker Mule | Jobicy | new |
 | 54 | 40 | 72 | low | 49 | [Multigres Deployment Engineer](https://jobicy.com/jobs/153326-multigres-deployment-engineer) | Supabase | Jobicy | new |
+| 54 | 24 | 90 | unknown | 48 | [Data Product Engineer, Data & Analytics](https://himalayas.app/companies/trimble/jobs/data-product-engineer-data-analytics?utm_source=api) | Trimble | Himalayas | new |
 | 53 | 22 | 72 | low | 47 | [Desarrollador Ctv](https://www.getonbrd.com/jobs/desarrollador-mobile-mediastream-bogota-santiago-bf34) | Mediastream | Get on Board | new |
 | 53 | 40 | 72 | low | 48 | [Site Reliability Engineer](https://jobicy.com/jobs/155391-site-reliability-engineer-4) | Supabase | Jobicy | new |
 | 53 | 12 | 82 | low | 46 | [AI Platform Engineer](https://jobicy.com/jobs/155385-ai-platform-engineer) | Supabase | Jobicy | new |
@@ -39,7 +40,7 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 50 | 24 | 82 | low | 45 | [Machine Learning Engineer](https://www.getonbrd.com/jobs/machine-learning-engineer-improving-remote) | Improving | Get on Board | new |
 | 50 | 9 | 72 | low | 45 | [Senior Data Engineer (Databricks on Azure)](https://www.getonbrd.com/jobs/senior-data-engineer-databricks-on-azure-devsu-remote-7b55) | Devsu | Get on Board | new |
 | 50 | 24 | 72 | unknown | 45 | [Azure DevOps Engineer – Pipelines & Guardrails](https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails?utm_source=api) | BIP | Himalayas | new |
-| 50 | 24 | 72 | unknown | 45 | [DEVOPS AWS - Español - 100% Remoto](https://himalayas.app/companies/rekluti/jobs/devops-aws-espanol-100-remoto?utm_source=api) | XKTalent Inc. - Rimutee | Himalayas | new |
+| 50 | 24 | 72 | unknown | 45 | [DEVOPS AWS - MEDIO TIEMPO - ESPAÑOL](https://himalayas.app/companies/rekluti/jobs/devops-aws-medio-tiempo-espanol?utm_source=api) | XKTalent Inc. - Rimutee | Himalayas | new |
 | 50 | 40 | 72 | unknown | 45 | [Data Engineer, AI & Analytics](https://himalayas.app/companies/power-digital-marketing/jobs/data-engineer-ai-analytics-3803593581?utm_source=api) | Power Digital Marketing | Himalayas | new |
 | 49 | 0 | 72 | low | 43 | [Tech Lead](https://www.getonbrd.com/jobs/tech-lead-grupo-mariposa-remote-56da) | Grupo Mariposa | Get on Board | new |
 | 49 | 24 | 72 | low | 44 | [Ruby on Rails Developer](https://www.getonbrd.com/jobs/ruby-on-rails-developer-improving-remote) | Improving | Get on Board | new |
