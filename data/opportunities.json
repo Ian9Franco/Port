@@ -2,16 +2,16 @@
   "version": 4,
   "matcher": "potential-v1",
   "trust_layer": "listing-v1",
-  "generated_at": "2026-10-22T05:01:33.698Z",
+  "generated_at": "2026-10-22T13:54:14.641Z",
   "career_model_version": 2,
   "application_mode": "manual",
   "source_failures": [],
   "source_stats": {
     "Remotive": 10,
-    "Arbeitnow": 70,
+    "Arbeitnow": 91,
     "Get on Board": 532,
     "RemoteOK": 99,
-    "Jobicy": 41,
+    "Jobicy": 38,
     "Himalayas": 82
   },
   "top_picks": {
@@ -167,11 +167,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "jobicy-155494",
@@ -288,11 +288,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-17T04:39:12.131Z",
-      "last_seen": "2026-10-22T05:01:33.698Z",
+      "last_seen": "2026-10-22T13:54:14.641Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://jobicy.com/jobs/155494-senior-devops-engineer-9",
@@ -441,11 +441,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z",
+      "last_seen": "2026-10-22T13:54:14.641Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-lead",
@@ -593,11 +593,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z",
+      "last_seen": "2026-10-22T13:54:14.641Z",
       "merged_urls": [
         "https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote",
         "https://www.getonbrd.com/jobs/senior-full-stack-engineer-improving-remote"
@@ -738,11 +738,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-17T12:15:24.864Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/automation-devops-engineer-remoto",
@@ -870,11 +870,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z",
+      "last_seen": "2026-10-22T13:54:14.641Z",
       "merged_urls": [
         "https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto?utm_source=api",
         "https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100?utm_source=api",
@@ -1019,11 +1019,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-integration-specialist-consultant",
@@ -1161,11 +1161,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-qa-automation-engineer-azure-improving-remote",
@@ -1366,11 +1366,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-especialista-qa-senior-latam-bc-tecnologia-remote",
@@ -1505,11 +1505,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "jobicy-155928",
@@ -1632,11 +1632,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-19T21:08:31.731Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "jobicy-150846",
@@ -1769,11 +1769,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-17T12:15:24.864Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "jobicy-153326",
@@ -1905,11 +1905,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-16T13:20:13.441Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/trimble/jobs/data-product-engineer-data-analytics",
@@ -2067,11 +2067,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-22T05:01:33.698Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-desarrollador-mobile-mediastream-bogota-santiago-bf34",
@@ -2255,288 +2255,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
-    },
-    {
-      "id": "jobicy-155391",
-      "source": "Jobicy",
-      "source_trust": "official_public_api",
-      "external_id": "155391",
-      "url": "https://jobicy.com/jobs/155391-site-reliability-engineer-4",
-      "apply_url": "https://jobicy.com/jobs/155391-site-reliability-engineer-4",
-      "title": "Site Reliability Engineer",
-      "company": "Supabase",
-      "location": "Anywhere",
-      "remote": true,
-      "workplace": "remote",
-      "employment_type": "full_time",
-      "published_at": "2026-10-15T13:33:55.000Z",
-      "salary": "",
-      "seniority": "Any",
-      "tags": [
-        "DevOps & Infrastructure",
-        "Any"
-      ],
-      "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role Supabase manages millions of Postgres instances and is growing. We have strong teams across observability, release engineering, and incident management — and we're concentrating our reliability efforts into a dedicated SRE practice that ties the discipline together across the platform. You'll be embedded within Service Operations, and your primary job is to make every engineering team more reliable — not by owning their infrastructure, but by establishing the practices, frameworks, and feedback loops that let them own reliability themselves. You'll work across the org: sometimes setting the standard, sometimes pair-programming a fix, sometimes helping a team define their error budget, sometimes telling them it's exhausted. This role is ideal for someone who has a strong vision for how SRE should work and thrives in async, fast-paced environments where influence matters more than authority. What You'll Own Partner with service teams to define meaningful SLIs and SLOs grounded in customer experience, and build the error budget policies that turn them into engineering decisions Own and evolve the Operational Readiness Review (ORR) process — conducting reviews for new services and major changes across observability, alerting, runbooks, capacity, and graceful degradation Strengthen the incident-to-improvement pipeline: connecting postmortem findings to operational readiness gaps, identifying repeat failure patterns, and driving systemic fixes Act as the reliability expert teams pull in for architecture reviews, failure mode analysis, dependency mapping, and resilience design Identify and quantify operational toil across the org, and build or advocate for automation that eliminates it Help teams design sustainable on-call practices: alert quality, escalation paths, runbook coverage, and noise reduction Track and report on org-wide operational maturity, surfacing systemic gaps and driving remediation You Might Be a Good Fit If You Have 7+ years of experience in SRE, production engineering, or reliability-focused roles, including experience shaping SRE practices and driving adoption across engineering teams Have a software engineering mindset — you write code and build tools, not just configure them Have hands-on experience defining and operationalizing SLOs/SLIs at scale, including error budget policies that actually influenced engineering decisions Have deep experience with incident response, postmortem facilitation, and turning incident learnings into systemic improvements Have worked with large-scale multi-tenant systems (bonus: managed database platforms or Postgres) Are proficient with cloud infrastructure (AWS preferred) and infrastructure-as-code (Pulumi preferred, Terraform/CDK also acceptable) Communicate clearly and persuasively — this role requires influencing without authority across a distributed org Have experience in async or globally distributed teams Are energized by making other teams more effective rather than being the one who fixes everything Nice to Have Experience with Kubernetes-based platform operations Familiarity with OpenTelemetry, VictoriaMetrics, Grafana, or similar observability tooling Experience building developer-facing reliability tooling (SLO dashboards, ORR frameworks, toil tracking, DORA metrics) What We Offer Fully Remote We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world. ESOP Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together. Tech Allowance Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work. Health Benefits Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us. Annual Off-Sites Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year. Flexible Work We operate asynchronously and trust you to manage your own time. You know what needs to be done and when. Professional Development Every team member receives an annual education allowance to spend on learning—courses, books, conferences, or anything that supports your growth. About the Team Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love. ~400 team members 60+ countries 20+ languages spoken Over $1B raised (including our $500M Series F) 540,000+ community members We move fast, build in public, and use what we ship. If it’s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support—not replace—existing tools and communities.",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Jobicy",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 14,
-      "keyword_main_score": 21,
-      "keyword_side_score": 19,
-      "main_eligible_now": true,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [
-        "backend",
-        "automation",
-        "devops",
-        "supabase"
-      ],
-      "main_signals": [],
-      "side_signals": [
-        "project"
-      ],
-      "negative_hits": 0,
-      "main_score": 53,
-      "side_score": 48,
-      "potential": {
-        "current_fit": 40,
-        "transferability": 66,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 54,
-        "career_potential": 72,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": true,
-        "work_after_valencia": true,
-        "place_bridge": true,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: PostgreSQL (postgres) · fuentes: MIM, Pontorno-vault, Factu · profundidad sin confirmar",
-          "+ evidencia directa: Supabase (supabase) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "+ evidencia directa: Automation and developer tooling (automation, tooling) · fuentes: MIM, Web-Sling-Optimizer",
-          "+ evidencia laboral: marketing (growth) · fuentes: self-assessment",
-          "+ transferible: DevOps transition base (devops, sre) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
-          "- gap herramienta: aws",
-          "- gap herramienta: kubernetes",
-          "- gap herramienta: terraform",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: devops",
-          "sin viaje diario desde zona oeste, Buenos Aires"
-        ],
-        "gaps": [
-          {
-            "term": "aws",
-            "type": "tool"
-          },
-          {
-            "term": "kubernetes",
-            "type": "tool"
-          },
-          {
-            "term": "terraform",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 53,
-        "side_rank": 48,
-        "main_eligible": true,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
-        "history": []
-      },
-      "first_seen": "2026-10-15T19:55:37.288Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
-    },
-    {
-      "id": "jobicy-155385",
-      "source": "Jobicy",
-      "source_trust": "official_public_api",
-      "external_id": "155385",
-      "url": "https://jobicy.com/jobs/155385-ai-platform-engineer",
-      "apply_url": "https://jobicy.com/jobs/155385-ai-platform-engineer",
-      "title": "AI Platform Engineer",
-      "company": "Supabase",
-      "location": "Anywhere",
-      "remote": true,
-      "workplace": "remote",
-      "employment_type": "full_time",
-      "published_at": "2026-10-15T13:33:51.000Z",
-      "salary": "",
-      "seniority": "Director",
-      "tags": [
-        "Software Engineering",
-        "Director"
-      ],
-      "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We are hiring a AI Platform Engineer to build the execution layer for Supabase's internal AI systems. Supabase is building an AI-native internal operating system: a common way of working across the company where AI carries a meaningful share of the operational load rather than sitting alongside it as an assistant. We are standing up a new central team to build those systems, enable the teams, and embed AI operations throughout the organization. You are the engineer on that team. The execution layer is yours. You will build the platform that actually runs agents: an event-triggered queue, a headless model-agnostic runtime, durable state so work survives a restart, a human review gate, atomic rollback, and full logging of every prompt, tool call and decision so any run can be reconstructed. You will build the evaluation layer that makes any of it trustworthy, because an agent that cannot be measured cannot be trusted with anything beyond reading. And you will build the agents themselves, across everything from executive reporting down to a layer of agents that watch the platform and improve it. This is a governance-heavy environment by design, and that is the interesting part of the problem. Agents are risk-tiered from read-only internal data through to external-facing output, with review depth, evaluation requirements and human approval scaling by tier. Some capabilities are permanently off limits: an agent may read and report, it may carry a human-authored update into a system of record once a human consents, and it may initiate contact within a strict budget, but it may never autonomously write a commitment (an owner, a due date, a status) into a shared work system. Your job is to make that structurally impossible rather than merely forbidden. You will be the only engineer on this platform. You will close open architecture decisions yourself, own the infrastructure end to end, and instrument the system so it reports its own return. What You'll Be Responsible For In this role, you'll: Ship the agent platform to production. An event-triggered queue, a headless model-agnostic runtime (choosing the runtime is an open decision you will close), durable state that survives a failed run, a human review gate, atomic rollback, and complete run logging in the warehouse. Own the evaluation layer, and switch on the gate that depends on it. Golden suites with behavioral assertions rather than intuition, judge criteria with a written rubric, safety cases that must pass on every run, and a CI gate that blocks a regression from merging. This is the precondition for every agent that does anything beyond read internal data. Build and register the agent portfolio. Reporting, drafting, linting, triage and question-answering agents across the executive, team-lead and individual-contributor layers, plus a meta layer that observes the platform and improves it. Enforce governance in code. Risk tiers the pipeline actually enforces, least-privilege credentials per agent, tool-permission gates, a decision audit log, and autonomy classes where the dangerous class has no code path rather than a warning label. Nothing runs without a registered owner, tier, tool grant and human gate. Design how the system contacts people. A hard interruption budget per person, message bundling instead of a stream of pings, and a structure that gives something useful before it asks for anything. Adoption depends on this more than on any other single design choice. Own the platform tooling. The compiler and validator, inventory integrity, and the paths that distribute context and capabilities into the repositories and chat surfaces where work happens. Compute the operating measures from production data. A pipeline from raw system activity through to a computed maturity grade per team, defensible enough that a team can dispute the result and be answered with the query rather than an opinion. Instrument the platform's own return. A ledger that logs the work each agent absorbs and computes the monthly figure, so the value of the system is a measurement rather than a claim. How You'll Think Recursive Thinking You build the generator, not the artifact. When you need thirty agents, you do not write thirty agents; you build the inventory, the compiler and the distribution path that makes the thirty-first cost an afternoon, then a meta layer whose job is to watch the platform, find its drift and file the fix. The evaluation layer is the same move applied to trust. You are not checking whether one agent is correct today. You are building the machine that decides whether every future agent is allowed to ship, which means the suite has to be right in a way the agent does not, and the thing that grades has to be graded too. Inversion Thinking You start from the failure and work backward to the design. The rule is that an agent may never autonomously write a commitment into a shared work system. The weak implementation is an instruction in a prompt. The strong one is that the credential in the agent's tool grant physically cannot set an owner, a due date or a status, so no amount of clever input, prompt injection or model error produces the forbidden write. You reach for the second one first. Same for evaluation. Before writing a suite you enumerate how the agent can be wrong: an update that invents progress that did not happen, one that quotes a private channel into a public digest, one that is accurate and reads as an accusation, one that credits the wrong person. Then the suite is that list, each case caught before the agent ships rather than after it embarrasses someone. AI-Native Execution You use agentic tools on real work, in files and repositories, with the same rigor you apply to anything else you ship. You have a setup of your own and can describe it mechanically: what triggers it, what it is allowed to touch, where the human approves, what it logs, and how you found out the one time it went wrong. That experience is this job, generalized. You are building for async engineers across 40+ countries who will judge the platform by whether it saves them an hour or costs them one, so you are your own first user and your own harshest reviewer. You Might Be a Good Fit If You Must Have Have shipped production LLM agent systems that other people depended on. Not demos, not internal showcases. Systems with operational history, real users and at least one incident you can talk through. Prompt engineering on its own does not clear this bar. Design evaluations, not spot checks. You build golden sets, write behavioral assertions, define judge rubrics, set pass thresholds and gate CI on the result. You can explain why \"we reviewed a bunch of outputs and they looked good\" is not evaluation. Have done deep API work against the systems work actually lives in , and have authored MCP servers. You know the specific failure modes of those APIs, not just that they exist. Own infrastructure end to end in Python on GCP, with a cloud warehouse and infrastructure as code. You provision, deploy, monitor and roll back your own systems, and you close architecture decisions rather than routing them onward. Have taste about how software contacts humans. You treat every notification as spending a limited amount of trust. Strong Signal Public work in this space. An open-source agent framework, an MCP server, an evaluation harness, or writing on agent reliability that other practitioners cite. LLM observability and cost instrumentation. Tracing agent runs, attributing spend per run, and building the queries that turn raw logs into a report someone acts on. You have built an internal platform that non-engineers adopted voluntarily , and can describe ",
-      "description_truncated": true,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Jobicy",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 9,
-      "keyword_main_score": 16,
-      "keyword_side_score": 12,
-      "main_eligible_now": true,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [
-        "backend",
-        "platform engineer",
-        "supabase"
-      ],
-      "main_signals": [],
-      "side_signals": [],
-      "negative_hits": 1,
-      "main_score": 53,
-      "side_score": 46,
-      "potential": {
-        "current_fit": 12,
-        "transferability": 89,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 54,
-        "career_potential": 82,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops",
-          "data",
-          "applied_ai"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": true,
-        "work_after_valencia": true,
-        "place_bridge": true,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: PostgreSQL (postgres) · fuentes: MIM, Pontorno-vault, Factu · profundidad sin confirmar",
-          "+ evidencia directa: Supabase (supabase) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "+ evidencia directa: Applied AI integration (llm) · fuentes: MIM, Web-Sling-Optimizer · profundidad sin confirmar",
-          "+ evidencia directa: Automation and developer tooling (tooling) · fuentes: MIM, Web-Sling-Optimizer",
-          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
-          "+ evidencia laboral: marketing (growth) · fuentes: self-assessment",
-          "+ transferible: DevOps transition base (platform engineer) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- seniority: el aviso pide director; la evidencia es de proyecto o curso, no seniority profesional confirmado",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
-          "- gap herramienta: gcp",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "- gap desconocido: descripción cortada: la lista de requisitos está incompleta"
-        ],
-        "gaps": [
-          {
-            "term": "gcp",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          },
-          {
-            "term": "descripción cortada: la lista de requisitos está incompleta",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 53,
-        "side_rank": 46,
-        "main_eligible": true,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
-        "history": []
-      },
-      "first_seen": "2026-10-15T19:55:37.288Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto",
@@ -2680,11 +2403,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100",
@@ -2834,11 +2557,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/mercor/jobs/devops-engineer-ai-model-evaluator-5752080247",
@@ -2995,11 +2718,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/odilo/jobs/devops-engineer",
@@ -3145,11 +2868,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-sr-front-end-software-engineer-improving-remote",
@@ -3336,11 +3059,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-senior-full-stack-engineer-improving-remote",
@@ -3521,11 +3244,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-ai-backend-engineer-improving-remote",
@@ -3730,11 +3453,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-tech-lead-grupo-mariposa-remote-c340",
@@ -3919,11 +3642,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-desarrollador-fullstack-java-angular-improving-remote",
@@ -4135,11 +3858,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-senior-fullstack-software-engineer-react-y-python-maxxa-remote",
@@ -4332,11 +4055,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "jobicy-146254",
@@ -4465,11 +4188,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-18T12:39:26.241Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "jobicy-150994",
@@ -4594,149 +4317,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T13:39:33.944Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
-    },
-    {
-      "id": "jobicy-155389",
-      "source": "Jobicy",
-      "source_trust": "official_public_api",
-      "external_id": "155389",
-      "url": "https://jobicy.com/jobs/155389-platform-engineer-managed-postgres",
-      "apply_url": "https://jobicy.com/jobs/155389-platform-engineer-managed-postgres",
-      "title": "Platform Engineer, Managed Postgres",
-      "company": "Supabase",
-      "location": "Anywhere",
-      "remote": true,
-      "workplace": "remote",
-      "employment_type": "full_time",
-      "published_at": "2026-10-15T13:33:52.000Z",
-      "salary": "",
-      "seniority": "Senior",
-      "tags": [
-        "DevOps & Infrastructure",
-        "Senior"
-      ],
-      "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We are seeking a Platform Software Engineer with deep experience in distributed systems to help design, build, and maintain core platform services. You will work primarily in TypeScript and Go to deliver reliable, scalable, and secure systems that power Supabase at massive scale. What you'll be doing: Design and implement distributed services and APIs that power the Supabase Platform. Lead projects that improve scalability, reliability, and cost efficiency across existing systems. Build data-intensive workflows, background jobs, and event-driven pipelines. Own service SLIs/SLOs and collaborate on incident response and post-incident reviews. Improve system observability with metrics, logging, tracing, and profiling. Contribute to our CI/CD and release processes to ship safely and quickly. Partner with product teams to deliver features end-to-end, from design docs to production. Write clear design documents, RFCs, and high-quality tests. What we're looking for: Experienced in designing and operating distributed systems, with strong foundations in consistency, fault tolerance, partitioning, consensus, and back pressure. Proficient in TypeScript and/or Go, ideally with 5+ years building production services in one or both languages (other languages also considered). Comfortable with cloud infrastructure (AWS preferred) and container orchestration. Familiar with multi-tenant architectures, API design, and data modelling. Knowledgeable about networking fundamentals and security best practices. Experienced with Infrastructure as Code (Pulumi preferred; Terraform/CDK also fine). Comfortable participating in on-call rotations for large-scale production systems. Nice to have: Experience with Postgres internals, logical replication, or CDC pipelines. Experience with service meshes, workload identity, or zero-trust networking. Background in performance engineering and capacity planning. Open source contributions in systems, databases, or runtime tooling. What We Offer Fully Remote We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world. ESOP Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together. Tech Allowance Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work. Health Benefits Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us. Annual Off-Sites Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year. Flexible Work We operate asynchronously and trust you to manage your own time. You know what needs to be done and when. Professional Development Every team member receives an annual education allowance to spend on learning—courses, books, conferences, or anything that supports your growth. About the Team Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love. ~400 team members 60+ countries 20+ languages spoken Over $1B raised (including our $500M Series F) 540,000+ community members We move fast, build in public, and use what we ship. If it’s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support—not replace—existing tools and communities.",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Jobicy",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 21,
-      "keyword_main_score": 28,
-      "keyword_side_score": 26,
-      "main_eligible_now": false,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [
-        "backend",
-        "typescript",
-        "devops",
-        "platform engineer",
-        "supabase"
-      ],
-      "main_signals": [],
-      "side_signals": [
-        "project"
-      ],
-      "negative_hits": 0,
-      "main_score": 51,
-      "side_score": 46,
-      "potential": {
-        "current_fit": 24,
-        "transferability": 77,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 52,
-        "career_potential": 72,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": true,
-        "work_after_valencia": true,
-        "place_bridge": true,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: TypeScript (typescript) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar",
-          "+ evidencia directa: PostgreSQL (postgres) · fuentes: MIM, Pontorno-vault, Factu · profundidad sin confirmar",
-          "+ evidencia directa: Supabase (supabase) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "+ evidencia directa: GitHub Actions (ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "+ evidencia directa: Docker (container) · fuentes: MIM · profundidad sin confirmar",
-          "+ evidencia directa: Automation and developer tooling (tooling) · fuentes: MIM, Web-Sling-Optimizer",
-          "+ evidencia laboral: marketing (growth) · fuentes: self-assessment",
-          "+ transferible: DevOps transition base (devops, platform engineer) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
-          "- gap herramienta: aws",
-          "- gap herramienta: terraform"
-        ],
-        "gaps": [
-          {
-            "term": "aws",
-            "type": "tool"
-          },
-          {
-            "term": "terraform",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 51,
-        "side_rank": 46,
-        "main_eligible": false,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
-        "history": []
-      },
-      "first_seen": "2026-10-15T19:55:37.288Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/doodle/jobs/data-infrastructure-engineer-spain",
@@ -4886,11 +4471,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-machine-learning-engineer-improving-remote",
@@ -5062,11 +4647,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-21T20:13:56.964Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-senior-data-engineer-databricks-on-azure-devsu-remote-7b55",
@@ -5301,11 +4886,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails",
@@ -5442,11 +5027,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z",
+      "last_seen": "2026-10-22T13:54:14.641Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails",
@@ -5590,11 +5175,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-22T05:01:33.698Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/power-digital-marketing/jobs/data-engineer-ai-analytics-3803593581",
@@ -5750,11 +5335,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-tech-lead-grupo-mariposa-remote-56da",
@@ -5938,11 +5523,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-ruby-on-rails-developer-improving-remote",
@@ -6091,11 +5676,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-forward-deployed-engineer-diverse-programmers-remote",
@@ -6340,11 +5925,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-senior-qa-automation-engineer-net-c-improving-remote",
@@ -6534,11 +6119,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-qa-funcional-senior-microsoft-dynamics-365-latam-bc-tecnologia-remote",
@@ -6751,11 +6336,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/dentsu-international/jobs/dev-ops-developer",
@@ -6896,11 +6481,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/apptiva-core-technologies/jobs/devops-engineer-665181510",
@@ -7050,11 +6635,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-data-engineer",
@@ -7197,11 +6782,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/tenthpin/jobs/sap-btp-developer-architect-anywhere-in-india-preferred-bengaluru-hyderabad",
@@ -7344,11 +6929,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-ingeniero-a-de-software-c-c-atentus-cordoba-buenos-aires-mendoza-santiago",
@@ -7497,11 +7082,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-arquitecto-de-datos-sr-data-ai-grupo-mariposa-remote-48e8",
@@ -7731,11 +7316,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-databricks-engineer-tax-audit-improving-remote",
@@ -7935,11 +7520,146 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
+    },
+    {
+      "id": "jobicy-151281",
+      "source": "Jobicy",
+      "source_trust": "official_public_api",
+      "external_id": "151281",
+      "url": "https://jobicy.com/jobs/151281-senior-web-security-engineer-browser-platform",
+      "apply_url": "https://jobicy.com/jobs/151281-senior-web-security-engineer-browser-platform",
+      "title": "Senior Web Security Engineer, Browser Platform",
+      "company": "DuckDuckGo",
+      "location": "Anywhere",
+      "remote": true,
+      "workplace": "remote",
+      "employment_type": "full_time",
+      "published_at": "2026-10-22T04:30:07.000Z",
+      "salary": "178500 - 178500 USD / yearly",
+      "seniority": "Senior",
+      "tags": [
+        "Cybersecurity",
+        "Senior"
+      ],
+      "description": "Who We Are Hi, we're DuckDuckGo , the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on Mac , Windows , iOS , and Android , our search engine , and the DuckDuckGo subscription . We also offer private, useful, and optional AI, including Duck.ai , which lets you chat privately with ChatGPT, Claude, and other AIs, all in one place. Our culture of trust, inclusivity, and empowered project management underpins everything we do, where each team member takes full ownership of their projects, from scoping and execution to postmortem. If you're seeking end-to-end ownership of your work, you've come to the right place! Your Team and Role Working on the Security Functional Team, you'll play a pivotal role in ensuring our security capabilities keep pace with our rapid product development, including our expanding AI offerings like Duck.ai and agentic browsing, directly protecting our users across all our products. You'll also maintain incident detection and response capabilities for the company, and work on related projects. Recent projects include: Browser and sync security audits SERP security mitigations Agentic browser hardening As a Senior Web Security Engineer, Browser Platform , you'll harden our agentic browsing and DuckAI experiences against emerging threats (like prompt injection), conduct browser and sync security audits (special pages, DuckAI integrations, password manager, etc.), execute on SERP security mitigations (XSS prevention, tooling development to help engineers write safer code), build and maintain harnesses that get security fixes out automatically, manage application security scanning infrastructure setup, deliver on internal red-team operations (simulated attack scenarios), support security triage, and more! About You 7+ years of experience in web or application security (performing security assessments, vulnerability research, penetration testing, or secure code review) Recent experience creating security focused agentic harnesses Experience influencing large feature designs to have security baked in from the start Advanced programming or scripting experience with JavaScript. Any additional experience with our stack is a bonus: Swift/Kotlin/C#/JavaScript (native apps) or JavaScript/Perl/Go (search). Experience with at least one WebView technology (WebKit, WebView2, Chromium WebView, etc.) and understanding of browser security models (SOP, CSP, CORS, SameSite cookies) Hands-on experience identifying and exploiting web vulnerabilities (XSS, CSRF, injection attacks, authorization flaws, etc.) Familiarity with security testing tools and frameworks Experience partnering and collaborating with Product Engineers, advising on security matters and helping teams ship secure code faster Experience shaping how an organisation thinks about security - driving best practices, improving processes, and raising the bar across teams Compensation $ 178,500 USD annually and stock options. Compensation is transparent across the organization, and all team members within the same professional level and global region receive the same compensation. Eligibility for company-sponsored health benefits is limited to team members based in the United States. This program does not extend to team members located in other countries, such as Canada or the UK. Our Team Member Support Guide explains how we prioritize your wellbeing including paid parental leave, office setup, and co-working allowances. Hiring Process Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo, envision your future role here, and find out more about how we hire . Diversity, Equity and Inclusion DuckDuckGo provides equal work opportunities to all team members and applicants , and it prohibits discrimination and harassment of any type on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws. We want to ensure that our hiring process is accessible. If you need reasonable accommodation for any part of the application process because of a medical condition or disability, please send an email to careers@duckduckgo.com to let us know the nature of your request. Please note that: You’ll be required to attend meetings on camera via video conferencing Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend. While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. A successful candidate must pass a background check as a condition of joining the team. By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work. Disclosure Statement: Use of AI in Hiring Process As part of our commitment to enhancing our recruitment process, we utilize artificial intelligence (AI) technology to assist in reviewing and summarizing job applications and test projects, including those tools integrated into our recruitment vendor platforms. We use AI to flag potentially fraudulent applications, analyze and summarize applicants’ experience, interviews, and project performance, and help streamline our selection process. Key Principles: Data Privacy: All information provided in your application will be handled in accordance with our Recruiting Privacy Policy . We ensure that your personal information is protected and used solely for recruitment purposes. Human Oversight and Accountability: The AI technology is designed to support our hiring team by providing insights and summaries of applications and evaluations of test projects against scoring rubrics. All final evaluations and hiring decisions, however, will be made by our hiring team, who will consider the AI's input alongside other factors. Transparency: We believe in transparency regarding our hiring practices. If you have any questions about how AI is used in our recruitment process, please feel free to reach out to us. By submitting your application, you acknowledge and consent to the use of AI technology in our review process. If you would like to request an alternative selection process, please contact us as at careers@duckduckgo.com . Thank you for your interest in joining DuckDuckGo! #LI-DNI",
+      "description_truncated": false,
+      "salary_value": {
+        "status": "parsed",
+        "amount": 178500,
+        "amount_max": 178500,
+        "currency": "USD",
+        "period": "yearly",
+        "gross_or_net": "unknown",
+        "source": "Jobicy",
+        "raw": "178500 - 178500 USD / yearly"
+      },
+      "base_score": 10,
+      "keyword_main_score": 20,
+      "keyword_side_score": 15,
+      "main_eligible_now": false,
+      "side_eligible": false,
+      "relocation_watch": false,
+      "access": "remote-now",
+      "matched_keywords": [
+        "integration",
+        "security engineer"
+      ],
+      "main_signals": [
+        "full-time"
+      ],
+      "side_signals": [
+        "project"
+      ],
+      "negative_hits": 0,
+      "main_score": 48,
+      "side_score": 44,
+      "potential": {
+        "current_fit": 24,
+        "transferability": 68,
+        "gap_cost": "unknown",
+        "gap_cost_score": 60,
+        "evidence_confidence": "low",
+        "evidence_confidence_score": 54,
+        "career_potential": 62,
+        "relocation_value": "not_yet_ordered",
+        "compensation_fit": 50,
+        "compensation_note": "salario incomparable (moneda USD) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
+        "salary_comparison": "incomparable",
+        "workstyle_fit": 82,
+        "commute_burden": 8,
+        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
+        "commute_status": "not_a_daily_commute",
+        "commute_km": null,
+        "role_families": [
+          "security"
+        ],
+        "requirements_status": "unread",
+        "mandatory_requirements": [],
+        "desirable_requirements": [],
+        "sap_kind": null,
+        "work_from_zona_oeste": true,
+        "work_after_valencia": true,
+        "place_bridge": true,
+        "move_window": "unknown",
+        "earliest_start": "unknown",
+        "must_start_before": "unknown",
+        "reasons": [
+          "+ evidencia directa: TypeScript (javascript) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar",
+          "+ evidencia directa: Security-aware application engineering (csp) · fuentes: Pontorno-vault, MIM",
+          "+ evidencia directa: Automation and developer tooling (tooling) · fuentes: MIM, Web-Sling-Optimizer",
+          "fit: requisitos obligatorios no leídos; techo 40",
+          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
+          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
+          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
+          "- gap herramienta: c#",
+          "- gap desconocido: requisitos obligatorios no leídos",
+          "familias: security",
+          "sin viaje diario desde zona oeste, Buenos Aires"
+        ],
+        "gaps": [
+          {
+            "term": "c#",
+            "type": "tool"
+          },
+          {
+            "term": "requisitos obligatorios no leídos",
+            "type": "unknown"
+          }
+        ],
+        "main_rank": 48,
+        "side_rank": 44,
+        "main_eligible": false,
+        "side_eligible": false,
+        "relocation_watch": false,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "low",
+        "signals": [
+          "listing_on_official_board"
+        ],
+        "warnings": []
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-10-22T13:54:14.641Z",
+        "history": []
+      },
+      "first_seen": "2026-10-22T13:54:14.641Z",
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/logicalis-com/jobs/devops-engineer",
@@ -8098,11 +7818,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/logicalis-com/jobs/devops-architect",
@@ -8256,11 +7976,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/all-your-bi/jobs/data-engineer",
@@ -8399,11 +8119,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z",
+      "last_seen": "2026-10-22T13:54:14.641Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/all-your-bi/jobs/data-engineer",
@@ -8550,11 +8270,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z",
+      "last_seen": "2026-10-22T13:54:14.641Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/scalian/jobs/data-engineer",
@@ -8701,11 +8421,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z",
+      "last_seen": "2026-10-22T13:54:14.641Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/the-agile-monkeys/jobs/data-analytics-engineer-freelancer",
@@ -8896,11 +8616,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-17T04:39:12.131Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-sr-java-platform-engineer-improving-remote",
@@ -9097,11 +8817,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "jobicy-155601",
@@ -9241,11 +8961,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-17T18:34:20.009Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/scalian/jobs/devops-engineer",
@@ -9394,11 +9114,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-tech-lead-outsystems-con-ingles-y-espanol-latam-i2b-technologies-remote",
@@ -9577,11 +9297,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-net-engineer-autoraptor-remote",
@@ -9733,11 +9453,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-data-engineer-databricks-improving-remote",
@@ -9928,11 +9648,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/sopra-steria/jobs/devops-engineer-cloud-database-con-ingles",
@@ -10068,11 +9788,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/arquitecto-a-de-preventa-devops",
@@ -10224,11 +9944,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/plain-concepts/jobs/senior-data-engineer",
@@ -10377,11 +10097,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-sas-to-databricks-migration-engineer-ai-improving-remote",
@@ -10581,11 +10301,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "getonboard-big-data-engineer-databricks-improving-remote",
@@ -10792,11 +10512,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/devops-engineer",
@@ -10945,11 +10665,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/smartcat/jobs/senior-devops-and-infrastructure-engineer-3918390478",
@@ -11101,11 +10821,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-sme-presales-engineer-lead-aws-remoto-100",
@@ -11267,11 +10987,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/smartcat/jobs/senior-ai-first-data-engineer",
@@ -11422,11 +11142,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-platform-engineering-remoto-100",
@@ -11585,11 +11305,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/ookla/jobs/data-engineer-iii",
@@ -11729,11 +11449,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     },
     {
       "id": "jobicy-155565",
@@ -11868,11 +11588,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-17T12:15:24.864Z",
-      "last_seen": "2026-10-22T05:01:33.698Z",
+      "last_seen": "2026-10-22T13:54:14.641Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://jobicy.com/jobs/155565-1140-lead-developer-architect-web3",
@@ -12024,11 +11744,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T05:01:33.698Z",
+        "updated_at": "2026-10-22T13:54:14.641Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T05:01:33.698Z"
+      "last_seen": "2026-10-22T13:54:14.641Z"
     }
   ]
 }

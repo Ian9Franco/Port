@@ -1,10 +1,10 @@
 # Port — Opportunity Radar
 
-Generado: 2026-10-22T05:01:33.698Z
+Generado: 2026-10-22T13:54:14.641Z
 
 Modo de aplicación: **manual**. Port busca, filtra y prepara; Ian decide y aplica.
 
-Fuentes: Remotive (10), Arbeitnow (70), Get on Board (532), RemoteOK (99), Jobicy (41), Himalayas (82)
+Fuentes: Remotive (10), Arbeitnow (91), Get on Board (532), RemoteOK (99), Jobicy (38), Himalayas (82)
 
 ## MAIN — Top picks
 
@@ -37,7 +37,7 @@ Valencia y España, para una mudanza posterior con la familia. La ventana de mud
 
 ## Cobertura
 
-- Universo curado guardado: **73** oportunidades.
+- Universo curado guardado: **71** oportunidades.
 - Top picks: máximo **3 MAIN** + **3 SIDE** por corrida.
 - Nada del universo curado se descarta silenciosamente: ver reports/all-candidates.md.
 - Para adaptar el CV sin inventar experiencia: ver reports/application-prep.md.

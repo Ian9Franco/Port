@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-10-22T05:01:33.698Z
+Generado: 2026-10-22T13:54:14.641Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -21,8 +21,6 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 54 | 40 | 72 | low | 49 | [Multigres Deployment Engineer](https://jobicy.com/jobs/153326-multigres-deployment-engineer) | Supabase | Jobicy | new |
 | 54 | 24 | 90 | unknown | 48 | [Data Product Engineer, Data & Analytics](https://himalayas.app/companies/trimble/jobs/data-product-engineer-data-analytics?utm_source=api) | Trimble | Himalayas | new |
 | 53 | 22 | 72 | low | 47 | [Desarrollador Ctv](https://www.getonbrd.com/jobs/desarrollador-mobile-mediastream-bogota-santiago-bf34) | Mediastream | Get on Board | new |
-| 53 | 40 | 72 | low | 48 | [Site Reliability Engineer](https://jobicy.com/jobs/155391-site-reliability-engineer-4) | Supabase | Jobicy | new |
-| 53 | 12 | 82 | low | 46 | [AI Platform Engineer](https://jobicy.com/jobs/155385-ai-platform-engineer) | Supabase | Jobicy | new |
 | 53 | 40 | 72 | unknown | 48 | [DevOps Engineer (Remoto)](https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto?utm_source=api) | knowmad mood | Himalayas | new |
 | 53 | 40 | 72 | unknown | 48 | [DevOps Engineer CI/CD & Infra Specialist - Remoto 100%](https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100?utm_source=api) | knowmad mood | Himalayas | new |
 | 53 | 40 | 72 | unknown | 48 | [DevOps Engineer - AI Model Evaluator](https://himalayas.app/companies/mercor/jobs/devops-engineer-ai-model-evaluator-5752080247?utm_source=api) | mercor | Himalayas | new |
@@ -35,7 +33,6 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 52 | 0 | 90 | low | 45 | [Senior Full-Stack Software Engineer — React y Python](https://www.getonbrd.com/jobs/senior-fullstack-software-engineer-react-y-python-maxxa-remote) | Maxxa | Get on Board | new |
 | 52 | 24 | 72 | low | 46 | [Atlassian Administrator 1726](https://jobicy.com/jobs/146254-atlassian-administrator-1726) | Softgic | Jobicy | new |
 | 51 | 24 | 72 | low | 46 | [Software Engineer - Secure Container Images](https://jobicy.com/jobs/150994-software-engineer-secure-container-images) | Canonical | Jobicy | new |
-| 51 | 24 | 72 | low | 46 | [Platform Engineer, Managed Postgres](https://jobicy.com/jobs/155389-platform-engineer-managed-postgres) | Supabase | Jobicy | new |
 | 51 | 38 | 72 | unknown | 47 | [Data Infrastructure Engineer-Spain](https://himalayas.app/companies/doodle/jobs/data-infrastructure-engineer-spain?utm_source=api) | Doodle | Himalayas | new |
 | 50 | 24 | 82 | low | 45 | [Machine Learning Engineer](https://www.getonbrd.com/jobs/machine-learning-engineer-improving-remote) | Improving | Get on Board | new |
 | 50 | 9 | 72 | low | 45 | [Senior Data Engineer (Databricks on Azure)](https://www.getonbrd.com/jobs/senior-data-engineer-databricks-on-azure-devsu-remote-7b55) | Devsu | Get on Board | new |
@@ -54,6 +51,7 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 48 | 24 | 72 | low | 47 | [Ingeniero/a de Software C/C++](https://www.getonbrd.com/jobs/ingeniero-a-de-software-c-c-atentus-cordoba-buenos-aires-mendoza-santiago) | ATENTUS | Get on Board | new |
 | 48 | 2 | 72 | low | 43 | [Arquitecto de Datos (Data & AI)](https://www.getonbrd.com/jobs/arquitecto-de-datos-sr-data-ai-grupo-mariposa-remote-48e8) | Grupo Mariposa | Get on Board | new |
 | 48 | 6 | 72 | low | 43 | [Databricks Engineer (Tax & Audit)](https://www.getonbrd.com/jobs/databricks-engineer-tax-audit-improving-remote) | Improving | Get on Board | new |
+| 48 | 24 | 62 | low | 44 | [Senior Web Security Engineer, Browser Platform](https://jobicy.com/jobs/151281-senior-web-security-engineer-browser-platform) | DuckDuckGo | Jobicy | new |
 | 48 | 24 | 72 | unknown | 44 | [DevOps Engineer](https://himalayas.app/companies/logicalis-com/jobs/devops-engineer?utm_source=api) | Logicalis Spain | Himalayas | new |
 | 48 | 24 | 72 | unknown | 44 | [DevOps Architect](https://himalayas.app/companies/logicalis-com/jobs/devops-architect?utm_source=api) | Logicalis Spain | Himalayas | new |
 | 45 | 40 | 65 | unknown | 48 | [Data Engineer](https://himalayas.app/companies/all-your-bi/jobs/data-engineer?utm_source=api) | All Your BI | Himalayas | new |
