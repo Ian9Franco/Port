@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-10-23T05:02:16.256Z
+Generado: 2026-10-23T13:34:34.414Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -10,12 +10,14 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 58 | 24 | 82 | low | 50 | [Senior DevOps Engineer](https://jobicy.com/jobs/155494-senior-devops-engineer-9) | Documo Inc. | Jobicy | new |
 | 58 | 22 | 90 | medium | 50 | [SAP BTP Lead](https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-lead?utm_source=api) | Pontoonglobal | Himalayas | new |
 | 57 | 24 | 90 | low | 49 | [Full-Stack Developer: React & Node.js](https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote) | Improving | Get on Board | new |
+| 57 | 40 | 90 | low | 50 | [Supalite Engineer](https://jobicy.com/jobs/156576-supalite-engineer) | Supabase | Jobicy | new |
 | 55 | 40 | 72 | low | 49 | [Postgres Deployment Engineer (Nix)](https://jobicy.com/jobs/153446-postgres-deployment-engineer-nix) | Supabase | Jobicy | new |
 | 55 | 40 | 72 | unknown | 49 | [Automation & DevOps Engineer (Remoto)](https://himalayas.app/companies/knowmad-mood/jobs/automation-devops-engineer-remoto?utm_source=api) | knowmad mood | Himalayas | new |
 | 55 | 40 | 72 | unknown | 49 | [Junior Devops Engineer](https://himalayas.app/companies/aldia/jobs/junior-devops-engineer?utm_source=api) | ALDIA | Himalayas | new |
 | 55 | 40 | 52 | medium | 50 | [SAP BTP Integration Specialist/Consultant](https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-integration-specialist-consultant?utm_source=api) | Pontoonglobal | Himalayas | new |
 | 54 | 17 | 88 | low | 48 | [QA Automation Engineer (Azure)](https://www.getonbrd.com/jobs/qa-automation-engineer-azure-improving-remote) | Improving | Get on Board | new |
 | 54 | 24 | 72 | low | 48 | [Especialista QA Senior LATAM](https://www.getonbrd.com/jobs/especialista-qa-senior-latam-bc-tecnologia-remote) | BC Tecnología | Get on Board | new |
+| 54 | 40 | 72 | low | 49 | [Cloud Platform Engineer](https://jobicy.com/jobs/156583-cloud-platform-engineer) | Supabase | Jobicy | new |
 | 54 | 24 | 72 | low | 48 | [Senior Software Development Engineer in Test (SDET)](https://jobicy.com/jobs/155928-senior-software-development-engineer-in-test-sdet-2) | Flex | Jobicy | new |
 | 54 | 40 | 90 | low | 48 | [Software engineer](https://jobicy.com/jobs/150846-software-engineer-3) | Sticker Mule | Jobicy | new |
 | 54 | 24 | 90 | unknown | 48 | [Data Product Engineer, Data & Analytics](https://himalayas.app/companies/trimble/jobs/data-product-engineer-data-analytics?utm_source=api) | Trimble | Himalayas | new |
@@ -34,8 +36,10 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 52 | 24 | 72 | low | 46 | [Atlassian Administrator 1726](https://jobicy.com/jobs/146254-atlassian-administrator-1726) | Softgic | Jobicy | new |
 | 51 | 24 | 72 | low | 46 | [Software Engineer - Secure Container Images](https://jobicy.com/jobs/150994-software-engineer-secure-container-images) | Canonical | Jobicy | new |
 | 51 | 38 | 72 | unknown | 47 | [Data Infrastructure Engineer-Spain](https://himalayas.app/companies/doodle/jobs/data-infrastructure-engineer-spain?utm_source=api) | Doodle | Himalayas | new |
+| 50 | 0 | 90 | low | 44 | [Desarrollador Full-Stack Liferay LATAM](https://www.getonbrd.com/jobs/desarrollador-full-stack-liferay-bc-tecnologia-santiago) | BC Tecnología | Get on Board | new |
 | 50 | 24 | 82 | low | 45 | [Machine Learning Engineer](https://www.getonbrd.com/jobs/machine-learning-engineer-improving-remote) | Improving | Get on Board | new |
 | 50 | 9 | 72 | low | 45 | [Senior Data Engineer (Databricks on Azure)](https://www.getonbrd.com/jobs/senior-data-engineer-databricks-on-azure-devsu-remote-7b55) | Devsu | Get on Board | new |
+| 50 | 24 | 72 | low | 45 | [Release Engineer](https://jobicy.com/jobs/156579-release-engineer) | Supabase | Jobicy | new |
 | 50 | 24 | 72 | unknown | 45 | [Azure DevOps Engineer – Pipelines & Guardrails](https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails?utm_source=api) | BIP | Himalayas | new |
 | 50 | 24 | 72 | unknown | 45 | [DEVOPS AWS - MEDIO TIEMPO - ESPAÑOL](https://himalayas.app/companies/rekluti/jobs/devops-aws-medio-tiempo-espanol?utm_source=api) | XKTalent Inc. - Rimutee | Himalayas | new |
 | 50 | 40 | 72 | unknown | 45 | [Data Engineer, AI & Analytics](https://himalayas.app/companies/power-digital-marketing/jobs/data-engineer-ai-analytics-3803593581?utm_source=api) | Power Digital Marketing | Himalayas | new |
