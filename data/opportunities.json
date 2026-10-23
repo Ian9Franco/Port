@@ -2,17 +2,17 @@
   "version": 4,
   "matcher": "potential-v1",
   "trust_layer": "listing-v1",
-  "generated_at": "2026-10-22T20:12:11.882Z",
+  "generated_at": "2026-10-23T05:02:16.256Z",
   "career_model_version": 2,
   "application_mode": "manual",
   "source_failures": [],
   "source_stats": {
     "Remotive": 10,
-    "Arbeitnow": 95,
+    "Arbeitnow": 97,
     "Get on Board": 533,
     "RemoteOK": 99,
-    "Jobicy": 36,
-    "Himalayas": 83
+    "Jobicy": 34,
+    "Himalayas": 84
   },
   "top_picks": {
     "main": [
@@ -167,11 +167,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "jobicy-155494",
@@ -288,11 +288,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-17T04:39:12.131Z",
-      "last_seen": "2026-10-22T20:12:11.882Z",
+      "last_seen": "2026-10-23T05:02:16.256Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://jobicy.com/jobs/155494-senior-devops-engineer-9",
@@ -441,11 +441,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z",
+      "last_seen": "2026-10-23T05:02:16.256Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-lead",
@@ -593,11 +593,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z",
+      "last_seen": "2026-10-23T05:02:16.256Z",
       "merged_urls": [
         "https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote",
         "https://www.getonbrd.com/jobs/senior-full-stack-engineer-improving-remote"
@@ -738,11 +738,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-17T12:15:24.864Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/automation-devops-engineer-remoto",
@@ -870,11 +870,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z",
+      "last_seen": "2026-10-23T05:02:16.256Z",
       "merged_urls": [
         "https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto?utm_source=api",
         "https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100?utm_source=api",
@@ -1019,11 +1019,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-integration-specialist-consultant",
@@ -1161,11 +1161,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-qa-automation-engineer-azure-improving-remote",
@@ -1175,8 +1175,8 @@
       "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-azure-improving-remote",
       "title": "QA Automation Engineer (Azure)",
       "company": "Improving",
-      "location": "Costa Rica, Chile, Perú, México, Argentina",
-      "place_text": "Costa Rica, Chile, Perú, México, Argentina",
+      "location": "Costa Rica, Chile, Peru, Mexico, Argentina",
+      "place_text": "Costa Rica, Chile, Peru, Mexico, Argentina",
       "venue": {
         "cities": [],
         "tenants": [
@@ -1190,11 +1190,11 @@
           },
           {
             "id": "peru",
-            "name": "Perú"
+            "name": "Peru"
           },
           {
             "id": "mexico",
-            "name": "México"
+            "name": "Mexico"
           },
           {
             "id": "argentina",
@@ -1366,11 +1366,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-especialista-qa-senior-latam-bc-tecnologia-remote",
@@ -1505,11 +1505,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "jobicy-155928",
@@ -1632,11 +1632,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-19T21:08:31.731Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "jobicy-150846",
@@ -1769,147 +1769,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-17T12:15:24.864Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
-    },
-    {
-      "id": "jobicy-153326",
-      "source": "Jobicy",
-      "source_trust": "official_public_api",
-      "external_id": "153326",
-      "url": "https://jobicy.com/jobs/153326-multigres-deployment-engineer",
-      "apply_url": "https://jobicy.com/jobs/153326-multigres-deployment-engineer",
-      "title": "Multigres Deployment Engineer",
-      "company": "Supabase",
-      "location": "Anywhere",
-      "remote": true,
-      "workplace": "remote",
-      "employment_type": "full_time",
-      "published_at": "2026-10-16T02:50:17.000Z",
-      "salary": "",
-      "seniority": "Any",
-      "tags": [
-        "DevOps & Infrastructure",
-        "Any"
-      ],
-      "description": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. We're looking for an engineer to own the deployment and operational infrastructure of Multigres, our distributed Postgres platform. You'll be responsible for building and maintaining the Multigres Operator, ensuring reliable cloud deployments, and creating the tooling that powers our Kubernetes-based infrastructure. What You’ll Be Responsible for: Build and maintain the Multigres Operator - Maintain our Go-based Kubernetes operator that orchestrates distributed Postgres deployments Architect cloud deployment infrastructure - Design and implement robust deployment patterns for EKS and other Kubernetes platforms Manage storage and networking layers - Work with CSI drivers, persistent volumes, and cross-cloud networking to ensure data reliability and connectivity Develop deployment tooling - Create internal tools and automation for provisioning, scaling, and managing Multigres clusters Ensure operational excellence - Build monitoring, alerting, and diagnostic capabilities into the deployment layer Collaborate across teams - Work with database engineers, SRE, and product teams to deliver seamless deployment experiences You Might Be a Good Fit If You have: Strong systems programming skills - Proficiency in Go and experience building production-grade operators or controllers Deep Kubernetes expertise - Hands-on experience with Kubernetes internals, custom resources, and cloud-managed Kubernetes services (EKS, GKE, AKS) Database operations knowledge - Understanding of database deployment patterns, backup/restore, replication, and high availability Distributed systems experience - Familiarity with consensus protocols, failure scenarios, and designing for resilience Cloud infrastructure background - Experience with cloud-native deployment tooling, IaC (Terraform, Pulumi), and cloud provider APIs Production operations mindset - Track record of building reliable, observable, and maintainable systems Nice to Have: Experience with CSI storage drivers and storage orchestration in Kubernetes Knowledge of cross-cloud networking tools like Cilium, Istio, or similar service mesh technologies Prior work with sharded query serving systems like Vitess Contributions to open-source infrastructure projects What We Offer Fully Remote We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world. ESOP Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together. Tech Allowance Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work. Health Benefits Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us. Annual Off-Sites Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year. Flexible Work We operate asynchronously and trust you to manage your own time. You know what needs to be done and when. Professional Development Every team member receives an annual education allowance to spend on learning—courses, books, conferences, or anything that supports your growth. About the Team Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love. ~400 team members 60+ countries 20+ languages spoken Over $1B raised (including our $500M Series F) 540,000+ community members We move fast, build in public, and use what we ship. If it’s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support—not replace—existing tools and communities.",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Jobicy",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 14,
-      "keyword_main_score": 21,
-      "keyword_side_score": 19,
-      "main_eligible_now": true,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [
-        "backend",
-        "automation",
-        "devops",
-        "supabase"
-      ],
-      "main_signals": [],
-      "side_signals": [
-        "project"
-      ],
-      "negative_hits": 0,
-      "main_score": 54,
-      "side_score": 49,
-      "potential": {
-        "current_fit": 40,
-        "transferability": 73,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 54,
-        "career_potential": 72,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": true,
-        "work_after_valencia": true,
-        "place_bridge": true,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: PostgreSQL (postgres) · fuentes: MIM, Pontorno-vault, Factu · profundidad sin confirmar",
-          "+ evidencia directa: Supabase (supabase) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "+ evidencia directa: Automation and developer tooling (automation, tooling) · fuentes: MIM, Web-Sling-Optimizer",
-          "+ evidencia laboral: marketing (growth) · fuentes: self-assessment",
-          "+ transferible: DevOps transition base (devops, sre) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
-          "- gap herramienta: kubernetes",
-          "- gap herramienta: terraform",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: devops",
-          "sin viaje diario desde zona oeste, Buenos Aires"
-        ],
-        "gaps": [
-          {
-            "term": "kubernetes",
-            "type": "tool"
-          },
-          {
-            "term": "terraform",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 54,
-        "side_rank": 49,
-        "main_eligible": true,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
-        "history": []
-      },
-      "first_seen": "2026-10-16T13:20:13.441Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/trimble/jobs/data-product-engineer-data-analytics",
@@ -2067,11 +1931,141 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-22T05:01:33.698Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/proton/jobs/senior-data-engineer-ai-native-data-layer",
+      "source": "Himalayas",
+      "source_trust": "official_public_api",
+      "external_id": "https://himalayas.app/companies/proton/jobs/senior-data-engineer-ai-native-data-layer",
+      "url": "https://himalayas.app/companies/proton/jobs/senior-data-engineer-ai-native-data-layer?utm_source=api",
+      "apply_url": "https://himalayas.app/companies/proton/jobs/senior-data-engineer-ai-native-data-layer?utm_source=api",
+      "title": "Senior Data Engineer (AI-Native) — Data Layer",
+      "company": "Proton",
+      "location": "Albania, Andorra, Anguilla, Antigua and Barbuda, Argentina, Aruba, Austria, Bahamas, Barbados, Belarus, Belgium, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Bosnia and Herzegovina, Brazil, Bulgaria, Cayman Islands, Chile, Colombia, Costa Rica, Croatia, Cuba, Czechia, Denmark, Dominica, Dominican Republic, Ecuador, El Salvador, Estonia, Falkland Islands (Malvinas), Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Grenada, Guatemala, Guernsey, Guyana, Haiti, Holy See (Vatican City State), Honduras, Hungary, Iceland, Ireland, Isle of Man, Italy, Jamaica, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mexico, Moldova, Monaco, Montenegro, Montserrat, Netherlands, Nicaragua, North Macedonia, Norway, Panama, Paraguay, Peru, Poland, Portugal, Puerto Rico, Romania, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, San Marino, Serbia, Slovakia, Slovenia, South Georgia and the South Sandwich Islands, Spain, Suriname, Svalbard and Jan Mayen, Sweden, Switzerland, Trinidad and Tobago, Turks and Caicos Islands, Ukraine, United Kingdom, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S., Åland Islands",
+      "place_text": "Albania, Andorra, Anguilla, Antigua and Barbuda, Argentina, Aruba, Austria, Bahamas, Barbados, Belarus, Belgium, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Bosnia and Herzegovina, Brazil, Bulgaria, Cayman Islands, Chile, Colombia, Costa Rica, Croatia, Cuba, Czechia, Denmark, Dominica, Dominican Republic, Ecuador, El Salvador, Estonia, Falkland Islands (Malvinas), Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Grenada, Guatemala, Guernsey, Guyana, Haiti, Holy See (Vatican City State), Honduras, Hungary, Iceland, Ireland, Isle of Man, Italy, Jamaica, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mexico, Moldova, Monaco, Montenegro, Montserrat, Netherlands, Nicaragua, North Macedonia, Norway, Panama, Paraguay, Peru, Poland, Portugal, Puerto Rico, Romania, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, San Marino, Serbia, Slovakia, Slovenia, South Georgia and the South Sandwich Islands, Spain, Suriname, Svalbard and Jan Mayen, Sweden, Switzerland, Trinidad and Tobago, Turks and Caicos Islands, Ukraine, United Kingdom, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S., Åland Islands",
+      "remote": true,
+      "workplace": "remote",
+      "seniority": "Senior",
+      "employment_type": "full_time",
+      "published_at": "2026-10-22T19:45:02.000Z",
+      "salary": "",
+      "tags": [
+        "Data Science",
+        "Data-Engineer",
+        "Data-Platform-Engineer",
+        "Data-Infrastructure-Engineer",
+        "AI-Data-Engineer",
+        "Senior-Data-Engineering",
+        "Senior-Data-Pipeline-Engineer",
+        "Senior-AI-Data-Engineer",
+        "data-spain"
+      ],
+      "description": "Senior Data Engineer (AI-Native) — Data Layer About Us Proton is building the AI operating system for wholesale distribution, embedded in the workflows that move nearly every physical product on the planet. Distribution is a $9 trillion industry, and the software that runs it has been stuck in the past for decades — most tools create more work than they eliminate. We unify CRM, PIM, eCommerce AI, and Order & Quote Entry AI into one platform with one data layer and one AI brain, so reps spend their time deepening customer relationships, not entering data. We hire people with high agency and high urgency. At Proton , everyone is a builder who owns problems end to end and ships AI-native software faster than anyone else in the category. The median Proton customer reports 3x profit return per dollar spent, an extra day of sales per rep per month, and “the best ROI of any tech investment in 30 years.” Hundreds of leading distributors — from family-owned shops to publicly-traded enterprises across, industrial, HVAC, electrical — run on Proton . We’re backed by Felicis Ventures (Twitch, Shopify, Opendoor) and Battery Ventures. If you want to build the systems that shape how trillions of dollars of physical goods move through the economy, Proton is the place to do it. The Role We're hiring a Senior Data Engineer to own and grow our Data Layer — the unified foundation that every Proton product and our AI brain are built on. You'll own the pipelines and architecture end to end: the medallion-style layers (raw → refined → curated), ingestion from a wide range of systems, and the serving the whole company depends on. We're investing heavily to make the Data Layer bigger and better, and this role is for someone who wants to do the hands-on building and shape where it goes next. Two things make this role different from a standard data engineering opening: You're an AI-native operator, not a pipeline author. Every engineer at Proton uses Claude Code and other agentic tools as first-class collaborators. We expect pipelines, models, and migrations to be built and shipped with heavy AI leverage — you guide the agents, validate the output, and make the judgment calls they can't. You own the layer everything runs on. When the AI gives a wrong answer or a number doesn't match the source, the trail leads back to the data. You own correctness end to end — ingestion, modeling, reconciliation, and the contracts other teams depend on. Location: Europe, remote. Meaningful daytime overlap with our Boston (EST) team required. What You'll Do Own the Data Layer end to end: ingestion from file-, event-, and API-based sources; the medallion-style model (raw → refined → curated); and the serving layer that powers the product and the AI brain. Build and operate the ingestion and transformation pipelines that power the Data Layer, using a modern orchestration framework and cloud data warehouse. Ingest and reconcile large, messy, real-world data across many source types and shapes — batch files, streaming events, and APIs. Model data across medallion layers so it's trustworthy, queryable, and stable for downstream teams and the AI. Help take the Data Layer to the next level — better architecture, better tooling, more scale, more sources — and have a real say in what that looks like. Operate AI coding agents (Claude Code and similar) at a high level: scope work, structure context, run agents in parallel where it makes sense, and ship reviewed, production-quality output. Build the systems that make data trustworthy — validation, reconciliation, lineage, backfills, idempotent and incremental loads — so downstream teams and the AI don't inherit silent errors. Partner with backend, AI, and product engineers (and occasionally customers' IT teams) to define the data contracts they build on. Requirements 7+ years hands-on as a data engineer with real, demonstrable production ownership — pipelines and data models serving real users at scale. Strong fundamentals. You understand what your code and your queries are doing and why. You can read a query plan, reason about a slow or expensive pipeline, and debug a data-correctness bug to its root. Strong programming and SQL skills. You build efficient pipelines, schemas, and queries, and can model data for both transactional and analytical access patterns. Hands-on orchestration experience, building reliable ingestion/ELT pipelines against messy upstream sources. Experience with a cloud data warehouse and a major cloud platform. Experience ingesting from multiple source types: file-based, event/streaming, and API-based . Solid grasp of data-consistency failure modes — partial loads, late or out-of-order data, idempotency, backfills, schema drift. Daily, hands-on use of agentic dev tools (Claude Code, Cursor agent mode, Codex, or equivalent) to ship real work. You can talk concretely about how you structure prompts, manage context, parallelize agents, and verify their output. Ownership and judgment. You take data systems from idea to production and exercise good taste on what to build and what to cut. Startup mindset and strong communication — pragmatic, fast, biased to ship, and able to explain data decisions to engineers, PMs, and customers in writing. English at C1 or above. Big Plus Deep cloud data warehouse experience and modern transformation tooling. Streaming / event ingestion at scale. Medallion or lakehouse architecture experience on large, multi-source data. Experience integrating enterprise sources such as ERP (Epicor Eclipse, Prophet 21) or ecommerce systems, and reconciling messy transactional data. Building data systems that feed AI/ML or agentic products — serving/feature layers, retrieval, or data contracts for model inputs. Prior experience at an early-stage SaaS startup. Originally posted on Himalayas",
+      "description_truncated": false,
+      "salary_value": {
+        "status": "unparsed",
+        "source": "Himalayas",
+        "gross_or_net": "unknown"
+      },
+      "base_score": 11,
+      "keyword_main_score": 18,
+      "keyword_side_score": 18,
+      "main_eligible_now": true,
+      "side_eligible": false,
+      "relocation_watch": false,
+      "access": "remote-now",
+      "matched_keywords": [
+        "backend",
+        "data engineer"
+      ],
+      "main_signals": [],
+      "side_signals": [
+        "contract"
+      ],
+      "negative_hits": 0,
+      "main_score": 54,
+      "side_score": 48,
+      "potential": {
+        "current_fit": 24,
+        "transferability": 98,
+        "gap_cost": "unknown",
+        "gap_cost_score": 60,
+        "evidence_confidence": "medium",
+        "evidence_confidence_score": 58,
+        "career_potential": 65,
+        "relocation_value": "not_yet_ordered",
+        "compensation_fit": 50,
+        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
+        "salary_comparison": "incomparable",
+        "workstyle_fit": 82,
+        "commute_burden": 8,
+        "commute_note": "no es viaje diario; commute() no recibe Valencia",
+        "commute_status": "not_a_daily_commute",
+        "commute_km": null,
+        "role_families": [
+          "data"
+        ],
+        "requirements_status": "unread",
+        "mandatory_requirements": [],
+        "desirable_requirements": [],
+        "sap_kind": null,
+        "work_from_zona_oeste": true,
+        "work_after_valencia": true,
+        "place_bridge": true,
+        "move_window": "unknown",
+        "earliest_start": "unknown",
+        "must_start_before": "unknown",
+        "reasons": [
+          "+ evidencia directa: Automation and developer tooling (tooling) · fuentes: MIM, Web-Sling-Optimizer",
+          "+ transferible: Data analytics engineering (data engineering) · fuentes: dashpostgre · profundidad sin confirmar",
+          "fit: requisitos obligatorios no leídos; techo 40",
+          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
+          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
+          "- gap desconocido: requisitos obligatorios no leídos",
+          "familias: data",
+          "no es viaje diario; commute() no recibe Valencia"
+        ],
+        "gaps": [
+          {
+            "term": "requisitos obligatorios no leídos",
+            "type": "unknown"
+          }
+        ],
+        "main_rank": 54,
+        "side_rank": 48,
+        "main_eligible": true,
+        "side_eligible": false,
+        "relocation_watch": false,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "unknown",
+        "signals": [],
+        "warnings": [
+          "listing_url_off_board",
+          "apply_url_external"
+        ]
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-10-23T05:02:16.256Z",
+        "history": []
+      },
+      "first_seen": "2026-10-23T05:02:16.256Z",
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-desarrollador-mobile-mediastream-bogota-santiago-bf34",
@@ -2081,14 +2075,14 @@
       "url": "https://www.getonbrd.com/jobs/desarrollador-mobile-mediastream-bogota-santiago-bf34",
       "title": "Desarrollador Ctv",
       "company": "Mediastream",
-      "location": "México, Bolivia, Argentina, Perú",
-      "place_text": "México, Bolivia, Argentina, Perú",
+      "location": "Mexico, Bolivia, Argentina, Peru",
+      "place_text": "Mexico, Bolivia, Argentina, Peru",
       "venue": {
         "cities": [],
         "tenants": [
           {
             "id": "mexico",
-            "name": "México"
+            "name": "Mexico"
           },
           {
             "id": "bolivia",
@@ -2100,7 +2094,7 @@
           },
           {
             "id": "peru",
-            "name": "Perú"
+            "name": "Peru"
           }
         ],
         "unresolved_ids": []
@@ -2255,11 +2249,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto",
@@ -2403,11 +2397,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100",
@@ -2557,11 +2551,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/mercor/jobs/devops-engineer-ai-model-evaluator-5752080247",
@@ -2718,11 +2712,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/odilo/jobs/devops-engineer",
@@ -2868,11 +2862,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-sr-front-end-software-engineer-improving-remote",
@@ -2882,8 +2876,8 @@
       "url": "https://www.getonbrd.com/jobs/sr-front-end-software-engineer-improving-remote",
       "title": "Sr. Front-end Software Engineer ( Angular)",
       "company": "Improving",
-      "location": "Colombia, Argentina, México",
-      "place_text": "Colombia, Argentina, México",
+      "location": "Colombia, Argentina, Mexico",
+      "place_text": "Colombia, Argentina, Mexico",
       "venue": {
         "cities": [],
         "tenants": [
@@ -2897,7 +2891,7 @@
           },
           {
             "id": "mexico",
-            "name": "México"
+            "name": "Mexico"
           }
         ],
         "unresolved_ids": []
@@ -3059,11 +3053,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-senior-full-stack-engineer-improving-remote",
@@ -3073,18 +3067,18 @@
       "url": "https://www.getonbrd.com/jobs/senior-full-stack-engineer-improving-remote",
       "title": "Senior Full-Stack Engineer",
       "company": "Improving",
-      "location": "Perú, México, Costa Rica, Argentina",
-      "place_text": "Perú, México, Costa Rica, Argentina",
+      "location": "Peru, Mexico, Costa Rica, Argentina",
+      "place_text": "Peru, Mexico, Costa Rica, Argentina",
       "venue": {
         "cities": [],
         "tenants": [
           {
             "id": "peru",
-            "name": "Perú"
+            "name": "Peru"
           },
           {
             "id": "mexico",
-            "name": "México"
+            "name": "Mexico"
           },
           {
             "id": "costa_rica",
@@ -3244,11 +3238,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-ai-backend-engineer-improving-remote",
@@ -3258,8 +3252,8 @@
       "url": "https://www.getonbrd.com/jobs/ai-backend-engineer-improving-remote",
       "title": "AI Back-end Engineer",
       "company": "Improving",
-      "location": "Costa Rica, Argentina, Perú, México",
-      "place_text": "Costa Rica, Argentina, Perú, México",
+      "location": "Costa Rica, Argentina, Peru, Mexico",
+      "place_text": "Costa Rica, Argentina, Peru, Mexico",
       "venue": {
         "cities": [],
         "tenants": [
@@ -3273,11 +3267,11 @@
           },
           {
             "id": "peru",
-            "name": "Perú"
+            "name": "Peru"
           },
           {
             "id": "mexico",
-            "name": "México"
+            "name": "Mexico"
           }
         ],
         "unresolved_ids": []
@@ -3453,11 +3447,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-tech-lead-grupo-mariposa-remote-c340",
@@ -3467,8 +3461,8 @@
       "url": "https://www.getonbrd.com/jobs/tech-lead-grupo-mariposa-remote-c340",
       "title": "Tech Lead Full-Stack",
       "company": "Grupo Mariposa",
-      "location": "Argentina, Perú, México, Chile, Ecuador",
-      "place_text": "Argentina, Perú, México, Chile, Ecuador",
+      "location": "Argentina, Peru, Mexico, Chile, Ecuador",
+      "place_text": "Argentina, Peru, Mexico, Chile, Ecuador",
       "venue": {
         "cities": [],
         "tenants": [
@@ -3478,11 +3472,11 @@
           },
           {
             "id": "peru",
-            "name": "Perú"
+            "name": "Peru"
           },
           {
             "id": "mexico",
-            "name": "México"
+            "name": "Mexico"
           },
           {
             "id": "chile",
@@ -3642,11 +3636,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-desarrollador-fullstack-java-angular-improving-remote",
@@ -3656,8 +3650,8 @@
       "url": "https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote",
       "title": "Desarrollador Full-Stack: Java & Angular",
       "company": "Improving",
-      "location": "Argentina, Colombia, Perú, Chile",
-      "place_text": "Argentina, Colombia, Perú, Chile",
+      "location": "Argentina, Colombia, Peru, Chile",
+      "place_text": "Argentina, Colombia, Peru, Chile",
       "venue": {
         "cities": [],
         "tenants": [
@@ -3671,7 +3665,7 @@
           },
           {
             "id": "peru",
-            "name": "Perú"
+            "name": "Peru"
           },
           {
             "id": "chile",
@@ -3858,11 +3852,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-senior-fullstack-software-engineer-react-y-python-maxxa-remote",
@@ -3872,8 +3866,8 @@
       "url": "https://www.getonbrd.com/jobs/senior-fullstack-software-engineer-react-y-python-maxxa-remote",
       "title": "Senior Full-Stack Software Engineer — React y Python",
       "company": "Maxxa",
-      "location": "Colombia, México, Argentina, Perú, Chile",
-      "place_text": "Colombia, México, Argentina, Perú, Chile",
+      "location": "Colombia, Mexico, Argentina, Peru, Chile",
+      "place_text": "Colombia, Mexico, Argentina, Peru, Chile",
       "venue": {
         "cities": [],
         "tenants": [
@@ -3883,7 +3877,7 @@
           },
           {
             "id": "mexico",
-            "name": "México"
+            "name": "Mexico"
           },
           {
             "id": "argentina",
@@ -3891,7 +3885,7 @@
           },
           {
             "id": "peru",
-            "name": "Perú"
+            "name": "Peru"
           },
           {
             "id": "chile",
@@ -4055,11 +4049,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "jobicy-146254",
@@ -4188,11 +4182,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-18T12:39:26.241Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "jobicy-150994",
@@ -4317,11 +4311,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T13:39:33.944Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/doodle/jobs/data-infrastructure-engineer-spain",
@@ -4471,11 +4465,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-machine-learning-engineer-improving-remote",
@@ -4485,8 +4479,8 @@
       "url": "https://www.getonbrd.com/jobs/machine-learning-engineer-improving-remote",
       "title": "Machine Learning Engineer",
       "company": "Improving",
-      "location": "Chile, Perú, Argentina, Colombia",
-      "place_text": "Chile, Perú, Argentina, Colombia",
+      "location": "Chile, Peru, Argentina, Colombia",
+      "place_text": "Chile, Peru, Argentina, Colombia",
       "venue": {
         "cities": [],
         "tenants": [
@@ -4496,7 +4490,7 @@
           },
           {
             "id": "peru",
-            "name": "Perú"
+            "name": "Peru"
           },
           {
             "id": "argentina",
@@ -4647,11 +4641,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-21T20:13:56.964Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-senior-data-engineer-databricks-on-azure-devsu-remote-7b55",
@@ -4661,8 +4655,8 @@
       "url": "https://www.getonbrd.com/jobs/senior-data-engineer-databricks-on-azure-devsu-remote-7b55",
       "title": "Senior Data Engineer (Databricks on Azure)",
       "company": "Devsu",
-      "location": "Paraguay, Honduras, El Salvador, Argentina, Bolivia, Perú, Colombia",
-      "place_text": "Paraguay, Honduras, El Salvador, Argentina, Bolivia, Perú, Colombia",
+      "location": "Paraguay, Honduras, El Salvador, Argentina, Bolivia, Peru, Colombia",
+      "place_text": "Paraguay, Honduras, El Salvador, Argentina, Bolivia, Peru, Colombia",
       "venue": {
         "cities": [],
         "tenants": [
@@ -4688,7 +4682,7 @@
           },
           {
             "id": "peru",
-            "name": "Perú"
+            "name": "Peru"
           },
           {
             "id": "colombia",
@@ -4886,11 +4880,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails",
@@ -5027,11 +5021,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z",
+      "last_seen": "2026-10-23T05:02:16.256Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails",
@@ -5175,11 +5169,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-22T05:01:33.698Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/power-digital-marketing/jobs/data-engineer-ai-analytics-3803593581",
@@ -5335,11 +5329,208 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
+    },
+    {
+      "id": "getonboard-senior-php-developer-laravel-aws-improving-remote",
+      "source": "Get on Board",
+      "source_trust": "official_public_api",
+      "external_id": "senior-php-developer-laravel-aws-improving-remote",
+      "url": "https://www.getonbrd.com/jobs/senior-php-developer-laravel-aws-improving-remote",
+      "title": "PHP Developer/ Laravel (AWS)",
+      "company": "Improving",
+      "location": "Argentina, Colombia, Peru, Chile",
+      "place_text": "Argentina, Colombia, Peru, Chile",
+      "venue": {
+        "cities": [],
+        "tenants": [
+          {
+            "id": "argentina",
+            "name": "Argentina"
+          },
+          {
+            "id": "colombia",
+            "name": "Colombia"
+          },
+          {
+            "id": "peru",
+            "name": "Peru"
+          },
+          {
+            "id": "chile",
+            "name": "Chile"
+          }
+        ],
+        "unresolved_ids": []
+      },
+      "remote": true,
+      "workplace": "remote",
+      "seniority": "Senior",
+      "employment_type": "full_time",
+      "published_at": "2026-10-22T20:33:15.000Z",
+      "salary": "",
+      "salary_value": {
+        "status": "unparsed",
+        "source": "getonboard",
+        "gross_or_net": "unknown"
+      },
+      "mandatory_text": "<ul><li>Diseñar, desarrollar y mantener backends y APIs escalables con PHP y Laravel.</li><li>Construir y mejorar servicios e infraestructura en AWS.</li><li>Desarrollar integraciones con APIs y plataformas de datos de terceros.</li><li>Participar en decisiones de arquitectura enfocadas en escalabilidad, rendimiento, confiabilidad y mantenibilidad.</li><li>Resolver incidentes complejos en producción y mejorar el rendimiento y la seguridad de la aplicación.</li><li>Escribir código limpio, bien probado, y participar en code reviews y estándares de ingeniería.</li><li>Traducir requerimientos de negocio en soluciones técnicas junto a producto y otras áreas.</li></ul>",
+      "desirable_text": "<ul><li>Experiencia en plataformas de alto tráfico, datos intensivos o SaaS. </li><li>Experiencia en media, publicidad, datos de audiencia, marketing tecnológico o plataformas de CRM y engagement. </li><li>Experiencia con CI/CD, Docker, observabilidad e infraestructura como código. </li><li>Experiencia mentoreando ingenieros o liderando decisiones de arquitectura. </li><li>Experiencia con segmentación, analítica o personalización sobre grandes volúmenes de datos.</li></ul>",
+      "tags": [
+        "programming",
+        "Git",
+        "PHP",
+        "Laravel",
+        "AWS",
+        "SQL",
+        "Automated Testing",
+        "React"
+      ],
+      "description": "Experiencia sólida en PHP y Laravel en aplicaciones productivas, idealmente con Laravel como parte importante de tu trabajo reciente. Experiencia en desarrollo de APIs REST y servicios backend escalables. Experiencia práctica con AWS en entornos productivos. Dominio de SQL y bases de datos relacionales, testing automatizado, Git y prácticas modernas de ingeniería de software. Conocimientos de React y JavaScript para contribuir al frontend cuando se requiera. Capacidad para trabajar de forma autónoma y tomar decisiones técnicas a nivel senior o principal. Inglés intermedio-avanzado o avanzado (indispensable para la comunicación diaria con equipos globales). Diseñar, desarrollar y mantener backends y APIs escalables con PHP y Laravel. Construir y mejorar servicios e infraestructura en AWS. Desarrollar integraciones con APIs y plataformas de datos de terceros. Participar en decisiones de arquitectura enfocadas en escalabilidad, rendimiento, confiabilidad y mantenibilidad. Resolver incidentes complejos en producción y mejorar el rendimiento y la seguridad de la aplicación. Escribir código limpio, bien probado, y participar en code reviews y estándares de ingeniería. Traducir requerimientos de negocio en soluciones técnicas junto a producto y otras áreas. Experiencia en plataformas de alto tráfico, datos intensivos o SaaS. Experiencia en media, publicidad, datos de audiencia, marketing tecnológico o plataformas de CRM y engagement. Experiencia con CI/CD, Docker, observabilidad e infraestructura como código. Experiencia mentoreando ingenieros o liderando decisiones de arquitectura. Experiencia con segmentación, analítica o personalización sobre grandes volúmenes de datos.",
+      "description_truncated": false,
+      "base_score": 2,
+      "keyword_main_score": 9,
+      "keyword_side_score": 5,
+      "main_eligible_now": false,
+      "side_eligible": false,
+      "relocation_watch": false,
+      "access": "remote-now",
+      "matched_keywords": [
+        "backend",
+        "react"
+      ],
+      "main_signals": [],
+      "side_signals": [],
+      "negative_hits": 1,
+      "main_score": 49,
+      "side_score": 44,
+      "potential": {
+        "current_fit": 0,
+        "transferability": 75,
+        "gap_cost": "medium",
+        "gap_cost_score": 92,
+        "evidence_confidence": "low",
+        "evidence_confidence_score": 54,
+        "career_potential": 72,
+        "relocation_value": "not_yet_ordered",
+        "compensation_fit": 50,
+        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
+        "salary_comparison": "incomparable",
+        "workstyle_fit": 82,
+        "commute_burden": 8,
+        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
+        "commute_status": "not_a_daily_commute",
+        "commute_km": null,
+        "role_families": [
+          "devops"
+        ],
+        "requirements_status": "read",
+        "mandatory_requirements": [
+          "Diseñar, desarrollar y mantener backends y APIs escalables con PHP y Laravel.",
+          "Construir y mejorar servicios e infraestructura en AWS.",
+          "Desarrollar integraciones con APIs y plataformas de datos de terceros.",
+          "Participar en decisiones de arquitectura enfocadas en escalabilidad, rendimiento, confiabilidad y mantenibilidad.",
+          "Resolver incidentes complejos en producción y mejorar el rendimiento y la seguridad de la aplicación.",
+          "Escribir código limpio, bien probado, y participar en code reviews y estándares de ingeniería.",
+          "Traducir requerimientos de negocio en soluciones técnicas junto a producto y otras áreas."
+        ],
+        "desirable_requirements": [
+          "Experiencia en plataformas de alto tráfico, datos intensivos o SaaS.",
+          "Experiencia en media, publicidad, datos de audiencia, marketing tecnológico o plataformas de CRM y engagement.",
+          "Experiencia con CI/CD, Docker, observabilidad e infraestructura como código.",
+          "Experiencia mentoreando ingenieros o liderando decisiones de arquitectura.",
+          "Experiencia con segmentación, analítica o personalización sobre grandes volúmenes de datos."
+        ],
+        "sap_kind": null,
+        "work_from_zona_oeste": true,
+        "work_after_valencia": false,
+        "place_bridge": false,
+        "move_window": "unknown",
+        "earliest_start": "unknown",
+        "must_start_before": "unknown",
+        "reasons": [
+          "+ evidencia directa: TypeScript (javascript) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar",
+          "+ evidencia directa: React (react) · fuentes: MIM, Pontorno-vault, Factu",
+          "+ evidencia directa: Automated testing (automated testing) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer",
+          "+ evidencia directa: GitHub Actions (ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "+ evidencia directa: Docker (docker) · fuentes: MIM · profundidad sin confirmar",
+          "fit: 0/7 obligatorios",
+          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
+          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
+          "- gap herramienta: aws",
+          "- gap herramienta: Construir y mejorar servicios e infraestructura en AWS.",
+          "- gap desconocido: Diseñar, desarrollar y mantener backends y APIs escalables con PHP y Laravel.",
+          "- gap desconocido: Desarrollar integraciones con APIs y plataformas de datos de terceros.",
+          "familias: devops",
+          "sin viaje diario desde zona oeste, Buenos Aires"
+        ],
+        "gaps": [
+          {
+            "term": "aws",
+            "type": "tool"
+          },
+          {
+            "term": "Diseñar, desarrollar y mantener backends y APIs escalables con PHP y Laravel.",
+            "type": "unknown"
+          },
+          {
+            "term": "Construir y mejorar servicios e infraestructura en AWS.",
+            "type": "tool"
+          },
+          {
+            "term": "Desarrollar integraciones con APIs y plataformas de datos de terceros.",
+            "type": "unknown"
+          },
+          {
+            "term": "Participar en decisiones de arquitectura enfocadas en escalabilidad, rendimiento, confiabilidad y mantenibilidad.",
+            "type": "unknown"
+          },
+          {
+            "term": "Resolver incidentes complejos en producción y mejorar el rendimiento y la seguridad de la aplicación.",
+            "type": "unknown"
+          },
+          {
+            "term": "Escribir código limpio, bien probado, y participar en code reviews y estándares de ingeniería.",
+            "type": "unknown"
+          },
+          {
+            "term": "Traducir requerimientos de negocio en soluciones técnicas junto a producto y otras áreas.",
+            "type": "unknown"
+          }
+        ],
+        "main_rank": 49,
+        "side_rank": 44,
+        "main_eligible": false,
+        "side_eligible": false,
+        "relocation_watch": false,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "low",
+        "signals": [
+          "listing_on_official_board"
+        ],
+        "warnings": []
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-10-23T05:02:16.256Z",
+        "history": []
+      },
+      "first_seen": "2026-10-23T05:02:16.256Z",
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-tech-lead-grupo-mariposa-remote-56da",
@@ -5523,164 +5714,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
-    },
-    {
-      "id": "getonboard-ruby-on-rails-developer-improving-remote",
-      "source": "Get on Board",
-      "source_trust": "official_public_api",
-      "external_id": "ruby-on-rails-developer-improving-remote",
-      "url": "https://www.getonbrd.com/jobs/ruby-on-rails-developer-improving-remote",
-      "title": "Ruby on Rails Developer",
-      "company": "Improving",
-      "location": "Chile, Perú, Colombia, Argentina",
-      "place_text": "Chile, Perú, Colombia, Argentina",
-      "venue": {
-        "cities": [],
-        "tenants": [
-          {
-            "id": "chile",
-            "name": "Chile"
-          },
-          {
-            "id": "peru",
-            "name": "Perú"
-          },
-          {
-            "id": "colombia",
-            "name": "Colombia"
-          },
-          {
-            "id": "argentina",
-            "name": "Argentina"
-          }
-        ],
-        "unresolved_ids": []
-      },
-      "remote": true,
-      "workplace": "remote",
-      "seniority": "Senior",
-      "employment_type": "full_time",
-      "published_at": "2026-09-29T16:05:27.000Z",
-      "salary": "",
-      "salary_value": {
-        "status": "unparsed",
-        "source": "getonboard",
-        "gross_or_net": "unknown"
-      },
-      "mandatory_text": "<p>En Improving South America estamos buscando <strong>desarrolladores Ruby on Rails SR</strong> con experiencia y motivación para sumarse a nuestro equipo tecnológico. Esta posición es perfecta para aquellos profesionales que tienen un fuerte interés en el desarrollo y optimización de aplicaciones web complejas y escalables.</p><p>Los candidatos seleccionados trabajarán en el departamento de tecnología, donde se encargarán de diseñar, desarrollar y optimizar sistemas que manejen eficientemente tanto la lógica de negocio como la interacción con bases de datos y la integración con otros servicios, utilizando Ruby on Rails junto con tecnologías complementarias como React y AWS.</p><p>Serán responsables de implementar prácticas de desarrollo modernas como CI/CD, contribuir a la arquitectura de microservicios y garantizar la calidad del código mediante revisión y testing continuo.</p><p>Buscamos personas proactivas, autodidactas, que utilicen todos los recursos a su alcance para llevar adelante los proyectos con el equipo, mejorando constantemente los procesos y la calidad del producto final.</p>",
-      "desirable_text": "",
-      "tags": [
-        "programming",
-        "Ruby on Rails",
-        "MVC",
-        "Microservices",
-        "SQL",
-        "CI/CD",
-        "Git",
-        "Application Deployment"
-      ],
-      "description": "Experiencia en Ruby on Rails : Buscamos desarrolladores con al menos 6 años de experiencia en Ruby on Rails, capaces de manejar proyectos de complejidad moderada a alta. Habilidades en Front-end y Cloud : Es deseable tener conocimientos en React y experiencia trabajando con servicios de AWS. Fundamentos Sólidos en MVC y Microservicios : Experiencia práctica en el diseño y desarrollo utilizando el patrón MVC, optimización de aplicaciones, implementación de microservicios y deploy de aplicaciones. Gestión de Bases de Datos : Capacidad para escribir consultas SQL eficientes, diseñar y optimizar bases de datos. Experiencia en CI/CD y Git : Experiencia comprobada en la implementación de procesos CI/CD y manejo de versiones con Git. Observabilidad y Monitoreo : Conocimientos en herramientas de observabilidad y monitoreo de aplicaciones para asegurar la estabilidad y rendimiento del software. Nivel de Inglés : Se requiere un nivel de inglés intermedio/avanzado (B2/C1) para la colaboración efectiva en un entorno global. Perfil Proactivo y Autodidacta : Buscamos profesionales con iniciativa propia para aprender nuevas tecnologías y resolver problemas de manera independiente. En Improving South America estamos buscando desarrolladores Ruby on Rails SR con experiencia y motivación para sumarse a nuestro equipo tecnológico. Esta posición es perfecta para aquellos profesionales que tienen un fuerte interés en el desarrollo y optimización de aplicaciones web complejas y escalables. Los candidatos seleccionados trabajarán en el departamento de tecnología, donde se encargarán de diseñar, desarrollar y optimizar sistemas que manejen eficientemente tanto la lógica de negocio como la interacción con bases de datos y la integración con otros servicios, utilizando Ruby on Rails junto con tecnologías complementarias como React y AWS. Serán responsables de implementar prácticas de desarrollo modernas como CI/CD, contribuir a la arquitectura de microservicios y garantizar la calidad del código mediante revisión y testing continuo. Buscamos personas proactivas, autodidactas, que utilicen todos los recursos a su alcance para llevar adelante los proyectos con el equipo, mejorando constantemente los procesos y la calidad del producto final.",
-      "description_truncated": false,
-      "base_score": 3,
-      "keyword_main_score": 10,
-      "keyword_side_score": 6,
-      "main_eligible_now": false,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [
-        "react"
-      ],
-      "main_signals": [],
-      "side_signals": [],
-      "negative_hits": 0,
-      "main_score": 49,
-      "side_score": 44,
-      "potential": {
-        "current_fit": 24,
-        "transferability": 61,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 54,
-        "career_potential": 72,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": true,
-        "work_after_valencia": false,
-        "place_bridge": false,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: React (react) · fuentes: MIM, Pontorno-vault, Factu",
-          "+ evidencia directa: GitHub Actions (ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "- gap herramienta: aws",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: devops",
-          "sin viaje diario desde zona oeste, Buenos Aires"
-        ],
-        "gaps": [
-          {
-            "term": "aws",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 49,
-        "side_rank": 44,
-        "main_eligible": false,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
-        "history": []
-      },
-      "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-forward-deployed-engineer-diverse-programmers-remote",
@@ -5690,8 +5728,8 @@
       "url": "https://www.getonbrd.com/jobs/forward-deployed-engineer-diverse-programmers-remote",
       "title": "Forward Deployed Engineer",
       "company": "Diverse Programmers",
-      "location": "Brazil, Argentina, Perú, México, Chile, Colombia",
-      "place_text": "Brazil, Argentina, Perú, México, Chile, Colombia",
+      "location": "Brazil, Argentina, Peru, Mexico, Chile, Colombia",
+      "place_text": "Brazil, Argentina, Peru, Mexico, Chile, Colombia",
       "venue": {
         "cities": [],
         "tenants": [
@@ -5705,11 +5743,11 @@
           },
           {
             "id": "peru",
-            "name": "Perú"
+            "name": "Peru"
           },
           {
             "id": "mexico",
-            "name": "México"
+            "name": "Mexico"
           },
           {
             "id": "chile",
@@ -5925,11 +5963,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-qa-tester-grupo-mariposa-remote-8728",
@@ -5939,8 +5977,8 @@
       "url": "https://www.getonbrd.com/jobs/qa-tester-grupo-mariposa-remote-8728",
       "title": "QA Manual Tester",
       "company": "Grupo Mariposa",
-      "location": "Ecuador, Argentina, Colombia, Perú, México, Chile",
-      "place_text": "Ecuador, Argentina, Colombia, Perú, México, Chile",
+      "location": "Ecuador, Argentina, Colombia, Peru, Mexico, Chile",
+      "place_text": "Ecuador, Argentina, Colombia, Peru, Mexico, Chile",
       "venue": {
         "cities": [],
         "tenants": [
@@ -5958,11 +5996,11 @@
           },
           {
             "id": "peru",
-            "name": "Perú"
+            "name": "Peru"
           },
           {
             "id": "mexico",
-            "name": "México"
+            "name": "Mexico"
           },
           {
             "id": "chile",
@@ -6107,11 +6145,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-22T20:12:11.882Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-senior-qa-automation-engineer-net-c-improving-remote",
@@ -6121,8 +6159,8 @@
       "url": "https://www.getonbrd.com/jobs/senior-qa-automation-engineer-net-c-improving-remote",
       "title": "Senior QA Automation Engineer (.NET/C#)",
       "company": "Improving",
-      "location": "Colombia, Chile, Perú, Argentina",
-      "place_text": "Colombia, Chile, Perú, Argentina",
+      "location": "Colombia, Chile, Peru, Argentina",
+      "place_text": "Colombia, Chile, Peru, Argentina",
       "venue": {
         "cities": [],
         "tenants": [
@@ -6136,7 +6174,7 @@
           },
           {
             "id": "peru",
-            "name": "Perú"
+            "name": "Peru"
           },
           {
             "id": "argentina",
@@ -6301,11 +6339,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-qa-funcional-senior-microsoft-dynamics-365-latam-bc-tecnologia-remote",
@@ -6518,11 +6556,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/dentsu-international/jobs/dev-ops-developer",
@@ -6663,11 +6701,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/apptiva-core-technologies/jobs/devops-engineer-665181510",
@@ -6817,11 +6855,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-data-engineer",
@@ -6964,11 +7002,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/tenthpin/jobs/sap-btp-developer-architect-anywhere-in-india-preferred-bengaluru-hyderabad",
@@ -7111,11 +7149,270 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
+    },
+    {
+      "id": "getonboard-senior-php-engineer-laravel-aws-improving-remote",
+      "source": "Get on Board",
+      "source_trust": "official_public_api",
+      "external_id": "senior-php-engineer-laravel-aws-improving-remote",
+      "url": "https://www.getonbrd.com/jobs/senior-php-engineer-laravel-aws-improving-remote",
+      "title": "Senior PHP Engineer ( Laravel + AWS)",
+      "company": "Improving",
+      "location": "Costa Rica, Argentina, Mexico, Peru, Chile",
+      "place_text": "Costa Rica, Argentina, Mexico, Peru, Chile",
+      "venue": {
+        "cities": [],
+        "tenants": [
+          {
+            "id": "costa_rica",
+            "name": "Costa Rica"
+          },
+          {
+            "id": "argentina",
+            "name": "Argentina"
+          },
+          {
+            "id": "mexico",
+            "name": "Mexico"
+          },
+          {
+            "id": "peru",
+            "name": "Peru"
+          },
+          {
+            "id": "chile",
+            "name": "Chile"
+          }
+        ],
+        "unresolved_ids": []
+      },
+      "remote": true,
+      "workplace": "remote",
+      "seniority": "Senior",
+      "employment_type": "full_time",
+      "published_at": "2026-10-22T20:31:39.000Z",
+      "salary": "",
+      "salary_value": {
+        "status": "unparsed",
+        "source": "getonboard",
+        "gross_or_net": "unknown"
+      },
+      "mandatory_text": "<ul><li>Design, develop, and maintain scalable backend applications and APIs using PHP and Laravel. Build and enhance AWS-based services and cloud infrastructure that support the platform.</li><li>Develop and integrate data-driven services, APIs, and third-party integrations supporting:<ul><li>Audience engagement</li><li>Data collection</li><li>Segmentation</li><li>Analytics</li></ul></li><li>Contribute to the React frontend as needed while primarily focusing on backend development.</li><li>Participate in architecture and technical design decisions, particularly around:<ul><li>Scalability</li><li>Performance</li><li>Reliability</li><li>Maintainability</li></ul></li><li>Troubleshoot complex production issues and improve application performance, reliability, and security. Write clean, maintainable, and well-tested code. Participate in code reviews and contribute to engineering standards. Collaborate with product, engineering, and other stakeholders to translate business requirements into technical solutions.</li><li>At the Principal level:<ul><li>Provide technical leadership and mentorship to other engineers. Help establish development best practices. Help evolve the platform's architecture as the company and user/data volume continue to grow.</li></ul></li></ul>",
+      "desirable_text": "<ul><li>Experience working with high-traffic, data-intensive, or SaaS applications.</li><li>Experience with:<ul><li>Media platforms</li><li>Advertising platforms</li><li>Audience data platforms</li><li>Marketing technology (MarTech)</li><li>CRM platforms</li><li>Customer engagement platforms</li></ul></li><li>Experience designing scalable AWS cloud architectures. Strong React experience beyond basic familiarity.</li><li>Experience with:<ul><li>CI/CD pipelines</li><li>Docker</li><li>Automated testing</li><li>Observability tooling</li><li>Infrastructure as Code (IaC)</li></ul></li><li>Experience mentoring engineers and providing technical leadership or architecture guidance. Experience integrating with third-party APIs and external data platforms.</li><li>Experience working with:<ul><li>Large datasets</li><li>Audience segmentation</li><li>Analytics</li><li>Personalization platforms</li></ul></li></ul>",
+      "tags": [
+        "programming",
+        "API Development",
+        "Testing",
+        "Git",
+        "Cloud Architecture",
+        "CI/CD",
+        "PHP",
+        "Laravel",
+        "AWS",
+        "React",
+        "SQL"
+      ],
+      "description": "Senior/Principal-level PHP engineer with strong experience building and maintaining production applications . Deep PHP + Laravel experience. Laravel should be a significant part of their recent development experience. Strong backend/API development experience, including designing and building scalable services. AWS experience with production applications and infrastructure. Working knowledge of React/JavaScript and the ability to contribute to the front end when needed. Strong understanding of: SQL and databases REST APIs Testing methodologies Git Modern software engineering practices Ability to work independently at a senior/principal level. Experience making architectural and technical decisions. Design, develop, and maintain scalable backend applications and APIs using PHP and Laravel. Build and enhance AWS-based services and cloud infrastructure that support the platform. Develop and integrate data-driven services, APIs, and third-party integrations supporting: Audience engagement Data collection Segmentation Analytics Contribute to the React frontend as needed while primarily focusing on backend development. Participate in architecture and technical design decisions, particularly around: Scalability Performance Reliability Maintainability Troubleshoot complex production issues and improve application performance, reliability, and security. Write clean, maintainable, and well-tested code. Participate in code reviews and contribute to engineering standards. Collaborate with product, engineering, and other stakeholders to translate business requirements into technical solutions. At the Principal level: Provide technical leadership and mentorship to other engineers. Help establish development best practices. Help evolve the platform's architecture as the company and user/data volume continue to grow. Experience working with high-traffic, data-intensive, or SaaS applications. Experience with: Media platforms Advertising platforms Audience data platforms Marketing technology (MarTech) CRM platforms Customer engagement platforms Experience designing scalable AWS cloud architectures. Strong React experience beyond basic familiarity. Experience with: CI/CD pipelines Docker Automated testing Observability tooling Infrastructure as Code (IaC) Experience mentoring engineers and providing technical leadership or architecture guidance. Experience integrating with third-party APIs and external data platforms. Experience working with: Large datasets Audience segmentation Analytics Personalization platforms",
+      "description_truncated": false,
+      "base_score": 6,
+      "keyword_main_score": 13,
+      "keyword_side_score": 9,
+      "main_eligible_now": false,
+      "side_eligible": false,
+      "relocation_watch": false,
+      "access": "remote-now",
+      "matched_keywords": [
+        "backend",
+        "integration",
+        "react"
+      ],
+      "main_signals": [],
+      "side_signals": [],
+      "negative_hits": 1,
+      "main_score": 48,
+      "side_score": 43,
+      "potential": {
+        "current_fit": 0,
+        "transferability": 68,
+        "gap_cost": "medium",
+        "gap_cost_score": 92,
+        "evidence_confidence": "low",
+        "evidence_confidence_score": 54,
+        "career_potential": 72,
+        "relocation_value": "not_yet_ordered",
+        "compensation_fit": 50,
+        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
+        "salary_comparison": "incomparable",
+        "workstyle_fit": 82,
+        "commute_burden": 8,
+        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
+        "commute_status": "not_a_daily_commute",
+        "commute_km": null,
+        "role_families": [
+          "devops"
+        ],
+        "requirements_status": "read",
+        "mandatory_requirements": [
+          "Design, develop, and maintain scalable backend applications and APIs using PHP and Laravel. Build and enhance AWS-based services and cloud infrastructure that support the platform.",
+          "Develop and integrate data-driven services, APIs, and third-party integrations supporting:",
+          "Audience engagement",
+          "Data collection",
+          "Segmentation",
+          "Analytics",
+          "Contribute to the React frontend as needed while primarily focusing on backend development.",
+          "Participate in architecture and technical design decisions, particularly around:",
+          "Scalability",
+          "Performance",
+          "Reliability",
+          "Maintainability",
+          "Troubleshoot complex production issues and improve application performance, reliability, and security. Write clean, maintainable, and well-tested code. Participate in code reviews and contribute to engineering standards. Collaborate with product, engineering, and other stakeholders to translate business requirements into technical solutions.",
+          "At the Principal level:",
+          "Provide technical leadership and mentorship to other engineers. Help establish development best practices. Help evolve the platform's architecture as the company and user/data volume continue to grow."
+        ],
+        "desirable_requirements": [
+          "Experience working with high-traffic, data-intensive, or SaaS applications.",
+          "Experience with:",
+          "Media platforms",
+          "Advertising platforms",
+          "Audience data platforms",
+          "Marketing technology (MarTech)",
+          "CRM platforms",
+          "Customer engagement platforms",
+          "Experience designing scalable AWS cloud architectures. Strong React experience beyond basic familiarity.",
+          "CI/CD pipelines",
+          "Automated testing",
+          "Observability tooling",
+          "Infrastructure as Code (IaC)",
+          "Experience mentoring engineers and providing technical leadership or architecture guidance. Experience integrating with third-party APIs and external data platforms.",
+          "Experience working with:",
+          "Large datasets",
+          "Audience segmentation",
+          "Analytics",
+          "Personalization platforms"
+        ],
+        "sap_kind": null,
+        "work_from_zona_oeste": true,
+        "work_after_valencia": false,
+        "place_bridge": false,
+        "move_window": "unknown",
+        "earliest_start": "unknown",
+        "must_start_before": "unknown",
+        "reasons": [
+          "+ evidencia directa: TypeScript (javascript) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar",
+          "+ evidencia directa: React (react) · fuentes: MIM, Pontorno-vault, Factu",
+          "+ evidencia directa: Automated testing (automated testing) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer",
+          "+ evidencia directa: GitHub Actions (ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "+ evidencia directa: Docker (docker) · fuentes: MIM · profundidad sin confirmar",
+          "+ evidencia directa: Automation and developer tooling (tooling) · fuentes: MIM, Web-Sling-Optimizer",
+          "fit: 1/15 obligatorios",
+          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
+          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
+          "- gap herramienta: aws",
+          "- gap herramienta: analytics",
+          "- gap herramienta: Design, develop, and maintain scalable backend applications and APIs using PHP and Laravel. Build and enhance AWS-based services and cloud infrastructure that support the platform.",
+          "- gap desconocido: Develop and integrate data-driven services, APIs, and third-party integrations supporting:",
+          "- gap desconocido: Audience engagement"
+        ],
+        "gaps": [
+          {
+            "term": "aws",
+            "type": "tool"
+          },
+          {
+            "term": "analytics",
+            "type": "tool"
+          },
+          {
+            "term": "Design, develop, and maintain scalable backend applications and APIs using PHP and Laravel. Build and enhance AWS-based services and cloud infrastructure that support the platform.",
+            "type": "tool"
+          },
+          {
+            "term": "Develop and integrate data-driven services, APIs, and third-party integrations supporting:",
+            "type": "unknown"
+          },
+          {
+            "term": "Audience engagement",
+            "type": "unknown"
+          },
+          {
+            "term": "Data collection",
+            "type": "unknown"
+          },
+          {
+            "term": "Segmentation",
+            "type": "unknown"
+          },
+          {
+            "term": "Analytics",
+            "type": "unknown"
+          },
+          {
+            "term": "Participate in architecture and technical design decisions, particularly around:",
+            "type": "unknown"
+          },
+          {
+            "term": "Scalability",
+            "type": "unknown"
+          },
+          {
+            "term": "Performance",
+            "type": "unknown"
+          },
+          {
+            "term": "Reliability",
+            "type": "unknown"
+          },
+          {
+            "term": "Maintainability",
+            "type": "unknown"
+          },
+          {
+            "term": "Troubleshoot complex production issues and improve application performance, reliability, and security. Write clean, maintainable, and well-tested code. Participate in code reviews and contribute to engineering standards. Collaborate with product, engineering, and other stakeholders to translate business requirements into technical solutions.",
+            "type": "unknown"
+          },
+          {
+            "term": "At the Principal level:",
+            "type": "unknown"
+          },
+          {
+            "term": "Provide technical leadership and mentorship to other engineers. Help establish development best practices. Help evolve the platform's architecture as the company and user/data volume continue to grow.",
+            "type": "unknown"
+          }
+        ],
+        "main_rank": 48,
+        "side_rank": 43,
+        "main_eligible": false,
+        "side_eligible": false,
+        "relocation_watch": false,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "low",
+        "signals": [
+          "listing_on_official_board"
+        ],
+        "warnings": []
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-10-23T05:02:16.256Z",
+        "history": []
+      },
+      "first_seen": "2026-10-23T05:02:16.256Z",
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-ingeniero-a-de-software-c-c-atentus-cordoba-buenos-aires-mendoza-santiago",
@@ -7264,11 +7561,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-arquitecto-de-datos-sr-data-ai-grupo-mariposa-remote-48e8",
@@ -7278,14 +7575,14 @@
       "url": "https://www.getonbrd.com/jobs/arquitecto-de-datos-sr-data-ai-grupo-mariposa-remote-48e8",
       "title": "Arquitecto de Datos (Data & AI)",
       "company": "Grupo Mariposa",
-      "location": "México, Ecuador, Argentina, Chile, Perú",
-      "place_text": "México, Ecuador, Argentina, Chile, Perú",
+      "location": "Mexico, Ecuador, Argentina, Chile, Peru",
+      "place_text": "Mexico, Ecuador, Argentina, Chile, Peru",
       "venue": {
         "cities": [],
         "tenants": [
           {
             "id": "mexico",
-            "name": "México"
+            "name": "Mexico"
           },
           {
             "id": "ecuador",
@@ -7301,7 +7598,7 @@
           },
           {
             "id": "peru",
-            "name": "Perú"
+            "name": "Peru"
           }
         ],
         "unresolved_ids": []
@@ -7498,11 +7795,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-databricks-engineer-tax-audit-improving-remote",
@@ -7512,8 +7809,8 @@
       "url": "https://www.getonbrd.com/jobs/databricks-engineer-tax-audit-improving-remote",
       "title": "Databricks Engineer (Tax & Audit)",
       "company": "Improving",
-      "location": "Argentina, Colombia, México",
-      "place_text": "Argentina, Colombia, México",
+      "location": "Argentina, Colombia, Mexico",
+      "place_text": "Argentina, Colombia, Mexico",
       "venue": {
         "cities": [],
         "tenants": [
@@ -7527,7 +7824,7 @@
           },
           {
             "id": "mexico",
-            "name": "México"
+            "name": "Mexico"
           }
         ],
         "unresolved_ids": []
@@ -7702,11 +7999,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "jobicy-151281",
@@ -7837,11 +8134,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-22T13:54:14.641Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/logicalis-com/jobs/devops-engineer",
@@ -8000,11 +8297,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/logicalis-com/jobs/devops-architect",
@@ -8158,11 +8455,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/all-your-bi/jobs/data-engineer",
@@ -8301,11 +8598,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z",
+      "last_seen": "2026-10-23T05:02:16.256Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/all-your-bi/jobs/data-engineer",
@@ -8452,11 +8749,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z",
+      "last_seen": "2026-10-23T05:02:16.256Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/scalian/jobs/data-engineer",
@@ -8603,11 +8900,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z",
+      "last_seen": "2026-10-23T05:02:16.256Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/the-agile-monkeys/jobs/data-analytics-engineer-freelancer",
@@ -8798,11 +9095,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-17T04:39:12.131Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-sr-java-platform-engineer-improving-remote",
@@ -8812,8 +9109,8 @@
       "url": "https://www.getonbrd.com/jobs/sr-java-platform-engineer-improving-remote",
       "title": "Sr. Java Platform Engineer",
       "company": "Improving",
-      "location": "Colombia, Chile, Argentina, Perú, Costa Rica, México",
-      "place_text": "Colombia, Chile, Argentina, Perú, Costa Rica, México",
+      "location": "Colombia, Chile, Argentina, Peru, Costa Rica, Mexico",
+      "place_text": "Colombia, Chile, Argentina, Peru, Costa Rica, Mexico",
       "venue": {
         "cities": [],
         "tenants": [
@@ -8831,7 +9128,7 @@
           },
           {
             "id": "peru",
-            "name": "Perú"
+            "name": "Peru"
           },
           {
             "id": "costa_rica",
@@ -8839,7 +9136,7 @@
           },
           {
             "id": "mexico",
-            "name": "México"
+            "name": "Mexico"
           }
         ],
         "unresolved_ids": []
@@ -8999,11 +9296,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "jobicy-155601",
@@ -9143,11 +9440,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-17T18:34:20.009Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/scalian/jobs/devops-engineer",
@@ -9296,11 +9593,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-tech-lead-outsystems-con-ingles-y-espanol-latam-i2b-technologies-remote",
@@ -9479,11 +9776,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-net-engineer-autoraptor-remote",
@@ -9635,11 +9932,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-data-engineer-databricks-improving-remote",
@@ -9649,14 +9946,14 @@
       "url": "https://www.getonbrd.com/jobs/data-engineer-databricks-improving-remote",
       "title": "Data Engineer – Databricks",
       "company": "Improving",
-      "location": "Perú, Colombia, Argentina, Chile",
-      "place_text": "Perú, Colombia, Argentina, Chile",
+      "location": "Peru, Colombia, Argentina, Chile",
+      "place_text": "Peru, Colombia, Argentina, Chile",
       "venue": {
         "cities": [],
         "tenants": [
           {
             "id": "peru",
-            "name": "Perú"
+            "name": "Peru"
           },
           {
             "id": "colombia",
@@ -9830,11 +10127,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/sopra-steria/jobs/devops-engineer-cloud-database-con-ingles",
@@ -9970,11 +10267,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/arquitecto-a-de-preventa-devops",
@@ -10126,11 +10423,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/plain-concepts/jobs/senior-data-engineer",
@@ -10279,11 +10576,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-sas-to-databricks-migration-engineer-ai-improving-remote",
@@ -10293,14 +10590,14 @@
       "url": "https://www.getonbrd.com/jobs/sas-to-databricks-migration-engineer-ai-improving-remote",
       "title": "Sas to Databricks Migration Engineer AI",
       "company": "Improving",
-      "location": "México, Costa Rica, Argentina",
-      "place_text": "México, Costa Rica, Argentina",
+      "location": "Mexico, Costa Rica, Argentina",
+      "place_text": "Mexico, Costa Rica, Argentina",
       "venue": {
         "cities": [],
         "tenants": [
           {
             "id": "mexico",
-            "name": "México"
+            "name": "Mexico"
           },
           {
             "id": "costa_rica",
@@ -10483,11 +10780,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "getonboard-big-data-engineer-databricks-improving-remote",
@@ -10497,14 +10794,14 @@
       "url": "https://www.getonbrd.com/jobs/big-data-engineer-databricks-improving-remote",
       "title": "Big Data Engineer (Databricks)",
       "company": "Improving",
-      "location": "México, Argentina",
-      "place_text": "México, Argentina",
+      "location": "Mexico, Argentina",
+      "place_text": "Mexico, Argentina",
       "venue": {
         "cities": [],
         "tenants": [
           {
             "id": "mexico",
-            "name": "México"
+            "name": "Mexico"
           },
           {
             "id": "argentina",
@@ -10694,11 +10991,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/devops-engineer",
@@ -10847,11 +11144,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/smartcat/jobs/senior-devops-and-infrastructure-engineer-3918390478",
@@ -11003,11 +11300,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-sme-presales-engineer-lead-aws-remoto-100",
@@ -11169,11 +11466,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/smartcat/jobs/senior-ai-first-data-engineer",
@@ -11324,11 +11621,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-platform-engineering-remoto-100",
@@ -11487,155 +11784,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
-    },
-    {
-      "id": "himalayas-https://himalayas.app/companies/ookla/jobs/data-engineer-iii",
-      "source": "Himalayas",
-      "source_trust": "official_public_api",
-      "external_id": "https://himalayas.app/companies/ookla/jobs/data-engineer-iii",
-      "url": "https://himalayas.app/companies/ookla/jobs/data-engineer-iii?utm_source=api",
-      "apply_url": "https://himalayas.app/companies/ookla/jobs/data-engineer-iii?utm_source=api",
-      "title": "Data Engineer III",
-      "company": "Ookla",
-      "location": "Spain",
-      "place_text": "Spain",
-      "remote": true,
-      "workplace": "remote",
-      "seniority": "Senior",
-      "employment_type": "full_time",
-      "published_at": "2026-08-31T09:06:57.000Z",
-      "salary": "",
-      "tags": [
-        "Data Science",
-        "Data-Engineering",
-        "Data-Engineer",
-        "Big-Data-Engineering",
-        "Data-Infrastructure",
-        "Data-Warehouse-Engineering",
-        "Senior-Data-Engineering",
-        "Lead-Data-Engineer",
-        "Data-Engineer-Jobs",
-        "data-spain"
-      ],
-      "description": "The Opportunity: We’re looking for a Senior Data Engineer to join the Ookla Data Engineering team and help us process the world’s best collection of data on mobile and fixed internet performance. As a data engineer you will be focused on developing tools, libraries and operations to support data scientists and analysts as they discover new and exciting ways to apply our data. Applicants should have a strong, data-focused programming background and be passionate about accuracy and performance. You will work on big data using the latest technologies. We are committed to providing you a flexible work environment where individuality, fun, and talent are all valued equally. If you consider yourself innovative, adept at collaboration, and you care deeply about the work you do, we want to talk! Key Responsibilities: Develop high volume data processing jobs across various platforms including Redshift, Athena, Iceberg, Spark and Airflow Work closely with Data Scientists to turn theory and methodology into viable products Identify bottlenecks in system performance and make recommendations on improving process efficiency Support and collaborate with data scientists, analysts, and product managers You are enthusiastic about mentoring and guiding junior team members, helping them understand architectural principles, best practices, and effective ways of working. Job Qualifications: We are looking for the right person, not the exact list of requirements. If you believe your life experience has prepared you for similar challenges, we’d like to hear from you. Bachelor's degree in Computer Science or related field or equivalent experience Strong understanding of programming concepts with experience in at least 1 OOP language (Python, Scala, Java) Strong background and 6+ years of direct experience working with Python Experience with high volume distributed data processing in Spark Strong working knowledge of SQL, databases (MySQL / Redshift / Athena / Trino), data modeling, and modern data warehouse (lakehouse) management Excellent troubleshooting and analysis skills Excited to learn and work with new technologies in a dynamic environment Strong communication skills both in person and via virtual mediums Strong time management skills and a self driven work ethic Experience with AWS cloud services is a plus Experience with event driven architecture and streaming data pipelines is a plus Background check required About Ookla , an Accenture company, is a global leader in connectivity intelligence that brings together the trusted expertise of Speedtest®, Downdetector®, Ekahau®, and RootMetrics® to deliver unmatched network and connectivity insights. By combining multi-source data with industry-leading expertise, we transform network performance metrics into strategic, actionable insights. Our solutions empower service providers, enterprises, and governments with the critical data and insights needed to optimize networks, enhance digital experiences, and help close the digital divide. At the same time, we amplify the real-world experiences of individuals and businesses that rely on connectivity to work, learn, and communicate. From measuring and analyzing connectivity to driving industry innovation, Ookla helps the world stay connected. About Accenture Accenture helps the world’s leading enterprises reinvent by building their digital core and unleashing the power of AI to create value at speed for organizations across industries. Our strategy is to be the reinvention partner of choice for our clients and lead in the safe, widespread adoption of AI, and to be the most client focused, AI-enabled, great place to work in the world. We bring together the talent of our approximately 799,000 people with proprietary assets and platforms, deep process and industry expertise, and leading ecosystem relationships to deliver end-to-end solutions and measurable outcomes at scale. Through our Reinvention Services, we offer broad expertise across Cybersecurity, Digital Core, Finance, Industry and Enterprise, Song, Supply Chain and Engineering, and Talent, with advanced capabilities in AI and Data, Industry and Process, and Technology. We serve approximately 9,000 clients and generated approximately $70 billion in FY25 revenue. Visit us at. Compensation Range Ookla provides a range for the base pay. Factors that may be used to determine your actual pay may include your specific job related knowledge, skills, experience, and geographic location. The salary compensation for this role is €x - €x. Individual pay within the compensation range for this business unit specific role is determined based on a variety of factors including experience, scope of therole, capabilities to perform the role, education and training, as well as business and company performance. Originally posted on Himalayas",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Himalayas",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 8,
-      "keyword_main_score": 11,
-      "keyword_side_score": 8,
-      "main_eligible_now": false,
-      "side_eligible": false,
-      "relocation_watch": true,
-      "access": "relocation-watch",
-      "matched_keywords": [
-        "data engineer"
-      ],
-      "main_signals": [],
-      "side_signals": [],
-      "negative_hits": 0,
-      "main_score": 41,
-      "side_score": 39,
-      "potential": {
-        "current_fit": 9,
-        "transferability": 52,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 45,
-        "career_potential": 65,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 12,
-        "commute_note": "no es viaje diario; commute() no recibe Valencia",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "data",
-          "security"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": false,
-        "work_after_valencia": true,
-        "place_bridge": false,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
-          "+ transferible: Data analytics engineering (data engineering) · fuentes: dashpostgre · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "- gap herramienta: aws",
-          "- gap herramienta: airflow",
-          "- gap herramienta: spark",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: data, security",
-          "no es viaje diario; commute() no recibe Valencia"
-        ],
-        "gaps": [
-          {
-            "term": "aws",
-            "type": "tool"
-          },
-          {
-            "term": "airflow",
-            "type": "tool"
-          },
-          {
-            "term": "spark",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 41,
-        "side_rank": 39,
-        "main_eligible": false,
-        "side_eligible": false,
-        "relocation_watch": true,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "unknown",
-        "signals": [],
-        "warnings": [
-          "listing_url_off_board",
-          "apply_url_external"
-        ]
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
-        "history": []
-      },
-      "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     },
     {
       "id": "jobicy-155565",
@@ -11770,11 +11923,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-17T12:15:24.864Z",
-      "last_seen": "2026-10-22T20:12:11.882Z",
+      "last_seen": "2026-10-23T05:02:16.256Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://jobicy.com/jobs/155565-1140-lead-developer-architect-web3",
@@ -11926,11 +12079,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-22T20:12:11.882Z",
+        "updated_at": "2026-10-23T05:02:16.256Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-22T20:12:11.882Z"
+      "last_seen": "2026-10-23T05:02:16.256Z"
     }
   ]
 }

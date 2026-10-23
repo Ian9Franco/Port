@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-10-22T20:12:11.882Z
+Generado: 2026-10-23T05:02:16.256Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -18,8 +18,8 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 54 | 24 | 72 | low | 48 | [Especialista QA Senior LATAM](https://www.getonbrd.com/jobs/especialista-qa-senior-latam-bc-tecnologia-remote) | BC Tecnología | Get on Board | new |
 | 54 | 24 | 72 | low | 48 | [Senior Software Development Engineer in Test (SDET)](https://jobicy.com/jobs/155928-senior-software-development-engineer-in-test-sdet-2) | Flex | Jobicy | new |
 | 54 | 40 | 90 | low | 48 | [Software engineer](https://jobicy.com/jobs/150846-software-engineer-3) | Sticker Mule | Jobicy | new |
-| 54 | 40 | 72 | low | 49 | [Multigres Deployment Engineer](https://jobicy.com/jobs/153326-multigres-deployment-engineer) | Supabase | Jobicy | new |
 | 54 | 24 | 90 | unknown | 48 | [Data Product Engineer, Data & Analytics](https://himalayas.app/companies/trimble/jobs/data-product-engineer-data-analytics?utm_source=api) | Trimble | Himalayas | new |
+| 54 | 24 | 65 | unknown | 48 | [Senior Data Engineer (AI-Native) — Data Layer](https://himalayas.app/companies/proton/jobs/senior-data-engineer-ai-native-data-layer?utm_source=api) | Proton | Himalayas | new |
 | 53 | 22 | 72 | low | 47 | [Desarrollador Ctv](https://www.getonbrd.com/jobs/desarrollador-mobile-mediastream-bogota-santiago-bf34) | Mediastream | Get on Board | new |
 | 53 | 40 | 72 | unknown | 48 | [DevOps Engineer (Remoto)](https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto?utm_source=api) | knowmad mood | Himalayas | new |
 | 53 | 40 | 72 | unknown | 48 | [DevOps Engineer CI/CD & Infra Specialist - Remoto 100%](https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100?utm_source=api) | knowmad mood | Himalayas | new |
@@ -39,8 +39,8 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 50 | 24 | 72 | unknown | 45 | [Azure DevOps Engineer – Pipelines & Guardrails](https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails?utm_source=api) | BIP | Himalayas | new |
 | 50 | 24 | 72 | unknown | 45 | [DEVOPS AWS - MEDIO TIEMPO - ESPAÑOL](https://himalayas.app/companies/rekluti/jobs/devops-aws-medio-tiempo-espanol?utm_source=api) | XKTalent Inc. - Rimutee | Himalayas | new |
 | 50 | 40 | 72 | unknown | 45 | [Data Engineer, AI & Analytics](https://himalayas.app/companies/power-digital-marketing/jobs/data-engineer-ai-analytics-3803593581?utm_source=api) | Power Digital Marketing | Himalayas | new |
+| 49 | 0 | 72 | low | 44 | [PHP Developer/ Laravel (AWS)](https://www.getonbrd.com/jobs/senior-php-developer-laravel-aws-improving-remote) | Improving | Get on Board | new |
 | 49 | 0 | 72 | low | 43 | [Tech Lead](https://www.getonbrd.com/jobs/tech-lead-grupo-mariposa-remote-56da) | Grupo Mariposa | Get on Board | new |
-| 49 | 24 | 72 | low | 44 | [Ruby on Rails Developer](https://www.getonbrd.com/jobs/ruby-on-rails-developer-improving-remote) | Improving | Get on Board | new |
 | 49 | 0 | 82 | low | 43 | [Forward Deployed Engineer](https://www.getonbrd.com/jobs/forward-deployed-engineer-diverse-programmers-remote) | Diverse Programmers | Get on Board | new |
 | 49 | 0 | 72 | low | 43 | [QA Manual Tester](https://www.getonbrd.com/jobs/qa-tester-grupo-mariposa-remote-8728) | Grupo Mariposa | Get on Board | new |
 | 49 | 1 | 88 | low | 43 | [Senior QA Automation Engineer (.NET/C#)](https://www.getonbrd.com/jobs/senior-qa-automation-engineer-net-c-improving-remote) | Improving | Get on Board | new |
@@ -49,6 +49,7 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 49 | 24 | 72 | unknown | 45 | [DEVOPS ENGINEER](https://himalayas.app/companies/apptiva-core-technologies/jobs/devops-engineer-665181510?utm_source=api) | Apptiva Core Technologies | Himalayas | new |
 | 49 | 24 | 72 | unknown | 44 | [Senior Data Engineer](https://himalayas.app/companies/knowmad-mood/jobs/senior-data-engineer?utm_source=api) | knowmad mood | Himalayas | new |
 | 49 | 24 | 52 | unknown | 45 | [SAP BTP Developer/ Architect (Anywhere in India; preferred Bengaluru, Hyderabad ](https://himalayas.app/companies/tenthpin/jobs/sap-btp-developer-architect-anywhere-in-india-preferred-bengaluru-hyderabad?utm_source=api) | Tenthpin | Himalayas | new |
+| 48 | 0 | 72 | low | 43 | [Senior PHP Engineer ( Laravel + AWS)](https://www.getonbrd.com/jobs/senior-php-engineer-laravel-aws-improving-remote) | Improving | Get on Board | new |
 | 48 | 24 | 72 | low | 47 | [Ingeniero/a de Software C/C++](https://www.getonbrd.com/jobs/ingeniero-a-de-software-c-c-atentus-cordoba-buenos-aires-mendoza-santiago) | ATENTUS | Get on Board | new |
 | 48 | 2 | 72 | low | 43 | [Arquitecto de Datos (Data & AI)](https://www.getonbrd.com/jobs/arquitecto-de-datos-sr-data-ai-grupo-mariposa-remote-48e8) | Grupo Mariposa | Get on Board | new |
 | 48 | 6 | 72 | low | 43 | [Databricks Engineer (Tax & Audit)](https://www.getonbrd.com/jobs/databricks-engineer-tax-audit-improving-remote) | Improving | Get on Board | new |
@@ -75,6 +76,5 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 43 | 12 | 72 | unknown | 40 | [Senior DevOps SME (Presales Engineer Lead - AWS) - Remoto 100%](https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-sme-presales-engineer-lead-aws-remoto-100?utm_source=api) | knowmad mood | Himalayas | new |
 | 39 | 24 | 65 | unknown | 43 | [Senior AI-First Data Engineer](https://himalayas.app/companies/smartcat/jobs/senior-ai-first-data-engineer?utm_source=api) | Smartcat | Himalayas | new |
 | 42 | 9 | 72 | unknown | 39 | [Senior DevOps Platform Engineering - Remoto 100%](https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-platform-engineering-remoto-100?utm_source=api) | knowmad mood | Himalayas | new |
-| 41 | 9 | 65 | unknown | 39 | [Data Engineer III](https://himalayas.app/companies/ookla/jobs/data-engineer-iii?utm_source=api) | Ookla | Himalayas | new |
 | 30 | 22 | 90 | high | 23 | [Lead Developer / Architect Web3](https://jobicy.com/jobs/155565-1140-lead-developer-architect-web3) | GoFasti | Jobicy | new |
 | 26 | 24 | 72 | high | 21 | [Senior DevOps Engineer (AWS)](https://himalayas.app/companies/duetto/jobs/senior-devops-engineer-aws?utm_source=api) | Duetto | Himalayas | new |
