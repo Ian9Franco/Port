@@ -1,10 +1,10 @@
 # Port — Opportunity Radar
 
-Generado: 2026-10-23T13:34:34.414Z
+Generado: 2026-10-23T19:58:45.743Z
 
 Modo de aplicación: **manual**. Port busca, filtra y prepara; Ian decide y aplica.
 
-Fuentes: Remotive (9), Arbeitnow (73), Get on Board (533), RemoteOK (99), Jobicy (45), Himalayas (84)
+Fuentes: Remotive (9), Arbeitnow (58), Get on Board (533), RemoteOK (99), Jobicy (44), Himalayas (84)
 
 ## MAIN — Top picks
 
@@ -13,8 +13,8 @@ Trabajo principal: full-time o part-time; remoto o presencial/híbrido si la ubi
 | Rank | Fit | Potencial | Rol | Empresa | Modalidad / ubicación | Por qué aparece |
 | ---: | ---: | ---: | --- | --- | --- | --- |
 | 58 | 22 | 90 | [SAP BTP Lead](https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-lead?utm_source=api) | Pontoonglobal | remote · Worldwide | Fit 22% · Potencial 90 · Transfer 97 · evidencia directa: TypeScript (node.js, nodejs) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar; evidencia directa: Full-stack product engineering (full-stack) · fuentes: MIM, Factu, Pontorno-vault · gap ecosistema: producto SAP · fusiona https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-integration-specialist-consultant?utm_source=api |
-| 58 | 24 | 82 | [Senior DevOps Engineer](https://jobicy.com/jobs/155494-senior-devops-engineer-9) | Documo Inc. | remote · Anywhere | Fit 24% · Potencial 82 · Transfer 99 · evidencia directa: Automation and developer tooling (tooling) · fuentes: MIM, Web-Sling-Optimizer; transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar · seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado |
 | 57 | 40 | 90 | [Supalite Engineer](https://jobicy.com/jobs/156576-supalite-engineer) | Supabase | remote · Anywhere | Fit 40% · Potencial 90 · Transfer 67 · evidencia directa: Full-stack product engineering (full-stack) · fuentes: MIM, Factu, Pontorno-vault; evidencia directa: PostgreSQL (postgres) · fuentes: MIM, Pontorno-vault, Factu · profundidad sin confirmar · gap herramienta: spark |
+| 57 | 24 | 90 | [Full-Stack Developer: React & Node.js](https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote) | Improving | remote · Argentina | Fit 24% · Potencial 90 · Transfer 88 · evidencia directa: TypeScript (node.js) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar; evidencia directa: React (react) · fuentes: MIM, Pontorno-vault, Factu · seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado · fusiona https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote, https://www.getonbrd.com/jobs/senior-full-stack-engineer-improving-remote |
 
 ## SIDE — Top picks
 
@@ -37,7 +37,7 @@ Valencia y España, para una mudanza posterior con la familia. La ventana de mud
 
 ## Cobertura
 
-- Universo curado guardado: **76** oportunidades.
+- Universo curado guardado: **74** oportunidades.
 - Top picks: máximo **3 MAIN** + **3 SIDE** por corrida.
 - Nada del universo curado se descarta silenciosamente: ver reports/all-candidates.md.
 - Para adaptar el CV sin inventar experiencia: ver reports/application-prep.md.
