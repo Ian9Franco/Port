@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-10-23T19:58:45.743Z
+Generado: 2026-10-24T04:47:03.846Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -10,7 +10,6 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 58 | 22 | 90 | medium | 50 | [SAP BTP Lead](https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-lead?utm_source=api) | Pontoonglobal | Himalayas | new |
 | 57 | 24 | 90 | low | 49 | [Full-Stack Developer: React & Node.js](https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote) | Improving | Get on Board | new |
 | 57 | 40 | 90 | low | 50 | [Supalite Engineer](https://jobicy.com/jobs/156576-supalite-engineer) | Supabase | Jobicy | new |
-| 55 | 40 | 72 | low | 49 | [Postgres Deployment Engineer (Nix)](https://jobicy.com/jobs/153446-postgres-deployment-engineer-nix) | Supabase | Jobicy | new |
 | 55 | 40 | 72 | unknown | 49 | [Automation & DevOps Engineer (Remoto)](https://himalayas.app/companies/knowmad-mood/jobs/automation-devops-engineer-remoto?utm_source=api) | knowmad mood | Himalayas | new |
 | 55 | 40 | 72 | unknown | 49 | [Junior Devops Engineer](https://himalayas.app/companies/aldia/jobs/junior-devops-engineer?utm_source=api) | ALDIA | Himalayas | new |
 | 55 | 40 | 52 | medium | 50 | [SAP BTP Integration Specialist/Consultant](https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-integration-specialist-consultant?utm_source=api) | Pontoonglobal | Himalayas | new |
@@ -18,7 +17,6 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 54 | 24 | 72 | low | 48 | [Especialista QA Senior LATAM](https://www.getonbrd.com/jobs/especialista-qa-senior-latam-bc-tecnologia-remote) | BC Tecnología | Get on Board | new |
 | 54 | 40 | 72 | low | 49 | [Cloud Platform Engineer](https://jobicy.com/jobs/156583-cloud-platform-engineer) | Supabase | Jobicy | new |
 | 54 | 24 | 72 | low | 48 | [Senior Software Development Engineer in Test (SDET)](https://jobicy.com/jobs/155928-senior-software-development-engineer-in-test-sdet-2) | Flex | Jobicy | new |
-| 54 | 40 | 90 | low | 48 | [Software engineer](https://jobicy.com/jobs/150846-software-engineer-3) | Sticker Mule | Jobicy | new |
 | 54 | 24 | 90 | unknown | 48 | [Data Product Engineer, Data & Analytics](https://himalayas.app/companies/trimble/jobs/data-product-engineer-data-analytics?utm_source=api) | Trimble | Himalayas | new |
 | 54 | 24 | 65 | unknown | 48 | [Senior Data Engineer (AI-Native) — Data Layer](https://himalayas.app/companies/proton/jobs/senior-data-engineer-ai-native-data-layer?utm_source=api) | Proton | Himalayas | new |
 | 53 | 22 | 72 | low | 47 | [Desarrollador Ctv](https://www.getonbrd.com/jobs/desarrollador-mobile-mediastream-bogota-santiago-bf34) | Mediastream | Get on Board | new |
@@ -49,7 +47,6 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 49 | 0 | 72 | low | 43 | [QA Funcional Senior Microsoft Dynamics 365 (LATAM)](https://www.getonbrd.com/jobs/qa-funcional-senior-microsoft-dynamics-365-latam-bc-tecnologia-remote) | BC Tecnología | Get on Board | new |
 | 49 | 33 | 72 | unknown | 45 | [Dev/Ops Developer](https://himalayas.app/companies/dentsu-international/jobs/dev-ops-developer?utm_source=api) | dentsu international | Himalayas | new |
 | 49 | 24 | 72 | unknown | 45 | [DEVOPS ENGINEER](https://himalayas.app/companies/apptiva-core-technologies/jobs/devops-engineer-665181510?utm_source=api) | Apptiva Core Technologies | Himalayas | new |
-| 49 | 24 | 72 | unknown | 44 | [Senior Data Engineer](https://himalayas.app/companies/knowmad-mood/jobs/senior-data-engineer?utm_source=api) | knowmad mood | Himalayas | new |
 | 49 | 24 | 52 | unknown | 45 | [SAP BTP Developer/ Architect (Anywhere in India; preferred Bengaluru, Hyderabad ](https://himalayas.app/companies/tenthpin/jobs/sap-btp-developer-architect-anywhere-in-india-preferred-bengaluru-hyderabad?utm_source=api) | Tenthpin | Himalayas | new |
 | 48 | 0 | 72 | low | 43 | [Senior PHP Engineer ( Laravel + AWS)](https://www.getonbrd.com/jobs/senior-php-engineer-laravel-aws-improving-remote) | Improving | Get on Board | new |
 | 48 | 24 | 72 | low | 47 | [Ingeniero/a de Software C/C++](https://www.getonbrd.com/jobs/ingeniero-a-de-software-c-c-atentus-cordoba-buenos-aires-mendoza-santiago) | ATENTUS | Get on Board | new |
@@ -77,6 +74,7 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 42 | 24 | 72 | unknown | 44 | [DevOps Engineer](https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/devops-engineer?utm_source=api) | Banco Plata, S.A., Institución de Banca Múltiple | Himalayas | new |
 | 44 | 13 | 72 | unknown | 40 | [Senior DevOps and Infrastructure Engineer](https://himalayas.app/companies/smartcat/jobs/senior-devops-and-infrastructure-engineer-3918390478?utm_source=api) | Smartcat | Himalayas | new |
 | 43 | 12 | 72 | unknown | 40 | [Senior DevOps SME (Presales Engineer Lead - AWS) - Remoto 100%](https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-sme-presales-engineer-lead-aws-remoto-100?utm_source=api) | knowmad mood | Himalayas | new |
+| 39 | 24 | 65 | unknown | 43 | [Senior AI-First Data Engineer](https://himalayas.app/companies/smartcat/jobs/senior-ai-first-data-engineer?utm_source=api) | Smartcat | Himalayas | new |
 | 42 | 9 | 72 | unknown | 39 | [Senior DevOps Platform Engineering - Remoto 100%](https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-platform-engineering-remoto-100?utm_source=api) | knowmad mood | Himalayas | new |
 | 30 | 22 | 90 | high | 23 | [Lead Developer / Architect Web3](https://jobicy.com/jobs/155565-1140-lead-developer-architect-web3) | GoFasti | Jobicy | new |
 | 26 | 24 | 72 | high | 21 | [Senior DevOps Engineer (AWS)](https://himalayas.app/companies/duetto/jobs/senior-devops-engineer-aws?utm_source=api) | Duetto | Himalayas | new |
