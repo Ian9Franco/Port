@@ -1,10 +1,10 @@
 # Port — Opportunity Radar
 
-Generado: 2026-10-25T13:14:07.093Z
+Generado: 2026-10-25T19:06:43.819Z
 
 Modo de aplicación: **manual**. Port busca, filtra y prepara; Ian decide y aplica.
 
-Fuentes: Remotive (10), Arbeitnow (49), Get on Board (0), RemoteOK (99), Jobicy (60), Himalayas (84)
+Fuentes: Remotive (10), Arbeitnow (49), Get on Board (535), RemoteOK (99), Jobicy (60), Himalayas (84)
 
 ## MAIN — Top picks
 
@@ -12,9 +12,9 @@ Trabajo principal: full-time o part-time; remoto o presencial/híbrido si la ubi
 
 | Rank | Fit | Potencial | Rol | Empresa | Modalidad / ubicación | Por qué aparece |
 | ---: | ---: | ---: | --- | --- | --- | --- |
+| 59 | 40 | 90 | [Product Manager - Realtime](https://jobicy.com/jobs/156943-product-manager-realtime) | Supabase | remote · Anywhere | Fit 40% · Potencial 90 · Transfer 80 · evidencia directa: Full-stack product engineering (full-stack) · fuentes: MIM, Factu, Pontorno-vault; evidencia directa: PostgreSQL (postgres) · fuentes: MIM, Pontorno-vault, Factu · profundidad sin confirmar · gap desconocido: requisitos obligatorios no leídos |
 | 58 | 22 | 90 | [SAP BTP Lead](https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-lead?utm_source=api) | Pontoonglobal | remote · Worldwide | Fit 22% · Potencial 90 · Transfer 97 · evidencia directa: TypeScript (node.js, nodejs) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar; evidencia directa: Full-stack product engineering (full-stack) · fuentes: MIM, Factu, Pontorno-vault · gap ecosistema: producto SAP · fusiona https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-integration-specialist-consultant?utm_source=api |
 | 57 | 40 | 90 | [Web Frontend Engineer - JS, CSS, React, Flutter](https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter) | Canonical | remote · Anywhere | Fit 40% · Potencial 90 · Transfer 65 · evidencia directa: TypeScript (typescript) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar; evidencia directa: React (react) · fuentes: MIM, Pontorno-vault, Factu · gap herramienta: kubernetes |
-| 55 | 24 | 72 | [Community Engineer (multiple roles and seniority levels)](https://jobicy.com/jobs/149577-community-engineer-multiple-roles-and-seniority-levels) | Canonical | remote · Anywhere | Fit 24% · Potencial 72 · Transfer 95 · evidencia directa: Docker (container) · fuentes: MIM · profundidad sin confirmar; evidencia directa: Automation and developer tooling (workflow) · fuentes: MIM, Web-Sling-Optimizer · seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado |
 
 ## SIDE — Top picks
 
@@ -36,7 +36,7 @@ Valencia y España, para una mudanza posterior con la familia. La ventana de mud
 
 ## Cobertura
 
-- Universo curado guardado: **50** oportunidades.
+- Universo curado guardado: **81** oportunidades.
 - Top picks: máximo **3 MAIN** + **3 SIDE** por corrida.
 - Nada del universo curado se descarta silenciosamente: ver reports/all-candidates.md.
 - Para adaptar el CV sin inventar experiencia: ver reports/application-prep.md.
