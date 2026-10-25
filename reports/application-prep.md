@@ -1,6 +1,6 @@
 # Port — Application prep
 
-Generado: 2026-10-25T04:55:01.982Z
+Generado: 2026-10-25T13:14:07.093Z
 
 Borradores de preparación para los Top Picks. No aplica automáticamente y no agrega experiencia que no esté respaldada por el perfil.
 
@@ -25,25 +25,6 @@ Borradores de preparación para los Top Picks. No aplica automáticamente y no a
 - Gaps: requisitos obligatorios no leídos (unknown), producto SAP (ecosystem)
 - Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 
-### Supalite Engineer — Supabase
-
-- Oferta: https://jobicy.com/jobs/156576-supalite-engineer
-- Fuente: Jobicy · SOURCE TRUST: official_public_api
-- COMPANY TRUST: medium · LISTING RISK: **low**
-- Señales trust: ninguna
-- Modalidad: remote · Anywhere
-- Tipo detectado: full_time
-- Seniority del aviso: Any
-- Current Fit: **40** · Transferability: **67** · Gap Cost: **unknown**
-- Career Potential: **90** · Evidence: **low**
-- salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra
-- Viaje: sin viaje diario desde zona oeste, Buenos Aires
-- Enfatizar en CV/intro: full-stack, postgres, supabase, cli, tooling, growth
-- Verificar antes de afirmar: spark (tool), requisitos obligatorios no leídos (unknown)
-- Por qué apareció: + evidencia directa: Full-stack product engineering (full-stack) · fuentes: MIM, Factu, Pontorno-vault; + evidencia directa: PostgreSQL (postgres) · fuentes: MIM, Pontorno-vault, Factu · profundidad sin confirmar; + evidencia directa: Supabase (supabase) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar; + evidencia directa: Automation and developer tooling (cli, tooling) · fuentes: MIM, Web-Sling-Optimizer
-- Gaps: spark (tool), requisitos obligatorios no leídos (unknown)
-- Regla: no inventar años, tecnologías ni resultados que no estén documentados.
-
 ### Web Frontend Engineer - JS, CSS, React, Flutter — Canonical
 
 - Oferta: https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter
@@ -61,6 +42,25 @@ Borradores de preparación para los Top Picks. No aplica automáticamente y no a
 - Verificar antes de afirmar: kubernetes (tool), requisitos obligatorios no leídos (unknown)
 - Por qué apareció: + evidencia directa: TypeScript (typescript) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar; + evidencia directa: React (react) · fuentes: MIM, Pontorno-vault, Factu; + evidencia directa: Docker (docker, container) · fuentes: MIM · profundidad sin confirmar
 - Gaps: kubernetes (tool), requisitos obligatorios no leídos (unknown)
+- Regla: no inventar años, tecnologías ni resultados que no estén documentados.
+
+### Community Engineer (multiple roles and seniority levels) — Canonical
+
+- Oferta: https://jobicy.com/jobs/149577-community-engineer-multiple-roles-and-seniority-levels
+- Fuente: Jobicy · SOURCE TRUST: official_public_api
+- COMPANY TRUST: medium · LISTING RISK: **low**
+- Señales trust: ninguna
+- Modalidad: remote · Anywhere
+- Tipo detectado: full_time
+- Seniority del aviso: Senior
+- Current Fit: **24** · Transferability: **95** · Gap Cost: **unknown**
+- Career Potential: **72** · Evidence: **low**
+- salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra
+- Viaje: sin viaje diario desde zona oeste, Buenos Aires
+- Enfatizar en CV/intro: container, workflow, devops
+- Verificar antes de afirmar: requisitos obligatorios no leídos (unknown)
+- Por qué apareció: + evidencia directa: Docker (container) · fuentes: MIM · profundidad sin confirmar; + evidencia directa: Automation and developer tooling (workflow) · fuentes: MIM, Web-Sling-Optimizer; + transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar
+- Gaps: requisitos obligatorios no leídos (unknown)
 - Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 
 ## SIDE
