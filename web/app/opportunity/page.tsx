@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { OpportunityActions } from "@/components/OpportunityActions";
+import { listingUrl } from "@/lib/listing-url";
 import { loadPortDatabase, type PortOpportunity } from "@/lib/port-data";
 
 export const dynamic = "force-dynamic";
@@ -16,6 +17,7 @@ export default async function OpportunityPage({
   const data = await loadPortDatabase();
   const job = findJob(data.opportunities, id);
   if (!job) notFound();
+  const externalListing = listingUrl(job);
 
   return (
     <main className="mx-auto max-w-4xl px-4 py-8">
@@ -24,9 +26,11 @@ export default async function OpportunityPage({
         <h1 className="text-balance break-words text-2xl font-semibold">{job.title}</h1>
         <p className="break-words text-zinc-400">{job.company}</p>
         <JobFacts job={job} />
-        <a href={job.url} target="_blank" rel="noreferrer" className="mt-3 inline-block text-sm text-emerald-400 hover:underline">
-          Abrir listing original
-        </a>
+        {externalListing ? (
+          <a href={externalListing} target="_blank" rel="noreferrer" className="mt-3 inline-block text-sm text-emerald-400 hover:underline">
+            Abrir listing original
+          </a>
+        ) : null}
       </header>
 
       <div className="mt-6 grid gap-6 lg:grid-cols-3">

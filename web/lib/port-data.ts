@@ -8,6 +8,7 @@ export type PortOpportunity = {
   title: string;
   company: string;
   url: string;
+  apply_url?: string;
   source: string;
   status: string;
   notes?: string;

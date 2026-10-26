@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { CardActions } from "@/components/CardActions";
 import { ConfigHelp } from "@/components/ConfigHelp";
 import { JobRow } from "@/components/JobRow";
 import { OpportunityCard } from "@/components/OpportunityCard";
@@ -89,6 +90,14 @@ export default async function DashboardPage() {
                 title={job.title}
                 meta={`${job.company} · ${job.status}`}
                 aside={job.main_score ?? "—"}
+                footer={
+                  <CardActions
+                    id={job.id}
+                    status={job.status}
+                    url={job.url}
+                    applyUrl={job.apply_url}
+                  />
+                }
               />
             ))}
         </ul>
