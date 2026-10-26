@@ -1,13 +1,13 @@
 # Port — Pipeline tracking
 
-Generado: 2026-10-26T04:58:12.606Z
+Generado: 2026-10-26T15:01:51.070Z
 
 ## Por estado
 
 | Estado | Cantidad |
 | --- | ---: |
-| new | 81 |
-| reviewing | 0 |
+| new | 80 |
+| reviewing | 1 |
 | shortlisted | 0 |
 | prepared | 0 |
 | applied | 0 |
@@ -21,7 +21,7 @@ Generado: 2026-10-26T04:58:12.606Z
 ## Métricas
 
 - Aplicaciones registradas (`applied`): **0**
-- En pipeline activo (reviewing / shortlisted / prepared): **0**
+- En pipeline activo (reviewing / shortlisted / prepared): **1**
 - Respuesta o más allá (replied+): **0**
 - Perdidas (`lost`): **0**
 
