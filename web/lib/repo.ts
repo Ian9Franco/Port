@@ -22,7 +22,7 @@ export function assertDataBackendConfigured() {
 }
 
 export function getGithubRepo(): { owner: string; repo: string } {
-  const slug = process.env.GITHUB_REPOSITORY || "Ian9Franco/Port";
+  const slug = process.env.GITHUB_REPOSITORY || "Ian9Franco/copenhagen";
   const [owner, repo] = slug.split("/");
   if (!owner || !repo) throw new Error("Invalid GITHUB_REPOSITORY");
   return { owner, repo };

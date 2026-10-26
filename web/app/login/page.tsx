@@ -31,7 +31,7 @@ export default function LoginPage() {
 
   return (
     <main className="mx-auto flex min-h-screen max-w-md flex-col justify-center px-4">
-      <h1 className="text-xl font-semibold">Port — acceso privado</h1>
+      <h1 className="text-xl font-semibold">Copenhagen — acceso privado</h1>
       <p className="mt-2 text-sm text-zinc-400">Ingresá el secreto configurado en <code>PORT_UI_SECRET</code>.</p>
       <form onSubmit={onSubmit} className="mt-6 space-y-3">
         <input

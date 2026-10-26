@@ -11,7 +11,7 @@ export default async function OpportunitiesPage() {
 
   return (
     <main className="mx-auto max-w-5xl px-4 py-8">
-      <Link href="/" className="text-sm text-emerald-400 hover:underline">← Dashboard</Link>
+      <Link href="/" className="text-sm text-emerald-400 hover:underline">← Copenhagen</Link>
       <h1 className="mt-4 text-2xl font-semibold">All opportunities ({rows.length})</h1>
       <ul className="mt-6 divide-y divide-zinc-800 rounded-xl border border-zinc-800">
         {rows.map(job => (

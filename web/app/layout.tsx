@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Port — Private UI",
-  description: "Private opportunity dashboard for Port"
+  title: "Copenhagen",
+  description: "Tablero privado de oportunidades"
 };
 
 export const viewport: Viewport = {
@@ -25,7 +25,7 @@ export const viewport: Viewport = {
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="en">
+    <html lang="es">
       <body className={`${geistSans.variable} ${geistMono.variable} min-h-screen overflow-x-hidden bg-zinc-950 text-zinc-100 antialiased [padding-left:env(safe-area-inset-left)] [padding-right:env(safe-area-inset-right)]`}>
         {children}
       </body>

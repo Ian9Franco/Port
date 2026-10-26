@@ -31,9 +31,9 @@ export default async function DashboardPage() {
     <main className="mx-auto max-w-6xl px-4 py-8">
       <header className="mb-8 flex flex-col gap-4 border-b border-zinc-800 pb-6 sm:flex-row sm:items-start sm:justify-between">
         <div>
-          <h1 className="text-2xl font-semibold tracking-tight">Port</h1>
+          <h1 className="text-2xl font-semibold tracking-tight">Copenhagen</h1>
           <p className="mt-1 text-sm text-zinc-400">
-            Private dashboard · backend <code className="text-zinc-300">{getDataBackend()}</code>
+            Tablero privado · backend <code className="text-zinc-300">{getDataBackend()}</code>
           </p>
           <p className="mt-1 text-xs text-zinc-500">
             Última corrida: {data.generated_at ? new Date(data.generated_at).toLocaleString() : "—"}
