@@ -443,7 +443,7 @@
           "salary_outlier"
         ]
       },
-      "status": "new",
+      "status": "reviewing",
       "notes": "",
       "tracking": {
         "cv_used": "",
@@ -451,8 +451,16 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-26T15:16:59.084Z",
-        "history": []
+        "updated_at": "2026-10-26T18:23:51.119Z",
+        "history": [
+          {
+            "at": "2026-10-26T18:23:51.119Z",
+            "from": "new",
+            "to": "reviewing",
+            "note": "",
+            "signal": "ui"
+          }
+        ]
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
       "last_seen": "2026-10-26T15:16:59.084Z",
