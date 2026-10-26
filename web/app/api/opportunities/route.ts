@@ -12,20 +12,20 @@ const ACTION_STATUS: Record<string, string> = {
   lost: "lost"
 };
 
-export async function PATCH(
-  request: Request,
-  context: { params: Promise<{ id: string }> }
-) {
+export async function PATCH(request: Request) {
   if (!(await isAuthenticated())) {
     return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   }
 
-  const { id } = await context.params;
   const body = await request.json().catch(() => ({}));
+  const id = String(body.id ?? "");
   const action = String(body.action ?? "");
   const status = ACTION_STATUS[action] ?? body.status;
   const note = body.note ? String(body.note) : undefined;
 
+  if (!id) {
+    return NextResponse.json({ error: "Missing id" }, { status: 400 });
+  }
   if (!status || typeof status !== "string") {
     return NextResponse.json({ error: "Missing action or status" }, { status: 400 });
   }

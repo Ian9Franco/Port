@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
@@ -17,10 +17,16 @@ export const metadata: Metadata = {
   description: "Private opportunity dashboard for Port"
 };
 
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  viewportFit: "cover"
+};
+
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en">
-      <body className={`${geistSans.variable} ${geistMono.variable} min-h-screen bg-zinc-950 text-zinc-100 antialiased`}>
+      <body className={`${geistSans.variable} ${geistMono.variable} min-h-screen overflow-x-hidden bg-zinc-950 text-zinc-100 antialiased [padding-left:env(safe-area-inset-left)] [padding-right:env(safe-area-inset-right)]`}>
         {children}
       </body>
     </html>

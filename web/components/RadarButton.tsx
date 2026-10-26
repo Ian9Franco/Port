@@ -25,16 +25,16 @@ export function RadarButton() {
   }
 
   return (
-    <div className="flex flex-col items-end gap-2">
+    <div className="flex w-full flex-col gap-2 sm:w-auto sm:items-end">
       <button
         type="button"
         onClick={onClick}
         disabled={loading}
-        className="rounded-lg bg-emerald-600 px-4 py-2 text-sm font-medium text-white hover:bg-emerald-500 disabled:opacity-60"
+        className="min-h-11 w-full rounded-lg bg-emerald-600 px-4 py-2 text-sm font-medium text-white hover:bg-emerald-500 disabled:opacity-60 sm:w-auto"
       >
         {loading ? "Running radar…" : "Run Opportunity Radar"}
       </button>
-      {message ? <p className="max-w-xs text-right text-xs text-zinc-400">{message}</p> : null}
+      {message ? <p className="break-words text-sm text-zinc-400 sm:max-w-xs sm:text-right">{message}</p> : null}
     </div>
   );
 }

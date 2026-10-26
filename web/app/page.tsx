@@ -1,7 +1,9 @@
 import Link from "next/link";
 import { ConfigHelp } from "@/components/ConfigHelp";
+import { JobRow } from "@/components/JobRow";
 import { OpportunityCard } from "@/components/OpportunityCard";
 import { RadarButton } from "@/components/RadarButton";
+import { opportunityHref } from "@/lib/opportunity-href";
 import { loadPortDatabase, pickByIds } from "@/lib/port-data";
 import { getDataBackend } from "@/lib/repo";
 
@@ -70,7 +72,7 @@ export default async function DashboardPage() {
       </section>
 
       <section>
-        <div className="mb-3 flex items-center justify-between">
+        <div className="mb-3 flex flex-wrap items-baseline justify-between gap-2">
           <h2 className="text-lg font-medium">Universe (top 30 by rank)</h2>
           <Link href="/opportunities" className="text-sm text-emerald-400 hover:underline">
             Ver todas
@@ -81,15 +83,13 @@ export default async function DashboardPage() {
             .sort((a, b) => (b.main_score ?? 0) - (a.main_score ?? 0))
             .slice(0, 30)
             .map(job => (
-              <li key={job.id} className="flex items-center justify-between gap-4 px-4 py-3 hover:bg-zinc-900/50">
-                <div className="min-w-0">
-                  <Link href={`/opportunity/${encodeURIComponent(job.id)}`} className="font-medium text-zinc-100 hover:underline">
-                    {job.title}
-                  </Link>
-                  <p className="truncate text-sm text-zinc-500">{job.company} · {job.status}</p>
-                </div>
-                <span className="text-sm tabular-nums text-zinc-400">{job.main_score ?? "—"}</span>
-              </li>
+              <JobRow
+                key={job.id}
+                href={opportunityHref(job.id)}
+                title={job.title}
+                meta={`${job.company} · ${job.status}`}
+                aside={job.main_score ?? "—"}
+              />
             ))}
         </ul>
       </section>

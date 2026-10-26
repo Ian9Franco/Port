@@ -22,10 +22,10 @@ export function OpportunityActions({ id }: { id: string }) {
     setBusy(true);
     setError(null);
     try {
-      const response = await fetch(`/api/opportunities/${id}`, {
+      const response = await fetch("/api/opportunities", {
         method: "PATCH",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ action, note: note || undefined })
+        body: JSON.stringify({ id, action, note: note || undefined })
       });
       const payload = await response.json();
       if (!response.ok) throw new Error(payload.error || "Update failed");
@@ -44,7 +44,8 @@ export function OpportunityActions({ id }: { id: string }) {
         value={note}
         onChange={event => setNote(event.target.value)}
         placeholder="Note (optional)"
-        className="w-full rounded-lg border border-zinc-700 bg-zinc-950 px-3 py-2 text-sm text-zinc-100"
+        aria-label="Note"
+        className="w-full rounded-lg border border-zinc-700 bg-zinc-950 px-3 py-2 text-base text-zinc-100"
         rows={2}
       />
       <div className="flex flex-wrap gap-2">
@@ -54,7 +55,7 @@ export function OpportunityActions({ id }: { id: string }) {
             type="button"
             disabled={busy}
             onClick={() => send(item.action)}
-            className="rounded-md border border-zinc-700 px-3 py-1.5 text-xs font-medium text-zinc-200 hover:bg-zinc-800 disabled:opacity-50"
+            className="min-h-11 rounded-md border border-zinc-700 px-3 py-2 text-sm font-medium text-zinc-200 hover:bg-zinc-800 disabled:opacity-50"
           >
             {item.label}
           </button>
