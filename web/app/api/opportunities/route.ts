@@ -1,16 +1,7 @@
 import { NextResponse } from "next/server";
+import { ACTION_STATUS } from "@/lib/opportunity-actions";
 import { updateOpportunityStatus } from "@/lib/port-data";
 import { isAuthenticated } from "@/lib/session";
-
-const ACTION_STATUS: Record<string, string> = {
-  shortlist: "shortlisted",
-  skip: "skipped",
-  reviewing: "reviewing",
-  prepared: "prepared",
-  applied: "applied",
-  interview: "interview",
-  lost: "lost"
-};
 
 export async function PATCH(request: Request) {
   if (!(await isAuthenticated())) {
