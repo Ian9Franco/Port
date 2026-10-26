@@ -104,7 +104,10 @@ function findJob(opportunities: PortOpportunity[], id: string) {
 }
 
 function JobFacts({ job }: { job: PortOpportunity }) {
-  const facts = [job.employment_type, job.source, job.status].filter(Boolean).map(value => value.replaceAll("_", " ")).join(" · ");
+  const facts = [job.employment_type, job.source, job.status]
+    .filter((value): value is string => Boolean(value))
+    .map(value => value.replaceAll("_", " "))
+    .join(" · ");
   const location = job.location?.trim() ?? "";
   const long = location.length > 90;
 
