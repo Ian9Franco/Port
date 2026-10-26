@@ -1,14 +1,14 @@
 # Port — All candidates
 
-Generado: 2026-10-26T15:16:59.084Z
+Generado: 2026-10-26T21:04:33.767Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
 | MAIN | Fit | Potencial | Riesgo | SIDE | Rol | Empresa | Fuente | Estado |
 | ---: | ---: | ---: | --- | ---: | --- | --- | --- | --- |
-| 59 | 40 | 90 | low | 52 | [Product Manager - Realtime](https://jobicy.com/jobs/156943-product-manager-realtime) | Supabase | Jobicy | new |
+| 59 | 40 | 90 | low | 52 | [Product Manager - Realtime](https://jobicy.com/jobs/156943-product-manager-realtime) | Supabase | Jobicy | reviewing |
 | 59 | 40 | 86 | unknown | 52 | [Data Engineer (CDP Specialist)](https://himalayas.app/companies/dentsu-international/jobs/data-engineer-cdp-specialist?utm_source=api) | dentsu international | Himalayas | new |
-| 58 | 22 | 90 | medium | 50 | [SAP BTP Lead](https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-lead?utm_source=api) | Pontoonglobal | Himalayas | new |
+| 58 | 22 | 90 | medium | 50 | [SAP BTP Lead](https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-lead?utm_source=api) | Pontoonglobal | Himalayas | reviewing |
 | 57 | 24 | 90 | low | 49 | [Full-Stack Developer: React & Node.js](https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote) | Improving | Get on Board | new |
 | 57 | 40 | 90 | low | 50 | [Web Frontend Engineer - JS, CSS, React, Flutter](https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter) | Canonical | Jobicy | reviewing |
 | 55 | 40 | 62 | low | 50 | [Ubuntu Security Engineer](https://jobicy.com/jobs/149565-ubuntu-security-engineer) | Canonical | Jobicy | new |
@@ -17,7 +17,6 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 55 | 40 | 72 | unknown | 49 | [Junior Devops Engineer](https://himalayas.app/companies/aldia/jobs/junior-devops-engineer?utm_source=api) | ALDIA | Himalayas | new |
 | 55 | 40 | 52 | medium | 50 | [SAP BTP Integration Specialist/Consultant](https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-integration-specialist-consultant?utm_source=api) | Pontoonglobal | Himalayas | new |
 | 54 | 17 | 88 | low | 48 | [QA Automation Engineer (Azure)](https://www.getonbrd.com/jobs/qa-automation-engineer-azure-improving-remote) | Improving | Get on Board | new |
-| 54 | 24 | 72 | low | 48 | [Especialista QA Senior LATAM](https://www.getonbrd.com/jobs/especialista-qa-senior-latam-bc-tecnologia-remote) | BC Tecnología | Get on Board | new |
 | 54 | 40 | 72 | low | 48 | [Microservices Engineer](https://jobicy.com/jobs/149558-microservices-engineer) | Canonical | Jobicy | new |
 | 54 | 40 | 62 | low | 49 | [Engineering Manager - Ubuntu Security](https://jobicy.com/jobs/149572-engineering-manager-ubuntu-security) | Canonical | Jobicy | new |
 | 54 | 24 | 90 | unknown | 48 | [Data Product Engineer, Data & Analytics](https://himalayas.app/companies/trimble/jobs/data-product-engineer-data-analytics?utm_source=api) | Trimble | Himalayas | new |
