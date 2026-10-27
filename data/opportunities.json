@@ -2,13 +2,13 @@
   "version": 4,
   "matcher": "potential-v1",
   "trust_layer": "listing-v1",
-  "generated_at": "2026-10-27T14:38:54.174Z",
+  "generated_at": "2026-10-27T20:46:41.817Z",
   "career_model_version": 2,
   "application_mode": "manual",
   "source_failures": [],
   "source_stats": {
     "Remotive": 10,
-    "Arbeitnow": 79,
+    "Arbeitnow": 84,
     "Get on Board": 536,
     "RemoteOK": 99,
     "Jobicy": 60,
@@ -16,15 +16,213 @@
   },
   "top_picks": {
     "main": [
+      "getonboard-full-stack-engineer-react-net-aws-improving-remote",
       "jobicy-156943",
-      "himalayas-https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-lead",
-      "jobicy-149527"
+      "himalayas-https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-lead"
     ],
     "side": [
       "himalayas-https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-lead"
     ]
   },
   "opportunities": [
+    {
+      "id": "getonboard-full-stack-engineer-react-net-aws-improving-remote",
+      "source": "Get on Board",
+      "source_trust": "official_public_api",
+      "external_id": "full-stack-engineer-react-net-aws-improving-remote",
+      "url": "https://www.getonbrd.com/jobs/full-stack-engineer-react-net-aws-improving-remote",
+      "title": "Full-Stack Engineer (React / .NET / AWS)",
+      "company": "Improving",
+      "location": "Colombia, Peru, Argentina, Chile",
+      "place_text": "Colombia, Peru, Argentina, Chile",
+      "venue": {
+        "cities": [],
+        "tenants": [
+          {
+            "id": "colombia",
+            "name": "Colombia"
+          },
+          {
+            "id": "peru",
+            "name": "Peru"
+          },
+          {
+            "id": "argentina",
+            "name": "Argentina"
+          },
+          {
+            "id": "chile",
+            "name": "Chile"
+          }
+        ],
+        "unresolved_ids": []
+      },
+      "remote": true,
+      "workplace": "remote",
+      "seniority": "Senior",
+      "employment_type": "full_time",
+      "published_at": "2026-10-27T15:55:47.000Z",
+      "salary": "",
+      "salary_value": {
+        "status": "unparsed",
+        "source": "getonboard",
+        "gross_or_net": "unknown"
+      },
+      "mandatory_text": "<ul><li>Consolidarás aplicaciones React existentes en una interfaz responsiva construida con componentes reutilizables.</li><li>Containerizarás y desplegarás servicios con Docker y AWS ECS, incluyendo la migración de un servicio de App Runner, y gestionarás redes, IAM, secretos y logging. </li><li>Diseñarás esquemas en PostgreSQL, escribirás migraciones y optimizarás consultas. </li><li>Integrarás servicios backend con sistemas externos y dispositivos conectados, resolviendo incidentes que cruzan los límites entre aplicación, infraestructura y dispositivo.</li><li> También escribirás pruebas unitarias e de integración y gestionarás la infraestructura como código.</li></ul>",
+      "desirable_text": "<ul><li>Experiencia con flotas de dispositivos IoT, telemetría, comunicación con dispositivos o sistemas de actualización OTA.</li><li>Criterio de diseño UI/UX y experiencia modernizando aplicaciones heredadas.</li><li>Python, AWS CDK, Lambda y Step Functions.</li><li>CI/CD, observabilidad y desarrollo seguro en la nube.</li></ul>",
+      "tags": [
+        "programming",
+        "React",
+        "Docker",
+        "AWS ECS",
+        "PostgreSQL",
+        "C#",
+        ".Net",
+        "Unit Testing",
+        "Integration Testing",
+        "Infrastructure as Code"
+      ],
+      "description": "4+ años de experiencia en ingeniería de software, construyendo y manteniendo aplicaciones full stack. Experiencia sólida en React, incluyendo UX moderna, diseños responsivos y diseño de componentes reutilizables. Experiencia práctica con Docker y AWS ECS: containerización, despliegues, redes, IAM, secretos y logging. Capacidad para migrar un servicio existente de App Runner a ECS. Experiencia sólida en PostgreSQL: diseño de esquemas, migraciones y optimización de consultas. Experiencia integrando servicios backend (.net) con sistemas externos o dispositivos conectados, incluyendo la resolución de incidentes entre distintos límites del sistema. Experiencia backend con C# y ASP.NET Core, incluyendo refactorización y extensión de servicios y APIs REST. Experiencia escribiendo pruebas unitarias y de integración, y trabajando con infraestructura como código. Excelente comunicación escrita y oral en inglés (Intermedio-avanzado o avanzado). Consolidarás aplicaciones React existentes en una interfaz responsiva construida con componentes reutilizables. Containerizarás y desplegarás servicios con Docker y AWS ECS, incluyendo la migración de un servicio de App Runner, y gestionarás redes, IAM, secretos y logging. Diseñarás esquemas en PostgreSQL, escribirás migraciones y optimizarás consultas. Integrarás servicios backend con sistemas externos y dispositivos conectados, resolviendo incidentes que cruzan los límites entre aplicación, infraestructura y dispositivo. También escribirás pruebas unitarias e de integración y gestionarás la infraestructura como código. Experiencia con flotas de dispositivos IoT, telemetría, comunicación con dispositivos o sistemas de actualización OTA. Criterio de diseño UI/UX y experiencia modernizando aplicaciones heredadas. Python, AWS CDK, Lambda y Step Functions. CI/CD, observabilidad y desarrollo seguro en la nube.",
+      "description_truncated": false,
+      "base_score": 25,
+      "keyword_main_score": 32,
+      "keyword_side_score": 28,
+      "main_eligible_now": true,
+      "side_eligible": false,
+      "relocation_watch": false,
+      "access": "remote-now",
+      "matched_keywords": [
+        "full stack",
+        "full-stack",
+        "backend",
+        "integration",
+        "react"
+      ],
+      "main_signals": [],
+      "side_signals": [],
+      "negative_hits": 0,
+      "main_score": 61,
+      "side_score": 53,
+      "potential": {
+        "current_fit": 44,
+        "transferability": 66,
+        "gap_cost": "medium",
+        "gap_cost_score": 92,
+        "evidence_confidence": "low",
+        "evidence_confidence_score": 54,
+        "career_potential": 90,
+        "relocation_value": "not_yet_ordered",
+        "compensation_fit": 50,
+        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
+        "salary_comparison": "incomparable",
+        "workstyle_fit": 82,
+        "commute_burden": 8,
+        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
+        "commute_status": "not_a_daily_commute",
+        "commute_km": null,
+        "role_families": [
+          "devops",
+          "full_stack"
+        ],
+        "requirements_status": "read",
+        "mandatory_requirements": [
+          "Consolidarás aplicaciones React existentes en una interfaz responsiva construida con componentes reutilizables.",
+          "Containerizarás y desplegarás servicios con Docker y AWS ECS, incluyendo la migración de un servicio de App Runner, y gestionarás redes, IAM, secretos y logging.",
+          "Diseñarás esquemas en PostgreSQL, escribirás migraciones y optimizarás consultas.",
+          "Integrarás servicios backend con sistemas externos y dispositivos conectados, resolviendo incidentes que cruzan los límites entre aplicación, infraestructura y dispositivo.",
+          "También escribirás pruebas unitarias e de integración y gestionarás la infraestructura como código."
+        ],
+        "desirable_requirements": [
+          "Experiencia con flotas de dispositivos IoT, telemetría, comunicación con dispositivos o sistemas de actualización OTA.",
+          "Criterio de diseño UI/UX y experiencia modernizando aplicaciones heredadas.",
+          "Python, AWS CDK, Lambda y Step Functions.",
+          "CI/CD, observabilidad y desarrollo seguro en la nube."
+        ],
+        "sap_kind": null,
+        "work_from_zona_oeste": true,
+        "work_after_valencia": false,
+        "place_bridge": false,
+        "move_window": "unknown",
+        "earliest_start": "unknown",
+        "must_start_before": "unknown",
+        "reasons": [
+          "+ evidencia directa: React (react) · fuentes: MIM, Pontorno-vault, Factu",
+          "+ evidencia directa: Full-stack product engineering (full stack, full-stack) · fuentes: MIM, Factu, Pontorno-vault",
+          "+ evidencia directa: PostgreSQL (postgresql) · fuentes: MIM, Pontorno-vault, Factu · profundidad sin confirmar",
+          "+ evidencia directa: GitHub Actions (ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "+ evidencia directa: Docker (docker) · fuentes: MIM · profundidad sin confirmar",
+          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
+          "fit: 3/5 obligatorios",
+          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
+          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
+          "- gap herramienta: .net",
+          "- gap herramienta: c#",
+          "- gap herramienta: aws",
+          "- gap desconocido: Integrarás servicios backend con sistemas externos y dispositivos conectados, resolviendo incidentes que cruzan los límites entre aplicación, infraestructura y dispositivo.",
+          "- gap desconocido: También escribirás pruebas unitarias e de integración y gestionarás la infraestructura como código."
+        ],
+        "gaps": [
+          {
+            "term": ".net",
+            "type": "tool"
+          },
+          {
+            "term": "c#",
+            "type": "tool"
+          },
+          {
+            "term": "aws",
+            "type": "tool"
+          },
+          {
+            "term": "Integrarás servicios backend con sistemas externos y dispositivos conectados, resolviendo incidentes que cruzan los límites entre aplicación, infraestructura y dispositivo.",
+            "type": "unknown"
+          },
+          {
+            "term": "También escribirás pruebas unitarias e de integración y gestionarás la infraestructura como código.",
+            "type": "unknown"
+          }
+        ],
+        "main_rank": 61,
+        "side_rank": 53,
+        "main_eligible": true,
+        "side_eligible": false,
+        "relocation_watch": false,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "low",
+        "signals": [
+          "listing_on_official_board"
+        ],
+        "warnings": []
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-10-27T20:46:41.817Z",
+        "history": []
+      },
+      "first_seen": "2026-10-27T20:46:41.817Z",
+      "last_seen": "2026-10-27T20:46:41.817Z",
+      "merged_urls": [
+        "https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote",
+        "https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote",
+        "https://www.getonbrd.com/jobs/senior-full-stack-engineer-improving-remote"
+      ],
+      "listing_identity": {
+        "url": "https://www.getonbrd.com/jobs/full-stack-engineer-react-net-aws-improving-remote",
+        "title_hash": "6aac76ffeebc"
+      },
+      "blocking_key": "improving|full_stack|argentina"
+    },
     {
       "id": "jobicy-156943",
       "source": "Jobicy",
@@ -143,7 +341,7 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": [
           {
             "at": "2026-10-26T18:23:45.552Z",
@@ -155,7 +353,7 @@
         ]
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z",
+      "last_seen": "2026-10-27T20:46:41.817Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://jobicy.com/jobs/156943-product-manager-realtime",
@@ -304,11 +502,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z",
+      "last_seen": "2026-10-27T20:46:41.817Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/dentsu-international/jobs/data-engineer-cdp-specialist",
@@ -457,7 +655,7 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": [
           {
             "at": "2026-10-26T18:23:51.119Z",
@@ -469,7 +667,7 @@
         ]
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z",
+      "last_seen": "2026-10-27T20:46:41.817Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-lead",
@@ -617,11 +815,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "jobicy-149527",
@@ -750,7 +948,7 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": [
           {
             "at": "2026-10-26T15:01:28.119Z",
@@ -762,13 +960,7 @@
         ]
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-27T14:38:54.174Z",
-      "merged_urls": [],
-      "listing_identity": {
-        "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
-        "title_hash": "e6804fee0595"
-      },
-      "blocking_key": "canonical|role:web frontend engineer js css react flutter|worldwide"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "jobicy-149565",
@@ -886,11 +1078,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "jobicy-149577",
@@ -1009,11 +1201,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/automation-devops-engineer-remoto",
@@ -1141,11 +1333,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z",
+      "last_seen": "2026-10-27T20:46:41.817Z",
       "merged_urls": [
         "https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto?utm_source=api",
         "https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100?utm_source=api",
@@ -1290,11 +1482,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-integration-specialist-consultant",
@@ -1432,11 +1624,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-qa-automation-engineer-azure-improving-remote",
@@ -1479,11 +1671,10 @@
       "seniority": "Semi Senior",
       "employment_type": "full_time",
       "published_at": "2026-10-07T04:43:03.000Z",
-      "salary": "3100-4000",
+      "salary": "",
       "salary_value": {
         "status": "unparsed",
         "source": "getonboard",
-        "raw": "3100-4000",
         "gross_or_net": "unknown"
       },
       "mandatory_text": "<p>We help keep Managed Receiving releases safe and predictable by building and maintaining automated tests across multiple layers:</p><ul><li>Build automated functional, integration, and API-level tests for Managed Receiving regression scenarios, as assigned by senior engineers.</li><li>Execute test cases against identified business workflows and configuration-driven scenarios.</li><li>Maintain existing test frameworks and test data sets so regressions remain accurate and reusable.</li><li>Run and monitor automated tests within the <strong>Azure DevOps</strong> CI/CD pipeline.</li><li>Flag failing tests and support triage to determine whether issues come from a real defect, flaky automation, or an environment/configuration problem.</li><li>Collaborate with engineers and stakeholders to improve test coverage and reliability over time.</li></ul><p>We expect you to take ownership of your assigned regression coverage while continuously improving automation stability and signal quality.</p>",
@@ -1637,11 +1828,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "remoteok-1137572",
@@ -1671,7 +1862,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Senior Software Engineer Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time. Â What We Do Wagmo is a modern pet healthcare company built around how pet parents actually care for their pets. We partner with employers to provide a complete approach to pet and pet-parent wellbeing, from preventive wellness plans and emergency coverage to 24/7 pet telehealth guidance. Our purpose is to unlock every pet parent's potential to provide extraordinary care, and we do it by bringing the same intentionality to pet benefits that the best employers bring to human healthcare. Founded in 2017 and female-founded, Wagmo is headquartered in New York City and trusted by leading employers nationwide. Â Whatâs Important To Us Our mission shapes everything we build and how we work together. We take fearless ownership of outcomes, collaborate with radical candor, and are always driven by the customers and pet parents who trust us. We think critically, follow through relentlessly, and find the extra 10% that turns good work into exceptional work. We keep it weird because the obvious answer is rarely the most interesting one. Our values aren't aspirational. We interview for them and hold each other accountable to them. If what you've read so far resonates with you and you want to be part of a team where every person makes the company meaningfully better, we'd love to hear from you.. Â About The Role Wagmo uses AI to process pet wellness and insurance claims. When it works, a pet parent submits a claim and gets reimbursed without anyone on our team touching it. We already automate a meaningful share of claims, and weâre hiring a Senior Software Engineer to take that much further. Youâll join our Pet Parents squad and take on our claims automation system, the pipeline that reads invoices, decides whatâs covered, and pays claims. In your first year, youâll make it cheaper to run, easier to change, and able to handle claims it canât handle today. Youâll own that work from design to production and partner with Product on what to build next. This role is for someone who has shipped AI features that real users and real money depend on, and who knows the difference between a demo and a system you can trust. Â Our Tech Stack: Python Â· Django Â· TypeScript Â· React Â· LLM APIs Â· OpenRouter Â· LangSmith Â· GitHub Â· Linear Â· Claude Code Â· CodeRabbit Â Core Responsibilities Learn our claims automation pipeline in depth and become a core owner, reviewing and shipping changes on your own within your first few months. Lower the cost of every claim we process by routing work to the right models, while keeping accuracy at or above where it is today. Restructure the pipeline so each stage can be changed, tested, and rolled out independently, with evaluations gating every change. Ship new automation that lets more claims resolve without manual review, working with Product to decide what comes next. Use AI to read veterinary records and make better coverage decisions on more types of claims. What Youâll Need To Be Successful Youâve shipped an LLM-powered feature to production that real users or real money depend on. You set up evaluations before rollout, versioned your prompts and models, and planned for rollback. Youâve designed or substantially refactored a system the business depends on, such as payments or claims, without breaking it, and left it easier to change than you found it. Youâve taken over a complex system someone else built and become the person others trust with it. Your code reviews change designs, not just style. Youâve made real tradeoffs between model cost and quality, and you can show the numbers that proved quality held. You use coding agents and AI review tools every day, and theyâve changed how fast you ship without lowering the quality of your work. Strong Python skills. Experience with Django and TypeScript is a plus. Why Consider This Role? Your work pays real claims to real pet parents. Youâll see the impact in production. AI is the core of the product here, not a side project. Youâll own one of the most important systems at the company. Youâll have real scope on a small team, making decisions a larger company would spread across several people. Youâll help pet parents get reimbursed faster for the care their pets need. Key Benefits Comprehensive health, vision, and dental coverage HSA/FSA 401(k) retirement planning with employer matching Unlimited paid time off Annual company holidays Additional company-wide recharge days off 12 weeks parental leave for eligible employees Company paid Wagmo pet wellness and insurance plans Regular company-wide events and team gatherings Pet-friendly office Catered lunches Â We here at Wagmo strive to build a workforce composed of individuals with diverse backgrounds, abilities, minds, and identities that will help us to grow, not only as a company, but also as individuals. Wagmo is an Equal Opportunity Employer. Please mention the word **EXCELENT** and tag RMjAuMTcxLjM5LjE2MA== when applying to show you read the job post completely (#RMjAuMTcxLjM5LjE2MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Senior Software Engineer Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time. Â What We Do Wagmo is a modern pet healthcare company built around how pet parents actually care for their pets. We partner with employers to provide a complete approach to pet and pet-parent wellbeing, from preventive wellness plans and emergency coverage to 24/7 pet telehealth guidance. Our purpose is to unlock every pet parent's potential to provide extraordinary care, and we do it by bringing the same intentionality to pet benefits that the best employers bring to human healthcare. Founded in 2017 and female-founded, Wagmo is headquartered in New York City and trusted by leading employers nationwide. Â Whatâs Important To Us Our mission shapes everything we build and how we work together. We take fearless ownership of outcomes, collaborate with radical candor, and are always driven by the customers and pet parents who trust us. We think critically, follow through relentlessly, and find the extra 10% that turns good work into exceptional work. We keep it weird because the obvious answer is rarely the most interesting one. Our values aren't aspirational. We interview for them and hold each other accountable to them. If what you've read so far resonates with you and you want to be part of a team where every person makes the company meaningfully better, we'd love to hear from you.. Â About The Role Wagmo uses AI to process pet wellness and insurance claims. When it works, a pet parent submits a claim and gets reimbursed without anyone on our team touching it. We already automate a meaningful share of claims, and weâre hiring a Senior Software Engineer to take that much further. Youâll join our Pet Parents squad and take on our claims automation system, the pipeline that reads invoices, decides whatâs covered, and pays claims. In your first year, youâll make it cheaper to run, easier to change, and able to handle claims it canât handle today. Youâll own that work from design to production and partner with Product on what to build next. This role is for someone who has shipped AI features that real users and real money depend on, and who knows the difference between a demo and a system you can trust. Â Our Tech Stack: Python Â· Django Â· TypeScript Â· React Â· LLM APIs Â· OpenRouter Â· LangSmith Â· GitHub Â· Linear Â· Claude Code Â· CodeRabbit Â Core Responsibilities Learn our claims automation pipeline in depth and become a core owner, reviewing and shipping changes on your own within your first few months. Lower the cost of every claim we process by routing work to the right models, while keeping accuracy at or above where it is today. Restructure the pipeline so each stage can be changed, tested, and rolled out independently, with evaluations gating every change. Ship new automation that lets more claims resolve without manual review, working with Product to decide what comes next. Use AI to read veterinary records and make better coverage decisions on more types of claims. What Youâll Need To Be Successful Youâve shipped an LLM-powered feature to production that real users or real money depend on. You set up evaluations before rollout, versioned your prompts and models, and planned for rollback. Youâve designed or substantially refactored a system the business depends on, such as payments or claims, without breaking it, and left it easier to change than you found it. Youâve taken over a complex system someone else built and become the person others trust with it. Your code reviews change designs, not just style. Youâve made real tradeoffs between model cost and quality, and you can show the numbers that proved quality held. You use coding agents and AI review tools every day, and theyâve changed how fast you ship without lowering the quality of your work. Strong Python skills. Experience with Django and TypeScript is a plus. Why Consider This Role? Your work pays real claims to real pet parents. Youâll see the impact in production. AI is the core of the product here, not a side project. Youâll own one of the most important systems at the company. Youâll have real scope on a small team, making decisions a larger company would spread across several people. Youâll help pet parents get reimbursed faster for the care their pets need. Key Benefits Comprehensive health, vision, and dental coverage HSA/FSA 401(k) retirement planning with employer matching Unlimited paid time off Annual company holidays Additional company-wide recharge days off 12 weeks parental leave for eligible employees Company paid Wagmo pet wellness and insurance plans Regular company-wide events and team gatherings Pet-friendly office Catered lunches Â We here at Wagmo strive to build a workforce composed of individuals with diverse backgrounds, abilities, minds, and identities that will help us to grow, not only as a company, but also as individuals. Wagmo is an Equal Opportunity Employer. Please mention the word **EXCELENT** and tag RMjAuNTUuMTYyLjE5NQ== when applying to show you read the job post completely (#RMjAuNTUuMTYyLjE5NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "description_truncated": false,
       "salary_value": {
         "status": "unparsed",
@@ -1771,11 +1962,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-27T14:38:54.174Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "jobicy-149558",
@@ -1898,11 +2089,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "jobicy-149572",
@@ -2017,11 +2208,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/trimble/jobs/data-product-engineer-data-analytics",
@@ -2179,11 +2370,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-22T05:01:33.698Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/proton/jobs/senior-data-engineer-ai-native-data-layer",
@@ -2309,11 +2500,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-23T05:02:16.256Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-desarrollador-mobile-mediastream-bogota-santiago-bf34",
@@ -2497,11 +2688,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "jobicy-156947",
@@ -2634,11 +2825,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto",
@@ -2782,11 +2973,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100",
@@ -2936,11 +3127,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/mercor/jobs/devops-engineer-ai-model-evaluator-5752080247",
@@ -3097,11 +3288,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/odilo/jobs/devops-engineer",
@@ -3247,202 +3438,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
-    },
-    {
-      "id": "getonboard-sr-front-end-software-engineer-improving-remote",
-      "source": "Get on Board",
-      "source_trust": "official_public_api",
-      "external_id": "sr-front-end-software-engineer-improving-remote",
-      "url": "https://www.getonbrd.com/jobs/sr-front-end-software-engineer-improving-remote",
-      "title": "Sr. Front-end Software Engineer ( Angular)",
-      "company": "Improving",
-      "location": "Colombia, Argentina, Mexico",
-      "place_text": "Colombia, Argentina, Mexico",
-      "venue": {
-        "cities": [],
-        "tenants": [
-          {
-            "id": "colombia",
-            "name": "Colombia"
-          },
-          {
-            "id": "argentina",
-            "name": "Argentina"
-          },
-          {
-            "id": "mexico",
-            "name": "Mexico"
-          }
-        ],
-        "unresolved_ids": []
-      },
-      "remote": true,
-      "workplace": "remote",
-      "seniority": "Senior",
-      "employment_type": "full_time",
-      "published_at": "2026-10-07T03:39:22.000Z",
-      "salary": "3100-4500",
-      "salary_value": {
-        "status": "unparsed",
-        "source": "getonboard",
-        "raw": "3100-4500",
-        "gross_or_net": "unknown"
-      },
-      "mandatory_text": "<ul><li>Design and develop front-end applications using AngularJS and Angular 17+.</li><li>Support UI modernization and migration from AngularJS to modern Angular.</li><li>Build dashboards and workflows, including KPI Dashboards and Model Thresholds.</li><li>Develop configuration screens for alerting and decisioning capabilities.</li><li>Integrate front-end components with backend Universal Product APIs.</li><li>Ensure performance, accessibility, and usability standards are met.</li><li>Collaborate with product, UX, backend, and QA teams.</li></ul>",
-      "desirable_text": "<ul><li>Experience in fraud, payments, or risk management platforms.</li><li>Accessibility (WCAG) and enterprise UI compliance exposure.</li><li>Micro-frontend or modular UI architecture experience.</li><li>Experience delivering UI modernization efforts end-to-end (migration planning, implementation, and validation).</li></ul>",
-      "tags": [
-        "programming",
-        "Angular",
-        "Front-end",
-        "TypeScript",
-        "NgRx",
-        "CI/CD",
-        "AI-assisted development",
-        "Web Accessibility",
-        "API Integration",
-        "State Management",
-        "Microfrontends"
-      ],
-      "description": "7+ years of software engineering experience in full stack application development. Strong hands-on expertise with Angular 17+ . Comfort using Claude AI or similar AI-assisted development tools in day-to-day engineering work. Experience modernizing legacy applications or migrating older frameworks. Experience with CI/CD pipelines and modern software delivery practices. Strong collaboration and communication skills. Experience migrating AngularJS applications to Angular . State management experience (e.g., NgRx , signals, or similar). Micro-frontend or modular UI architecture exposure. Experience in fraud, payments, or risk management platforms is a plus. Accessibility ( WCAG ) and enterprise UI compliance experience. Design and develop front-end applications using AngularJS and Angular 17+. Support UI modernization and migration from AngularJS to modern Angular. Build dashboards and workflows, including KPI Dashboards and Model Thresholds. Develop configuration screens for alerting and decisioning capabilities. Integrate front-end components with backend Universal Product APIs. Ensure performance, accessibility, and usability standards are met. Collaborate with product, UX, backend, and QA teams. Experience in fraud, payments, or risk management platforms. Accessibility (WCAG) and enterprise UI compliance exposure. Micro-frontend or modular UI architecture experience. Experience delivering UI modernization efforts end-to-end (migration planning, implementation, and validation).",
-      "description_truncated": false,
-      "base_score": 14,
-      "keyword_main_score": 21,
-      "keyword_side_score": 17,
-      "main_eligible_now": true,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [
-        "full stack",
-        "backend",
-        "typescript",
-        "integration"
-      ],
-      "main_signals": [],
-      "side_signals": [],
-      "negative_hits": 0,
-      "main_score": 52,
-      "side_score": 45,
-      "potential": {
-        "current_fit": 0,
-        "transferability": 88,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 54,
-        "career_potential": 90,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops",
-          "full_stack"
-        ],
-        "requirements_status": "read",
-        "mandatory_requirements": [
-          "Design and develop front-end applications using AngularJS and Angular 17+.",
-          "Support UI modernization and migration from AngularJS to modern Angular.",
-          "Build dashboards and workflows, including KPI Dashboards and Model Thresholds.",
-          "Develop configuration screens for alerting and decisioning capabilities.",
-          "Integrate front-end components with backend Universal Product APIs.",
-          "Ensure performance, accessibility, and usability standards are met.",
-          "Collaborate with product, UX, backend, and QA teams."
-        ],
-        "desirable_requirements": [
-          "Experience in fraud, payments, or risk management platforms.",
-          "Accessibility (WCAG) and enterprise UI compliance exposure.",
-          "Micro-frontend or modular UI architecture experience.",
-          "Experience delivering UI modernization efforts end-to-end (migration planning, implementation, and validation)."
-        ],
-        "sap_kind": null,
-        "work_from_zona_oeste": true,
-        "work_after_valencia": false,
-        "place_bridge": false,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: TypeScript (typescript) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar",
-          "+ evidencia directa: Full-stack product engineering (full stack) · fuentes: MIM, Factu, Pontorno-vault",
-          "+ evidencia directa: GitHub Actions (ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "fit: 0/7 obligatorios",
-          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "- gap desconocido: Design and develop front-end applications using AngularJS and Angular 17+.",
-          "- gap desconocido: Support UI modernization and migration from AngularJS to modern Angular.",
-          "familias: devops, full_stack",
-          "sin viaje diario desde zona oeste, Buenos Aires"
-        ],
-        "gaps": [
-          {
-            "term": "Design and develop front-end applications using AngularJS and Angular 17+.",
-            "type": "unknown"
-          },
-          {
-            "term": "Support UI modernization and migration from AngularJS to modern Angular.",
-            "type": "unknown"
-          },
-          {
-            "term": "Build dashboards and workflows, including KPI Dashboards and Model Thresholds.",
-            "type": "unknown"
-          },
-          {
-            "term": "Develop configuration screens for alerting and decisioning capabilities.",
-            "type": "unknown"
-          },
-          {
-            "term": "Integrate front-end components with backend Universal Product APIs.",
-            "type": "unknown"
-          },
-          {
-            "term": "Ensure performance, accessibility, and usability standards are met.",
-            "type": "unknown"
-          },
-          {
-            "term": "Collaborate with product, UX, backend, and QA teams.",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 52,
-        "side_rank": 45,
-        "main_eligible": true,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
-        "history": []
-      },
-      "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-senior-full-stack-engineer-improving-remote",
@@ -3623,11 +3623,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-ai-backend-engineer-improving-remote",
@@ -3832,11 +3832,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-tech-lead-grupo-mariposa-remote-c340",
@@ -4021,11 +4021,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-desarrollador-fullstack-java-angular-improving-remote",
@@ -4237,11 +4237,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-senior-fullstack-software-engineer-react-y-python-maxxa-remote",
@@ -4434,11 +4434,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "jobicy-156946",
@@ -4573,11 +4573,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "jobicy-149550",
@@ -4696,11 +4696,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T13:14:07.093Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "jobicy-149556",
@@ -4831,11 +4831,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "jobicy-149563",
@@ -4982,11 +4982,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "jobicy-149569",
@@ -5109,11 +5109,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "jobicy-149573",
@@ -5236,11 +5236,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "jobicy-149557",
@@ -5365,11 +5365,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/doodle/jobs/data-infrastructure-engineer-spain",
@@ -5519,11 +5519,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-desarrollador-full-stack-liferay-bc-tecnologia-santiago",
@@ -5709,11 +5709,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-machine-learning-engineer-improving-remote",
@@ -5885,11 +5885,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-senior-data-engineer-databricks-on-azure-devsu-remote-7b55",
@@ -6124,11 +6124,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "jobicy-149536",
@@ -6247,11 +6247,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails",
@@ -6388,11 +6388,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z",
+      "last_seen": "2026-10-27T20:46:41.817Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails",
@@ -6591,11 +6591,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-tech-lead-grupo-mariposa-remote-56da",
@@ -6779,11 +6779,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-forward-deployed-engineer-diverse-programmers-remote",
@@ -6793,14 +6793,14 @@
       "url": "https://www.getonbrd.com/jobs/forward-deployed-engineer-diverse-programmers-remote",
       "title": "Forward Deployed Engineer",
       "company": "Diverse Programmers",
-      "location": "Brazil, Argentina, Peru, Mexico, Chile, Colombia",
-      "place_text": "Brazil, Argentina, Peru, Mexico, Chile, Colombia",
+      "location": "Brasil, Argentina, Peru, Mexico, Chile, Colombia",
+      "place_text": "Brasil, Argentina, Peru, Mexico, Chile, Colombia",
       "venue": {
         "cities": [],
         "tenants": [
           {
             "id": "brasil",
-            "name": "Brazil"
+            "name": "Brasil"
           },
           {
             "id": "argentina",
@@ -7028,11 +7028,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-qa-tester-grupo-mariposa-remote-8728",
@@ -7210,11 +7210,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-senior-qa-automation-engineer-net-c-improving-remote",
@@ -7404,11 +7404,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-qa-funcional-senior-microsoft-dynamics-365-latam-bc-tecnologia-remote",
@@ -7621,11 +7621,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/dentsu-international/jobs/dev-ops-developer",
@@ -7766,11 +7766,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/apptiva-core-technologies/jobs/devops-engineer-665181510",
@@ -7920,11 +7920,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-data-engineer",
@@ -8067,11 +8067,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-27T05:16:02.122Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/tenthpin/jobs/sap-btp-developer-architect-anywhere-in-india-preferred-bengaluru-hyderabad",
@@ -8214,11 +8214,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-senior-php-engineer-laravel-aws-improving-remote",
@@ -8260,7 +8260,7 @@
       "workplace": "remote",
       "seniority": "Senior",
       "employment_type": "full_time",
-      "published_at": "2026-10-22T20:31:39.000Z",
+      "published_at": "2026-10-27T15:43:23.000Z",
       "salary": "",
       "salary_value": {
         "status": "unparsed",
@@ -8473,11 +8473,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-arquitecto-de-datos-sr-data-ai-grupo-mariposa-remote-48e8",
@@ -8707,215 +8707,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
-    },
-    {
-      "id": "getonboard-databricks-engineer-tax-audit-improving-remote",
-      "source": "Get on Board",
-      "source_trust": "official_public_api",
-      "external_id": "databricks-engineer-tax-audit-improving-remote",
-      "url": "https://www.getonbrd.com/jobs/databricks-engineer-tax-audit-improving-remote",
-      "title": "Databricks Engineer (Tax & Audit)",
-      "company": "Improving",
-      "location": "Argentina, Colombia, Mexico",
-      "place_text": "Argentina, Colombia, Mexico",
-      "venue": {
-        "cities": [],
-        "tenants": [
-          {
-            "id": "argentina",
-            "name": "Argentina"
-          },
-          {
-            "id": "colombia",
-            "name": "Colombia"
-          },
-          {
-            "id": "mexico",
-            "name": "Mexico"
-          }
-        ],
-        "unresolved_ids": []
-      },
-      "remote": true,
-      "workplace": "remote",
-      "seniority": "Senior",
-      "employment_type": "full_time",
-      "published_at": "2026-10-12T22:12:04.000Z",
-      "salary": "",
-      "salary_value": {
-        "status": "unparsed",
-        "source": "getonboard",
-        "gross_or_net": "unknown"
-      },
-      "mandatory_text": "<div>We are looking for Databricks Engineers to join our Tax and Audit group and strengthen the team’s delivery across the data lifecycle.</div><ul><li>Build and maintain <strong>Apache Spark</strong> solutions delivered on <strong>Databricks</strong>, including scalable transformations and production-ready workloads.</li><li>Develop and optimize <strong>data ingestion</strong>, <strong>transformation</strong>, and <strong>analytics pipelines</strong> that handle small to large data volumes.</li><li>Use advanced <strong>Python</strong> and <strong>PySpark</strong> to implement efficient data engineering patterns (e.g., batch processing, enrichment, and data quality steps).</li><li>Apply strong understanding of <strong>columnar storage</strong> (e.g., <strong>Parquet</strong>) and deliver production data sets using <strong>Delta Lake / Delta Tables</strong>.</li><li>Write and maintain <strong>unit tests</strong> for Databricks workloads to improve reliability and reduce regressions.</li><li>Perform <strong>performance tuning</strong> and optimization (Spark execution efficiency, partitioning strategies, and query/read/write improvements).</li><li>Collaborate with stakeholders to clarify requirements, translate analytics needs into technical designs, and ensure outputs meet accuracy and timeliness expectations.</li><li>Own Databricks <strong>workflows</strong> end-to-end—from development through deployment and ongoing support.</li><li>Optionally contribute to <strong>Databricks DevOps</strong> practices (nice to have), improving CI/CD, environment management, and release processes.</li></ul><div><strong>Goals:</strong> deliver dependable data products for Tax and Audit workflows, improve pipeline performance and maintainability, and ensure high-quality results through testing and careful attention to detail.</div>",
-      "desirable_text": "<ul><li>Familiarity with <strong>Databricks DevOps</strong> practices (e.g., CI/CD concepts, environment/version management, and deployment workflows).</li><li>Experience contributing to data governance patterns such as dataset documentation, consistency checks, and maintainable conventions across teams.</li><li>Prior exposure to testing strategies beyond unit tests (e.g., integration tests for pipelines) to further improve reliability.</li></ul>",
-      "tags": [
-        "data-science-analytics",
-        "Big Data",
-        "Databricks",
-        "Python",
-        "Spark",
-        "Pandas",
-        "Delta Lake",
-        "Parquet",
-        "Unit Testing",
-        "Performance Tuning"
-      ],
-      "description": "We need someone with proven, hands-on software development experience and strong data engineering depth for Databricks-based delivery. 5+ years of hands-on software development experience. Strong expertise in Apache Spark , with a proven record of delivering on Databricks . Proficient in Python with advanced data engineering skills using PySpark , Pandas , and related libraries. Experience developing and maintaining unit tests for Databricks workloads. Solid understanding of columnar storage (e.g., Parquet ). Hands-on experience with Delta Lake / Delta Tables . Ability to handle small to large data volumes , including performance tuning and optimizations. Demonstrated ability to build data ingestion , transformation , and analytics pipelines . Strong analytical and problem-solving skills with close attention to detail . Comfort working with Databricks workflows and delivering outcomes reliably. How we work (traits we value): Quality mindset: careful validation, correctness, and attention to details—especially important for Tax and Audit contexts. Ownership: you take responsibility for pipeline stability, performance, and maintainability. Communication: we expect clear collaboration with technical and non-technical stakeholders to align data outputs with business needs. Continuous improvement: you actively look for ways to simplify pipelines, improve performance, and strengthen testing coverage. We are looking for Databricks Engineers to join our Tax and Audit group and strengthen the team’s delivery across the data lifecycle. Build and maintain Apache Spark solutions delivered on Databricks , including scalable transformations and production-ready workloads. Develop and optimize data ingestion , transformation , and analytics pipelines that handle small to large data volumes. Use advanced Python and PySpark to implement efficient data engineering patterns (e.g., batch processing, enrichment, and data quality steps). Apply strong understanding of columnar storage (e.g., Parquet ) and deliver production data sets using Delta Lake / Delta Tables . Write and maintain unit tests for Databricks workloads to improve reliability and reduce regressions. Perform performance tuning and optimization (Spark execution efficiency, partitioning strategies, and query/read/write improvements). Collaborate with stakeholders to clarify requirements, translate analytics needs into technical designs, and ensure outputs meet accuracy and timeliness expectations. Own Databricks workflows end-to-end—from development through deployment and ongoing support. Optionally contribute to Databricks DevOps practices (nice to have), improving CI/CD, environment management, and release processes. Goals: deliver dependable data products for Tax and Audit workflows, improve pipeline performance and maintainability, and ensure high-quality results through testing and careful attention to detail. Familiarity with Databricks DevOps practices (e.g., CI/CD concepts, environment/version management, and deployment workflows). Experience contributing to data governance patterns such as dataset documentation, consistency checks, and maintainable conventions across teams. Prior exposure to testing strategies beyond unit tests (e.g., integration tests for pipelines) to further improve reliability.",
-      "description_truncated": false,
-      "base_score": 12,
-      "keyword_main_score": 19,
-      "keyword_side_score": 15,
-      "main_eligible_now": false,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [
-        "integration",
-        "devops",
-        "data engineer"
-      ],
-      "main_signals": [],
-      "side_signals": [],
-      "negative_hits": 0,
-      "main_score": 48,
-      "side_score": 43,
-      "potential": {
-        "current_fit": 6,
-        "transferability": 65,
-        "gap_cost": "medium",
-        "gap_cost_score": 92,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 45,
-        "career_potential": 72,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops"
-        ],
-        "requirements_status": "read",
-        "mandatory_requirements": [
-          "Build and maintain Apache Spark solutions delivered on Databricks , including scalable transformations and production-ready workloads.",
-          "Develop and optimize data ingestion , transformation , and analytics pipelines that handle small to large data volumes.",
-          "Use advanced Python and PySpark to implement efficient data engineering patterns (e.g., batch processing, enrichment, and data quality steps).",
-          "Apply strong understanding of columnar storage (e.g., Parquet ) and deliver production data sets using Delta Lake / Delta Tables .",
-          "Write and maintain unit tests for Databricks workloads to improve reliability and reduce regressions.",
-          "Perform performance tuning and optimization (Spark execution efficiency, partitioning strategies, and query/read/write improvements).",
-          "Collaborate with stakeholders to clarify requirements, translate analytics needs into technical designs, and ensure outputs meet accuracy and timeliness expectations.",
-          "Own Databricks workflows end-to-end—from development through deployment and ongoing support.",
-          "Optionally contribute to Databricks DevOps practices (nice to have), improving CI/CD, environment management, and release processes."
-        ],
-        "desirable_requirements": [
-          "Familiarity with Databricks DevOps practices (e.g., CI/CD concepts, environment/version management, and deployment workflows).",
-          "Experience contributing to data governance patterns such as dataset documentation, consistency checks, and maintainable conventions across teams.",
-          "Prior exposure to testing strategies beyond unit tests (e.g., integration tests for pipelines) to further improve reliability."
-        ],
-        "sap_kind": null,
-        "work_from_zona_oeste": true,
-        "work_after_valencia": false,
-        "place_bridge": false,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: GitHub Actions (ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
-          "+ transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "+ transferible: Data analytics engineering (pandas, data engineering) · fuentes: dashpostgre · profundidad sin confirmar",
-          "fit: 2/9 obligatorios",
-          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "- gap herramienta: analytics",
-          "- gap herramienta: databricks",
-          "- gap herramienta: spark",
-          "- gap herramienta: Build and maintain Apache Spark solutions delivered on Databricks , including scalable transformations and production-ready workloads.",
-          "- gap herramienta: Write and maintain unit tests for Databricks workloads to improve reliability and reduce regressions.",
-          "- gap desconocido: Develop and optimize data ingestion , transformation , and analytics pipelines that handle small to large data volumes.",
-          "- gap desconocido: Apply strong understanding of columnar storage (e.g., Parquet ) and deliver production data sets using Delta Lake / Delta Tables ."
-        ],
-        "gaps": [
-          {
-            "term": "analytics",
-            "type": "tool"
-          },
-          {
-            "term": "databricks",
-            "type": "tool"
-          },
-          {
-            "term": "spark",
-            "type": "tool"
-          },
-          {
-            "term": "Build and maintain Apache Spark solutions delivered on Databricks , including scalable transformations and production-ready workloads.",
-            "type": "tool"
-          },
-          {
-            "term": "Develop and optimize data ingestion , transformation , and analytics pipelines that handle small to large data volumes.",
-            "type": "unknown"
-          },
-          {
-            "term": "Apply strong understanding of columnar storage (e.g., Parquet ) and deliver production data sets using Delta Lake / Delta Tables .",
-            "type": "unknown"
-          },
-          {
-            "term": "Write and maintain unit tests for Databricks workloads to improve reliability and reduce regressions.",
-            "type": "tool"
-          },
-          {
-            "term": "Perform performance tuning and optimization (Spark execution efficiency, partitioning strategies, and query/read/write improvements).",
-            "type": "tool"
-          },
-          {
-            "term": "Collaborate with stakeholders to clarify requirements, translate analytics needs into technical designs, and ensure outputs meet accuracy and timeliness expectations.",
-            "type": "unknown"
-          },
-          {
-            "term": "Own Databricks workflows end-to-end—from development through deployment and ongoing support.",
-            "type": "tool"
-          }
-        ],
-        "main_rank": 48,
-        "side_rank": 43,
-        "main_eligible": false,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
-        "history": []
-      },
-      "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "jobicy-156941",
@@ -9046,11 +8842,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "jobicy-149560",
@@ -9182,11 +8978,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/logicalis-com/jobs/devops-engineer",
@@ -9345,11 +9141,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/logicalis-com/jobs/devops-architect",
@@ -9503,11 +9299,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/scalian/jobs/data-engineer",
@@ -9648,11 +9444,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z",
+      "last_seen": "2026-10-27T20:46:41.817Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/scalian/jobs/data-engineer",
@@ -9799,11 +9595,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z",
+      "last_seen": "2026-10-27T20:46:41.817Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/the-agile-monkeys/jobs/data-analytics-engineer-freelancer",
@@ -9994,11 +9790,216 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
+    },
+    {
+      "id": "getonboard-senior-database-engineer-maria-db-postgresql-improving-remote",
+      "source": "Get on Board",
+      "source_trust": "official_public_api",
+      "external_id": "senior-database-engineer-maria-db-postgresql-improving-remote",
+      "url": "https://www.getonbrd.com/jobs/senior-database-engineer-maria-db-postgresql-improving-remote",
+      "title": "Senior Database Engineer Maria DB & PostgreSQL",
+      "company": "Improving",
+      "location": "Peru, Argentina, Costa Rica, Mexico, Chile",
+      "place_text": "Peru, Argentina, Costa Rica, Mexico, Chile",
+      "venue": {
+        "cities": [],
+        "tenants": [
+          {
+            "id": "peru",
+            "name": "Peru"
+          },
+          {
+            "id": "argentina",
+            "name": "Argentina"
+          },
+          {
+            "id": "costa_rica",
+            "name": "Costa Rica"
+          },
+          {
+            "id": "mexico",
+            "name": "Mexico"
+          },
+          {
+            "id": "chile",
+            "name": "Chile"
+          }
+        ],
+        "unresolved_ids": []
+      },
+      "remote": true,
+      "workplace": "remote",
+      "seniority": "Senior",
+      "employment_type": "full_time",
+      "published_at": "2026-10-27T16:56:05.000Z",
+      "salary": "",
+      "salary_value": {
+        "status": "unparsed",
+        "source": "getonboard",
+        "gross_or_net": "unknown"
+      },
+      "mandatory_text": "<ul><li>Own the performance, reliability, and technical health of both production database environments.</li><li>Lead the MariaDB-to-PostgreSQL migration, including architecture, planning, execution, validation, cutover, and rollback.</li><li>Analyze and optimize SQL, execution plans, indexes, schemas, and database configuration.</li><li>Diagnose locking, blocking, deadlocks, transaction contention, and other concurrency issues.</li><li>Optimize database performance for high-volume application and highly parallel processing workloads.</li><li>Monitor CPU, memory, storage I/O, connections, transactions, and overall database resource utilization.</li><li>Establish performance baselines and validate improvements through measurement.</li><li>Maintain data integrity and develop migration validation and reconciliation processes.</li><li>Establish monitoring, backup, recovery, capacity planning, and operational practices.</li><li>Partner with application engineers on database-facing issues while owning behavior from the SQL/query boundary inward.</li></ul>",
+      "desirable_text": "<p>- Experience migrating large production systems to PostgreSQL <br>-Experience with highly concurrent operational or processing databases</p>",
+      "tags": [
+        "sysadmin-devops-qa",
+        "MariaDB",
+        "MySQL",
+        "PostgreSQL",
+        "SQL Optimization",
+        "Database Migration",
+        "Concurrency",
+        "Indexing",
+        "AWS",
+        "Backup and Recovery"
+      ],
+      "description": "Strong production experience with MariaDB/MySQL and PostgreSQL. Demonstrated experience migrating production relational databases between platforms, preferably MariaDB/MySQL to PostgreSQL. Advanced SQL, query optimization, and execution-plan analysis skills. Strong experience with indexing, schema design, transactions, locking, and concurrency. Experience supporting large relational datasets with tables containing millions of records. Experience diagnosing performance using CPU, memory, I/O, session, connection, and query metrics. Experience developing migration, validation, cutover, rollback, backup, and recovery strategies. Experience supporting databases in AWS or comparable cloud environments. Strong production troubleshooting and analytical skills. Own the performance, reliability, and technical health of both production database environments. Lead the MariaDB-to-PostgreSQL migration, including architecture, planning, execution, validation, cutover, and rollback. Analyze and optimize SQL, execution plans, indexes, schemas, and database configuration. Diagnose locking, blocking, deadlocks, transaction contention, and other concurrency issues. Optimize database performance for high-volume application and highly parallel processing workloads. Monitor CPU, memory, storage I/O, connections, transactions, and overall database resource utilization. Establish performance baselines and validate improvements through measurement. Maintain data integrity and develop migration validation and reconciliation processes. Establish monitoring, backup, recovery, capacity planning, and operational practices. Partner with application engineers on database-facing issues while owning behavior from the SQL/query boundary inward. - Experience migrating large production systems to PostgreSQL -Experience with highly concurrent operational or processing databases",
+      "description_truncated": false,
+      "base_score": 4,
+      "keyword_main_score": 11,
+      "keyword_side_score": 7,
+      "main_eligible_now": false,
+      "side_eligible": false,
+      "relocation_watch": false,
+      "access": "remote-now",
+      "matched_keywords": [
+        "devops"
+      ],
+      "main_signals": [],
+      "side_signals": [],
+      "negative_hits": 0,
+      "main_score": 47,
+      "side_score": 42,
+      "potential": {
+        "current_fit": 0,
+        "transferability": 70,
+        "gap_cost": "medium",
+        "gap_cost_score": 92,
+        "evidence_confidence": "low",
+        "evidence_confidence_score": 45,
+        "career_potential": 72,
+        "relocation_value": "not_yet_ordered",
+        "compensation_fit": 50,
+        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
+        "salary_comparison": "incomparable",
+        "workstyle_fit": 82,
+        "commute_burden": 8,
+        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
+        "commute_status": "not_a_daily_commute",
+        "commute_km": null,
+        "role_families": [
+          "devops"
+        ],
+        "requirements_status": "read",
+        "mandatory_requirements": [
+          "Own the performance, reliability, and technical health of both production database environments.",
+          "Lead the MariaDB-to-PostgreSQL migration, including architecture, planning, execution, validation, cutover, and rollback.",
+          "Analyze and optimize SQL, execution plans, indexes, schemas, and database configuration.",
+          "Diagnose locking, blocking, deadlocks, transaction contention, and other concurrency issues.",
+          "Optimize database performance for high-volume application and highly parallel processing workloads.",
+          "Monitor CPU, memory, storage I/O, connections, transactions, and overall database resource utilization.",
+          "Establish performance baselines and validate improvements through measurement.",
+          "Maintain data integrity and develop migration validation and reconciliation processes.",
+          "Establish monitoring, backup, recovery, capacity planning, and operational practices.",
+          "Partner with application engineers on database-facing issues while owning behavior from the SQL/query boundary inward."
+        ],
+        "desirable_requirements": [
+          "Experience migrating large production systems to PostgreSQL"
+        ],
+        "sap_kind": null,
+        "work_from_zona_oeste": true,
+        "work_after_valencia": false,
+        "place_bridge": false,
+        "move_window": "unknown",
+        "earliest_start": "unknown",
+        "must_start_before": "unknown",
+        "reasons": [
+          "+ evidencia directa: PostgreSQL (postgresql) · fuentes: MIM, Pontorno-vault, Factu · profundidad sin confirmar",
+          "+ transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "fit: 1/10 obligatorios",
+          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
+          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
+          "- gap herramienta: aws",
+          "- gap desconocido: Own the performance, reliability, and technical health of both production database environments.",
+          "- gap desconocido: Analyze and optimize SQL, execution plans, indexes, schemas, and database configuration.",
+          "familias: devops",
+          "sin viaje diario desde zona oeste, Buenos Aires"
+        ],
+        "gaps": [
+          {
+            "term": "aws",
+            "type": "tool"
+          },
+          {
+            "term": "Own the performance, reliability, and technical health of both production database environments.",
+            "type": "unknown"
+          },
+          {
+            "term": "Analyze and optimize SQL, execution plans, indexes, schemas, and database configuration.",
+            "type": "unknown"
+          },
+          {
+            "term": "Diagnose locking, blocking, deadlocks, transaction contention, and other concurrency issues.",
+            "type": "unknown"
+          },
+          {
+            "term": "Optimize database performance for high-volume application and highly parallel processing workloads.",
+            "type": "unknown"
+          },
+          {
+            "term": "Monitor CPU, memory, storage I/O, connections, transactions, and overall database resource utilization.",
+            "type": "unknown"
+          },
+          {
+            "term": "Establish performance baselines and validate improvements through measurement.",
+            "type": "unknown"
+          },
+          {
+            "term": "Maintain data integrity and develop migration validation and reconciliation processes.",
+            "type": "unknown"
+          },
+          {
+            "term": "Establish monitoring, backup, recovery, capacity planning, and operational practices.",
+            "type": "unknown"
+          },
+          {
+            "term": "Partner with application engineers on database-facing issues while owning behavior from the SQL/query boundary inward.",
+            "type": "unknown"
+          }
+        ],
+        "main_rank": 47,
+        "side_rank": 42,
+        "main_eligible": false,
+        "side_eligible": false,
+        "relocation_watch": false,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "low",
+        "signals": [
+          "listing_on_official_board"
+        ],
+        "warnings": []
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-10-27T20:46:41.817Z",
+        "history": []
+      },
+      "first_seen": "2026-10-27T20:46:41.817Z",
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-sr-java-platform-engineer-improving-remote",
@@ -10195,11 +10196,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "jobicy-156945",
@@ -10323,11 +10324,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/scalian/jobs/devops-engineer",
@@ -10476,11 +10477,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/irium-portugal/jobs/devops-engineer-remoto-espana",
@@ -10619,11 +10620,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-23T19:58:45.743Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-tech-lead-outsystems-con-ingles-y-espanol-latam-i2b-technologies-remote",
@@ -10802,11 +10803,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-net-engineer-autoraptor-remote",
@@ -10958,11 +10959,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-data-engineer-databricks-improving-remote",
@@ -11153,11 +11154,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/sopra-steria/jobs/devops-engineer-cloud-database-con-ingles",
@@ -11293,11 +11294,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/arquitecto-a-de-preventa-devops",
@@ -11449,11 +11450,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/plain-concepts/jobs/senior-data-engineer",
@@ -11602,215 +11603,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
-    },
-    {
-      "id": "getonboard-sas-to-databricks-migration-engineer-ai-improving-remote",
-      "source": "Get on Board",
-      "source_trust": "official_public_api",
-      "external_id": "sas-to-databricks-migration-engineer-ai-improving-remote",
-      "url": "https://www.getonbrd.com/jobs/sas-to-databricks-migration-engineer-ai-improving-remote",
-      "title": "Sas to Databricks Migration Engineer AI",
-      "company": "Improving",
-      "location": "Mexico, Costa Rica, Argentina",
-      "place_text": "Mexico, Costa Rica, Argentina",
-      "venue": {
-        "cities": [],
-        "tenants": [
-          {
-            "id": "mexico",
-            "name": "Mexico"
-          },
-          {
-            "id": "costa_rica",
-            "name": "Costa Rica"
-          },
-          {
-            "id": "argentina",
-            "name": "Argentina"
-          }
-        ],
-        "unresolved_ids": []
-      },
-      "remote": true,
-      "workplace": "remote",
-      "seniority": "Senior",
-      "employment_type": "full_time",
-      "published_at": "2026-10-07T06:55:56.000Z",
-      "salary": "3400-4500",
-      "salary_value": {
-        "status": "unparsed",
-        "source": "getonboard",
-        "raw": "3400-4500",
-        "gross_or_net": "unknown"
-      },
-      "mandatory_text": "<p>We’ll rely on you to drive the <strong>end-to-end conversion delivery</strong> from SAS inventories to validated Python/SQL outputs on Databricks, with a strong focus on pipeline reliability and data validation.</p><ul><li><strong>Pipeline engineering</strong>: Build and run pipelines that process SAS inventories and produce converted outputs.</li><li><strong>Quality and parity validation</strong>: Validate converted code for parity against SAS outputs (e.g., row counts, checksums, schema, and data types).</li><li><strong>Deployment ownership</strong>: Own deployments through <strong>Databricks Asset Bundles (DABs)</strong> and <strong>GitLab CI/CD</strong>, ensuring repeatable releases.</li><li><strong>Databricks governance</strong>: Manage <strong>Unity Catalog</strong> objects, permissions, and promotion across environments.</li><li><strong>Operational excellence</strong>: Troubleshoot job failures and performance issues, and take preventive actions to improve pipeline stability.</li><li><strong>Performance tuning</strong>: Apply tuning techniques for <strong>Apache Spark</strong> and <strong>Delta Lake</strong> to meet reliability and execution-time expectations.</li><li><strong>Data reconciliation</strong>: Use data validation and reconciliation practices to ensure correctness and consistency.</li><li><strong>Infrastructure-as-code mindset</strong>: Implement DAB-based deployment patterns and support automated, testable delivery workflows.</li><li><strong>Client collaboration</strong>: Communicate progress, risks, and technical decisions clearly with client and partner stakeholders.</li></ul>",
-      "desirable_text": "<ul><li>Experience converting SAS workflows to Python/SQL in production environments.</li><li>Healthcare data exposure and familiarity with typical data quality and privacy expectations.</li><li>Azure exposure and understanding of how cloud services fit into end-to-end delivery and operations.</li><li>Deep experience optimizing Spark jobs (partitioning, caching strategies, skew handling) and Delta Lake (file sizing, compaction patterns).</li></ul>",
-      "tags": [
-        "machine-learning-ai",
-        "Python",
-        "SQL",
-        "Databricks",
-        "GitLab CI/CD",
-        "Data Validation",
-        "Big Data",
-        "Delta Lake"
-      ],
-      "description": "We’re looking for a senior-minded Nearshore engineer who can turn SAS-based logic into robust, governed Databricks pipelines using Python, SQL, and modern CI/CD practices—while maintaining strict delivery discipline. Required experience 4+ years of professional data or software engineering experience. Strong Python and SQL skills. Hands-on Databricks experience with Unity Catalog , Workflows , and Databricks Asset Bundles . Proficiency with GitLab CI/CD (pipelines, merge request workflows, and automated testing) and disciplined Git branching and code reviews. Clear written and spoken English for client-facing collaboration. Demonstrated ownership: scoping work, delivering outcomes, and proactively flagging risks without being prompted. Focus areas Pipeline reliability, validation, and delivery of converted code. Parity checks between SAS and Databricks outputs. Deployment and governance using DABs + GitLab CI/CD + Unity Catalog. Additional experience Spark and Delta Lake performance tuning. Data validation and reconciliation experience. Infrastructure-as-code or DAB-based deployment experience. SAS reading ability and exposure to healthcare data (plus experience with Azure) are valued. How we work : We value clarity, accountability, and continuous improvement. We’ll expect you to communicate trade-offs, confirm assumptions early, and build trust through predictable delivery, thoughtful reviews, and transparent risk management. We’ll rely on you to drive the end-to-end conversion delivery from SAS inventories to validated Python/SQL outputs on Databricks, with a strong focus on pipeline reliability and data validation. Pipeline engineering : Build and run pipelines that process SAS inventories and produce converted outputs. Quality and parity validation : Validate converted code for parity against SAS outputs (e.g., row counts, checksums, schema, and data types). Deployment ownership : Own deployments through Databricks Asset Bundles (DABs) and GitLab CI/CD , ensuring repeatable releases. Databricks governance : Manage Unity Catalog objects, permissions, and promotion across environments. Operational excellence : Troubleshoot job failures and performance issues, and take preventive actions to improve pipeline stability. Performance tuning : Apply tuning techniques for Apache Spark and Delta Lake to meet reliability and execution-time expectations. Data reconciliation : Use data validation and reconciliation practices to ensure correctness and consistency. Infrastructure-as-code mindset : Implement DAB-based deployment patterns and support automated, testable delivery workflows. Client collaboration : Communicate progress, risks, and technical decisions clearly with client and partner stakeholders. Experience converting SAS workflows to Python/SQL in production environments. Healthcare data exposure and familiarity with typical data quality and privacy expectations. Azure exposure and understanding of how cloud services fit into end-to-end delivery and operations. Deep experience optimizing Spark jobs (partitioning, caching strategies, skew handling) and Delta Lake (file sizing, compaction patterns).",
-      "description_truncated": false,
-      "base_score": 0,
-      "keyword_main_score": 7,
-      "keyword_side_score": 3,
-      "main_eligible_now": false,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [],
-      "main_signals": [],
-      "side_signals": [],
-      "negative_hits": 0,
-      "main_score": 44,
-      "side_score": 40,
-      "potential": {
-        "current_fit": 0,
-        "transferability": 48,
-        "gap_cost": "medium",
-        "gap_cost_score": 92,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 53,
-        "career_potential": 72,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops"
-        ],
-        "requirements_status": "read",
-        "mandatory_requirements": [
-          "Pipeline engineering : Build and run pipelines that process SAS inventories and produce converted outputs.",
-          "Quality and parity validation : Validate converted code for parity against SAS outputs (e.g., row counts, checksums, schema, and data types).",
-          "Deployment ownership : Own deployments through Databricks Asset Bundles (DABs) and GitLab CI/CD , ensuring repeatable releases.",
-          "Databricks governance : Manage Unity Catalog objects, permissions, and promotion across environments.",
-          "Operational excellence : Troubleshoot job failures and performance issues, and take preventive actions to improve pipeline stability.",
-          "Performance tuning : Apply tuning techniques for Apache Spark and Delta Lake to meet reliability and execution-time expectations.",
-          "Data reconciliation : Use data validation and reconciliation practices to ensure correctness and consistency.",
-          "Infrastructure-as-code mindset : Implement DAB-based deployment patterns and support automated, testable delivery workflows.",
-          "Client collaboration : Communicate progress, risks, and technical decisions clearly with client and partner stakeholders."
-        ],
-        "desirable_requirements": [
-          "Experience converting SAS workflows to Python/SQL in production environments.",
-          "Healthcare data exposure and familiarity with typical data quality and privacy expectations.",
-          "Azure exposure and understanding of how cloud services fit into end-to-end delivery and operations.",
-          "Deep experience optimizing Spark jobs (partitioning, caching strategies, skew handling) and Delta Lake (file sizing, compaction patterns)."
-        ],
-        "sap_kind": null,
-        "work_from_zona_oeste": true,
-        "work_after_valencia": false,
-        "place_bridge": false,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: Automated testing (automated testing) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer",
-          "+ evidencia directa: GitHub Actions (ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
-          "fit: 1/9 obligatorios",
-          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "- gap herramienta: azure",
-          "- gap herramienta: databricks",
-          "- gap herramienta: spark",
-          "- gap herramienta: Databricks governance : Manage Unity Catalog objects, permissions, and promotion across environments.",
-          "- gap herramienta: Performance tuning : Apply tuning techniques for Apache Spark and Delta Lake to meet reliability and execution-time expectations.",
-          "- gap desconocido: Pipeline engineering : Build and run pipelines that process SAS inventories and produce converted outputs.",
-          "- gap desconocido: Quality and parity validation : Validate converted code for parity against SAS outputs (e.g., row counts, checksums, schema, and data types).",
-          "familias: devops"
-        ],
-        "gaps": [
-          {
-            "term": "azure",
-            "type": "tool"
-          },
-          {
-            "term": "databricks",
-            "type": "tool"
-          },
-          {
-            "term": "spark",
-            "type": "tool"
-          },
-          {
-            "term": "Pipeline engineering : Build and run pipelines that process SAS inventories and produce converted outputs.",
-            "type": "unknown"
-          },
-          {
-            "term": "Quality and parity validation : Validate converted code for parity against SAS outputs (e.g., row counts, checksums, schema, and data types).",
-            "type": "unknown"
-          },
-          {
-            "term": "Databricks governance : Manage Unity Catalog objects, permissions, and promotion across environments.",
-            "type": "tool"
-          },
-          {
-            "term": "Operational excellence : Troubleshoot job failures and performance issues, and take preventive actions to improve pipeline stability.",
-            "type": "unknown"
-          },
-          {
-            "term": "Performance tuning : Apply tuning techniques for Apache Spark and Delta Lake to meet reliability and execution-time expectations.",
-            "type": "tool"
-          },
-          {
-            "term": "Data reconciliation : Use data validation and reconciliation practices to ensure correctness and consistency.",
-            "type": "unknown"
-          },
-          {
-            "term": "Infrastructure-as-code mindset : Implement DAB-based deployment patterns and support automated, testable delivery workflows.",
-            "type": "unknown"
-          },
-          {
-            "term": "Client collaboration : Communicate progress, risks, and technical decisions clearly with client and partner stakeholders.",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 44,
-        "side_rank": 40,
-        "main_eligible": false,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
-        "history": []
-      },
-      "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "getonboard-big-data-engineer-databricks-improving-remote",
@@ -12017,11 +11814,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/devops-engineer",
@@ -12170,11 +11967,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/smartcat/jobs/senior-devops-and-infrastructure-engineer-3918390478",
@@ -12326,11 +12123,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-sme-presales-engineer-lead-aws-remoto-100",
@@ -12492,11 +12289,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/smartcat/jobs/senior-ai-first-data-engineer",
@@ -12647,11 +12444,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-24T04:47:03.846Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-platform-engineering-remoto-100",
@@ -12810,11 +12607,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/ookla/jobs/data-engineer-iii",
@@ -12954,11 +12751,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-27T14:38:54.174Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "jobicy-154082",
@@ -13092,11 +12889,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-26T15:01:51.070Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/duetto/jobs/senior-devops-engineer-aws",
@@ -13242,11 +13039,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-27T14:38:54.174Z",
+        "updated_at": "2026-10-27T20:46:41.817Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-27T14:38:54.174Z"
+      "last_seen": "2026-10-27T20:46:41.817Z"
     }
   ]
 }
