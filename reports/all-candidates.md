@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-10-26T21:04:33.767Z
+Generado: 2026-10-27T05:16:02.122Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -46,7 +46,6 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 50 | 9 | 72 | low | 45 | [Senior Data Engineer (Databricks on Azure)](https://www.getonbrd.com/jobs/senior-data-engineer-databricks-on-azure-devsu-remote-7b55) | Devsu | Get on Board | new |
 | 50 | 40 | 62 | low | 46 | [Engineering Manager - Security Standards and Hardening](https://jobicy.com/jobs/149536-engineering-manager-security-standards-and-hardening) | Canonical | Jobicy | new |
 | 50 | 24 | 72 | unknown | 45 | [Azure DevOps Engineer – Pipelines & Guardrails](https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails?utm_source=api) | BIP | Himalayas | new |
-| 50 | 40 | 72 | unknown | 45 | [Data Engineer, AI & Analytics](https://himalayas.app/companies/power-digital-marketing/jobs/data-engineer-ai-analytics-3803593581?utm_source=api) | Power Digital Marketing | Himalayas | new |
 | 49 | 0 | 72 | low | 44 | [PHP Developer/ Laravel (AWS)](https://www.getonbrd.com/jobs/senior-php-developer-laravel-aws-improving-remote) | Improving | Get on Board | new |
 | 49 | 0 | 72 | low | 43 | [Tech Lead](https://www.getonbrd.com/jobs/tech-lead-grupo-mariposa-remote-56da) | Grupo Mariposa | Get on Board | new |
 | 49 | 0 | 82 | low | 43 | [Forward Deployed Engineer](https://www.getonbrd.com/jobs/forward-deployed-engineer-diverse-programmers-remote) | Diverse Programmers | Get on Board | new |
@@ -55,6 +54,7 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 49 | 0 | 72 | low | 43 | [QA Funcional Senior Microsoft Dynamics 365 (LATAM)](https://www.getonbrd.com/jobs/qa-funcional-senior-microsoft-dynamics-365-latam-bc-tecnologia-remote) | BC Tecnología | Get on Board | new |
 | 49 | 33 | 72 | unknown | 45 | [Dev/Ops Developer](https://himalayas.app/companies/dentsu-international/jobs/dev-ops-developer?utm_source=api) | dentsu international | Himalayas | new |
 | 49 | 24 | 72 | unknown | 45 | [DEVOPS ENGINEER](https://himalayas.app/companies/apptiva-core-technologies/jobs/devops-engineer-665181510?utm_source=api) | Apptiva Core Technologies | Himalayas | new |
+| 49 | 24 | 72 | unknown | 44 | [Senior Data Engineer](https://himalayas.app/companies/knowmad-mood/jobs/senior-data-engineer?utm_source=api) | knowmad mood | Himalayas | new |
 | 49 | 24 | 52 | unknown | 45 | [SAP BTP Developer/ Architect (Anywhere in India; preferred Bengaluru, Hyderabad ](https://himalayas.app/companies/tenthpin/jobs/sap-btp-developer-architect-anywhere-in-india-preferred-bengaluru-hyderabad?utm_source=api) | Tenthpin | Himalayas | new |
 | 48 | 0 | 72 | low | 43 | [Senior PHP Engineer ( Laravel + AWS)](https://www.getonbrd.com/jobs/senior-php-engineer-laravel-aws-improving-remote) | Improving | Get on Board | new |
 | 48 | 2 | 72 | low | 43 | [Arquitecto de Datos (Data & AI)](https://www.getonbrd.com/jobs/arquitecto-de-datos-sr-data-ai-grupo-mariposa-remote-48e8) | Grupo Mariposa | Get on Board | new |
