@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-10-27T05:16:02.122Z
+Generado: 2026-10-27T14:38:54.174Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -17,6 +17,7 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 55 | 40 | 72 | unknown | 49 | [Junior Devops Engineer](https://himalayas.app/companies/aldia/jobs/junior-devops-engineer?utm_source=api) | ALDIA | Himalayas | new |
 | 55 | 40 | 52 | medium | 50 | [SAP BTP Integration Specialist/Consultant](https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-integration-specialist-consultant?utm_source=api) | Pontoonglobal | Himalayas | new |
 | 54 | 17 | 88 | low | 48 | [QA Automation Engineer (Azure)](https://www.getonbrd.com/jobs/qa-automation-engineer-azure-improving-remote) | Improving | Get on Board | new |
+| 54 | 24 | 82 | low | 48 | [Senior Software Engineer LATAM](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572) | Wagmo | RemoteOK | new |
 | 54 | 40 | 72 | low | 48 | [Microservices Engineer](https://jobicy.com/jobs/149558-microservices-engineer) | Canonical | Jobicy | new |
 | 54 | 40 | 62 | low | 49 | [Engineering Manager - Ubuntu Security](https://jobicy.com/jobs/149572-engineering-manager-ubuntu-security) | Canonical | Jobicy | new |
 | 54 | 24 | 90 | unknown | 48 | [Data Product Engineer, Data & Analytics](https://himalayas.app/companies/trimble/jobs/data-product-engineer-data-analytics?utm_source=api) | Trimble | Himalayas | new |
@@ -63,7 +64,6 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 48 | 24 | 72 | low | 44 | [Software Engineer - Solutions Engineering](https://jobicy.com/jobs/149560-software-engineer-solutions-engineering) | Canonical | Jobicy | new |
 | 48 | 24 | 72 | unknown | 44 | [DevOps Engineer](https://himalayas.app/companies/logicalis-com/jobs/devops-engineer?utm_source=api) | Logicalis Spain | Himalayas | new |
 | 48 | 24 | 72 | unknown | 44 | [DevOps Architect](https://himalayas.app/companies/logicalis-com/jobs/devops-architect?utm_source=api) | Logicalis Spain | Himalayas | new |
-| 45 | 40 | 65 | unknown | 48 | [Data Engineer](https://himalayas.app/companies/all-your-bi/jobs/data-engineer?utm_source=api) | All Your BI | Himalayas | new |
 | 48 | 17 | 82 | unknown | 43 | [Data Engineer](https://himalayas.app/companies/scalian/jobs/data-engineer?utm_source=api) | Scalian | Himalayas | new |
 | 48 | 33 | 65 | unknown | 44 | [Data & Analytics Engineer (freelancer)](https://himalayas.app/companies/the-agile-monkeys/jobs/data-analytics-engineer-freelancer?utm_source=api) | The Agile Monkeys | Himalayas | new |
 | 47 | 14 | 72 | low | 46 | [Front-end Developer React / Next.JS (SEO)](https://www.getonbrd.com/jobs/front-end-developer-react-next-js-seo-bc-tecnologia-buenos-aires) | BC Tecnología | Get on Board | new |
@@ -84,5 +84,6 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 43 | 12 | 72 | unknown | 40 | [Senior DevOps SME (Presales Engineer Lead - AWS) - Remoto 100%](https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-sme-presales-engineer-lead-aws-remoto-100?utm_source=api) | knowmad mood | Himalayas | new |
 | 39 | 24 | 65 | unknown | 43 | [Senior AI-First Data Engineer](https://himalayas.app/companies/smartcat/jobs/senior-ai-first-data-engineer?utm_source=api) | Smartcat | Himalayas | new |
 | 42 | 9 | 72 | unknown | 39 | [Senior DevOps Platform Engineering - Remoto 100%](https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-platform-engineering-remoto-100?utm_source=api) | knowmad mood | Himalayas | new |
+| 41 | 9 | 65 | unknown | 39 | [Data Engineer III](https://himalayas.app/companies/ookla/jobs/data-engineer-iii?utm_source=api) | Ookla | Himalayas | new |
 | 26 | 24 | 90 | high | 20 | [Senior Software Engineer, Backend (Money Movement)](https://jobicy.com/jobs/154082-senior-software-engineer-backend-money-movement) | Phantom | Jobicy | new |
 | 26 | 24 | 72 | high | 21 | [Senior DevOps Engineer (AWS)](https://himalayas.app/companies/duetto/jobs/senior-devops-engineer-aws?utm_source=api) | Duetto | Himalayas | new |

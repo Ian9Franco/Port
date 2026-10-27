@@ -1,10 +1,10 @@
 # Port — Opportunity Radar
 
-Generado: 2026-10-27T05:16:02.122Z
+Generado: 2026-10-27T14:38:54.174Z
 
 Modo de aplicación: **manual**. Port busca, filtra y prepara; Ian decide y aplica.
 
-Fuentes: Remotive (10), Arbeitnow (64), Get on Board (535), RemoteOK (99), Jobicy (60), Himalayas (84)
+Fuentes: Remotive (10), Arbeitnow (79), Get on Board (536), RemoteOK (99), Jobicy (60), Himalayas (84)
 
 ## MAIN — Top picks
 
@@ -31,12 +31,12 @@ Valencia y España, para una mudanza posterior con la familia. La ventana de mud
 - [Automation & DevOps Engineer (Remoto)](https://himalayas.app/companies/knowmad-mood/jobs/automation-devops-engineer-remoto?utm_source=api) — knowmad mood · Spain · not_yet_ordered · fusiona https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto?utm_source=api, https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100?utm_source=api, https://himalayas.app/companies/knowmad-mood/jobs/arquitecto-a-de-preventa-devops?utm_source=api, https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-sme-presales-engineer-lead-aws-remoto-100?utm_source=api, https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-platform-engineering-remoto-100?utm_source=api
 - [Azure DevOps Engineer – Pipelines & Guardrails](https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails?utm_source=api) — BIP · Spain · not_yet_ordered
 - [Data & Analytics Engineer (freelancer)](https://himalayas.app/companies/the-agile-monkeys/jobs/data-analytics-engineer-freelancer?utm_source=api) — The Agile Monkeys · Spain · not_yet_ordered
-- [Data Engineer](https://himalayas.app/companies/all-your-bi/jobs/data-engineer?utm_source=api) — All Your BI · Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Holy See (Vatican City State), Hungary, Iceland, Ireland, Italy, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, Russian Federation, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine, United Kingdom · not_yet_ordered
 - [Data Engineer](https://himalayas.app/companies/scalian/jobs/data-engineer?utm_source=api) — Scalian · Spain · not_yet_ordered
+- [Data Engineer (CDP Specialist)](https://himalayas.app/companies/dentsu-international/jobs/data-engineer-cdp-specialist?utm_source=api) — dentsu international · Spain · not_yet_ordered
 
 ## Cobertura
 
-- Universo curado guardado: **80** oportunidades.
+- Universo curado guardado: **81** oportunidades.
 - Top picks: máximo **3 MAIN** + **3 SIDE** por corrida.
 - Nada del universo curado se descarta silenciosamente: ver reports/all-candidates.md.
 - Para adaptar el CV sin inventar experiencia: ver reports/application-prep.md.
