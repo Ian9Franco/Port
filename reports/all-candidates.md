@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-10-27T20:46:41.817Z
+Generado: 2026-10-28T05:55:09.620Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -47,6 +47,7 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 50 | 9 | 72 | low | 45 | [Senior Data Engineer (Databricks on Azure)](https://www.getonbrd.com/jobs/senior-data-engineer-databricks-on-azure-devsu-remote-7b55) | Devsu | Get on Board | new |
 | 50 | 40 | 62 | low | 46 | [Engineering Manager - Security Standards and Hardening](https://jobicy.com/jobs/149536-engineering-manager-security-standards-and-hardening) | Canonical | Jobicy | new |
 | 50 | 24 | 72 | unknown | 45 | [Azure DevOps Engineer – Pipelines & Guardrails](https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails?utm_source=api) | BIP | Himalayas | new |
+| 50 | 40 | 72 | unknown | 45 | [Data Engineer, AI & Analytics](https://himalayas.app/companies/power-digital-marketing/jobs/data-engineer-ai-analytics-3803593581?utm_source=api) | Power Digital Marketing | Himalayas | new |
 | 49 | 0 | 72 | low | 44 | [PHP Developer/ Laravel (AWS)](https://www.getonbrd.com/jobs/senior-php-developer-laravel-aws-improving-remote) | Improving | Get on Board | new |
 | 49 | 0 | 72 | low | 43 | [Tech Lead](https://www.getonbrd.com/jobs/tech-lead-grupo-mariposa-remote-56da) | Grupo Mariposa | Get on Board | new |
 | 49 | 0 | 82 | low | 43 | [Forward Deployed Engineer](https://www.getonbrd.com/jobs/forward-deployed-engineer-diverse-programmers-remote) | Diverse Programmers | Get on Board | new |
