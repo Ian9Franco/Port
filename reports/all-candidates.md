@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-10-28T15:12:30.631Z
+Generado: 2026-10-28T21:10:22.941Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 

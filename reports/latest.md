@@ -1,10 +1,10 @@
 # Port — Opportunity Radar
 
-Generado: 2026-10-28T15:12:30.631Z
+Generado: 2026-10-28T21:10:22.941Z
 
 Modo de aplicación: **manual**. Port busca, filtra y prepara; Ian decide y aplica.
 
-Fuentes: Remotive (11), Arbeitnow (76), Get on Board (537), RemoteOK (99), Jobicy (60), Himalayas (84)
+Fuentes: Remotive (11), Arbeitnow (69), Get on Board (536), RemoteOK (99), Jobicy (60), Himalayas (84)
 
 ## MAIN — Top picks
 
