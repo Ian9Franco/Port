@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-10-28T05:55:09.620Z
+Generado: 2026-10-28T15:12:30.631Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -78,6 +78,7 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 45 | 17 | 72 | unknown | 42 | [DevOps Engineer Cloud Database con inglés](https://himalayas.app/companies/sopra-steria/jobs/devops-engineer-cloud-database-con-ingles?utm_source=api) | Sopra Steria | Himalayas | new |
 | 45 | 22 | 72 | unknown | 41 | [Arquitecto/a de Preventa DevOps](https://himalayas.app/companies/knowmad-mood/jobs/arquitecto-a-de-preventa-devops?utm_source=api) | knowmad mood | Himalayas | new |
 | 45 | 17 | 72 | unknown | 41 | [Senior Data Engineer](https://himalayas.app/companies/plain-concepts/jobs/senior-data-engineer?utm_source=api) | Plain Concepts | Himalayas | new |
+| 45 | 0 | 52 | medium | 41 | [SAP BTP CAPM  Java Developers](https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-capm-java-developers?utm_source=api) | Pontoonglobal | Himalayas | new |
 | 44 | 0 | 72 | low | 40 | [Big Data Engineer (Databricks)](https://www.getonbrd.com/jobs/big-data-engineer-databricks-improving-remote) | Improving | Get on Board | new |
 | 42 | 24 | 72 | unknown | 44 | [DevOps Engineer](https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/devops-engineer?utm_source=api) | Banco Plata, S.A., Institución de Banca Múltiple | Himalayas | new |
 | 44 | 13 | 72 | unknown | 40 | [Senior DevOps and Infrastructure Engineer](https://himalayas.app/companies/smartcat/jobs/senior-devops-and-infrastructure-engineer-3918390478?utm_source=api) | Smartcat | Himalayas | new |
