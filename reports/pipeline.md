@@ -1,12 +1,12 @@
 # Port — Pipeline tracking
 
-Generado: 2026-10-29T05:59:10.137Z
+Generado: 2026-10-29T15:17:30.333Z
 
 ## Por estado
 
 | Estado | Cantidad |
 | --- | ---: |
-| new | 78 |
+| new | 75 |
 | reviewing | 3 |
 | shortlisted | 0 |
 | prepared | 0 |
