@@ -2,14 +2,14 @@
   "version": 4,
   "matcher": "potential-v1",
   "trust_layer": "listing-v1",
-  "generated_at": "2026-10-30T15:06:45.985Z",
+  "generated_at": "2026-10-30T20:52:56.820Z",
   "career_model_version": 2,
   "application_mode": "manual",
   "source_failures": [],
   "source_stats": {
     "Remotive": 12,
-    "Arbeitnow": 83,
-    "Get on Board": 537,
+    "Arbeitnow": 91,
+    "Get on Board": 536,
     "RemoteOK": 99,
     "Jobicy": 60,
     "Himalayas": 84
@@ -207,11 +207,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-27T20:46:41.817Z",
-      "last_seen": "2026-10-30T15:06:45.985Z",
+      "last_seen": "2026-10-30T20:52:56.820Z",
       "merged_urls": [
         "https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote",
         "https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote",
@@ -341,7 +341,7 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": [
           {
             "at": "2026-10-26T18:23:45.552Z",
@@ -353,7 +353,7 @@
         ]
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z",
+      "last_seen": "2026-10-30T20:52:56.820Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://jobicy.com/jobs/156943-product-manager-realtime",
@@ -502,11 +502,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T15:06:45.985Z",
+      "last_seen": "2026-10-30T20:52:56.820Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/dentsu-international/jobs/data-engineer-cdp-specialist",
@@ -815,11 +815,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "jobicy-149527",
@@ -948,7 +948,7 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": [
           {
             "at": "2026-10-26T15:01:28.119Z",
@@ -960,7 +960,7 @@
         ]
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "jobicy-149565",
@@ -1078,11 +1078,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "jobicy-149577",
@@ -1201,11 +1201,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/automation-devops-engineer-remoto",
@@ -1333,11 +1333,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T15:06:45.985Z",
+      "last_seen": "2026-10-30T20:52:56.820Z",
       "merged_urls": [
         "https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto?utm_source=api",
         "https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100?utm_source=api",
@@ -1549,11 +1549,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "remoteok-1137572",
@@ -1583,7 +1583,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Senior Software Engineer Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time. Â What We Do Wagmo is a modern pet healthcare company built around how pet parents actually care for their pets. We partner with employers to provide a complete approach to pet and pet-parent wellbeing, from preventive wellness plans and emergency coverage to 24/7 pet telehealth guidance. Our purpose is to unlock every pet parent's potential to provide extraordinary care, and we do it by bringing the same intentionality to pet benefits that the best employers bring to human healthcare. Founded in 2017 and female-founded, Wagmo is headquartered in New York City and trusted by leading employers nationwide. Â Whatâs Important To Us Our mission shapes everything we build and how we work together. We take fearless ownership of outcomes, collaborate with radical candor, and are always driven by the customers and pet parents who trust us. We think critically, follow through relentlessly, and find the extra 10% that turns good work into exceptional work. We keep it weird because the obvious answer is rarely the most interesting one. Our values aren't aspirational. We interview for them and hold each other accountable to them. If what you've read so far resonates with you and you want to be part of a team where every person makes the company meaningfully better, we'd love to hear from you.. Â About The Role Wagmo uses AI to process pet wellness and insurance claims. When it works, a pet parent submits a claim and gets reimbursed without anyone on our team touching it. We already automate a meaningful share of claims, and weâre hiring a Senior Software Engineer to take that much further. Youâll join our Pet Parents squad and take on our claims automation system, the pipeline that reads invoices, decides whatâs covered, and pays claims. In your first year, youâll make it cheaper to run, easier to change, and able to handle claims it canât handle today. Youâll own that work from design to production and partner with Product on what to build next. This role is for someone who has shipped AI features that real users and real money depend on, and who knows the difference between a demo and a system you can trust. Â Our Tech Stack: Python Â· Django Â· TypeScript Â· React Â· LLM APIs Â· OpenRouter Â· LangSmith Â· GitHub Â· Linear Â· Claude Code Â· CodeRabbit Â Core Responsibilities Learn our claims automation pipeline in depth and become a core owner, reviewing and shipping changes on your own within your first few months. Lower the cost of every claim we process by routing work to the right models, while keeping accuracy at or above where it is today. Restructure the pipeline so each stage can be changed, tested, and rolled out independently, with evaluations gating every change. Ship new automation that lets more claims resolve without manual review, working with Product to decide what comes next. Use AI to read veterinary records and make better coverage decisions on more types of claims. What Youâll Need To Be Successful Youâve shipped an LLM-powered feature to production that real users or real money depend on. You set up evaluations before rollout, versioned your prompts and models, and planned for rollback. Youâve designed or substantially refactored a system the business depends on, such as payments or claims, without breaking it, and left it easier to change than you found it. Youâve taken over a complex system someone else built and become the person others trust with it. Your code reviews change designs, not just style. Youâve made real tradeoffs between model cost and quality, and you can show the numbers that proved quality held. You use coding agents and AI review tools every day, and theyâve changed how fast you ship without lowering the quality of your work. Strong Python skills. Experience with Django and TypeScript is a plus. Why Consider This Role? Your work pays real claims to real pet parents. Youâll see the impact in production. AI is the core of the product here, not a side project. Youâll own one of the most important systems at the company. Youâll have real scope on a small team, making decisions a larger company would spread across several people. Youâll help pet parents get reimbursed faster for the care their pets need. Key Benefits Comprehensive health, vision, and dental coverage HSA/FSA 401(k) retirement planning with employer matching Unlimited paid time off Annual company holidays Additional company-wide recharge days off 12 weeks parental leave for eligible employees Company paid Wagmo pet wellness and insurance plans Regular company-wide events and team gatherings Pet-friendly office Catered lunches Â We here at Wagmo strive to build a workforce composed of individuals with diverse backgrounds, abilities, minds, and identities that will help us to grow, not only as a company, but also as individuals. Wagmo is an Equal Opportunity Employer. Please mention the word **EXCELENT** and tag RNC4yMzYuODkuMjQ1 when applying to show you read the job post completely (#RNC4yMzYuODkuMjQ1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Senior Software Engineer Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time. Â What We Do Wagmo is a modern pet healthcare company built around how pet parents actually care for their pets. We partner with employers to provide a complete approach to pet and pet-parent wellbeing, from preventive wellness plans and emergency coverage to 24/7 pet telehealth guidance. Our purpose is to unlock every pet parent's potential to provide extraordinary care, and we do it by bringing the same intentionality to pet benefits that the best employers bring to human healthcare. Founded in 2017 and female-founded, Wagmo is headquartered in New York City and trusted by leading employers nationwide. Â Whatâs Important To Us Our mission shapes everything we build and how we work together. We take fearless ownership of outcomes, collaborate with radical candor, and are always driven by the customers and pet parents who trust us. We think critically, follow through relentlessly, and find the extra 10% that turns good work into exceptional work. We keep it weird because the obvious answer is rarely the most interesting one. Our values aren't aspirational. We interview for them and hold each other accountable to them. If what you've read so far resonates with you and you want to be part of a team where every person makes the company meaningfully better, we'd love to hear from you.. Â About The Role Wagmo uses AI to process pet wellness and insurance claims. When it works, a pet parent submits a claim and gets reimbursed without anyone on our team touching it. We already automate a meaningful share of claims, and weâre hiring a Senior Software Engineer to take that much further. Youâll join our Pet Parents squad and take on our claims automation system, the pipeline that reads invoices, decides whatâs covered, and pays claims. In your first year, youâll make it cheaper to run, easier to change, and able to handle claims it canât handle today. Youâll own that work from design to production and partner with Product on what to build next. This role is for someone who has shipped AI features that real users and real money depend on, and who knows the difference between a demo and a system you can trust. Â Our Tech Stack: Python Â· Django Â· TypeScript Â· React Â· LLM APIs Â· OpenRouter Â· LangSmith Â· GitHub Â· Linear Â· Claude Code Â· CodeRabbit Â Core Responsibilities Learn our claims automation pipeline in depth and become a core owner, reviewing and shipping changes on your own within your first few months. Lower the cost of every claim we process by routing work to the right models, while keeping accuracy at or above where it is today. Restructure the pipeline so each stage can be changed, tested, and rolled out independently, with evaluations gating every change. Ship new automation that lets more claims resolve without manual review, working with Product to decide what comes next. Use AI to read veterinary records and make better coverage decisions on more types of claims. What Youâll Need To Be Successful Youâve shipped an LLM-powered feature to production that real users or real money depend on. You set up evaluations before rollout, versioned your prompts and models, and planned for rollback. Youâve designed or substantially refactored a system the business depends on, such as payments or claims, without breaking it, and left it easier to change than you found it. Youâve taken over a complex system someone else built and become the person others trust with it. Your code reviews change designs, not just style. Youâve made real tradeoffs between model cost and quality, and you can show the numbers that proved quality held. You use coding agents and AI review tools every day, and theyâve changed how fast you ship without lowering the quality of your work. Strong Python skills. Experience with Django and TypeScript is a plus. Why Consider This Role? Your work pays real claims to real pet parents. Youâll see the impact in production. AI is the core of the product here, not a side project. Youâll own one of the most important systems at the company. Youâll have real scope on a small team, making decisions a larger company would spread across several people. Youâll help pet parents get reimbursed faster for the care their pets need. Key Benefits Comprehensive health, vision, and dental coverage HSA/FSA 401(k) retirement planning with employer matching Unlimited paid time off Annual company holidays Additional company-wide recharge days off 12 weeks parental leave for eligible employees Company paid Wagmo pet wellness and insurance plans Regular company-wide events and team gatherings Pet-friendly office Catered lunches Â We here at Wagmo strive to build a workforce composed of individuals with diverse backgrounds, abilities, minds, and identities that will help us to grow, not only as a company, but also as individuals. Wagmo is an Equal Opportunity Employer. Please mention the word **EXCELENT** and tag RNC4xNTQuMTI4LjM5 when applying to show you read the job post completely (#RNC4xNTQuMTI4LjM5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "description_truncated": false,
       "salary_value": {
         "status": "unparsed",
@@ -1683,11 +1683,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-27T14:38:54.174Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "jobicy-149558",
@@ -1810,11 +1810,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "jobicy-149572",
@@ -1929,11 +1929,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/twtspain/jobs/devops-engineer-react-node-js-remote-spain",
@@ -2061,11 +2061,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-30T06:00:27.155Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/trimble/jobs/data-product-engineer-data-analytics",
@@ -2223,11 +2223,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-22T05:01:33.698Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/proton/jobs/senior-data-engineer-ai-native-data-layer",
@@ -2353,11 +2353,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-23T05:02:16.256Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-desarrollador-mobile-mediastream-bogota-santiago-bf34",
@@ -2541,11 +2541,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "jobicy-156947",
@@ -2678,11 +2678,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto",
@@ -2826,11 +2826,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100",
@@ -2980,11 +2980,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/mercor/jobs/devops-engineer-ai-model-evaluator-5752080247",
@@ -3141,11 +3141,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-senior-full-stack-engineer-improving-remote",
@@ -3326,11 +3326,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-ai-backend-engineer-improving-remote",
@@ -3535,11 +3535,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-tech-lead-grupo-mariposa-remote-c340",
@@ -3724,11 +3724,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-desarrollador-fullstack-java-angular-improving-remote",
@@ -3940,208 +3940,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
-    },
-    {
-      "id": "getonboard-senior-fullstack-software-engineer-react-y-python-maxxa-remote",
-      "source": "Get on Board",
-      "source_trust": "official_public_api",
-      "external_id": "senior-fullstack-software-engineer-react-y-python-maxxa-remote",
-      "url": "https://www.getonbrd.com/jobs/senior-fullstack-software-engineer-react-y-python-maxxa-remote",
-      "title": "Senior Full-Stack Software Engineer — React y Python",
-      "company": "Maxxa",
-      "location": "Colombia, Mexico, Argentina, Peru, Chile",
-      "place_text": "Colombia, Mexico, Argentina, Peru, Chile",
-      "venue": {
-        "cities": [],
-        "tenants": [
-          {
-            "id": "colombia",
-            "name": "Colombia"
-          },
-          {
-            "id": "mexico",
-            "name": "Mexico"
-          },
-          {
-            "id": "argentina",
-            "name": "Argentina"
-          },
-          {
-            "id": "peru",
-            "name": "Peru"
-          },
-          {
-            "id": "chile",
-            "name": "Chile"
-          }
-        ],
-        "unresolved_ids": []
-      },
-      "remote": true,
-      "workplace": "remote",
-      "seniority": "Senior",
-      "employment_type": "full_time",
-      "published_at": "2026-08-31T19:20:27.000Z",
-      "salary": "3600-3600",
-      "salary_value": {
-        "status": "unparsed",
-        "source": "getonboard",
-        "raw": "3600-3600",
-        "gross_or_net": "unknown"
-      },
-      "mandatory_text": "<p><strong>Buscamos a un/a ingeniero/a de software fullstack con harta experiencia, para:</strong></p><ul><li><strong>Entender el onboarding de punta a punta.</strong> Qué rol cumple cada paso, por qué existe, quién es su usuario, qué producto lo necesita y qué pasa cuando falla. Hoy ese mapa completo no vive en la cabeza de nadie.</li><li><strong>Mejorar la experiencia de hoy desde el primer mes.</strong> Antes de que exista una sola línea de código de la reescritura ya hay mucho por ganar: ver dónde se traba la gente, atacar los pasos que más fricción generan y liberar mejoras sobre el proceso que ya está andando.</li><li><strong>Diseñar y liderar la reescritura.</strong> Proponer la arquitectura del onboarding definitivo: pasos como piezas componibles, con sus actores, precondiciones, estados y vigencia explícitos, en vez de pantallas encadenadas. Que sea mantenible, evolucionable y que minimice errores por construcción.</li><li><strong>Decidir qué se reutiliza entre productos.</strong> Si alguien ya completó un paso para contratar un producto, ¿se lo volvemos a pedir para el siguiente? Reutilizar baja la fricción; repetir sostiene la cobertura de riesgo. Esa discusión se lleva con Riesgo y con Producto: no la define ingeniería sola.</li><li><strong>Construir para el Maxxa internacional.</strong> Esta reescritura es la versión que se lleva a los otros países. Los conceptos se repiten —identidad, cobro automático, firma, garantías— pero el proveedor y la regulación cambian en cada mercado.</li><li><strong>Coordinar sin mandar.</strong> Buena parte de los servicios que el onboarding orquesta los construyen otros equipos de Tecnología. No los diriges: los alineas, con una visión global de lo que tu producto tiene que lograr y con un estándar alto de lo que aceptas.</li></ul>",
-      "desirable_text": "<ul><li><strong>Arquitectura hexagonal / puertos y adaptadores, o Clean Architecture aplicada al frontend</strong>, con separación real entre dominio, casos de uso e infraestructura. Es a donde queremos llegar con la reescritura: si ya lo hiciste, mejor; si no, es parte de lo que vas a aprender acá.</li><li><strong>Python en profundidad</strong> (Django/Flask/FastAPI) o experiencia sólida en otro backend.</li><li>Haber sido <strong>referente técnico de frontend</strong> de un equipo: no solo escribir buen código, sino haber subido el piso de los demás.</li><li>Sensibilidad de <strong>UX y accesibilidad</strong>; experiencia leyendo métricas de interacción y experimentación (Mixpanel, Amplitude o similares).</li><li>Uso fluido de <strong>herramientas de IA para desarrollo</strong> (Claude Code, Cursor) y estándares como MCP.</li><li>Formación en <strong>Ingeniería Civil en Computación / Informática, Industrial mención TI/Computación</strong> o afines. No es excluyente.</li></ul>",
-      "tags": [
-        "programming",
-        "React",
-        "Python",
-        "Automated Testing",
-        "Full-stack",
-        "Software Architecture",
-        "Product Analytics",
-        "System Scalability"
-      ],
-      "description": "Este rol NO es para ti si: Prefieres que te lleguen las tareas ya definidas. Tu TL te va a decir qué hay que lograr, no cómo. Escalas lo que esté fuera de tu alcance; el resto lo resuelves tú. Quieres quedarte solo en el front. El onboarding vive en React y se apoya en servicios en Python: te vas a meter en los dos lados. Lo que sí necesitamos: +6 años desarrollando software y experiencia demostrable como fullstack, idealmente con stack Python. Manejo real de React. No pedimos que seas el referente del equipo: sí que puedas discutir de igual a igual una decisión de arquitectura de front y sostenerla con argumentos. Experiencia modelando flujos de negocio multi-paso : máquinas de estado, pasos con precondiciones, reintentos, procesos que se abandonan y se retoman días después. Disposición y foco sobre estabilidad, escalabilidad y buenas prácticas , incluidas estrategias de testing (unitario, integración y E2E) sobre flujos críticos, con simulación de servicios de terceros. Criterio de producto. Sabes leer una métrica de caída, hablar con quien atiende al cliente y decidir qué se arregla primero. Discutes el requerimiento antes de implementarlo. Autonomía real y comunicación asertiva : capacidad de influir, alinear y sostener un estándar sin autoridad formal sobre las personas con las que trabajas. Buscamos a un/a ingeniero/a de software fullstack con harta experiencia, para: Entender el onboarding de punta a punta. Qué rol cumple cada paso, por qué existe, quién es su usuario, qué producto lo necesita y qué pasa cuando falla. Hoy ese mapa completo no vive en la cabeza de nadie. Mejorar la experiencia de hoy desde el primer mes. Antes de que exista una sola línea de código de la reescritura ya hay mucho por ganar: ver dónde se traba la gente, atacar los pasos que más fricción generan y liberar mejoras sobre el proceso que ya está andando. Diseñar y liderar la reescritura. Proponer la arquitectura del onboarding definitivo: pasos como piezas componibles, con sus actores, precondiciones, estados y vigencia explícitos, en vez de pantallas encadenadas. Que sea mantenible, evolucionable y que minimice errores por construcción. Decidir qué se reutiliza entre productos. Si alguien ya completó un paso para contratar un producto, ¿se lo volvemos a pedir para el siguiente? Reutilizar baja la fricción; repetir sostiene la cobertura de riesgo. Esa discusión se lleva con Riesgo y con Producto: no la define ingeniería sola. Construir para el Maxxa internacional. Esta reescritura es la versión que se lleva a los otros países. Los conceptos se repiten —identidad, cobro automático, firma, garantías— pero el proveedor y la regulación cambian en cada mercado. Coordinar sin mandar. Buena parte de los servicios que el onboarding orquesta los construyen otros equipos de Tecnología. No los diriges: los alineas, con una visión global de lo que tu producto tiene que lograr y con un estándar alto de lo que aceptas. Arquitectura hexagonal / puertos y adaptadores, o Clean Architecture aplicada al frontend , con separación real entre dominio, casos de uso e infraestructura. Es a donde queremos llegar con la reescritura: si ya lo hiciste, mejor; si no, es parte de lo que vas a aprender acá. Python en profundidad (Django/Flask/FastAPI) o experiencia sólida en otro backend. Haber sido referente técnico de frontend de un equipo: no solo escribir buen código, sino haber subido el piso de los demás. Sensibilidad de UX y accesibilidad ; experiencia leyendo métricas de interacción y experimentación (Mixpanel, Amplitude o similares). Uso fluido de herramientas de IA para desarrollo (Claude Code, Cursor) y estándares como MCP. Formación en Ingeniería Civil en Computación / Informática, Industrial mención TI/Computación o afines. No es excluyente.",
-      "description_truncated": false,
-      "base_score": 17,
-      "keyword_main_score": 24,
-      "keyword_side_score": 20,
-      "main_eligible_now": true,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [
-        "full-stack",
-        "backend",
-        "react"
-      ],
-      "main_signals": [],
-      "side_signals": [],
-      "negative_hits": 0,
-      "main_score": 52,
-      "side_score": 45,
-      "potential": {
-        "current_fit": 0,
-        "transferability": 70,
-        "gap_cost": "medium",
-        "gap_cost_score": 92,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 54,
-        "career_potential": 90,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "full_stack"
-        ],
-        "requirements_status": "read",
-        "mandatory_requirements": [
-          "Entender el onboarding de punta a punta. Qué rol cumple cada paso, por qué existe, quién es su usuario, qué producto lo necesita y qué pasa cuando falla. Hoy ese mapa completo no vive en la cabeza de nadie.",
-          "Mejorar la experiencia de hoy desde el primer mes. Antes de que exista una sola línea de código de la reescritura ya hay mucho por ganar: ver dónde se traba la gente, atacar los pasos que más fricción generan y liberar mejoras sobre el proceso que ya está andando.",
-          "Diseñar y liderar la reescritura. Proponer la arquitectura del onboarding definitivo: pasos como piezas componibles, con sus actores, precondiciones, estados y vigencia explícitos, en vez de pantallas encadenadas. Que sea mantenible, evolucionable y que minimice errores por construcción.",
-          "Decidir qué se reutiliza entre productos. Si alguien ya completó un paso para contratar un producto, ¿se lo volvemos a pedir para el siguiente? Reutilizar baja la fricción; repetir sostiene la cobertura de riesgo. Esa discusión se lleva con Riesgo y con Producto: no la define ingeniería sola.",
-          "Construir para el Maxxa internacional. Esta reescritura es la versión que se lleva a los otros países. Los conceptos se repiten —identidad, cobro automático, firma, garantías— pero el proveedor y la regulación cambian en cada mercado.",
-          "Coordinar sin mandar. Buena parte de los servicios que el onboarding orquesta los construyen otros equipos de Tecnología. No los diriges: los alineas, con una visión global de lo que tu producto tiene que lograr y con un estándar alto de lo que aceptas."
-        ],
-        "desirable_requirements": [
-          "Arquitectura hexagonal / puertos y adaptadores, o Clean Architecture aplicada al frontend , con separación real entre dominio, casos de uso e infraestructura. Es a donde queremos llegar con la reescritura: si ya lo hiciste, mejor; si no, es parte de lo que vas a aprender acá.",
-          "Python en profundidad (Django/Flask/FastAPI) o experiencia sólida en otro backend.",
-          "Haber sido referente técnico de frontend de un equipo: no solo escribir buen código, sino haber subido el piso de los demás.",
-          "Sensibilidad de UX y accesibilidad ; experiencia leyendo métricas de interacción y experimentación (Mixpanel, Amplitude o similares).",
-          "Uso fluido de herramientas de IA para desarrollo (Claude Code, Cursor) y estándares como MCP.",
-          "Formación en Ingeniería Civil en Computación / Informática, Industrial mención TI/Computación o afines. No es excluyente."
-        ],
-        "sap_kind": null,
-        "work_from_zona_oeste": true,
-        "work_after_valencia": false,
-        "place_bridge": false,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: React (react) · fuentes: MIM, Pontorno-vault, Factu",
-          "+ evidencia directa: Full-stack product engineering (full-stack) · fuentes: MIM, Factu, Pontorno-vault",
-          "+ evidencia directa: Automated testing (automated testing) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer",
-          "+ evidencia directa: Python backend (python, fastapi, flask) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
-          "fit: 0/6 obligatorios",
-          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "- gap herramienta: analytics",
-          "- gap desconocido: Entender el onboarding de punta a punta. Qué rol cumple cada paso, por qué existe, quién es su usuario, qué producto lo necesita y qué pasa cuando falla. Hoy ese mapa completo no vive en la cabeza de nadie.",
-          "- gap desconocido: Mejorar la experiencia de hoy desde el primer mes. Antes de que exista una sola línea de código de la reescritura ya hay mucho por ganar: ver dónde se traba la gente, atacar los pasos que más fricción generan y liberar mejoras sobre el proceso que ya está andando.",
-          "familias: full_stack",
-          "sin viaje diario desde zona oeste, Buenos Aires"
-        ],
-        "gaps": [
-          {
-            "term": "analytics",
-            "type": "tool"
-          },
-          {
-            "term": "Entender el onboarding de punta a punta. Qué rol cumple cada paso, por qué existe, quién es su usuario, qué producto lo necesita y qué pasa cuando falla. Hoy ese mapa completo no vive en la cabeza de nadie.",
-            "type": "unknown"
-          },
-          {
-            "term": "Mejorar la experiencia de hoy desde el primer mes. Antes de que exista una sola línea de código de la reescritura ya hay mucho por ganar: ver dónde se traba la gente, atacar los pasos que más fricción generan y liberar mejoras sobre el proceso que ya está andando.",
-            "type": "unknown"
-          },
-          {
-            "term": "Diseñar y liderar la reescritura. Proponer la arquitectura del onboarding definitivo: pasos como piezas componibles, con sus actores, precondiciones, estados y vigencia explícitos, en vez de pantallas encadenadas. Que sea mantenible, evolucionable y que minimice errores por construcción.",
-            "type": "unknown"
-          },
-          {
-            "term": "Decidir qué se reutiliza entre productos. Si alguien ya completó un paso para contratar un producto, ¿se lo volvemos a pedir para el siguiente? Reutilizar baja la fricción; repetir sostiene la cobertura de riesgo. Esa discusión se lleva con Riesgo y con Producto: no la define ingeniería sola.",
-            "type": "unknown"
-          },
-          {
-            "term": "Construir para el Maxxa internacional. Esta reescritura es la versión que se lleva a los otros países. Los conceptos se repiten —identidad, cobro automático, firma, garantías— pero el proveedor y la regulación cambian en cada mercado.",
-            "type": "unknown"
-          },
-          {
-            "term": "Coordinar sin mandar. Buena parte de los servicios que el onboarding orquesta los construyen otros equipos de Tecnología. No los diriges: los alineas, con una visión global de lo que tu producto tiene que lograr y con un estándar alto de lo que aceptas.",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 52,
-        "side_rank": 45,
-        "main_eligible": true,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
-        "history": []
-      },
-      "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "jobicy-156946",
@@ -4276,11 +4079,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "jobicy-149550",
@@ -4399,11 +4202,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T13:14:07.093Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "jobicy-149556",
@@ -4534,11 +4337,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "jobicy-149563",
@@ -4685,11 +4488,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "jobicy-149569",
@@ -4812,11 +4615,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "jobicy-149573",
@@ -4939,11 +4742,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-full-stack-senior-con-ia-agentes-bc-tecnologia-remote-9cff",
@@ -5162,11 +4965,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-30T15:06:45.985Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "jobicy-149557",
@@ -5291,11 +5094,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/doodle/jobs/data-infrastructure-engineer-spain",
@@ -5445,11 +5248,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-desarrollador-full-stack-liferay-bc-tecnologia-santiago",
@@ -5635,11 +5438,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-machine-learning-engineer-improving-remote",
@@ -5811,11 +5614,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-senior-data-engineer-databricks-on-azure-devsu-remote-7b55",
@@ -6050,11 +5853,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "jobicy-149536",
@@ -6173,11 +5976,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails",
@@ -6314,11 +6117,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T15:06:45.985Z",
+      "last_seen": "2026-10-30T20:52:56.820Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails",
@@ -6480,11 +6283,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-28T05:55:09.620Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-senior-php-developer-laravel-aws-improving-remote",
@@ -6677,11 +6480,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-tech-lead-grupo-mariposa-remote-56da",
@@ -6865,11 +6668,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-forward-deployed-engineer-diverse-programmers-remote",
@@ -7114,11 +6917,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-senior-qa-automation-engineer-net-c-improving-remote",
@@ -7308,11 +7111,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-qa-funcional-senior-microsoft-dynamics-365-latam-bc-tecnologia-remote",
@@ -7525,11 +7328,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/dentsu-international/jobs/dev-ops-developer",
@@ -7670,11 +7473,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/apptiva-core-technologies/jobs/devops-engineer-665181510",
@@ -7824,11 +7627,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/tenthpin/jobs/sap-btp-developer-architect-anywhere-in-india-preferred-bengaluru-hyderabad",
@@ -7971,11 +7774,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-senior-php-engineer-laravel-aws-improving-remote",
@@ -8230,11 +8033,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-arquitecto-de-datos-sr-data-ai-grupo-mariposa-remote-48e8",
@@ -8464,11 +8267,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "jobicy-156941",
@@ -8599,11 +8402,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "jobicy-149560",
@@ -8735,11 +8538,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/logicalis-com/jobs/devops-engineer",
@@ -8898,11 +8701,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/logicalis-com/jobs/devops-architect",
@@ -9056,11 +8859,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/scalian/jobs/data-engineer",
@@ -9201,11 +9004,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T15:06:45.985Z",
+      "last_seen": "2026-10-30T20:52:56.820Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/scalian/jobs/data-engineer",
@@ -9352,11 +9155,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T15:06:45.985Z",
+      "last_seen": "2026-10-30T20:52:56.820Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/the-agile-monkeys/jobs/data-analytics-engineer-freelancer",
@@ -9547,11 +9350,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-senior-database-engineer-maria-db-postgresql-improving-remote",
@@ -9752,11 +9555,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-27T20:46:41.817Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-sr-java-platform-engineer-improving-remote",
@@ -9953,11 +9756,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "jobicy-156945",
@@ -10081,11 +9884,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/scalian/jobs/devops-engineer",
@@ -10234,11 +10037,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/irium-portugal/jobs/devops-engineer-remoto-espana",
@@ -10377,11 +10180,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-23T19:58:45.743Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/canonical/jobs/software-engineer-data-infrastructure-opensearch-elasticsearch",
@@ -10521,11 +10324,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-30T06:00:27.155Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-tech-lead-outsystems-con-ingles-y-espanol-latam-i2b-technologies-remote",
@@ -10704,11 +10507,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-net-engineer-autoraptor-remote",
@@ -10860,11 +10663,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-data-engineer-databricks-improving-remote",
@@ -11055,11 +10858,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/sopra-steria/jobs/devops-engineer-cloud-database-con-ingles",
@@ -11195,11 +10998,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/arquitecto-a-de-preventa-devops",
@@ -11351,11 +11154,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/plain-concepts/jobs/senior-data-engineer",
@@ -11504,11 +11307,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "getonboard-big-data-engineer-databricks-improving-remote",
@@ -11715,11 +11518,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/devops-engineer",
@@ -11868,11 +11671,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/saphetor/jobs/senior-devops-engineer-1055789064",
@@ -12019,11 +11822,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-30T06:00:27.155Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/smartcat/jobs/senior-devops-and-infrastructure-engineer-3918390478",
@@ -12175,11 +11978,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/canonical/jobs/engineering-director-business-data",
@@ -12323,11 +12126,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-30T06:00:27.155Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-sme-presales-engineer-lead-aws-remoto-100",
@@ -12489,11 +12292,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/fundcount/jobs/devops-team-lead",
@@ -12646,11 +12449,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-30T06:00:27.155Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-platform-engineering-remoto-100",
@@ -12809,11 +12612,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
       "id": "jobicy-154082",
@@ -12947,11 +12750,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T15:06:45.985Z",
+        "updated_at": "2026-10-30T20:52:56.820Z",
         "history": []
       },
       "first_seen": "2026-10-26T15:01:51.070Z",
-      "last_seen": "2026-10-30T15:06:45.985Z"
+      "last_seen": "2026-10-30T20:52:56.820Z"
     }
   ]
 }

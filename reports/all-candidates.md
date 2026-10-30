@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-10-30T15:06:45.985Z
+Generado: 2026-10-30T20:52:56.820Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -31,7 +31,6 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 52 | 17 | 82 | low | 46 | [AI Back-end Engineer](https://www.getonbrd.com/jobs/ai-backend-engineer-improving-remote) | Improving | Get on Board | new |
 | 52 | 0 | 90 | low | 45 | [Tech Lead Full-Stack](https://www.getonbrd.com/jobs/tech-lead-grupo-mariposa-remote-c340) | Grupo Mariposa | Get on Board | new |
 | 52 | 0 | 90 | low | 45 | [Desarrollador Full-Stack: Java & Angular](https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote) | Improving | Get on Board | new |
-| 52 | 0 | 90 | low | 45 | [Senior Full-Stack Software Engineer — React y Python](https://www.getonbrd.com/jobs/senior-fullstack-software-engineer-react-y-python-maxxa-remote) | Maxxa | Get on Board | new |
 | 52 | 24 | 72 | low | 46 | [Platform Engineer - Compute Capacity](https://jobicy.com/jobs/156946-platform-engineer-compute-capacity) | Supabase | Jobicy | new |
 | 52 | 24 | 62 | low | 47 | [Security Software Engineer](https://jobicy.com/jobs/149550-security-software-engineer) | Canonical | Jobicy | new |
 | 52 | 40 | 72 | low | 47 | [Engineering Manager - Solutions Engineering](https://jobicy.com/jobs/149556-engineering-manager-solutions-engineering) | Canonical | Jobicy | new |
