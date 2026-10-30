@@ -2,14 +2,14 @@
   "version": 4,
   "matcher": "potential-v1",
   "trust_layer": "listing-v1",
-  "generated_at": "2026-10-29T21:13:29.997Z",
+  "generated_at": "2026-10-30T06:00:27.155Z",
   "career_model_version": 2,
   "application_mode": "manual",
   "source_failures": [],
   "source_stats": {
     "Remotive": 12,
-    "Arbeitnow": 55,
-    "Get on Board": 536,
+    "Arbeitnow": 87,
+    "Get on Board": 538,
     "RemoteOK": 99,
     "Jobicy": 60,
     "Himalayas": 84
@@ -207,11 +207,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-27T20:46:41.817Z",
-      "last_seen": "2026-10-29T21:13:29.997Z",
+      "last_seen": "2026-10-30T06:00:27.155Z",
       "merged_urls": [
         "https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote",
         "https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote",
@@ -341,7 +341,7 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": [
           {
             "at": "2026-10-26T18:23:45.552Z",
@@ -353,7 +353,7 @@
         ]
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z",
+      "last_seen": "2026-10-30T06:00:27.155Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://jobicy.com/jobs/156943-product-manager-realtime",
@@ -502,11 +502,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z",
+      "last_seen": "2026-10-30T06:00:27.155Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/dentsu-international/jobs/data-engineer-cdp-specialist",
@@ -815,11 +815,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "jobicy-149527",
@@ -948,7 +948,7 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": [
           {
             "at": "2026-10-26T15:01:28.119Z",
@@ -960,7 +960,7 @@
         ]
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "jobicy-149565",
@@ -1078,11 +1078,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "jobicy-149577",
@@ -1201,11 +1201,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/automation-devops-engineer-remoto",
@@ -1333,11 +1333,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z",
+      "last_seen": "2026-10-30T06:00:27.155Z",
       "merged_urls": [
         "https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto?utm_source=api",
         "https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100?utm_source=api",
@@ -1350,285 +1350,6 @@
         "title_hash": "d8176735e1ba"
       },
       "blocking_key": "knowmad mood|devops|spain"
-    },
-    {
-      "id": "himalayas-https://himalayas.app/companies/aldia/jobs/junior-devops-engineer",
-      "source": "Himalayas",
-      "source_trust": "official_public_api",
-      "external_id": "https://himalayas.app/companies/aldia/jobs/junior-devops-engineer",
-      "url": "https://himalayas.app/companies/aldia/jobs/junior-devops-engineer?utm_source=api",
-      "apply_url": "https://himalayas.app/companies/aldia/jobs/junior-devops-engineer?utm_source=api",
-      "title": "Junior Devops Engineer",
-      "company": "ALDIA",
-      "location": "Spain",
-      "place_text": "Spain",
-      "remote": true,
-      "workplace": "remote",
-      "seniority": "Entry-level",
-      "employment_type": "full_time",
-      "published_at": "2026-10-01T01:39:13.000Z",
-      "salary": "",
-      "tags": [
-        "Developer",
-        "Junior-DevOps-Engineer",
-        "DevOps-Engineer",
-        "Backend-Engineer",
-        "Software-Engineer",
-        "SRE-Engineer",
-        "Junior-DevOps-Engineer-Jobs",
-        "Junior-DevOps",
-        "Remote-Junior-DevOps-Engineer",
-        "Entry-Level-DevOps-Engineer",
-        "Trainee-DevOps-Engineer-Jobs",
-        "cloud-spain"
-      ],
-      "description": "ALDIA es una empresa internacional con sede central en Londres, con presencia en España y Suecia. Nos especializamos en la consultoría tecnológica y de ingeniería. ALDIA trabaja con su propio grupo de consultores para mejorar la calidad y aportar soluciones tecnológicas e innovadoras. En la actualidad, estamos buscando un Junior Devops Engineer para que se incorpore a nuestro equipo de consultores en el sector de soluciones de seguridad. Se requiere conocimiento en: Java Arquitectura de microservicios (kubernetes y dockers) Rest API Valorable: Spring, Angular CI/CD, Cloud computing, MongoDB, Scrum Actividades: Gestión y desarrollo de aplicaciones backend de IOT Seguimiento y resolución de incidencias en entorno de producción Disponibilidad para dar soporte nivel 2 y 3 Incorporación mediante contrato indefinido. 100% remoto con disponibilidad para estar en Madrid puntualmente. Originally posted on Himalayas",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Himalayas",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 11,
-      "keyword_main_score": 14,
-      "keyword_side_score": 11,
-      "main_eligible_now": false,
-      "side_eligible": false,
-      "relocation_watch": true,
-      "access": "relocation-watch",
-      "matched_keywords": [
-        "backend",
-        "devops"
-      ],
-      "main_signals": [],
-      "side_signals": [],
-      "negative_hits": 0,
-      "main_score": 55,
-      "side_score": 49,
-      "potential": {
-        "current_fit": 40,
-        "transferability": 83,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 45,
-        "career_potential": 72,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 12,
-        "commute_note": "no es viaje diario; commute() no recibe Valencia",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": false,
-        "work_after_valencia": true,
-        "place_bridge": false,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: GitHub Actions (ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "+ evidencia directa: Java Spring Boot (spring) · fuentes: Ian-franco-collada-pontorno-java · profundidad sin confirmar",
-          "+ evidencia directa: MongoDB (mongodb) · fuentes: Ian-franco-collada-pontorno-Backend · profundidad sin confirmar",
-          "+ transferible: DevOps transition base (devops, sre) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "- gap herramienta: kubernetes",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: devops",
-          "no es viaje diario; commute() no recibe Valencia"
-        ],
-        "gaps": [
-          {
-            "term": "kubernetes",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 55,
-        "side_rank": 49,
-        "main_eligible": false,
-        "side_eligible": false,
-        "relocation_watch": true,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "unknown",
-        "signals": [],
-        "warnings": [
-          "listing_url_off_board",
-          "apply_url_external"
-        ]
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
-        "history": []
-      },
-      "first_seen": "2026-10-29T21:13:29.997Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
-    },
-    {
-      "id": "himalayas-https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-integration-specialist-consultant",
-      "source": "Himalayas",
-      "source_trust": "official_public_api",
-      "external_id": "https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-integration-specialist-consultant",
-      "url": "https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-integration-specialist-consultant?utm_source=api",
-      "apply_url": "https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-integration-specialist-consultant?utm_source=api",
-      "title": "SAP BTP Integration Specialist/Consultant",
-      "company": "Pontoonglobal",
-      "location": "Worldwide",
-      "place_text": "Worldwide",
-      "remote": true,
-      "workplace": "remote",
-      "seniority": "Mid-level",
-      "employment_type": "full_time",
-      "published_at": "2026-10-06T15:41:27.000Z",
-      "salary": "800000-1400000 INR / annual",
-      "tags": [
-        "Developer",
-        "SAP-Integration-Consultant",
-        "Integration-Specialist",
-        "SAP-Consultant",
-        "Integration-Developer",
-        "SAP-BTP-Consultant",
-        "SAP-BTP-Integration-Lead",
-        "SAP-BTP-Development-Consultant",
-        "SAP-BTP-Developer",
-        "SAP-BTP-Engineer",
-        "SAP-BTP-Consulting",
-        "SAP-Integration-Specialist"
-      ],
-      "description": "Job Title: SAP BTP Integration Specialist/Consultant Experience: 3–5 Years Location: Remote Job Overview We are looking for a highly skilled and motivated SAP BTP Integration Specialist/Consultant to join our team on a remote basis. In this role, you will be responsible for designing, developing, and deploying robust integration solutions using SAP Business Technology Platform (BTP) to connect SAP and non-SAP systems—both cloud and on-premise. You will play a key role in enabling seamless data flows, real-time process automation, and scalable enterprise integration. Key Responsibilities Design and implement end-to-end integrations using SAP BTP Integration Suite including CPI, API Management, and Event Mesh Gather and analyze business requirements to translate into technical integration designs Develop and manage APIs using SAP API Management and Open Connectors Configure and optimize ALE/IDocs, RFCs, Web Services, REST, and OData interfaces Implement event-driven architecture using SAP Advanced Event Mesh for real-time communication Ensure secure connectivity using SAP Cloud Connector and protocols like OAuth, SAML, JWT Monitor integration performance, troubleshoot issues, and provide timely support Follow best practices for integration design, data security, and compliance Maintain detailed technical documentation for solutions and processes Stay current with the latest SAP BTP updates and integration trends, recommending innovations as needed Collaborate with cross-functional teams including developers, functional consultants, and architects Required Skills and Qualifications Bachelor’s degree in Computer Science, Information Technology, or related field 3 to 5 years of hands-on experience in SAP integration technologies, particularly SAP BTP Integration Suite Proficiency with SAP Cloud Integration (CPI), SAP API Management, and Event Mesh Strong knowledge of integration protocols and standards such as REST, SOAP, OData, ALE/IDocs, JDBC Solid experience in event-driven and API-first architectures Familiarity with cloud and hybrid integration models Experience with SAP Cloud Connector and security protocols including OAuth, SAML, JWT Proficiency in Groovy scripting and working with JSON and XML Excellent communication, analytical, and problem-solving skills Ability to translate complex business requirements into scalable technical solutions Originally posted on Himalayas",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "parsed",
-        "amount": 800000,
-        "amount_max": 1400000,
-        "currency": "INR",
-        "period": "yearly",
-        "gross_or_net": "unknown",
-        "source": "Himalayas",
-        "raw": "800000-1400000 INR / annual"
-      },
-      "base_score": 20,
-      "keyword_main_score": 27,
-      "keyword_side_score": 23,
-      "main_eligible_now": true,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [
-        "automation",
-        "integration",
-        "sap btp"
-      ],
-      "main_signals": [],
-      "side_signals": [],
-      "negative_hits": 0,
-      "main_score": 55,
-      "side_score": 50,
-      "potential": {
-        "current_fit": 40,
-        "transferability": 100,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 51,
-        "career_potential": 52,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (moneda INR) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 70,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "sap"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": "sap_technical",
-        "work_from_zona_oeste": true,
-        "work_after_valencia": true,
-        "place_bridge": true,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: Automation and developer tooling (automation) · fuentes: MIM, Web-Sling-Optimizer",
-          "+ transferible: SAP technical transition (sap, sap btp, integration suite) · fuentes: transferability-analysis · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- gap ecosistema: producto SAP",
-          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: sap",
-          "sin viaje diario desde zona oeste, Buenos Aires"
-        ],
-        "gaps": [
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          },
-          {
-            "term": "producto SAP",
-            "type": "ecosystem"
-          }
-        ],
-        "main_rank": 55,
-        "side_rank": 50,
-        "main_eligible": true,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "medium",
-        "signals": [],
-        "warnings": [
-          "listing_url_off_board",
-          "apply_url_external",
-          "salary_outlier"
-        ]
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
-        "history": []
-      },
-      "first_seen": "2026-10-29T21:13:29.997Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
     },
     {
       "id": "getonboard-qa-automation-engineer-azure-improving-remote",
@@ -1828,11 +1549,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "remoteok-1137572",
@@ -1862,7 +1583,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Senior Software Engineer Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time. Â What We Do Wagmo is a modern pet healthcare company built around how pet parents actually care for their pets. We partner with employers to provide a complete approach to pet and pet-parent wellbeing, from preventive wellness plans and emergency coverage to 24/7 pet telehealth guidance. Our purpose is to unlock every pet parent's potential to provide extraordinary care, and we do it by bringing the same intentionality to pet benefits that the best employers bring to human healthcare. Founded in 2017 and female-founded, Wagmo is headquartered in New York City and trusted by leading employers nationwide. Â Whatâs Important To Us Our mission shapes everything we build and how we work together. We take fearless ownership of outcomes, collaborate with radical candor, and are always driven by the customers and pet parents who trust us. We think critically, follow through relentlessly, and find the extra 10% that turns good work into exceptional work. We keep it weird because the obvious answer is rarely the most interesting one. Our values aren't aspirational. We interview for them and hold each other accountable to them. If what you've read so far resonates with you and you want to be part of a team where every person makes the company meaningfully better, we'd love to hear from you.. Â About The Role Wagmo uses AI to process pet wellness and insurance claims. When it works, a pet parent submits a claim and gets reimbursed without anyone on our team touching it. We already automate a meaningful share of claims, and weâre hiring a Senior Software Engineer to take that much further. Youâll join our Pet Parents squad and take on our claims automation system, the pipeline that reads invoices, decides whatâs covered, and pays claims. In your first year, youâll make it cheaper to run, easier to change, and able to handle claims it canât handle today. Youâll own that work from design to production and partner with Product on what to build next. This role is for someone who has shipped AI features that real users and real money depend on, and who knows the difference between a demo and a system you can trust. Â Our Tech Stack: Python Â· Django Â· TypeScript Â· React Â· LLM APIs Â· OpenRouter Â· LangSmith Â· GitHub Â· Linear Â· Claude Code Â· CodeRabbit Â Core Responsibilities Learn our claims automation pipeline in depth and become a core owner, reviewing and shipping changes on your own within your first few months. Lower the cost of every claim we process by routing work to the right models, while keeping accuracy at or above where it is today. Restructure the pipeline so each stage can be changed, tested, and rolled out independently, with evaluations gating every change. Ship new automation that lets more claims resolve without manual review, working with Product to decide what comes next. Use AI to read veterinary records and make better coverage decisions on more types of claims. What Youâll Need To Be Successful Youâve shipped an LLM-powered feature to production that real users or real money depend on. You set up evaluations before rollout, versioned your prompts and models, and planned for rollback. Youâve designed or substantially refactored a system the business depends on, such as payments or claims, without breaking it, and left it easier to change than you found it. Youâve taken over a complex system someone else built and become the person others trust with it. Your code reviews change designs, not just style. Youâve made real tradeoffs between model cost and quality, and you can show the numbers that proved quality held. You use coding agents and AI review tools every day, and theyâve changed how fast you ship without lowering the quality of your work. Strong Python skills. Experience with Django and TypeScript is a plus. Why Consider This Role? Your work pays real claims to real pet parents. Youâll see the impact in production. AI is the core of the product here, not a side project. Youâll own one of the most important systems at the company. Youâll have real scope on a small team, making decisions a larger company would spread across several people. Youâll help pet parents get reimbursed faster for the care their pets need. Key Benefits Comprehensive health, vision, and dental coverage HSA/FSA 401(k) retirement planning with employer matching Unlimited paid time off Annual company holidays Additional company-wide recharge days off 12 weeks parental leave for eligible employees Company paid Wagmo pet wellness and insurance plans Regular company-wide events and team gatherings Pet-friendly office Catered lunches Â We here at Wagmo strive to build a workforce composed of individuals with diverse backgrounds, abilities, minds, and identities that will help us to grow, not only as a company, but also as individuals. Wagmo is an Equal Opportunity Employer. Please mention the word **EXCELENT** and tag RMTcyLjE4Mi4yMjYuMjE3 when applying to show you read the job post completely (#RMTcyLjE4Mi4yMjYuMjE3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Senior Software Engineer Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time. Â What We Do Wagmo is a modern pet healthcare company built around how pet parents actually care for their pets. We partner with employers to provide a complete approach to pet and pet-parent wellbeing, from preventive wellness plans and emergency coverage to 24/7 pet telehealth guidance. Our purpose is to unlock every pet parent's potential to provide extraordinary care, and we do it by bringing the same intentionality to pet benefits that the best employers bring to human healthcare. Founded in 2017 and female-founded, Wagmo is headquartered in New York City and trusted by leading employers nationwide. Â Whatâs Important To Us Our mission shapes everything we build and how we work together. We take fearless ownership of outcomes, collaborate with radical candor, and are always driven by the customers and pet parents who trust us. We think critically, follow through relentlessly, and find the extra 10% that turns good work into exceptional work. We keep it weird because the obvious answer is rarely the most interesting one. Our values aren't aspirational. We interview for them and hold each other accountable to them. If what you've read so far resonates with you and you want to be part of a team where every person makes the company meaningfully better, we'd love to hear from you.. Â About The Role Wagmo uses AI to process pet wellness and insurance claims. When it works, a pet parent submits a claim and gets reimbursed without anyone on our team touching it. We already automate a meaningful share of claims, and weâre hiring a Senior Software Engineer to take that much further. Youâll join our Pet Parents squad and take on our claims automation system, the pipeline that reads invoices, decides whatâs covered, and pays claims. In your first year, youâll make it cheaper to run, easier to change, and able to handle claims it canât handle today. Youâll own that work from design to production and partner with Product on what to build next. This role is for someone who has shipped AI features that real users and real money depend on, and who knows the difference between a demo and a system you can trust. Â Our Tech Stack: Python Â· Django Â· TypeScript Â· React Â· LLM APIs Â· OpenRouter Â· LangSmith Â· GitHub Â· Linear Â· Claude Code Â· CodeRabbit Â Core Responsibilities Learn our claims automation pipeline in depth and become a core owner, reviewing and shipping changes on your own within your first few months. Lower the cost of every claim we process by routing work to the right models, while keeping accuracy at or above where it is today. Restructure the pipeline so each stage can be changed, tested, and rolled out independently, with evaluations gating every change. Ship new automation that lets more claims resolve without manual review, working with Product to decide what comes next. Use AI to read veterinary records and make better coverage decisions on more types of claims. What Youâll Need To Be Successful Youâve shipped an LLM-powered feature to production that real users or real money depend on. You set up evaluations before rollout, versioned your prompts and models, and planned for rollback. Youâve designed or substantially refactored a system the business depends on, such as payments or claims, without breaking it, and left it easier to change than you found it. Youâve taken over a complex system someone else built and become the person others trust with it. Your code reviews change designs, not just style. Youâve made real tradeoffs between model cost and quality, and you can show the numbers that proved quality held. You use coding agents and AI review tools every day, and theyâve changed how fast you ship without lowering the quality of your work. Strong Python skills. Experience with Django and TypeScript is a plus. Why Consider This Role? Your work pays real claims to real pet parents. Youâll see the impact in production. AI is the core of the product here, not a side project. Youâll own one of the most important systems at the company. Youâll have real scope on a small team, making decisions a larger company would spread across several people. Youâll help pet parents get reimbursed faster for the care their pets need. Key Benefits Comprehensive health, vision, and dental coverage HSA/FSA 401(k) retirement planning with employer matching Unlimited paid time off Annual company holidays Additional company-wide recharge days off 12 weeks parental leave for eligible employees Company paid Wagmo pet wellness and insurance plans Regular company-wide events and team gatherings Pet-friendly office Catered lunches Â We here at Wagmo strive to build a workforce composed of individuals with diverse backgrounds, abilities, minds, and identities that will help us to grow, not only as a company, but also as individuals. Wagmo is an Equal Opportunity Employer. Please mention the word **EXCELENT** and tag ROS4yMzQuNy4xOQ== when applying to show you read the job post completely (#ROS4yMzQuNy4xOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "description_truncated": false,
       "salary_value": {
         "status": "unparsed",
@@ -1962,11 +1683,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-27T14:38:54.174Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "jobicy-149558",
@@ -2089,11 +1810,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "jobicy-149572",
@@ -2208,11 +1929,143 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/twtspain/jobs/devops-engineer-react-node-js-remote-spain",
+      "source": "Himalayas",
+      "source_trust": "official_public_api",
+      "external_id": "https://himalayas.app/companies/twtspain/jobs/devops-engineer-react-node-js-remote-spain",
+      "url": "https://himalayas.app/companies/twtspain/jobs/devops-engineer-react-node-js-remote-spain?utm_source=api",
+      "apply_url": "https://himalayas.app/companies/twtspain/jobs/devops-engineer-react-node-js-remote-spain?utm_source=api",
+      "title": "DevOps Engineer (React + Node.js) | Remote (Spain)",
+      "company": "Twtspain",
+      "location": "Spain",
+      "place_text": "Spain",
+      "remote": true,
+      "workplace": "remote",
+      "seniority": "Senior",
+      "employment_type": "full_time",
+      "published_at": "2026-10-29T19:00:35.000Z",
+      "salary": "",
+      "tags": [
+        "Developer",
+        "DevOps-Engineer",
+        "Cloud-Engineer",
+        "Platform-Engineer",
+        "Site-Reliability-Engineer",
+        "Software-Engineer",
+        "cloud-spain"
+      ],
+      "description": "Job Description At The Whiteam Consulting , we are looking for an experienced DevOps Engineer to join a long-term project in a fully remote environment. We are looking for a professional with 5+ years of experience in DevOps, with strong knowledge of CI/CD, automation, Infrastructure as Code and cloud environments , who is comfortable working in an international environment. Responsibilities Build, maintain and improve CI/CD pipelines and automation processes. Ensure platform reliability, scalability and performance . Implement Infrastructure as Code (IaC) and manage cloud resources. Monitor systems, troubleshoot issues and ensure their quick resolution. Collaborate with development teams to enable smooth and reliable deployments. Follow and contribute to platform standards and best practices. Implement automation and continuous improvements across the platform. Create and maintain technical documentation. Participate in incident resolution and operational improvements. Requirements 5+ years of professional experience in DevOps roles. Proven experience designing, maintaining and automating CI/CD pipelines . Experience with Infrastructure as Code (IaC) . Experience managing cloud environments and resources . Experience with system monitoring, troubleshooting and incident resolution. Experience collaborating with software development teams. Strong understanding of DevOps practices and automation. Experience working in an international environment. Advanced English level (C1) . Availability to complete a technical pre-check as part of the selection process. Nice to have Experience working with React and Node.js environments. Experience in large-scale cloud platforms. Advanced automation and CI/CD optimization experience. Knowledge of monitoring, observability and alerting solutions. Conditions Location: Spain. Work model: 100% remote. Project: Long-term project, initially 12 months . Working hours: 09:00 - 18:00. Language: Advanced English (C1). Compensation: Depending on experience and suitability for the position. Start date: As soon as possible. Company Joining THEWHITEAM means becoming part of a company made up of professionals with extensive experience in technology consulting. We strongly believe that companies and clients define the direction of the industry, but it is people who build it. That is why we consider our people to be our greatest asset and a key source of added value. Benefits Our collective agreement is the one applicable to Consulting and Market Research companies. 23 days of annual leave. 14 salary payments: 12 monthly payments plus two additional payments in June and December. Flexible compensation options, including childcare vouchers and medical + dental insurance . Originally posted on Himalayas",
+      "description_truncated": false,
+      "salary_value": {
+        "status": "unparsed",
+        "source": "Himalayas",
+        "gross_or_net": "unknown"
+      },
+      "base_score": 18,
+      "keyword_main_score": 21,
+      "keyword_side_score": 20,
+      "main_eligible_now": false,
+      "side_eligible": false,
+      "relocation_watch": true,
+      "access": "relocation-watch",
+      "matched_keywords": [
+        "automation",
+        "devops",
+        "react"
+      ],
+      "main_signals": [],
+      "side_signals": [
+        "project"
+      ],
+      "negative_hits": 0,
+      "main_score": 54,
+      "side_score": 48,
+      "potential": {
+        "current_fit": 24,
+        "transferability": 92,
+        "gap_cost": "unknown",
+        "gap_cost_score": 60,
+        "evidence_confidence": "low",
+        "evidence_confidence_score": 54,
+        "career_potential": 72,
+        "relocation_value": "not_yet_ordered",
+        "compensation_fit": 50,
+        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
+        "salary_comparison": "incomparable",
+        "workstyle_fit": 82,
+        "commute_burden": 12,
+        "commute_note": "no es viaje diario; commute() no recibe Valencia",
+        "commute_status": "not_a_daily_commute",
+        "commute_km": null,
+        "role_families": [
+          "devops"
+        ],
+        "requirements_status": "unread",
+        "mandatory_requirements": [],
+        "desirable_requirements": [],
+        "sap_kind": null,
+        "work_from_zona_oeste": false,
+        "work_after_valencia": true,
+        "place_bridge": false,
+        "move_window": "unknown",
+        "earliest_start": "unknown",
+        "must_start_before": "unknown",
+        "reasons": [
+          "+ evidencia directa: TypeScript (node.js) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar",
+          "+ evidencia directa: React (react) · fuentes: MIM, Pontorno-vault, Factu",
+          "+ evidencia directa: GitHub Actions (ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "+ evidencia directa: Automation and developer tooling (automation) · fuentes: MIM, Web-Sling-Optimizer",
+          "+ transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "fit: requisitos obligatorios no leídos; techo 40",
+          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
+          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
+          "- gap desconocido: requisitos obligatorios no leídos",
+          "familias: devops",
+          "no es viaje diario; commute() no recibe Valencia"
+        ],
+        "gaps": [
+          {
+            "term": "requisitos obligatorios no leídos",
+            "type": "unknown"
+          }
+        ],
+        "main_rank": 54,
+        "side_rank": 48,
+        "main_eligible": false,
+        "side_eligible": false,
+        "relocation_watch": true,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "unknown",
+        "signals": [],
+        "warnings": [
+          "listing_url_off_board",
+          "apply_url_external"
+        ]
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-10-30T06:00:27.155Z",
+        "history": []
+      },
+      "first_seen": "2026-10-30T06:00:27.155Z",
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/trimble/jobs/data-product-engineer-data-analytics",
@@ -2370,11 +2223,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-22T05:01:33.698Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/proton/jobs/senior-data-engineer-ai-native-data-layer",
@@ -2500,11 +2353,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-23T05:02:16.256Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-desarrollador-mobile-mediastream-bogota-santiago-bf34",
@@ -2688,11 +2541,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "jobicy-156947",
@@ -2825,11 +2678,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto",
@@ -2973,11 +2826,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100",
@@ -3127,11 +2980,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/mercor/jobs/devops-engineer-ai-model-evaluator-5752080247",
@@ -3288,161 +3141,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
-    },
-    {
-      "id": "himalayas-https://himalayas.app/companies/odilo/jobs/devops-engineer",
-      "source": "Himalayas",
-      "source_trust": "official_public_api",
-      "external_id": "https://himalayas.app/companies/odilo/jobs/devops-engineer",
-      "url": "https://himalayas.app/companies/odilo/jobs/devops-engineer?utm_source=api",
-      "apply_url": "https://himalayas.app/companies/odilo/jobs/devops-engineer?utm_source=api",
-      "title": "DevOps Engineer",
-      "company": "Odilo",
-      "location": "Spain",
-      "place_text": "Spain",
-      "remote": true,
-      "workplace": "remote",
-      "seniority": "Mid-level",
-      "employment_type": "full_time",
-      "published_at": "2026-10-09T19:43:07.000Z",
-      "salary": "",
-      "tags": [
-        "Developer",
-        "DevOps-Engineer",
-        "Site-Reliability-Engineer",
-        "Cloud-Engineer",
-        "Infrastructure-Engineer",
-        "Platform-Engineer",
-        "DevOps-Software-Engineer",
-        "Cloud-DevOps-Engineer",
-        "ProdOps-Engineer",
-        "DevOps-Automation-Engineer",
-        "Infrastructure-DevOps-Engineer",
-        "AWS-DevOps-Engineer"
-      ],
-      "description": "We are Letmino , the tech company behind the continuous learning platform that integrates into your work environment and daily activities. We help professionals make better use of their time by selecting and contextualizing content, providing precise answers at the exact moment learning needs arise. We turn available time in people’s schedules into immediately applicable knowledge, driving talent development at each organization’s own pace. Our culture is built around five values: Bold & Unafraid, Ever-Evolving, Fluid, Tech for Humans, and Radical & Real. In practice, this means something quite simple: daring to speak up and propose new ideas, continuously learning, simplifying, using technology with purpose, and speaking openly to build better solutions together. ¿Do you want to join the Team? 🔥 We are looking for a DevOps Engineer with experience and technical vision to join our team. So... If your day-to-day involves terminals, automation, and continuous improvement... 👇 ☁️ If you enjoy designing, operating, and evolving infrastructures in AWS; ⚓ Working with Kubernetes, Terraform, and CI/CD integrations; 🚀 And you like understanding systems end-to-end to make them more efficient, scalable, and resilient... We want to meet you. 🤝 What you will do at Letmino: Cloud Architecture & Strategy: Define and evolve the company’s cloud architecture, ensuring security, scalability, and cost-efficiency in AWS. Infrastructure as Code (IaC): Automate the provisioning and management of cloud infrastructure (Terraform), ensuring consistent configuration, patching, and scaling across all environments. Design and maintain CI/CD pipelines and internal tools to enable seamless deployment and drive DevOps best practices throughout the organization. Reliability & SLAs: Ensure high availability and performance of production platforms in line with SLAs, managing disaster recovery plans and resilience strategies. Observability : Configure and maintain monitoring, logging, and alerting systems to proactively detect anomalies and understand system behavior. Incident Management & Collaboration: Collaborate with development and product teams to troubleshoot complex issues, optimize critical systems, and lead root cause analysis. Requirements: Degree in Computer Engineering, Telecommunications and/or similar. Minimum four years of experience as a Devops Technician. Experience with Cloud environments , especially Amazon Web Services. Extensive experience with Linux, Unix, Windows environments, in Mysql, Oracle, PostgreSQL relational databases and MongoDb non-relational databases. Knowledge of Docker, Kubernetes and Helm (EKS, Argo Rollouts) Extensive knowledge of scripting languages: perl, python, shell script ... Knowledge of using Nginx Tomcat, OpenResty Knowledge of CI/CD: Jenkins and Go Handling of Infrastructure as Code tools (Terraform, Ansible) Experience with monitoring and logging (Datadog, Elasticsearch) High level of English Nice to have: Proven experience in a fast-paced and high-growth work environment - speed is our currency as we launch multiple locations. Certifications in AWS or other Cloud providers will be considered a plus. Implementation and configuration of security policies in cloud environments Why Letmino? Working at Letmino is about being part of a lifelong learning culture, where everyone has the possibility to take on challenges and participate in the growth of the company. But we also offer: Be part of an international, creative and ambitious environment , where every person has a real impact and actively contributes to the company’s growth. Unlimited learning with LetminoFY , our own learning platform with over 3 million pieces of content in all formats (books, audiobooks, videos, courses, movies and learning experiences). A flexible work model with remote options , allowing you to organize your schedule in a way that truly works for you. Work 100% remotely during July and August with shorter summer hours (8:00 – 15:00) for a better work-life balance. Your birthday off , so you can celebrate it your way. Flexible compensation plans , tailored to your needs: meals, transportation, childcare, training and private health insurance. Access to an emotional wellbeing app , with professional support to take care of your mental health. Continuous professional growt h, with real internal development opportunities and ongoing learning. Team, culture and wellness events , including sports activities, to connect, collaborate and celebrate achievements together. …And more! Sounds like a mission made for you? Then we need to talk! *Letmino is an entity committed to Diversity and Inclusion, which is why it accepts the presentation of candidatures without bias. Originally posted on Himalayas",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Himalayas",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 16,
-      "keyword_main_score": 19,
-      "keyword_side_score": 16,
-      "main_eligible_now": false,
-      "side_eligible": false,
-      "relocation_watch": true,
-      "access": "relocation-watch",
-      "matched_keywords": [
-        "automation",
-        "integration",
-        "devops"
-      ],
-      "main_signals": [],
-      "side_signals": [],
-      "negative_hits": 0,
-      "main_score": 53,
-      "side_score": 48,
-      "potential": {
-        "current_fit": 40,
-        "transferability": 67,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 51,
-        "career_potential": 72,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 12,
-        "commute_note": "no es viaje diario; commute() no recibe Valencia",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": false,
-        "work_after_valencia": true,
-        "place_bridge": false,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: PostgreSQL (postgresql) · fuentes: MIM, Pontorno-vault, Factu · profundidad sin confirmar",
-          "+ evidencia directa: GitHub Actions (ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "+ evidencia directa: Docker (docker) · fuentes: MIM · profundidad sin confirmar",
-          "+ evidencia directa: Automation and developer tooling (automation) · fuentes: MIM, Web-Sling-Optimizer",
-          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
-          "+ evidencia directa: MongoDB (mongodb) · fuentes: Ian-franco-collada-pontorno-Backend · profundidad sin confirmar",
-          "+ evidencia laboral: marketing (growth) · fuentes: self-assessment",
-          "+ transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "- gap herramienta: aws",
-          "- gap herramienta: kubernetes",
-          "- gap herramienta: terraform",
-          "- gap desconocido: requisitos obligatorios no leídos"
-        ],
-        "gaps": [
-          {
-            "term": "aws",
-            "type": "tool"
-          },
-          {
-            "term": "kubernetes",
-            "type": "tool"
-          },
-          {
-            "term": "terraform",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 53,
-        "side_rank": 48,
-        "main_eligible": false,
-        "side_eligible": false,
-        "relocation_watch": true,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "unknown",
-        "signals": [],
-        "warnings": [
-          "listing_url_off_board",
-          "apply_url_external"
-        ]
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
-        "history": []
-      },
-      "first_seen": "2026-10-29T21:13:29.997Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-senior-full-stack-engineer-improving-remote",
@@ -3623,11 +3326,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-ai-backend-engineer-improving-remote",
@@ -3832,11 +3535,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-tech-lead-grupo-mariposa-remote-c340",
@@ -4021,11 +3724,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-desarrollador-fullstack-java-angular-improving-remote",
@@ -4237,11 +3940,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-senior-fullstack-software-engineer-react-y-python-maxxa-remote",
@@ -4434,11 +4137,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "jobicy-156946",
@@ -4573,11 +4276,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "jobicy-149550",
@@ -4696,11 +4399,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T13:14:07.093Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "jobicy-149556",
@@ -4831,11 +4534,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "jobicy-149563",
@@ -4982,11 +4685,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "jobicy-149569",
@@ -5109,11 +4812,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "jobicy-149573",
@@ -5236,11 +4939,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "jobicy-149557",
@@ -5365,11 +5068,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/doodle/jobs/data-infrastructure-engineer-spain",
@@ -5519,11 +5222,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-desarrollador-full-stack-liferay-bc-tecnologia-santiago",
@@ -5709,11 +5412,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-machine-learning-engineer-improving-remote",
@@ -5885,11 +5588,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-senior-data-engineer-databricks-on-azure-devsu-remote-7b55",
@@ -6124,11 +5827,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "jobicy-149536",
@@ -6247,11 +5950,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails",
@@ -6388,11 +6091,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z",
+      "last_seen": "2026-10-30T06:00:27.155Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails",
@@ -6554,11 +6257,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-28T05:55:09.620Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-senior-php-developer-laravel-aws-improving-remote",
@@ -6751,11 +6454,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-tech-lead-grupo-mariposa-remote-56da",
@@ -6939,11 +6642,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-forward-deployed-engineer-diverse-programmers-remote",
@@ -7188,11 +6891,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-senior-qa-automation-engineer-net-c-improving-remote",
@@ -7382,11 +7085,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-qa-funcional-senior-microsoft-dynamics-365-latam-bc-tecnologia-remote",
@@ -7599,11 +7302,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/dentsu-international/jobs/dev-ops-developer",
@@ -7744,11 +7447,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/apptiva-core-technologies/jobs/devops-engineer-665181510",
@@ -7898,158 +7601,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
-    },
-    {
-      "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-data-engineer",
-      "source": "Himalayas",
-      "source_trust": "official_public_api",
-      "external_id": "https://himalayas.app/companies/knowmad-mood/jobs/senior-data-engineer",
-      "url": "https://himalayas.app/companies/knowmad-mood/jobs/senior-data-engineer?utm_source=api",
-      "apply_url": "https://himalayas.app/companies/knowmad-mood/jobs/senior-data-engineer?utm_source=api",
-      "title": "Senior Data Engineer",
-      "company": "knowmad mood",
-      "location": "Spain",
-      "place_text": "Spain",
-      "remote": true,
-      "workplace": "remote",
-      "seniority": "Senior",
-      "employment_type": "full_time",
-      "published_at": "2026-10-15T22:46:16.000Z",
-      "salary": "",
-      "tags": [
-        "Data Science",
-        "Data-Engineer",
-        "Data-Engineering",
-        "Senior-Data-Engineering",
-        "Senior-Data-Engineer-Jobs",
-        "Senior-Data-Engineer-Positions",
-        "data-spain"
-      ],
-      "description": "We are knowmad mood ! We are a leading digital transformation company, constantly evolving and at the forefront of technology. Made up of over 3,000 creative, digital, and innovative people connected by a purpose and capable of creating connections with people all around the world. A responsible, flexible team with high adaptability to the needs of our clients and the market, while providing value, vision, creativity, expertise, professionalism, and passion for technology in every project. The values that guide our path and lead us to excellence are collaboration, innovation, commitment, fun, and trust. Join our team as a Senior Data Engineer and enjoy an innovative and collaborative work environment. Key Responsibilities: Design, develop, and optimize large-scale data pipelines using Apache Spark and Python/PySpark. Create reliable, reusable, and well-structured datasets for business and analytical consumption. Develop and maintain cloud-based data solutions on Microsoft Azure. Process, transform, store, and expose data efficiently across different platforms and applications. Implement data quality controls, validation processes, monitoring, and documentation standards across data pipelines. Collaborate with Data Engineering, Data Science, Architecture, and business teams to understand requirements and deliver practical data solutions. Contribute to engineering best practices related to code quality, testing, version control, CI/CD, and automation. Apply data governance, data cataloging, and data quality monitoring practices to ensure trusted and compliant data assets. Participate in the design of scalable cloud-based data architectures. Professional Experience: 5+ years of experience in Data Engineering. 5+ years of hands-on experience with Apache Spark using Python/PySpark in production environments. Proven experience building and maintaining production-grade data pipelines in large-scale or complex data ecosystems. Strong understanding of dimensional data modeling and data warehouse design principles. Experience designing scalable cloud-based data architectures. Ability to provide technical guidance and support on ETL/ELT best practices and data engineering standards. Nice to Have: Experience with Databricks, Delta Lake, Unity Catalog, and Databricks Workflows. Hands-on experience delivering data engineering solutions using Azure Databricks. Familiarity with data governance and data cataloging frameworks. What do we offer? -Permanent contract -Remote work model 🏡. Option to go to the office, but always at the employee's choice. -Flexible hours ⏰: flexible schedule, start at 8:30 am, finish at 6 pm, with intensive Fridays from 8 am to 3 pm, and in summer (July and August) intensive from 8 am to 3 pm. -Vacation 🌴: 22 vacation days + 2 personal days, plus December 24th and 31st off. -Permanent contract 📄: from day one, with the option of 12 or 14 payments. -Flexible compensation 💳: Restaurant card, childcare voucher, health insurance, training, and other benefits with tax advantages. -Perks club 🎁: Discounts on technology, leisure, and training. -Continuous training 📚: Access to Udemy Business, language courses, official certifications, and technical training. -Career plan 🚀: Support to grow, specialize, or take on new challenges. -Overall well-being 💚: Nutrition programs, physical activity, and emotional balance. -Work-Life Balance +LIFE 👨 👩 👧 👦: 24/7 personal and family support. -Inclusive Environment 🌍: Diverse and multicultural setting. -Social Events 🎮: Activities to connect with the team. -Sign up and we’ll give you more details! 🚀 To stay updated on our news, follow us here -&gt; knowmad mood At knowmad mood we are committed to equal opportunities and respect for diversity. We apply our Equality Plan and the principle of non-discrimination in all our selection processes. Originally posted on Himalayas",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Himalayas",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 12,
-      "keyword_main_score": 15,
-      "keyword_side_score": 18,
-      "main_eligible_now": false,
-      "side_eligible": false,
-      "relocation_watch": true,
-      "access": "relocation-watch",
-      "matched_keywords": [
-        "automation",
-        "data engineer"
-      ],
-      "main_signals": [],
-      "side_signals": [
-        "contract",
-        "project"
-      ],
-      "negative_hits": 0,
-      "main_score": 49,
-      "side_score": 44,
-      "potential": {
-        "current_fit": 24,
-        "transferability": 65,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 51,
-        "career_potential": 72,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 12,
-        "commute_note": "no es viaje diario; commute() no recibe Valencia",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops",
-          "data"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": false,
-        "work_after_valencia": true,
-        "place_bridge": false,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: GitHub Actions (ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "+ evidencia directa: Automation and developer tooling (automation) · fuentes: MIM, Web-Sling-Optimizer",
-          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
-          "+ transferible: Data analytics engineering (data engineering) · fuentes: dashpostgre · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "- gap herramienta: azure",
-          "- gap herramienta: databricks",
-          "- gap herramienta: spark",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: devops, data",
-          "no es viaje diario; commute() no recibe Valencia"
-        ],
-        "gaps": [
-          {
-            "term": "azure",
-            "type": "tool"
-          },
-          {
-            "term": "databricks",
-            "type": "tool"
-          },
-          {
-            "term": "spark",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 49,
-        "side_rank": 44,
-        "main_eligible": false,
-        "side_eligible": false,
-        "relocation_watch": true,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "unknown",
-        "signals": [],
-        "warnings": [
-          "listing_url_off_board",
-          "apply_url_external"
-        ]
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
-        "history": []
-      },
-      "first_seen": "2026-10-29T21:13:29.997Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/tenthpin/jobs/sap-btp-developer-architect-anywhere-in-india-preferred-bengaluru-hyderabad",
@@ -8192,11 +7748,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-senior-php-engineer-laravel-aws-improving-remote",
@@ -8451,11 +8007,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-arquitecto-de-datos-sr-data-ai-grupo-mariposa-remote-48e8",
@@ -8685,11 +8241,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "jobicy-156941",
@@ -8820,11 +8376,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "jobicy-149560",
@@ -8956,11 +8512,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/logicalis-com/jobs/devops-engineer",
@@ -9119,11 +8675,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/logicalis-com/jobs/devops-architect",
@@ -9277,11 +8833,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/scalian/jobs/data-engineer",
@@ -9422,11 +8978,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z",
+      "last_seen": "2026-10-30T06:00:27.155Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/scalian/jobs/data-engineer",
@@ -9573,11 +9129,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z",
+      "last_seen": "2026-10-30T06:00:27.155Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/the-agile-monkeys/jobs/data-analytics-engineer-freelancer",
@@ -9768,11 +9324,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-senior-database-engineer-maria-db-postgresql-improving-remote",
@@ -9973,11 +9529,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-27T20:46:41.817Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-sr-java-platform-engineer-improving-remote",
@@ -10174,11 +9730,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "jobicy-156945",
@@ -10302,11 +9858,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/scalian/jobs/devops-engineer",
@@ -10455,11 +10011,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/irium-portugal/jobs/devops-engineer-remoto-espana",
@@ -10598,11 +10154,155 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-23T19:58:45.743Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/canonical/jobs/software-engineer-data-infrastructure-opensearch-elasticsearch",
+      "source": "Himalayas",
+      "source_trust": "official_public_api",
+      "external_id": "https://himalayas.app/companies/canonical/jobs/software-engineer-data-infrastructure-opensearch-elasticsearch",
+      "url": "https://himalayas.app/companies/canonical/jobs/software-engineer-data-infrastructure-opensearch-elasticsearch?utm_source=api",
+      "apply_url": "https://himalayas.app/companies/canonical/jobs/software-engineer-data-infrastructure-opensearch-elasticsearch?utm_source=api",
+      "title": "Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch",
+      "company": "Canonical",
+      "location": "Afghanistan, Albania, Algeria, Andorra, Angola, Antarctica, Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Benin, Bosnia and Herzegovina, Botswana, Bouvet Island, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Republic of the, Cook Islands, Croatia, Curaçao, Cyprus, Czechia, Côte d'Ivoire, Denmark, Djibouti, Egypt, Equatorial Guinea, Eritrea, Estonia, Eswatini, Ethiopia, Faroe Islands, Finland, France, French Guiana, French Southern Territories, Gabon, Gambia, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Guadeloupe, Guernsey, Guinea, Guinea-Bissau, Heard Island and McDonald Islands, Holy See (Vatican City State), Hungary, Iceland, Iran, Iraq, Ireland, Isle of Man, Israel, Italy, Jersey, Jordan, Kazakhstan, Kenya, Kosovo, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malawi, Mali, Malta, Martinique, Mauritania, Mauritius, Mayotte, Moldova, Monaco, Montenegro, Morocco, Mozambique, Namibia, Netherlands, Niger, Nigeria, North Macedonia, Norway, Oman, Palestine, State of, Poland, Portugal, Qatar, Romania, Russian Federation, Rwanda, Réunion, Saint Barthélemy, Saint Helena, Ascension and Tristan da Cunha, Saint Martin (French part), Saint Pierre and Miquelon, San Marino, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Sint Maarten (Dutch part), Slovakia, Slovenia, Somalia, South Africa, South Sudan, Spain, Sudan, Svalbard and Jan Mayen, Sweden, Switzerland, Syrian Arab Republic, Tajikistan, Tanzania, Togo, Tunisia, Turkey, Turkmenistan, Uganda, Ukraine, United Arab Emirates, United Kingdom, Uzbekistan, Western Sahara, Yemen, Zambia, Zimbabwe, Åland Islands",
+      "place_text": "Afghanistan, Albania, Algeria, Andorra, Angola, Antarctica, Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Benin, Bosnia and Herzegovina, Botswana, Bouvet Island, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Republic of the, Cook Islands, Croatia, Curaçao, Cyprus, Czechia, Côte d'Ivoire, Denmark, Djibouti, Egypt, Equatorial Guinea, Eritrea, Estonia, Eswatini, Ethiopia, Faroe Islands, Finland, France, French Guiana, French Southern Territories, Gabon, Gambia, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Guadeloupe, Guernsey, Guinea, Guinea-Bissau, Heard Island and McDonald Islands, Holy See (Vatican City State), Hungary, Iceland, Iran, Iraq, Ireland, Isle of Man, Israel, Italy, Jersey, Jordan, Kazakhstan, Kenya, Kosovo, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malawi, Mali, Malta, Martinique, Mauritania, Mauritius, Mayotte, Moldova, Monaco, Montenegro, Morocco, Mozambique, Namibia, Netherlands, Niger, Nigeria, North Macedonia, Norway, Oman, Palestine, State of, Poland, Portugal, Qatar, Romania, Russian Federation, Rwanda, Réunion, Saint Barthélemy, Saint Helena, Ascension and Tristan da Cunha, Saint Martin (French part), Saint Pierre and Miquelon, San Marino, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Sint Maarten (Dutch part), Slovakia, Slovenia, Somalia, South Africa, South Sudan, Spain, Sudan, Svalbard and Jan Mayen, Sweden, Switzerland, Syrian Arab Republic, Tajikistan, Tanzania, Togo, Tunisia, Turkey, Turkmenistan, Uganda, Ukraine, United Arab Emirates, United Kingdom, Uzbekistan, Western Sahara, Yemen, Zambia, Zimbabwe, Åland Islands",
+      "remote": true,
+      "workplace": "remote",
+      "seniority": "Mid-level",
+      "employment_type": "full_time",
+      "published_at": "2026-10-29T09:12:58.000Z",
+      "salary": "",
+      "tags": [
+        "Developer",
+        "Data Science",
+        "Software-Engineer",
+        "DevOps-Engineer",
+        "Backend-Engineer",
+        "Data-Engineer",
+        "Charm-Engineering",
+        "Elasticsearch-Engineer",
+        "Data-Infrastructure-Engineer",
+        "Infrastructure-Software-Engineer",
+        "Search-Platform-Engineer",
+        "Data-Platform-Engineer"
+      ],
+      "description": "Canonical is building a comprehensive automation suite to provide multi-cloud and on-premise data solutions for the enterprise. The data platform team is a collaborative team that develops a full range of data stores and data technologies, spanning from big data, through NoSQL, cache-layer capabilities, and analytics; all the way to structured SQL engines. The OpenSearch team is, among other things, focused on creating the best enterprise automation solution for search and analytics suites like OpenSearch and Elasticsearch. We have a number of openings we are looking to hire across a range of levels. We will help you identify a suitable position depending on your experience and interests. Engineers who thrive at Canonical are mindful of open-source community dynamics and equally aware of the needs of large, innovative organisations. Location: This role can be filled in European, Middle East and African time zones. What your day will look like The OpenSearch team is responsible for the automation of OpenSearch operations. This includes ensuring fault-tolerant replication, TLS, installation, and much more; but also provides domain-specific expertise on the actual data system to other teams within Canonical . This role is focused on the creation and automation of features of data platforms, not analysing the data in them. Collaborate proactively with an internationally distributed team Write high-quality, idiomatic Python code to create new features Debug issues and interact with upstream communities publicly Work with helpful and talented engineers including experts in a diverse set of fields Work from home with global travel for 2 to 4 weeks per year for internal and external events What we are looking for in you Proven hands-on experience in software development using Python Proven hands-on experience in distributed systems development Bachelor’s or equivalent in Computer Science, STEM, or a similar degree Willingness to travel up to 4 times a year for internal events Additional skills that you might also bring You might also bring a subset of experience from the following, which will determine the exact role and level we consider you for: Experience operating and managing search and analytics engines like Elasticsearch, Logstash, KIbana, and OpenSearch Experience with Linux systems administration, package management, and operations Experience with the public cloud or a private cloud solution like OpenStack Experience with operating Kubernetes clusters and a belief that it can be used for serious persistent data services What we offer you Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce. In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner. Fully remote working environment - we’ve been working remotely since 2004! Personal learning and development budget of 2,000USD per annum Annual compensation review Recognition rewards Annual holiday leave Parental Leave Employee Assistance Programme Opportunity to travel to new locations to meet colleagues at ‘sprints’ Priority Pass for travel and travel upgrades for long haul company events About Canonical Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business. Canonical is an equal-opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. Originally posted on Himalayas",
+      "description_truncated": false,
+      "salary_value": {
+        "status": "unparsed",
+        "source": "Himalayas",
+        "gross_or_net": "unknown"
+      },
+      "base_score": 11,
+      "keyword_main_score": 4,
+      "keyword_side_score": -7,
+      "main_eligible_now": false,
+      "side_eligible": false,
+      "relocation_watch": true,
+      "access": "restricted-remote",
+      "matched_keywords": [
+        "backend",
+        "automation",
+        "devops"
+      ],
+      "main_signals": [],
+      "side_signals": [
+        "project"
+      ],
+      "negative_hits": 0,
+      "main_score": 45,
+      "side_score": 47,
+      "potential": {
+        "current_fit": 40,
+        "transferability": 60,
+        "gap_cost": "unknown",
+        "gap_cost_score": 60,
+        "evidence_confidence": "low",
+        "evidence_confidence_score": 53,
+        "career_potential": 72,
+        "relocation_value": "not_yet_ordered",
+        "compensation_fit": 50,
+        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
+        "salary_comparison": "incomparable",
+        "workstyle_fit": 82,
+        "commute_burden": 70,
+        "commute_note": "no es viaje diario; commute() no recibe Valencia",
+        "commute_status": "not_a_daily_commute",
+        "commute_km": null,
+        "role_families": [
+          "devops"
+        ],
+        "requirements_status": "unread",
+        "mandatory_requirements": [],
+        "desirable_requirements": [],
+        "sap_kind": null,
+        "work_from_zona_oeste": false,
+        "work_after_valencia": true,
+        "place_bridge": false,
+        "move_window": "unknown",
+        "earliest_start": "unknown",
+        "must_start_before": "unknown",
+        "reasons": [
+          "+ evidencia directa: Automation and developer tooling (automation) · fuentes: MIM, Web-Sling-Optimizer",
+          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
+          "+ transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "fit: requisitos obligatorios no leídos; techo 40",
+          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
+          "- gap herramienta: kubernetes",
+          "- gap herramienta: analytics",
+          "- gap desconocido: requisitos obligatorios no leídos",
+          "familias: devops",
+          "no es viaje diario; commute() no recibe Valencia"
+        ],
+        "gaps": [
+          {
+            "term": "kubernetes",
+            "type": "tool"
+          },
+          {
+            "term": "analytics",
+            "type": "tool"
+          },
+          {
+            "term": "requisitos obligatorios no leídos",
+            "type": "unknown"
+          }
+        ],
+        "main_rank": 45,
+        "side_rank": 47,
+        "main_eligible": false,
+        "side_eligible": false,
+        "relocation_watch": true,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "unknown",
+        "signals": [],
+        "warnings": [
+          "listing_url_off_board",
+          "apply_url_external"
+        ]
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-10-30T06:00:27.155Z",
+        "history": []
+      },
+      "first_seen": "2026-10-30T06:00:27.155Z",
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-tech-lead-outsystems-con-ingles-y-espanol-latam-i2b-technologies-remote",
@@ -10781,11 +10481,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-net-engineer-autoraptor-remote",
@@ -10937,11 +10637,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-data-engineer-databricks-improving-remote",
@@ -11132,11 +10832,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/sopra-steria/jobs/devops-engineer-cloud-database-con-ingles",
@@ -11272,11 +10972,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/arquitecto-a-de-preventa-devops",
@@ -11428,11 +11128,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/plain-concepts/jobs/senior-data-engineer",
@@ -11581,11 +11281,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "getonboard-big-data-engineer-databricks-improving-remote",
@@ -11792,11 +11492,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/devops-engineer",
@@ -11945,11 +11645,162 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/saphetor/jobs/senior-devops-engineer-1055789064",
+      "source": "Himalayas",
+      "source_trust": "official_public_api",
+      "external_id": "https://himalayas.app/companies/saphetor/jobs/senior-devops-engineer-1055789064",
+      "url": "https://himalayas.app/companies/saphetor/jobs/senior-devops-engineer-1055789064?utm_source=api",
+      "apply_url": "https://himalayas.app/companies/saphetor/jobs/senior-devops-engineer-1055789064?utm_source=api",
+      "title": "Senior DevOps Engineer",
+      "company": "Saphetor",
+      "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands",
+      "place_text": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands",
+      "remote": true,
+      "workplace": "remote",
+      "seniority": "Senior",
+      "employment_type": "full_time",
+      "published_at": "2026-10-29T09:17:30.000Z",
+      "salary": "",
+      "tags": [
+        "Developer",
+        "Operations",
+        "DevOps-Engineer",
+        "Site-Reliability-Engineer",
+        "Cloud-Infrastructure-Engineer",
+        "Platform-Engineer",
+        "Systems-Administrator",
+        "Senior-DevOps",
+        "Senior-DevOps-Developer",
+        "Senior-Staff-DevOps-Engineer",
+        "Senior-TechOps-Engineer",
+        "Senior-DevOps-Platform-Engineer"
+      ],
+      "description": "A Little Bit About Us: Saphetor ’s mission is to enable anyone to find, share and use the most comprehensive human genome data – and to collaborate to improve health and lives around the world. To do this we have built the VarSome suite of bioinformatic tools, the world’s leading resource for analysis and interpretation of human genome variant data, with more than 6 000 citations in scientific papers, and over 60 000 registered professional users. Our customers work around the globe across academic, clinical, and industry laboratories analysing NGS (Next Generation Sequencing) data for research and diagnostic purposes. Saphetor is a global precision medicine company with offices and distributed teams across Greece, Spain, the UK, Switzerland, France, the MENA region, South America, and other countries, employing a diverse global workforce. The Opportunity We are looking for a Senior DevOps Engineer to join our engineering organization. Standing at the intersection of infrastructure and software delivery, you will support our engineering teams through the full lifecycle of our systems, from designing and provisioning cloud and on-premises infrastructure to deploying, monitoring, and continuously improving the applications that run on it. You will play a key role in ensuring the reliability, scalability, and performance of the platforms that power VarSome. We thrive in a high-pressure, high-performance environment where clinical precision and rapid growth meet. While our pace is fast, it is always directed by rigorous organization and clear processes, ensuring that our commitment to quality is never compromised by our drive for speed. Role Responsibilities: Infrastructure Delivery: Design, build, and maintain our cloud and on-premises infrastructure using IaC with Terraform and Configuration Management with Ansible; work closely with software engineers to design, deploy, and manage applications running on Linux servers across GCP, OCI, and ON-PREM environments. Network Architecture: Design, implement, and manage secure and scalable network architectures, including VPCs, subnets, firewall rules, and load balancing in our cloud environments. Deployment & Reliability Support: Develop and maintain our CI/CD pipelines using GitHub Workflows or Cloud Build for seamless application delivery, managing code repositories and collaboration through GitHub; proactively troubleshoot production issues, perform root cause analysis, and implement remediation fixes to ensure business continuity with minimum downtime. Operational Optimization & Support: Design, implement, and manage scalable logging, monitoring, and alerting systems; utilize Python and Bash scripting to automate operational tasks and improve efficiency; configure and manage our API ecosystem using APISIX Gateway, and provide on-call support according to scheduled rotation. Technical Advocacy: Contribute to project planning, including task estimation and the creation of comprehensive technical documentation; continuously investigate and suggest improvements to enhance system performance, scalability, and cost-effectiveness. Cross-functional Collaboration: Collaborate with peers and architects to ensure compliance with company standards and security best practices. The Ideal Candidate (Profile) The ideal candidate combines strong infrastructure and automation expertise and a passion for reliability engineering with a proactive mindset. You should be able to translate complex technical requirements into robust, scalable solutions, while possessing the communication skills necessary to engage both software engineers and cross-functional stakeholders. What you will bring: Education: A University degree in Computer Science or a related field. Expertise: 6+ years of work experience as a DevOps Engineer or in a similar role, including a minimum of 4 years working with UNIX/Linux systems, configuration, troubleshooting, and scripting with Python and/or Bash. Technical Knowledge: A solid grasp of Terraform, Ansible, Docker containerization, the HashiCorp stack (Vault, Packer), Git/GitHub, and networking principles (TCP/IP, DNS, HTTP/S) and cloud networking concepts (VPCs, firewalls, load balancers); hands on experience with cloud providers, ideally GCP and OCI. Communication: The ability to collaborate effectively with software engineers, architects, and cross-functional stakeholders in Agile environments using Jira and Confluence. Languages: Fluency in English (written and spoken) is a must. Strongly Valued Container Orchestration: Production experience with Kubernetes. Platform Experience: Previous background managing API gateways such as APISIX, and building or maintaining CI/CD pipelines with GitHub Workflows or Cloud Build. Monitoring Knowledge: Familiarity with logging and monitoring tools such as Elasticsearch, Kibana, Grafana, or cloud-native solutions. Certifications: GCP or OCI certifications are nice to have. Global Mindset: Proven experience in multicultural environments and/or supporting internationally distributed engineering teams in a scale-up setting. Mindset & Key Skills Technical Rigor: A curious, detail-oriented professional who maintains high engineering standards while managing complex infrastructure. Continuous Improvement Mindset: A proactive mindset with a passion for continuous improvement and learning new technologies, balancing system reliability with pragmatic delivery decisions and translating infrastructure improvements into team and business benefits. Self-Organization: A structured thinker with strong prioritization and project management skills, comfortable in a fast-paced environment. Agile Collaboration: Comfortable working within Agile frameworks, including Scrumban, as part of a regionally distributed team. While our foundation is in Athens, our talent pool is spread across Europe, with a strong culture of remote collaboration. Our team is highly experienced in distributed Agile workflows and communicates exclusively in fluent English. Your career journey with us includes, among others: A position in a fascinating healthcare growth domain, at the cutting edge of technology and research A competitive compensation package tailored to your unique expertise and professional background. A remote-first work environment that promotes a healthy work-life balance, giving you the autonomy to thrive from anywhere. An annual training budget and endless opportunities to learn, while helping transfer new technologies from academia to clinical practice worldwide. Saphetor is proud to be an Equal Opportunities Employer. We provide equal employment opportunities to all qualified applicants and our employees, regardless of race, color, religion, national origin, age, sex, medical condition or disability, sexual orientation, gender expression, or marital status. Originally posted on Himalayas",
+      "description_truncated": false,
+      "salary_value": {
+        "status": "unparsed",
+        "source": "Himalayas",
+        "gross_or_net": "unknown"
+      },
+      "base_score": 12,
+      "keyword_main_score": 5,
+      "keyword_side_score": -6,
+      "main_eligible_now": false,
+      "side_eligible": false,
+      "relocation_watch": true,
+      "access": "restricted-remote",
+      "matched_keywords": [
+        "automation",
+        "devops"
+      ],
+      "main_signals": [],
+      "side_signals": [
+        "project"
+      ],
+      "negative_hits": 0,
+      "main_score": 42,
+      "side_score": 44,
+      "potential": {
+        "current_fit": 24,
+        "transferability": 65,
+        "gap_cost": "unknown",
+        "gap_cost_score": 60,
+        "evidence_confidence": "low",
+        "evidence_confidence_score": 51,
+        "career_potential": 72,
+        "relocation_value": "not_yet_ordered",
+        "compensation_fit": 50,
+        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
+        "salary_comparison": "incomparable",
+        "workstyle_fit": 82,
+        "commute_burden": 70,
+        "commute_note": "no es viaje diario; commute() no recibe Valencia",
+        "commute_status": "not_a_daily_commute",
+        "commute_km": null,
+        "role_families": [
+          "devops"
+        ],
+        "requirements_status": "unread",
+        "mandatory_requirements": [],
+        "desirable_requirements": [],
+        "sap_kind": null,
+        "work_from_zona_oeste": false,
+        "work_after_valencia": true,
+        "place_bridge": false,
+        "move_window": "unknown",
+        "earliest_start": "unknown",
+        "must_start_before": "unknown",
+        "reasons": [
+          "+ evidencia directa: GitHub Actions (ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "+ evidencia directa: Docker (docker, container) · fuentes: MIM · profundidad sin confirmar",
+          "+ evidencia directa: Automation and developer tooling (automation) · fuentes: MIM, Web-Sling-Optimizer",
+          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
+          "+ evidencia laboral: marketing (growth) · fuentes: self-assessment",
+          "+ transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "fit: requisitos obligatorios no leídos; techo 40",
+          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
+          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
+          "- gap herramienta: gcp",
+          "- gap herramienta: kubernetes",
+          "- gap herramienta: terraform",
+          "- gap desconocido: requisitos obligatorios no leídos",
+          "familias: devops"
+        ],
+        "gaps": [
+          {
+            "term": "gcp",
+            "type": "tool"
+          },
+          {
+            "term": "kubernetes",
+            "type": "tool"
+          },
+          {
+            "term": "terraform",
+            "type": "tool"
+          },
+          {
+            "term": "requisitos obligatorios no leídos",
+            "type": "unknown"
+          }
+        ],
+        "main_rank": 42,
+        "side_rank": 44,
+        "main_eligible": false,
+        "side_eligible": false,
+        "relocation_watch": true,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "unknown",
+        "signals": [],
+        "warnings": [
+          "listing_url_off_board",
+          "apply_url_external"
+        ]
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-10-30T06:00:27.155Z",
+        "history": []
+      },
+      "first_seen": "2026-10-30T06:00:27.155Z",
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/smartcat/jobs/senior-devops-and-infrastructure-engineer-3918390478",
@@ -12101,11 +11952,159 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/canonical/jobs/engineering-director-business-data",
+      "source": "Himalayas",
+      "source_trust": "official_public_api",
+      "external_id": "https://himalayas.app/companies/canonical/jobs/engineering-director-business-data",
+      "url": "https://himalayas.app/companies/canonical/jobs/engineering-director-business-data?utm_source=api",
+      "apply_url": "https://himalayas.app/companies/canonical/jobs/engineering-director-business-data?utm_source=api",
+      "title": "Engineering Director - Business Data",
+      "company": "Canonical",
+      "location": "Afghanistan, Albania, Algeria, Andorra, Angola, Antarctica, Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Benin, Bosnia and Herzegovina, Botswana, Bouvet Island, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Republic of the, Cook Islands, Croatia, Curaçao, Cyprus, Czechia, Côte d'Ivoire, Denmark, Djibouti, Egypt, Equatorial Guinea, Eritrea, Estonia, Eswatini, Ethiopia, Faroe Islands, Finland, France, French Guiana, French Southern Territories, Gabon, Gambia, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Guadeloupe, Guernsey, Guinea, Guinea-Bissau, Heard Island and McDonald Islands, Holy See (Vatican City State), Hungary, Iceland, Iran, Iraq, Ireland, Isle of Man, Israel, Italy, Jersey, Jordan, Kazakhstan, Kenya, Kosovo, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malawi, Mali, Malta, Martinique, Mauritania, Mauritius, Mayotte, Moldova, Monaco, Montenegro, Morocco, Mozambique, Namibia, Netherlands, Niger, Nigeria, North Macedonia, Norway, Oman, Palestine, State of, Poland, Portugal, Qatar, Romania, Rwanda, Réunion, Saint Barthélemy, Saint Helena, Ascension and Tristan da Cunha, Saint Martin (French part), Saint Pierre and Miquelon, San Marino, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Sint Maarten (Dutch part), Slovakia, Slovenia, Somalia, South Africa, South Sudan, Spain, Sudan, Svalbard and Jan Mayen, Sweden, Switzerland, Syrian Arab Republic, Tajikistan, Tanzania, Togo, Tunisia, Turkey, Turkmenistan, Uganda, Ukraine, United Arab Emirates, United Kingdom, Uzbekistan, Western Sahara, Yemen, Zambia, Zimbabwe, Åland Islands",
+      "place_text": "Afghanistan, Albania, Algeria, Andorra, Angola, Antarctica, Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Benin, Bosnia and Herzegovina, Botswana, Bouvet Island, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Republic of the, Cook Islands, Croatia, Curaçao, Cyprus, Czechia, Côte d'Ivoire, Denmark, Djibouti, Egypt, Equatorial Guinea, Eritrea, Estonia, Eswatini, Ethiopia, Faroe Islands, Finland, France, French Guiana, French Southern Territories, Gabon, Gambia, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Guadeloupe, Guernsey, Guinea, Guinea-Bissau, Heard Island and McDonald Islands, Holy See (Vatican City State), Hungary, Iceland, Iran, Iraq, Ireland, Isle of Man, Israel, Italy, Jersey, Jordan, Kazakhstan, Kenya, Kosovo, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malawi, Mali, Malta, Martinique, Mauritania, Mauritius, Mayotte, Moldova, Monaco, Montenegro, Morocco, Mozambique, Namibia, Netherlands, Niger, Nigeria, North Macedonia, Norway, Oman, Palestine, State of, Poland, Portugal, Qatar, Romania, Rwanda, Réunion, Saint Barthélemy, Saint Helena, Ascension and Tristan da Cunha, Saint Martin (French part), Saint Pierre and Miquelon, San Marino, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Sint Maarten (Dutch part), Slovakia, Slovenia, Somalia, South Africa, South Sudan, Spain, Sudan, Svalbard and Jan Mayen, Sweden, Switzerland, Syrian Arab Republic, Tajikistan, Tanzania, Togo, Tunisia, Turkey, Turkmenistan, Uganda, Ukraine, United Arab Emirates, United Kingdom, Uzbekistan, Western Sahara, Yemen, Zambia, Zimbabwe, Åland Islands",
+      "remote": true,
+      "workplace": "remote",
+      "seniority": "Director",
+      "employment_type": "full_time",
+      "published_at": "2026-10-29T17:05:47.000Z",
+      "salary": "",
+      "tags": [
+        "Developer",
+        "Information-Systems",
+        "Engineering-Management",
+        "Data-Engineering",
+        "Software-Engineer",
+        "Data-Architecture",
+        "Data-Engineering-Director",
+        "Director-Of-Data-Engineering",
+        "Director-Of-Data-Systems-Engineering",
+        "Analytics-Engineering-Director",
+        "Director-of-Engineering",
+        "data-spain"
+      ],
+      "description": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in more than 80 countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder led, profitable and growing. We are hiring an Engineering Director , who strives for taking ownership of the development and operations of internal business systems integrations, a full data mesh solution built on top of leading open-source software, and the configuration of Salesforce, NetSuite, and other internal business systems. A successful candidate has a track record of leading the configuration, development and integrations of business systems, such as Salesforce or NetSuite, and data engineering/governance solutions. Such a candidate adheres to high engineering quality standards, and continuously develops their skills as well as skills of their direct reports. This is an exciting opportunity to work with highly enthusiastic people on exciting innovative engineering solutions supporting Canonical 's growth and learn a lot about engineering for the business. The engineering director will lead the Business Data unit that is conceived as three engineering teams that closely collaborate with other engineering and business teams at Canonical . Services designed, developed, and operated by the Commercial Systems unit are at the heart of Canonical business and data analytics and reporting. We are looking for a software engineering director to oversee the three software teams led by software engineering managers. The Business Systems team is responsible for systems such as NetSuite, Salesforce, and several others. The engineers work closely with operations teams, implement business processes, and keep the systems compliant, while delivering first class experience to Canonical employees using those systems to get their job done. The Data Lake team is responsible for building a comprehensive data mesh solution with a secure and well-governed access to data sets originating at many internal and external data sources . The team works with well-known open-source tools such as Trino, Ranger, and Superset, and develops tooling facilitating data governance processes. The Integrations team is responsible for the integrations between internal and external systems used at Canonical and onboarding of new data sources to the data mesh. The team designs, develops, and operates Python workflows leveraging an open-source workflow orchestration engine Temporal. The team also integrates internal and external data sources into the data mesh using open-source ETL solution Airbyte, enabling more data driven decisions in the organization. Location : This role will be based remotely in the EMEA region. The role entails Leading multiple teams of engineers, ranging from graduates to seniors Developing your engineering managers to maintain Canonical culture in their teams Developing and evangelize great engineering practices and processes in the teams Setting and implementing solid performance management with performance goals and objectives with your direct reports and teams Identifying and measuring indicators of team health, and take action where needed Being accountable for the product development roadmaps in the teams Being an active part of the Commercial Systems leadership team, collaborating with other leaders Expanding your teams by hiring great talent Collaborating with stakeholders and product users What we are looking for in you Exceptional academic track record from both high school and university Undergraduate degree in a technical subject or a compelling narrative about your alternative chosen path Proven ability to drive multiple teams or large teams of software engineers to deliver outstanding results Engineering experience in at least one of the following areas: CRM/ERP systems, Python, data engineering/governance, or distributed integrations Track record of going above-and-beyond expectations to achieve outstanding results Professional written and spoken English with excellent presentation skills Result-oriented, with a personal drive to meet commitments Ability to travel internationally twice a year, for company events up to two weeks long Nice-to-have skills Performance engineering and DevOps/SRE experience Experience with compliance What we offer colleagues We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. Distributed work environment with twice-yearly team sprints in person Personal learning and development budget of USD 2,000 per year Annual compensation review Recognition rewards Annual holiday leave Maternity and paternity leave Employee Assistance Program Opportunity to travel to new locations to meet colleagues Priority Pass, and travel upgrades for long haul company events About Canonical Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. Originally posted on Himalayas",
+      "description_truncated": false,
+      "salary_value": {
+        "status": "unparsed",
+        "source": "Himalayas",
+        "gross_or_net": "unknown"
+      },
+      "base_score": 2,
+      "keyword_main_score": -5,
+      "keyword_side_score": -15,
+      "main_eligible_now": false,
+      "side_eligible": false,
+      "relocation_watch": true,
+      "access": "restricted-remote",
+      "matched_keywords": [
+        "integration",
+        "devops",
+        "data engineer"
+      ],
+      "main_signals": [],
+      "side_signals": [
+        "project",
+        "commission"
+      ],
+      "negative_hits": 1,
+      "main_score": 42,
+      "side_score": 44,
+      "potential": {
+        "current_fit": 12,
+        "transferability": 76,
+        "gap_cost": "unknown",
+        "gap_cost_score": 60,
+        "evidence_confidence": "low",
+        "evidence_confidence_score": 54,
+        "career_potential": 72,
+        "relocation_value": "not_yet_ordered",
+        "compensation_fit": 50,
+        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
+        "salary_comparison": "incomparable",
+        "workstyle_fit": 82,
+        "commute_burden": 70,
+        "commute_note": "no es viaje diario; commute() no recibe Valencia",
+        "commute_status": "not_a_daily_commute",
+        "commute_km": null,
+        "role_families": [
+          "devops"
+        ],
+        "requirements_status": "unread",
+        "mandatory_requirements": [],
+        "desirable_requirements": [],
+        "sap_kind": null,
+        "work_from_zona_oeste": false,
+        "work_after_valencia": true,
+        "place_bridge": false,
+        "move_window": "unknown",
+        "earliest_start": "unknown",
+        "must_start_before": "unknown",
+        "reasons": [
+          "+ evidencia directa: Automation and developer tooling (workflow, tooling) · fuentes: MIM, Web-Sling-Optimizer",
+          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
+          "+ evidencia laboral: marketing (growth) · fuentes: self-assessment",
+          "+ transferible: DevOps transition base (devops, sre) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "+ transferible: Data analytics engineering (data engineering) · fuentes: dashpostgre · profundidad sin confirmar",
+          "fit: requisitos obligatorios no leídos; techo 40",
+          "- seniority: el aviso pide director; la evidencia es de proyecto o curso, no seniority profesional confirmado",
+          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
+          "- gap ecosistema: salesforce",
+          "- gap herramienta: analytics",
+          "- gap desconocido: requisitos obligatorios no leídos",
+          "familias: devops",
+          "no es viaje diario; commute() no recibe Valencia"
+        ],
+        "gaps": [
+          {
+            "term": "salesforce",
+            "type": "ecosystem"
+          },
+          {
+            "term": "analytics",
+            "type": "tool"
+          },
+          {
+            "term": "requisitos obligatorios no leídos",
+            "type": "unknown"
+          }
+        ],
+        "main_rank": 42,
+        "side_rank": 44,
+        "main_eligible": false,
+        "side_eligible": false,
+        "relocation_watch": true,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "unknown",
+        "signals": [],
+        "warnings": [
+          "listing_url_off_board",
+          "apply_url_external"
+        ]
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-10-30T06:00:27.155Z",
+        "history": []
+      },
+      "first_seen": "2026-10-30T06:00:27.155Z",
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-sme-presales-engineer-lead-aws-remoto-100",
@@ -12267,76 +12266,74 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
-      "id": "himalayas-https://himalayas.app/companies/smartcat/jobs/senior-ai-first-data-engineer",
+      "id": "himalayas-https://himalayas.app/companies/fundcount/jobs/devops-team-lead",
       "source": "Himalayas",
       "source_trust": "official_public_api",
-      "external_id": "https://himalayas.app/companies/smartcat/jobs/senior-ai-first-data-engineer",
-      "url": "https://himalayas.app/companies/smartcat/jobs/senior-ai-first-data-engineer?utm_source=api",
-      "apply_url": "https://himalayas.app/companies/smartcat/jobs/senior-ai-first-data-engineer?utm_source=api",
-      "title": "Senior AI-First Data Engineer",
-      "company": "Smartcat",
-      "location": "Georgia, Portugal, Serbia, Spain",
-      "place_text": "Georgia, Portugal, Serbia, Spain",
+      "external_id": "https://himalayas.app/companies/fundcount/jobs/devops-team-lead",
+      "url": "https://himalayas.app/companies/fundcount/jobs/devops-team-lead?utm_source=api",
+      "apply_url": "https://himalayas.app/companies/fundcount/jobs/devops-team-lead?utm_source=api",
+      "title": "DevOps Team Lead",
+      "company": "FundCount",
+      "location": "Afghanistan, Albania, Algeria, Andorra, Angola, Antarctica, Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Benin, Bosnia and Herzegovina, Botswana, Bouvet Island, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Republic of the, Cook Islands, Croatia, Curaçao, Cyprus, Czechia, Côte d'Ivoire, Denmark, Djibouti, Egypt, Equatorial Guinea, Eritrea, Estonia, Eswatini, Ethiopia, Faroe Islands, Finland, France, French Guiana, French Southern Territories, Gabon, Gambia, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Guadeloupe, Guernsey, Guinea, Guinea-Bissau, Heard Island and McDonald Islands, Holy See (Vatican City State), Hungary, Iceland, Iran, Iraq, Ireland, Isle of Man, Israel, Italy, Jersey, Jordan, Kazakhstan, Kenya, Kosovo, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malawi, Mali, Malta, Martinique, Mauritania, Mauritius, Mayotte, Moldova, Monaco, Montenegro, Morocco, Mozambique, Namibia, Netherlands, Niger, Nigeria, North Macedonia, Norway, Oman, Palestine, State of, Poland, Portugal, Qatar, Romania, Russian Federation, Rwanda, Réunion, Saint Barthélemy, Saint Helena, Ascension and Tristan da Cunha, Saint Martin (French part), Saint Pierre and Miquelon, San Marino, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Sint Maarten (Dutch part), Slovakia, Slovenia, Somalia, South Africa, South Sudan, Spain, Sudan, Svalbard and Jan Mayen, Sweden, Switzerland, Syrian Arab Republic, Tajikistan, Tanzania, Togo, Tunisia, Turkey, Turkmenistan, Uganda, Ukraine, United Arab Emirates, United Kingdom, Uzbekistan, Western Sahara, Yemen, Zambia, Zimbabwe, Åland Islands",
+      "place_text": "Afghanistan, Albania, Algeria, Andorra, Angola, Antarctica, Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Benin, Bosnia and Herzegovina, Botswana, Bouvet Island, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Republic of the, Cook Islands, Croatia, Curaçao, Cyprus, Czechia, Côte d'Ivoire, Denmark, Djibouti, Egypt, Equatorial Guinea, Eritrea, Estonia, Eswatini, Ethiopia, Faroe Islands, Finland, France, French Guiana, French Southern Territories, Gabon, Gambia, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Guadeloupe, Guernsey, Guinea, Guinea-Bissau, Heard Island and McDonald Islands, Holy See (Vatican City State), Hungary, Iceland, Iran, Iraq, Ireland, Isle of Man, Israel, Italy, Jersey, Jordan, Kazakhstan, Kenya, Kosovo, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malawi, Mali, Malta, Martinique, Mauritania, Mauritius, Mayotte, Moldova, Monaco, Montenegro, Morocco, Mozambique, Namibia, Netherlands, Niger, Nigeria, North Macedonia, Norway, Oman, Palestine, State of, Poland, Portugal, Qatar, Romania, Russian Federation, Rwanda, Réunion, Saint Barthélemy, Saint Helena, Ascension and Tristan da Cunha, Saint Martin (French part), Saint Pierre and Miquelon, San Marino, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Sint Maarten (Dutch part), Slovakia, Slovenia, Somalia, South Africa, South Sudan, Spain, Sudan, Svalbard and Jan Mayen, Sweden, Switzerland, Syrian Arab Republic, Tajikistan, Tanzania, Togo, Tunisia, Turkey, Turkmenistan, Uganda, Ukraine, United Arab Emirates, United Kingdom, Uzbekistan, Western Sahara, Yemen, Zambia, Zimbabwe, Åland Islands",
       "remote": true,
       "workplace": "remote",
-      "seniority": "Senior",
-      "employment_type": "full_time",
-      "published_at": "2026-10-03T01:12:38.000Z",
+      "seniority": "Manager",
+      "employment_type": "contract",
+      "published_at": "2026-10-29T09:12:41.000Z",
       "salary": "",
       "tags": [
-        "Data Science",
-        "Data-Engineer",
-        "Analytics-Engineer",
-        "Data-Platform-Engineer",
-        "AI-Data-Engineer",
-        "Senior-AI-Data-Engineer",
-        "Senior-AI-ML-Data-Engineer",
-        "Senior-Data-Engineering",
-        "AI-ML-Data-Engineer",
-        "data-spain"
+        "Developer",
+        "DevOps-Team-Lead",
+        "DevOps-Engineer",
+        "Site-Reliability-Engineering",
+        "Infrastructure-Engineering",
+        "Cloud-Engineer",
+        "DevOps-Lead",
+        "Lead-DevOps",
+        "Lead-DevOps-Engineer",
+        "DevOps-Team-Manager",
+        "Lead-DevOps-Engineering",
+        "DevOps-Manager"
       ],
-      "description": "About Smartcat Smartcat is building the future of work, where human expertise meets digital teammates to drive 10x to 1000x productivity gains for the world’s leading enterprises. We’re on the frontier of an entirely new category: Agentic AI. We enable enterprises to build high-performing hybrid workforces made up of both humans and AI agents. These AI agents aren’t generic copilots. They’re fully trained digital teammates that learn from your best people, your content, and your business strategy—ready to get to work from day one. Our platform combines generative AI, human-in-the-loop workflows, and a living Enterprise Skill Graph that continuously learns and improves. Whether you're launching a product globally, onboarding new hires, translating learning content, or aligning legal teams across regions, Smartcat turns knowledge into action and action into scale. Over 1,000 companies, including 20% of the Fortune 500, rely on Smartcat to bring their business to the world—instantly, accurately, and in every language. As a Series C company with consistently high year-over-year growth, we’re scaling fast and investing in people who want to shape the future of work with us. Join us in unlocking global potential, one human and agent team at a time. WHY YOU SHOULD JOIN OUR TEAM You'll help build the intelligence layer that powers decision-making, AI agents, automation, and business operations across Smartcat — on a greenfield cloud data platform, transitioning from legacy on-premise, batch architectures to cloud-native, streaming-first infrastructure. This is a chance to shape how Smartcat scales its data capabilities over the next several years, directly aligned with the company's transformation into an AI-native, agentic platform. MISSION Help transform Smartcat 's data platform into an AI-native foundation where business data becomes discoverable, actionable, and consumable by both humans and AI agents — partnering across Data, Product, Engineering, GTM, and AI teams to enable self-service analytics, intelligent automation, and agent-driven decision support. OUTCOMES Evolve Smartcat 's data architecture into a scalable, cloud-native, AI-first platform, leading the transition from batch-oriented pipelines to near real-time and streaming systems Improve reliability, observability, governance, and performance across the data stack, establishing engineering standards and best practices Turn business data into AI-ready assets — building data products consumable by AI agents, analytics systems, and business users, with semantic layers and metadata management Use AI to accelerate development, testing, documentation, monitoring, and operational workflows, and design systems that let AI agents query, understand, and act on business data safely Improve business intelligence and data accessibility — making analytics simpler for non-technical stakeholders and enabling self-service without sacrificing governance or quality Raise the engineering bar through mentorship, code reviews, architecture leadership, and knowledge sharing across Data and Analytics Engineering HOW YOU'LL RAMP By Day 30: Get deep on Smartcat 's current data architecture, the greenfield cloud platform build, and the transition plan from batch to streaming Meet your partners across Data, Product, Engineering, GTM, and AI teams to understand current pain points and priorities Get hands-on with the core stack (Databricks, dbt, Airflow, Python, SQL) and current BI tooling (e.g., Omni) By Day 60: Contribute to at least one concrete piece of the Next Generation Data Platform build (pipeline, streaming component, or data product) Have identified and started applying at least one AI-powered workflow to accelerate your own engineering work (testing, documentation, debugging) Begin shaping a semantic layer, metadata structure, or data product aimed at AI-agent or business-user consumption By Day 90: Own a defined piece of architecture or data product end-to-end, with measurable improvements in reliability, observability, or time-to-insight Be actively mentoring or raising the engineering bar through code reviews and architecture input Have a documented example of measurable productivity gains from AI adoption in your own workflow WHAT YOU'VE ACCOMPLISHED 6+ years of experience in Data Engineering, Analytics Engineering, or a related field A proven track record designing and operating modern cloud data platforms, ideally in high-growth SaaS environments Experience working effectively with both technical and business stakeholders Demonstrated ability to lead complex projects from design through delivery Strong hands-on experience with Databricks, dbt, Airflow, Python for data engineering, SQL and data modeling, data warehousing architectures, data quality frameworks, data governance, and data orchestration/integration Experience with streaming architectures and event-driven systems, business intelligence platforms, product analytics platforms, and CRM/customer data platforms A demonstrated AI-first mindset — AI-powered development workflows, automation of repetitive engineering tasks, use of AI for debugging/testing/architecture exploration/documentation, and evidence of measurable productivity gains through AI adoption Bonus: experience building AI-native data products, semantic layers, RAG systems, vector databases, knowledge graphs, or enabling AI agents to consume operational business data Why joining Smartcat might be your best move so far A global, connected team We’re a team of 200+ people across 30+ countries, working together through a hub-and-spoke model anchored in eight key locations: New York, London, Lisbon, Costa Rica, Serbia, Armenia, Georgia, and Spain. Most of our roles are remote-friendly, giving you the flexibility to do your best work from where you thrive. For customer-facing teams, we prioritize proximity to our customers, ensuring we stay deeply connected to their needs and deliver an exceptional experience. No matter where you’re based, you’ll be part of a highly collaborative, globally-distributed team that values ownership, speed, and meaningful impact. Be part of an AI Native Organization We are highly innovative, using AI across all areas of the organization to accelerate decision-making and free people to focus on strategy and high-impact work. We embrace new ideas and encourage all Smartcat ers, regardless of level or department, to manage their own AI Agents. At Smartcat you’ll shape how AI transforms the workplace and play an integral role in ensuring Smartcat remains a leader in AI innovation. Innovating a $100 Billion industry Smartcat is reshaping the $100B multilingual content industry with an AI-powered platform that makes it easy for companies to create, translate, and localize global content at scale. Our platform enables enterprise teams to move away from slow, traditional outsourcing methods, and achieve fast, high-quality results, at a fraction of the cost. Join the rocketship to scale-up 10x and beyond together We are looking for someone to become an integral part of our team and play a crucial role in the most exciting part of our journey: transitioning from a post-Series C startup to a company exceeding $100M in ARR and $1B in valuation. Our journey isn’t for the faint of heart. We are growing at 130% YoY, thanks to our strong product-market fit and high-performing team, and plan to accelerate from here. Smartcat Culture Code: Where Diversity Meets High Performance At Smartcat , we are committed to building a culture that highlights respect and appreciation for each individual's unique background and perspective, while maintaining a strong focus on results and engagement. We believe in welcoming everyone and fostering an inclusive environment where team members can be their authentic selves at work. Our commitment to inclusion is steadfast, and we stand firmly against discrimination and harassment. Originally posted on Himalayas",
+      "description": "About Us We are FundCount , a growing international fintech company with a 20-year history and a global office and staff footprint. We provide a unified software solution for investment, general, and partnership accounting and analysis. Our product delivers operational efficiency and insight to investment management professionals — family offices, fund administrators, and alternative fund managers. We are seeking an experienced DevOps Team Leader to lead our team of engineers, take ownership of our infrastructure, and help us elevate our CI/CD and automation processes to the next level. If you thrive on complex challenges, know how to inspire a team, and possess deep expertise in AWS, we would love to hear from you. Your Key Responsibilities Team Leadership & Management: Team Leadership: Manage a team of DevOps engineers (assigning tasks, tracking execution, conducting reviews). • Mentorship: Develop the technical and soft skills of your team members, conduct 1-on-1s, and create development plans. • Processes: Optimize and build efficient workflows within the team (Agile, Kanban/Scrum). • Infrastructure Management: Coordinate and maintain the rotation for monitoring critical infrastructure alerts, ensuring duties are distributed fairly and evenly across the team, including yourself. • Strategy: Develop and implement the DevOps methodology, GitOps strategy and infrastructure roadmap. • Collaboration: Maintain close communication with Development, QA, PMs, and other stakeholders. Technical & Architectural: • CI/CD: Develop and maintain pipelines for building, testing, and deploying applications (preferably GitLab CI / Jenkins). • Infrastructure as Code (IaC): Manage infrastructure and configurations using Terraform, Ansible, AWS CloudFormation. • Containerization: Writing Dockerfiles, building images and orchestrating containers using Docker, Docker Compose. Experience with Kubernetes is a big advantage. • Monitoring & Logging: Build and maintain a comprehensive monitoring, alerting, and logging system (Prometheus, Grafana, ELK/EFK, AWS CloudWatch). • SRE/DevSecOps: Ensure the reliability (SLA/SLO), fault tolerance, and security of the infrastructure. What We Expect From You (Must-Haves): Leadership Experience: 2+ years as a Team Lead, Tech Lead, or Senior DevOps (with mentoring responsibilities) leading a team of 3+ engineers. With a total of 7+ years of experience in DevOps. • Deep AWS Expertise: Excellent knowledge of key services: • Compute & Network: EC2, VPC, Route 53, ELB/ALB. • Containers: EKS, ECS, ECR. • Storage & DB: S3, EFS, RDS (PostgreSQL/MySQL), DynamoDB. • Management & Security: IAM, CloudWatch, CloudTrail, Systems Manager. • Understanding of networking principles (routing, VLANs, VPNs). • CI/CD: Proven experience building and supporting complex pipelines (GitLab CI, Jenkins, ArgoCD). • IaC: strong knowledge of Terraform. Experience with Ansible/Puppet/Chef. • Containers: Deep knowledge of Docker (architecture, deployment, administration). • Monitoring: Experience with the Prometheus, Grafana, and Loki/ELK stack. • System Skills: Excellent Linux and Windows knowledge, proficient in scripting (Bash, PowerShell, Python). • Soft Skills: Strong communication, systems thinking, and a proactive attitude. Availability & Location: Located in a time zone between UTC+1 and UTC+4 for effective team synchronization. What Will Be a Big Plus (Nice-to-Haves) • AWS certifications (e.g., AWS Certified Solutions Architect - Professional). • Experience implementing DevSecOps practices. • Experience with hybrid-cloud Kubernetes installations. • Experience with other cloud providers (Azure, GCP). • Experience with Microsoft services: Azure cloud, Microsoft 365, SharePoint, Entra ID, Intune, Exchange, Teams, Defender for Identities, Purview, policies and best practices. • Knowledge of requirements and experience with SOC2 (or other certifications like ISO/IEC 27001 or HIPAA). What We Offer A competitive salary (discussed based on interview results). • Remote 5/2 (Monday-Friday) work schedule. Originally posted on Himalayas",
       "description_truncated": false,
       "salary_value": {
         "status": "unparsed",
         "source": "Himalayas",
         "gross_or_net": "unknown"
       },
-      "base_score": 20,
-      "keyword_main_score": 13,
-      "keyword_side_score": 2,
+      "base_score": 12,
+      "keyword_main_score": 5,
+      "keyword_side_score": -4,
       "main_eligible_now": false,
       "side_eligible": false,
       "relocation_watch": true,
       "access": "restricted-remote",
       "matched_keywords": [
         "automation",
-        "integration",
-        "data engineer",
-        "analytics engineer"
+        "devops"
       ],
       "main_signals": [],
-      "side_signals": [
-        "project"
-      ],
+      "side_signals": [],
       "negative_hits": 0,
-      "main_score": 39,
+      "main_score": 40,
       "side_score": 43,
       "potential": {
-        "current_fit": 24,
-        "transferability": 55,
+        "current_fit": 22,
+        "transferability": 59,
         "gap_cost": "unknown",
         "gap_cost_score": 60,
         "evidence_confidence": "low",
-        "evidence_confidence_score": 54,
-        "career_potential": 65,
+        "evidence_confidence_score": 48,
+        "career_potential": 72,
         "relocation_value": "not_yet_ordered",
         "compensation_fit": 50,
         "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
@@ -12347,7 +12344,7 @@
         "commute_status": "not_a_daily_commute",
         "commute_km": null,
         "role_families": [
-          "data"
+          "devops"
         ],
         "requirements_status": "unread",
         "mandatory_requirements": [],
@@ -12360,36 +12357,40 @@
         "earliest_start": "unknown",
         "must_start_before": "unknown",
         "reasons": [
-          "+ evidencia directa: Automation and developer tooling (automation, workflow, tooling) · fuentes: MIM, Web-Sling-Optimizer",
+          "+ evidencia directa: PostgreSQL (postgresql) · fuentes: MIM, Pontorno-vault, Factu · profundidad sin confirmar",
+          "+ evidencia directa: GitHub Actions (ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "+ evidencia directa: Docker (docker) · fuentes: MIM · profundidad sin confirmar",
+          "+ evidencia directa: Automation and developer tooling (automation) · fuentes: MIM, Web-Sling-Optimizer",
           "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
-          "+ evidencia laboral: marketing (growth) · fuentes: self-assessment",
-          "+ transferible: Data analytics engineering (data engineering) · fuentes: dashpostgre · profundidad sin confirmar",
+          "+ transferible: DevOps transition base (devops, sre) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
           "fit: requisitos obligatorios no leídos; techo 40",
-          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
+          "- seniority: el aviso pide lead; la evidencia es de proyecto o curso, no seniority profesional confirmado",
           "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "- gap herramienta: analytics",
-          "- gap herramienta: databricks",
-          "- gap herramienta: airflow",
-          "- gap herramienta: dbt",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: data",
-          "no es viaje diario; commute() no recibe Valencia"
+          "- gap herramienta: aws",
+          "- gap herramienta: azure",
+          "- gap herramienta: gcp",
+          "- gap herramienta: kubernetes",
+          "- gap herramienta: terraform"
         ],
         "gaps": [
           {
-            "term": "analytics",
+            "term": "aws",
             "type": "tool"
           },
           {
-            "term": "databricks",
+            "term": "azure",
             "type": "tool"
           },
           {
-            "term": "airflow",
+            "term": "gcp",
             "type": "tool"
           },
           {
-            "term": "dbt",
+            "term": "kubernetes",
+            "type": "tool"
+          },
+          {
+            "term": "terraform",
             "type": "tool"
           },
           {
@@ -12397,7 +12398,7 @@
             "type": "unknown"
           }
         ],
-        "main_rank": 39,
+        "main_rank": 40,
         "side_rank": 43,
         "main_eligible": false,
         "side_eligible": false,
@@ -12422,11 +12423,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
-      "first_seen": "2026-10-29T21:13:29.997Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "first_seen": "2026-10-30T06:00:27.155Z",
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-platform-engineering-remoto-100",
@@ -12585,155 +12586,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
-    },
-    {
-      "id": "himalayas-https://himalayas.app/companies/ookla/jobs/data-engineer-iii",
-      "source": "Himalayas",
-      "source_trust": "official_public_api",
-      "external_id": "https://himalayas.app/companies/ookla/jobs/data-engineer-iii",
-      "url": "https://himalayas.app/companies/ookla/jobs/data-engineer-iii?utm_source=api",
-      "apply_url": "https://himalayas.app/companies/ookla/jobs/data-engineer-iii?utm_source=api",
-      "title": "Data Engineer III",
-      "company": "Ookla",
-      "location": "Spain",
-      "place_text": "Spain",
-      "remote": true,
-      "workplace": "remote",
-      "seniority": "Senior",
-      "employment_type": "full_time",
-      "published_at": "2026-08-31T09:06:57.000Z",
-      "salary": "",
-      "tags": [
-        "Data Science",
-        "Data-Engineering",
-        "Data-Engineer",
-        "Big-Data-Engineering",
-        "Data-Infrastructure",
-        "Data-Warehouse-Engineering",
-        "Senior-Data-Engineering",
-        "Lead-Data-Engineer",
-        "Data-Engineer-Jobs",
-        "data-spain"
-      ],
-      "description": "The Opportunity: We’re looking for a Senior Data Engineer to join the Ookla Data Engineering team and help us process the world’s best collection of data on mobile and fixed internet performance. As a data engineer you will be focused on developing tools, libraries and operations to support data scientists and analysts as they discover new and exciting ways to apply our data. Applicants should have a strong, data-focused programming background and be passionate about accuracy and performance. You will work on big data using the latest technologies. We are committed to providing you a flexible work environment where individuality, fun, and talent are all valued equally. If you consider yourself innovative, adept at collaboration, and you care deeply about the work you do, we want to talk! Key Responsibilities: Develop high volume data processing jobs across various platforms including Redshift, Athena, Iceberg, Spark and Airflow Work closely with Data Scientists to turn theory and methodology into viable products Identify bottlenecks in system performance and make recommendations on improving process efficiency Support and collaborate with data scientists, analysts, and product managers You are enthusiastic about mentoring and guiding junior team members, helping them understand architectural principles, best practices, and effective ways of working. Job Qualifications: We are looking for the right person, not the exact list of requirements. If you believe your life experience has prepared you for similar challenges, we’d like to hear from you. Bachelor's degree in Computer Science or related field or equivalent experience Strong understanding of programming concepts with experience in at least 1 OOP language (Python, Scala, Java) Strong background and 6+ years of direct experience working with Python Experience with high volume distributed data processing in Spark Strong working knowledge of SQL, databases (MySQL / Redshift / Athena / Trino), data modeling, and modern data warehouse (lakehouse) management Excellent troubleshooting and analysis skills Excited to learn and work with new technologies in a dynamic environment Strong communication skills both in person and via virtual mediums Strong time management skills and a self driven work ethic Experience with AWS cloud services is a plus Experience with event driven architecture and streaming data pipelines is a plus Background check required About Ookla , an Accenture company, is a global leader in connectivity intelligence that brings together the trusted expertise of Speedtest®, Downdetector®, Ekahau®, and RootMetrics® to deliver unmatched network and connectivity insights. By combining multi-source data with industry-leading expertise, we transform network performance metrics into strategic, actionable insights. Our solutions empower service providers, enterprises, and governments with the critical data and insights needed to optimize networks, enhance digital experiences, and help close the digital divide. At the same time, we amplify the real-world experiences of individuals and businesses that rely on connectivity to work, learn, and communicate. From measuring and analyzing connectivity to driving industry innovation, Ookla helps the world stay connected. About Accenture Accenture helps the world’s leading enterprises reinvent by building their digital core and unleashing the power of AI to create value at speed for organizations across industries. Our strategy is to be the reinvention partner of choice for our clients and lead in the safe, widespread adoption of AI, and to be the most client focused, AI-enabled, great place to work in the world. We bring together the talent of our approximately 799,000 people with proprietary assets and platforms, deep process and industry expertise, and leading ecosystem relationships to deliver end-to-end solutions and measurable outcomes at scale. Through our Reinvention Services, we offer broad expertise across Cybersecurity, Digital Core, Finance, Industry and Enterprise, Song, Supply Chain and Engineering, and Talent, with advanced capabilities in AI and Data, Industry and Process, and Technology. We serve approximately 9,000 clients and generated approximately $70 billion in FY25 revenue. Visit us at. Compensation Range Ookla provides a range for the base pay. Factors that may be used to determine your actual pay may include your specific job related knowledge, skills, experience, and geographic location. The salary compensation for this role is €x - €x. Individual pay within the compensation range for this business unit specific role is determined based on a variety of factors including experience, scope of therole, capabilities to perform the role, education and training, as well as business and company performance. Originally posted on Himalayas",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Himalayas",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 8,
-      "keyword_main_score": 11,
-      "keyword_side_score": 8,
-      "main_eligible_now": false,
-      "side_eligible": false,
-      "relocation_watch": true,
-      "access": "relocation-watch",
-      "matched_keywords": [
-        "data engineer"
-      ],
-      "main_signals": [],
-      "side_signals": [],
-      "negative_hits": 0,
-      "main_score": 41,
-      "side_score": 39,
-      "potential": {
-        "current_fit": 9,
-        "transferability": 52,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 45,
-        "career_potential": 65,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 12,
-        "commute_note": "no es viaje diario; commute() no recibe Valencia",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "data",
-          "security"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": false,
-        "work_after_valencia": true,
-        "place_bridge": false,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
-          "+ transferible: Data analytics engineering (data engineering) · fuentes: dashpostgre · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "- gap herramienta: aws",
-          "- gap herramienta: airflow",
-          "- gap herramienta: spark",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: data, security",
-          "no es viaje diario; commute() no recibe Valencia"
-        ],
-        "gaps": [
-          {
-            "term": "aws",
-            "type": "tool"
-          },
-          {
-            "term": "airflow",
-            "type": "tool"
-          },
-          {
-            "term": "spark",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 41,
-        "side_rank": 39,
-        "main_eligible": false,
-        "side_eligible": false,
-        "relocation_watch": true,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "unknown",
-        "signals": [],
-        "warnings": [
-          "listing_url_off_board",
-          "apply_url_external"
-        ]
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
-        "history": []
-      },
-      "first_seen": "2026-10-29T21:13:29.997Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     },
     {
       "id": "jobicy-154082",
@@ -12867,161 +12724,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
+        "updated_at": "2026-10-30T06:00:27.155Z",
         "history": []
       },
       "first_seen": "2026-10-26T15:01:51.070Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
-    },
-    {
-      "id": "himalayas-https://himalayas.app/companies/duetto/jobs/senior-devops-engineer-aws",
-      "source": "Himalayas",
-      "source_trust": "official_public_api",
-      "external_id": "https://himalayas.app/companies/duetto/jobs/senior-devops-engineer-aws",
-      "url": "https://himalayas.app/companies/duetto/jobs/senior-devops-engineer-aws?utm_source=api",
-      "apply_url": "https://himalayas.app/companies/duetto/jobs/senior-devops-engineer-aws?utm_source=api",
-      "title": "Senior DevOps Engineer (AWS)",
-      "company": "Duetto",
-      "location": "Spain",
-      "place_text": "Spain",
-      "remote": true,
-      "workplace": "remote",
-      "seniority": "Senior",
-      "employment_type": "full_time",
-      "published_at": "2026-09-18T08:40:44.000Z",
-      "salary": "",
-      "tags": [
-        "Developer",
-        "DevOps-Engineer",
-        "Site-Reliability-Engineering",
-        "Cloud-Engineer",
-        "Infrastructure-Engineering",
-        "Platform-Engineering",
-        "Senior-AWS-DevOps-Engineer",
-        "Senior-DevOps-Developer",
-        "Senior-DevOps",
-        "Senior-AWS-Engineer",
-        "Senior-Staff-DevOps-Engineer",
-        "Senior-Engineer-Cloud-and-DevOps-(P)"
-      ],
-      "description": "Thousands of hotels, resorts, and casinos around the world depend on Duetto ’s platform to run their revenue strategy — and you’ll be one of the people making sure it never lets them down. As a Senior DevOps Engineer, you’ll own the infrastructure that powers our global SaaS platform: designing for scale, building for reliability, and driving the kind of security-first culture that keeps us ahead of the curve. If you thrive in complex cloud environments, love solving hard problems, and want your work to have real, tangible impact — this is the role. What makes us different? Duetto is the hospitality industry’s leading revenue management platform, founded in 2012 by former Wynn Resorts executives who knew the industry needed better technology. We built the world’s first Revenue & Profit Operating System — a suite of tools (GameChanger, ScoreBoard, BlockBuster, Advance and more) that goes beyond room pricing to give hotels, resorts and casinos a complete picture of their revenue and profitability. Trusted by clients ranging from independent boutique hotels to global chains, we’ve been named the #1 Revenue Management Software by HotelTechAwards four years running and the #1 Best Place to Work in Hotel Tech in 2025. Backed by GrowthCurve Capital since 2024, we’re accelerating our investment in AI — and we’re genuinely passionate about the industry we serve. We build products we’re proud of, for customers we care about. What you’ll be doing Design and implement robust, scalable AWS infrastructure — supporting key system migrations, platform growth, and the reliability our customers depend on. Own the reliability, performance, and security of our production environment: high uptime, rapid incident resolution, and proactive capacity planning. Build and maintain CI/CD pipelines, deployment automation, and infrastructure-as-code using Terraform, Terragrunt, and Chef. Monitor system health using enterprise observability tools (Prometheus, Grafana, DataDog), defining metrics and response playbooks that get ahead of incidents before they happen. Lead security-first practices across the infrastructure estate — proactively addressing vulnerabilities and driving SOC 2 compliance. Partner with engineering teams to integrate operational requirements into the development lifecycle and align on architecture decisions. Champion AI adoption within DevOps and SRE workflows, evaluating tooling that increases team velocity and reduces toil. Respond to on-call incidents with urgency — troubleshoot complex issues, lead detailed root cause analyses, and implement fixes that prevent recurrence. What we’re looking for You may be a great fit if you have: 5+ years in a DevOps, SRE, or infrastructure engineering role. Hands-on AWS experience across IAM, VPC, EC2, ELB, RDS, S3, Lambda, API Gateway, Secrets Manager, KMS, CloudWatch, and CloudTrail — including multi-account management and SSO. Proficiency with Terraform for infrastructure-as-code, plus experience with configuration management tools like Chef or Ansible. Experience with CI/CD tooling including GitHub, GitHub Actions, JFrog Artifactory, and Jenkins, with familiarity with GitOps methodologies. Experience with container and orchestration technologies — Docker, ECS, or EKS. Strong working knowledge of enterprise monitoring platforms — Prometheus, Grafana, or DataDog. Solid troubleshooting skills and a track record of leading root cause analyses and implementing durable fixes. Proficiency reading Java, Ruby, Bash/Zsh, HCL, Python, and JavaScript. Experience with SOC 2 compliance and security-first infrastructure practices. Comfort with a weekly on-call rotation. Strong candidates may also have: Experience migrating workloads from on-prem or colocation environments to AWS. Familiarity with Windows Server, SQL Server, IIS, and .NET environments. Experience administering and synchronising MongoDB replica sets. Knowledge of ISO 27001, Layer 7 load balancing, or Terragrunt. Background in hospitality technology. A degree in Computer Science or a related field — or equivalent experience. Why Duetto ? Infrastructure that matters — your work directly underpins a platform that hotel operators around the world rely on every day. The stakes are real, and so is the satisfaction. AI is how we work — we’re not just talking about AI adoption; we’re actively investing in it across every function, including DevOps. You’ll have space to evaluate and implement tooling that makes a genuine difference. A team that moves fast — you’ll report into the Senior DevOps Manager and work alongside engineers who are serious about craft, reliability, and continuous improvement. Growth with purpose — backed by GrowthCurve Capital, we’re scaling our platform and our team. There’s a lot being built here, and senior engineers have real influence over how it’s done. Come as you are — we’re a diverse, distributed team that values different perspectives and builds inclusively. The details Location: Croatia Work model: Remote Reports to: Senior DevOps Manager Duetto is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other characteristic protected by applicable law. Sound like you? We’d love to hear from you — even if you don’t tick every box. Diverse perspectives and non-traditional paths make our team stronger. Apply and let’s talk. Originally posted on Himalayas",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Himalayas",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 12,
-      "keyword_main_score": 15,
-      "keyword_side_score": 12,
-      "main_eligible_now": false,
-      "side_eligible": false,
-      "relocation_watch": true,
-      "access": "relocation-watch",
-      "matched_keywords": [
-        "automation",
-        "devops"
-      ],
-      "main_signals": [],
-      "side_signals": [],
-      "negative_hits": 0,
-      "main_score": 26,
-      "side_score": 21,
-      "potential": {
-        "current_fit": 24,
-        "transferability": 75,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 53,
-        "career_potential": 72,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 42,
-        "commute_burden": 12,
-        "commute_note": "no es viaje diario; commute() no recibe Valencia",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": false,
-        "work_after_valencia": true,
-        "place_bridge": false,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: TypeScript (javascript) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar",
-          "+ evidencia directa: GitHub Actions (github actions, ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "+ evidencia directa: Docker (docker, container) · fuentes: MIM · profundidad sin confirmar",
-          "+ evidencia directa: Automation and developer tooling (automation, tooling) · fuentes: MIM, Web-Sling-Optimizer",
-          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
-          "+ evidencia directa: MongoDB (mongodb) · fuentes: Ian-franco-collada-pontorno-Backend · profundidad sin confirmar",
-          "+ evidencia laboral: marketing (growth) · fuentes: self-assessment",
-          "+ transferible: DevOps transition base (devops, sre) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "- gap herramienta: .net",
-          "- gap herramienta: aws",
-          "- gap herramienta: terraform"
-        ],
-        "gaps": [
-          {
-            "term": ".net",
-            "type": "tool"
-          },
-          {
-            "term": "aws",
-            "type": "tool"
-          },
-          {
-            "term": "terraform",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 26,
-        "side_rank": 21,
-        "main_eligible": false,
-        "side_eligible": false,
-        "relocation_watch": true,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "high",
-        "signals": [],
-        "warnings": [
-          "listing_url_off_board",
-          "apply_url_external",
-          "gambling_industry"
-        ]
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-29T21:13:29.997Z",
-        "history": []
-      },
-      "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-29T21:13:29.997Z"
+      "last_seen": "2026-10-30T06:00:27.155Z"
     }
   ]
 }
