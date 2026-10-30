@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-10-30T06:00:27.155Z
+Generado: 2026-10-30T15:06:45.985Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -38,6 +38,7 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 52 | 40 | 82 | low | 47 | [Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics](https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics) | Canonical | Jobicy | new |
 | 52 | 40 | 72 | low | 47 | [Cloud Engineering Manager](https://jobicy.com/jobs/149569-cloud-engineering-manager) | Canonical | Jobicy | new |
 | 52 | 40 | 72 | low | 47 | [OpenStack Engineering Manager](https://jobicy.com/jobs/149573-openstack-engineering-manager) | Canonical | Jobicy | new |
+| 51 | 0 | 90 | low | 44 | [Full-Stack Senior con IA & Agentes](https://www.getonbrd.com/jobs/full-stack-senior-con-ia-agentes-bc-tecnologia-remote-9cff) | BC Tecnología | Get on Board | new |
 | 51 | 24 | 72 | low | 46 | [Senior Site Reliability Engineer](https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5) | Canonical | Jobicy | new |
 | 51 | 38 | 72 | unknown | 47 | [Data Infrastructure Engineer-Spain](https://himalayas.app/companies/doodle/jobs/data-infrastructure-engineer-spain?utm_source=api) | Doodle | Himalayas | new |
 | 50 | 0 | 90 | low | 44 | [Desarrollador Full-Stack Liferay LATAM](https://www.getonbrd.com/jobs/desarrollador-full-stack-liferay-bc-tecnologia-santiago) | BC Tecnología | Get on Board | new |
