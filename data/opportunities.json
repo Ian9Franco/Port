@@ -2,16 +2,16 @@
   "version": 4,
   "matcher": "potential-v1",
   "trust_layer": "listing-v1",
-  "generated_at": "2026-10-30T20:52:56.820Z",
+  "generated_at": "2026-10-31T05:55:30.473Z",
   "career_model_version": 2,
   "application_mode": "manual",
   "source_failures": [],
   "source_stats": {
     "Remotive": 12,
-    "Arbeitnow": 91,
+    "Arbeitnow": 66,
     "Get on Board": 536,
     "RemoteOK": 99,
-    "Jobicy": 60,
+    "Jobicy": 20,
     "Himalayas": 84
   },
   "top_picks": {
@@ -207,11 +207,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-27T20:46:41.817Z",
-      "last_seen": "2026-10-30T20:52:56.820Z",
+      "last_seen": "2026-10-31T05:55:30.473Z",
       "merged_urls": [
         "https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote",
         "https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote",
@@ -341,7 +341,7 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": [
           {
             "at": "2026-10-26T18:23:45.552Z",
@@ -353,7 +353,7 @@
         ]
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z",
+      "last_seen": "2026-10-31T05:55:30.473Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://jobicy.com/jobs/156943-product-manager-realtime",
@@ -502,11 +502,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T20:52:56.820Z",
+      "last_seen": "2026-10-31T05:55:30.473Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/dentsu-international/jobs/data-engineer-cdp-specialist",
@@ -815,11 +815,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "jobicy-149527",
@@ -963,251 +963,6 @@
       "last_seen": "2026-10-30T20:52:56.820Z"
     },
     {
-      "id": "jobicy-149565",
-      "source": "Jobicy",
-      "source_trust": "official_public_api",
-      "external_id": "149565",
-      "url": "https://jobicy.com/jobs/149565-ubuntu-security-engineer",
-      "apply_url": "https://jobicy.com/jobs/149565-ubuntu-security-engineer",
-      "title": "Ubuntu Security Engineer",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "remote": true,
-      "workplace": "remote",
-      "employment_type": "full_time",
-      "published_at": "2026-10-24T03:45:13.000Z",
-      "salary": "",
-      "seniority": "Midweight",
-      "tags": [
-        "Cybersecurity",
-        "Midweight"
-      ],
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. Canonical is building a team dedicated to providing security coverage across a wide range of ecosystems and environments, working to make the world a better, safer place. We are hiring an Ubuntu Security Engineer to join an industry-leading security engineering team and help protect the open source community and Ubuntu users from emerging threats. We are looking for candidates across all levels of experience, from Graduate to Senior. As part of the Ubuntu Security Team, you will work with some of the best and brightest people in technology to monitor, triage, respond to, and document new and existing vulnerabilities in open source software. You will collaborate with internal teams and external partners to identify issues, prioritize them, and coordinate remediation. This is an engineering-focused role that may also involve activities such as producing security assessments, building features, conducting code reviews, developing internal tools, engaging with the open source community, and participating in industry initiatives and events. This role requires international travel at least twice a year, usually for one week. It also requires the ability to be productive in a globally distributed team through self-discipline and self-motivation. Location: Worldwide, this is a globally remote role The role entails Analyzing, fixing, and testing vulnerabilities in open source packages Keeping track of vulnerabilities in the Ubuntu ecosystem as they are discovered, researched, and fixed, leveraging internal tools Collaborating with other teams in the Ubuntu community and upstream developers, as needed, to exchange or develop vulnerability patches and ensure that Ubuntu includes the most robust security features Auditing source code for vulnerabilities Building features and tools to help teams strengthen the security of their products and contribute to the overall security of Ubuntu What we are looking for in you You have a thorough understanding of the common categories of security vulnerabilities and techniques for fixing them You are familiar with coordinated disclosure practices You are familiar with open source development tools and methodologies You are skilled in one or more of C, Python, Go, Rust, Java, Ruby, PHP or JavaScript/TypeScript You have excellent logic, problem-solving, troubleshooting, and decision-making skills You can clearly and effectively communicate with the team and Ubuntu community members Experience with Linux (Debian or Ubuntu preferred) Excellent interpersonal skills, curiosity, flexibility, and accountability Appreciative of diversity, polite, and effective in a multi-cultural, multi-national organization Thoughtfulness and self-motivation Result-oriented, with a personal drive to meet commitments What we offer colleagues We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. Distributed work environment with twice-yearly team sprints in person Personal learning and development budget of USD 2,000 per year Annual compensation review Recognition rewards Annual holiday leave Maternity and paternity leave Team Member Assistance Program & Wellness Platform Opportunity to travel to new locations to meet colleagues Priority Pass and travel upgrades for long-haul company events About Canonical Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-remote",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Jobicy",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 9,
-      "keyword_main_score": 16,
-      "keyword_side_score": 15,
-      "main_eligible_now": true,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [
-        "typescript",
-        "security engineer"
-      ],
-      "main_signals": [],
-      "side_signals": [
-        "project",
-        "commission"
-      ],
-      "negative_hits": 0,
-      "main_score": 55,
-      "side_score": 50,
-      "potential": {
-        "current_fit": 40,
-        "transferability": 88,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 54,
-        "career_potential": 62,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "security"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": true,
-        "work_after_valencia": true,
-        "place_bridge": true,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: TypeScript (typescript, javascript) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar",
-          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: security",
-          "sin viaje diario desde zona oeste, Buenos Aires"
-        ],
-        "gaps": [
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 55,
-        "side_rank": 50,
-        "main_eligible": true,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
-        "history": []
-      },
-      "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
-    },
-    {
-      "id": "jobicy-149577",
-      "source": "Jobicy",
-      "source_trust": "official_public_api",
-      "external_id": "149577",
-      "url": "https://jobicy.com/jobs/149577-community-engineer-multiple-roles-and-seniority-levels",
-      "apply_url": "https://jobicy.com/jobs/149577-community-engineer-multiple-roles-and-seniority-levels",
-      "title": "Community Engineer (multiple roles and seniority levels)",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "remote": true,
-      "workplace": "remote",
-      "employment_type": "full_time",
-      "published_at": "2026-10-24T03:35:24.000Z",
-      "salary": "",
-      "seniority": "Senior",
-      "tags": [
-        "Customer Support & Success",
-        "Senior"
-      ],
-      "description": "Our ambition is to set a standard of excellence when it comes to serving the open source ecosystem. This is your chance to be a part of that as a Community Engineer at Canonical . We are building community management at scale. We have multiple positions available, at different seniority levels. All applications and candidates are handled through this single entry point. To improve your chances of success in this application, read our advice on how to get a job at Canonical . The role of a Community Engineer The Community team at Canonical enables community leaders and participants to get things done, co-ordinating with Canonical teams and ensuring that community processes are efficient and well run. We don't do the work of the community, but we facilitate that work to ensure that energetic and ambitious community members with their own vision of open source can benefit from the work Canonical does and bring their own flavor of Ubuntu into being, to meet the needs and express the interests of their community. You will play a key role in designing, executing, and scaling initiatives that foster a thriving community. This is an exciting opportunity for a technically proficient person who is passionate about open source software, Linux, and sustainable community building. In this role, you will support community initiatives with your technical skills and strong organizational skills. You work hand in hand with developers to smooth processes and integrate community plans with Canonical plans for maximum impact. You can encourage and facilitate the creation of new technical projects that enhance the community contribution experience, and you represent community interests to Canonical teams. You will lead complex, multi-disciplinary programs from conception through launch, working closely with Developer Relations engineers, technical authors, product managers, marketing teams, engineering teams, and external partners. You will support and engage with volunteer developers in the Ubuntu community, addressing their concerns and helping them to create successful tools. You will help to ensure their success and the overall autonomy and sustainability of projects. You will provide the content and technical support to ensure the community stays engaged and informed. This will include regular blog and social media posts about community initiatives, events, accomplishments, and collaborative efforts between Canonical and the Ubuntu community. You will communicate effectively with developers and software engineers and represent not only the Ubuntu community but Canonical as a contributor to the wider Linux ecosystem. Our team attends conferences and expos, and talks about technical community projects and their development processes. Location : These are fully remote roles, open to candidates across the globe. What your day will look like Write high quality content to promote and support community initiatives Discuss ideas and collaborate on finding good solutions to community problems Work from home with global travel 2 to 4 weeks for internal and external events Potential opportunity to travel more if you wish Nurture community contributions to Ubuntu Engage with the Ubuntu community through Discourse, Matrix, social media, conferences, etc. Represent Ubuntu via speaking engagements at events and conferences Support the engagement by Canonical teams into the open source ecosystem What we are looking for in you You love technology and working with brilliant people You are curious, flexible, articulate, and accountable You value soft skills and are passionate, enterprising, thoughtful, and self-motivated You have experience with developer tools and open source projects You have a clear public record of accomplishments (talks, blog posts, GitHub, X, etc.) You have interest and experience with some of the following: Ubuntu Linux - kernel or userspace, DevOps, software development, testing and QA, package management, container technology You can work autonomously and assume full ownership of objectives as needed You can be flexible with your time and enjoy working with new technology in a fast-paced environment You are experienced working with open source communities and understand the workflow of volunteer contributors You have experience in (technical) program management and have excellent organizational, communication and interpersonal skills Additional skills that you might also bring Experience with community management Experience with Developer advocacy Experience as a software developer Examples of contributions to the Ubuntu Community Experience with contributing to open source projects What we offer colleagues We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. Distributed work environment with twice-yearly team sprints in person Personal learning and development budget of USD 2,000 per year Annual compensation review Recognition rewards Annual holiday leave Maternity and paternity leave Employee Assistance Program Opportunity to travel to new locations to meet colleagues Priority Pass, and travel upgrades for long haul company events About Canonical Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-remote",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Jobicy",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 4,
-      "keyword_main_score": 11,
-      "keyword_side_score": 10,
-      "main_eligible_now": true,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [
-        "devops"
-      ],
-      "main_signals": [],
-      "side_signals": [
-        "project",
-        "commission"
-      ],
-      "negative_hits": 0,
-      "main_score": 55,
-      "side_score": 48,
-      "potential": {
-        "current_fit": 24,
-        "transferability": 95,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 53,
-        "career_potential": 72,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": true,
-        "work_after_valencia": true,
-        "place_bridge": true,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: Docker (container) · fuentes: MIM · profundidad sin confirmar",
-          "+ evidencia directa: Automation and developer tooling (workflow) · fuentes: MIM, Web-Sling-Optimizer",
-          "+ transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: devops",
-          "sin viaje diario desde zona oeste, Buenos Aires"
-        ],
-        "gaps": [
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 55,
-        "side_rank": 48,
-        "main_eligible": true,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
-        "history": []
-      },
-      "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
-    },
-    {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/automation-devops-engineer-remoto",
       "source": "Himalayas",
       "source_trust": "official_public_api",
@@ -1333,11 +1088,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T20:52:56.820Z",
+      "last_seen": "2026-10-31T05:55:30.473Z",
       "merged_urls": [
         "https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto?utm_source=api",
         "https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100?utm_source=api",
@@ -1549,11 +1304,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "remoteok-1137572",
@@ -1583,7 +1338,7 @@
         "engineer",
         "digital nomad"
       ],
-      "description": "Senior Software Engineer Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time. Â What We Do Wagmo is a modern pet healthcare company built around how pet parents actually care for their pets. We partner with employers to provide a complete approach to pet and pet-parent wellbeing, from preventive wellness plans and emergency coverage to 24/7 pet telehealth guidance. Our purpose is to unlock every pet parent's potential to provide extraordinary care, and we do it by bringing the same intentionality to pet benefits that the best employers bring to human healthcare. Founded in 2017 and female-founded, Wagmo is headquartered in New York City and trusted by leading employers nationwide. Â Whatâs Important To Us Our mission shapes everything we build and how we work together. We take fearless ownership of outcomes, collaborate with radical candor, and are always driven by the customers and pet parents who trust us. We think critically, follow through relentlessly, and find the extra 10% that turns good work into exceptional work. We keep it weird because the obvious answer is rarely the most interesting one. Our values aren't aspirational. We interview for them and hold each other accountable to them. If what you've read so far resonates with you and you want to be part of a team where every person makes the company meaningfully better, we'd love to hear from you.. Â About The Role Wagmo uses AI to process pet wellness and insurance claims. When it works, a pet parent submits a claim and gets reimbursed without anyone on our team touching it. We already automate a meaningful share of claims, and weâre hiring a Senior Software Engineer to take that much further. Youâll join our Pet Parents squad and take on our claims automation system, the pipeline that reads invoices, decides whatâs covered, and pays claims. In your first year, youâll make it cheaper to run, easier to change, and able to handle claims it canât handle today. Youâll own that work from design to production and partner with Product on what to build next. This role is for someone who has shipped AI features that real users and real money depend on, and who knows the difference between a demo and a system you can trust. Â Our Tech Stack: Python Â· Django Â· TypeScript Â· React Â· LLM APIs Â· OpenRouter Â· LangSmith Â· GitHub Â· Linear Â· Claude Code Â· CodeRabbit Â Core Responsibilities Learn our claims automation pipeline in depth and become a core owner, reviewing and shipping changes on your own within your first few months. Lower the cost of every claim we process by routing work to the right models, while keeping accuracy at or above where it is today. Restructure the pipeline so each stage can be changed, tested, and rolled out independently, with evaluations gating every change. Ship new automation that lets more claims resolve without manual review, working with Product to decide what comes next. Use AI to read veterinary records and make better coverage decisions on more types of claims. What Youâll Need To Be Successful Youâve shipped an LLM-powered feature to production that real users or real money depend on. You set up evaluations before rollout, versioned your prompts and models, and planned for rollback. Youâve designed or substantially refactored a system the business depends on, such as payments or claims, without breaking it, and left it easier to change than you found it. Youâve taken over a complex system someone else built and become the person others trust with it. Your code reviews change designs, not just style. Youâve made real tradeoffs between model cost and quality, and you can show the numbers that proved quality held. You use coding agents and AI review tools every day, and theyâve changed how fast you ship without lowering the quality of your work. Strong Python skills. Experience with Django and TypeScript is a plus. Why Consider This Role? Your work pays real claims to real pet parents. Youâll see the impact in production. AI is the core of the product here, not a side project. Youâll own one of the most important systems at the company. Youâll have real scope on a small team, making decisions a larger company would spread across several people. Youâll help pet parents get reimbursed faster for the care their pets need. Key Benefits Comprehensive health, vision, and dental coverage HSA/FSA 401(k) retirement planning with employer matching Unlimited paid time off Annual company holidays Additional company-wide recharge days off 12 weeks parental leave for eligible employees Company paid Wagmo pet wellness and insurance plans Regular company-wide events and team gatherings Pet-friendly office Catered lunches Â We here at Wagmo strive to build a workforce composed of individuals with diverse backgrounds, abilities, minds, and identities that will help us to grow, not only as a company, but also as individuals. Wagmo is an Equal Opportunity Employer. Please mention the word **EXCELENT** and tag RNC4xNTQuMTI4LjM5 when applying to show you read the job post completely (#RNC4xNTQuMTI4LjM5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Senior Software Engineer Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time. Â What We Do Wagmo is a modern pet healthcare company built around how pet parents actually care for their pets. We partner with employers to provide a complete approach to pet and pet-parent wellbeing, from preventive wellness plans and emergency coverage to 24/7 pet telehealth guidance. Our purpose is to unlock every pet parent's potential to provide extraordinary care, and we do it by bringing the same intentionality to pet benefits that the best employers bring to human healthcare. Founded in 2017 and female-founded, Wagmo is headquartered in New York City and trusted by leading employers nationwide. Â Whatâs Important To Us Our mission shapes everything we build and how we work together. We take fearless ownership of outcomes, collaborate with radical candor, and are always driven by the customers and pet parents who trust us. We think critically, follow through relentlessly, and find the extra 10% that turns good work into exceptional work. We keep it weird because the obvious answer is rarely the most interesting one. Our values aren't aspirational. We interview for them and hold each other accountable to them. If what you've read so far resonates with you and you want to be part of a team where every person makes the company meaningfully better, we'd love to hear from you.. Â About The Role Wagmo uses AI to process pet wellness and insurance claims. When it works, a pet parent submits a claim and gets reimbursed without anyone on our team touching it. We already automate a meaningful share of claims, and weâre hiring a Senior Software Engineer to take that much further. Youâll join our Pet Parents squad and take on our claims automation system, the pipeline that reads invoices, decides whatâs covered, and pays claims. In your first year, youâll make it cheaper to run, easier to change, and able to handle claims it canât handle today. Youâll own that work from design to production and partner with Product on what to build next. This role is for someone who has shipped AI features that real users and real money depend on, and who knows the difference between a demo and a system you can trust. Â Our Tech Stack: Python Â· Django Â· TypeScript Â· React Â· LLM APIs Â· OpenRouter Â· LangSmith Â· GitHub Â· Linear Â· Claude Code Â· CodeRabbit Â Core Responsibilities Learn our claims automation pipeline in depth and become a core owner, reviewing and shipping changes on your own within your first few months. Lower the cost of every claim we process by routing work to the right models, while keeping accuracy at or above where it is today. Restructure the pipeline so each stage can be changed, tested, and rolled out independently, with evaluations gating every change. Ship new automation that lets more claims resolve without manual review, working with Product to decide what comes next. Use AI to read veterinary records and make better coverage decisions on more types of claims. What Youâll Need To Be Successful Youâve shipped an LLM-powered feature to production that real users or real money depend on. You set up evaluations before rollout, versioned your prompts and models, and planned for rollback. Youâve designed or substantially refactored a system the business depends on, such as payments or claims, without breaking it, and left it easier to change than you found it. Youâve taken over a complex system someone else built and become the person others trust with it. Your code reviews change designs, not just style. Youâve made real tradeoffs between model cost and quality, and you can show the numbers that proved quality held. You use coding agents and AI review tools every day, and theyâve changed how fast you ship without lowering the quality of your work. Strong Python skills. Experience with Django and TypeScript is a plus. Why Consider This Role? Your work pays real claims to real pet parents. Youâll see the impact in production. AI is the core of the product here, not a side project. Youâll own one of the most important systems at the company. Youâll have real scope on a small team, making decisions a larger company would spread across several people. Youâll help pet parents get reimbursed faster for the care their pets need. Key Benefits Comprehensive health, vision, and dental coverage HSA/FSA 401(k) retirement planning with employer matching Unlimited paid time off Annual company holidays Additional company-wide recharge days off 12 weeks parental leave for eligible employees Company paid Wagmo pet wellness and insurance plans Regular company-wide events and team gatherings Pet-friendly office Catered lunches Â We here at Wagmo strive to build a workforce composed of individuals with diverse backgrounds, abilities, minds, and identities that will help us to grow, not only as a company, but also as individuals. Wagmo is an Equal Opportunity Employer. Please mention the word **EXCELENT** and tag RMTcyLjIwMi41My4yMDk= when applying to show you read the job post completely (#RMTcyLjIwMi41My4yMDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "description_truncated": false,
       "salary_value": {
         "status": "unparsed",
@@ -1683,257 +1438,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-27T14:38:54.174Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
-    },
-    {
-      "id": "jobicy-149558",
-      "source": "Jobicy",
-      "source_trust": "official_public_api",
-      "external_id": "149558",
-      "url": "https://jobicy.com/jobs/149558-microservices-engineer",
-      "apply_url": "https://jobicy.com/jobs/149558-microservices-engineer",
-      "title": "Microservices Engineer",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "remote": true,
-      "workplace": "remote",
-      "employment_type": "full_time",
-      "published_at": "2026-10-24T03:45:04.000Z",
-      "salary": "",
-      "seniority": "Any",
-      "tags": [
-        "Software Engineering",
-        "Any"
-      ],
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. This is a general selection track for teams that focus on back-end REST API microservices engineering in Go and Python. It covers all levels of seniority. Apply here if you are already an outstanding engineer with crisp and well-articulated views on APIs, microservice design, engineering processes and DevOps. Our services need to scale to handle millions of Ubuntu clients, and collaboration across thousands of community members. They are also central to the health of critical infrastructure across the globe. As Ubuntu has been embraced by mainstream enterprise computing through the adoption of cloud and developer-centric tech strategy, the quality of these services has become more important to customers and users. While Ubuntu has been enormously successful and in many senses leads the industry, we think we can substantially improve our practices, quality and performance in the web services domain. We are growing our teams, and in doing so we aim to level up our insights on scalability, performance, resilience and DevOps practices. Key areas of interest for us are: API design, documentation, and governance Database performance design considerations and skills Multi-region service delivery for resilience and performance Fuzzing and other proactive security analysis techniques Tracing and profiling for distributed systems insights Next-generation DevOps practices Location : we have microservices teams with open roles in every time zone. What your day will look like Write high-quality, well-designed, and robust software that works at scale Design APIs and software architecture for collegial review Write tests that validate software behaviour Build and maintain reliable, fault-tolerant applications and services Collaborate proactively with a globally distributed team Display technical leadership internally and within our external communities Debug issues and produce high-quality solutions to resolve them Contribute to technical documentation to make it the best of its kind Discuss, contribute to, and collaborate across teams at Canonical Work from home with global travel twice annually for company events What we are looking for in you An exceptional academic track record from both high school and university Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path Drive and a track record of going above-and-beyond expectations Proficiency in Python and / or Go History of writing modern, maintainable software Experience with relational and non-relational database systems Continuous integration and continuous delivery experience Experience with systems programming or scalable web services Professional written and spoken English Experience with Linux (Debian or Ubuntu preferred) Excellent interpersonal skills, curiosity, flexibility, and accountability Passion, thoughtfulness, and self-motivation Excellent communication and presentation skills Result-oriented, with a personal drive to meet commitments Ability to travel twice a year, for company events up to two weeks each Additional skills that you might also bring Experience with container tech such as LXD, Docker, and Kubernetes Understanding of build systems and toolchains Experience with cross-compilation Experience with hyperscale public clouds and / or private clouds Experience with designing, building, and running distributed systems Performance engineering and security experience What we offer you We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. Distributed work environment with twice-yearly team sprints in person Personal learning and development budget of USD 2,000 per year Annual compensation review Recognition rewards Annual holiday leave Maternity and paternity leave Employee Assistance Programme Opportunity to travel to new locations to meet colleagues Priority Pass, and travel upgrades for long haul company events About Canonical Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-remote",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Jobicy",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 8,
-      "keyword_main_score": 15,
-      "keyword_side_score": 13,
-      "main_eligible_now": true,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [
-        "integration",
-        "devops"
-      ],
-      "main_signals": [],
-      "side_signals": [
-        "project"
-      ],
-      "negative_hits": 0,
-      "main_score": 54,
-      "side_score": 48,
-      "potential": {
-        "current_fit": 40,
-        "transferability": 76,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 45,
-        "career_potential": 72,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": true,
-        "work_after_valencia": true,
-        "place_bridge": true,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: Docker (docker, container) · fuentes: MIM · profundidad sin confirmar",
-          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
-          "+ transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
-          "- gap herramienta: kubernetes",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: devops",
-          "sin viaje diario desde zona oeste, Buenos Aires"
-        ],
-        "gaps": [
-          {
-            "term": "kubernetes",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 54,
-        "side_rank": 48,
-        "main_eligible": true,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
-        "history": []
-      },
-      "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
-    },
-    {
-      "id": "jobicy-149572",
-      "source": "Jobicy",
-      "source_trust": "official_public_api",
-      "external_id": "149572",
-      "url": "https://jobicy.com/jobs/149572-engineering-manager-ubuntu-security",
-      "apply_url": "https://jobicy.com/jobs/149572-engineering-manager-ubuntu-security",
-      "title": "Engineering Manager - Ubuntu Security",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "remote": true,
-      "workplace": "remote",
-      "employment_type": "full_time",
-      "published_at": "2026-10-24T03:40:39.000Z",
-      "salary": "",
-      "seniority": "Midweight",
-      "tags": [
-        "Product & Operations",
-        "Midweight"
-      ],
-      "description": "As the most widely used Linux distribution, Ubuntu underpins the security of the entire internet. The role of Security Engineering Manager directly impacts the safety and security of millions of users worldwide. Join a team of security experts dedicated to protecting the open-source ecosystem and driving innovation. Your leadership will be instrumental in addressing emerging threats, developing robust security measures, and ensuring the continued integrity of Ubuntu. This is an opportunity to make a tangible difference and leave a lasting legacy on the digital landscape. The security engineering team's first responsibility is to respond to emerging threats and aim to secure the open source ecosystem for community and enterprise use. Your work will improve the security of millions of people, by addressing potential CVEs and vulnerabilities alongside the lifecycle of Canonical products such as Ubuntu. You will engage directly with our community and customers, as well as coordinating efforts across multiple engineering teams and projects to make this happen. An Engineering Manager is responsible for line management and career guidance. The ability to develop engineering talent, to represent your team and product from a technical perspective, and to drive collaboration with other teams and customers are all critical to success in this role. What you will do in this role Lead and develop a team of engineers, ranging from graduate to senior Provide technical guidance on vulnerability remediation Drive the development of new security engineering projects Work with upstream open source projects on vulnerability lifecycle handling Coach, mentor, and offer career development feedback Identify and measure team health indicators Implement disciplined engineering processes Represent your team and product to stakeholders, partners, and customers Develop and evangelise great engineering and organisational practices Plan and manage progress on agreed goals and projects Be an active part of the security engineering leadership team, collaborating with other leaders What we are looking for in you An exceptional academic track record from both high school and university Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path Drive, and a track record of going above-and-beyond expectations Excellent verbal and written communication skills in English A love of developing and growing people and a track record of it Organised and able to ensure your team delivers timely, high quality results Professional manner interacting with colleagues, partners, and community Solid background in software development, including expertise in support and maintenance Mastery in any programming language (Go, Java, C, Python, ...) Knowledgeable and passionate about software and application security Solid experience working in an agile development environment A demonstrated drive for continual learning Builds trust, relationships and confidence Result-oriented, with a personal drive to meet commitments Ability to travel twice a year, for company events up to two weeks each Optional things we value Strong technical understanding of the inner-workings of Linux distributions (ideally Ubuntu or Debian) What we offer you We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. Distributed work environment with twice-yearly team sprints in person Personal learning and development budget of USD 2,000 per year Annual compensation review Recognition rewards Annual holiday leave Maternity and paternity leave Employee Assistance Programme Opportunity to travel to new locations to meet colleagues Priority Pass, and travel upgrades for long haul company events About Canonical Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-remote",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Jobicy",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 3,
-      "keyword_main_score": 10,
-      "keyword_side_score": 8,
-      "main_eligible_now": false,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [
-        "security engineer"
-      ],
-      "main_signals": [],
-      "side_signals": [
-        "project"
-      ],
-      "negative_hits": 0,
-      "main_score": 54,
-      "side_score": 49,
-      "potential": {
-        "current_fit": 40,
-        "transferability": 88,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 45,
-        "career_potential": 62,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "security"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": true,
-        "work_after_valencia": true,
-        "place_bridge": true,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: security",
-          "sin viaje diario desde zona oeste, Buenos Aires"
-        ],
-        "gaps": [
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 54,
-        "side_rank": 49,
-        "main_eligible": false,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
-        "history": []
-      },
-      "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/twtspain/jobs/devops-engineer-react-node-js-remote-spain",
@@ -2061,11 +1570,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-30T06:00:27.155Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/trimble/jobs/data-product-engineer-data-analytics",
@@ -2223,11 +1732,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-22T05:01:33.698Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/proton/jobs/senior-data-engineer-ai-native-data-layer",
@@ -2353,11 +1862,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-23T05:02:16.256Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-desarrollador-mobile-mediastream-bogota-santiago-bf34",
@@ -2541,11 +2050,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "jobicy-156947",
@@ -2678,11 +2187,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-remoto",
@@ -2826,11 +2335,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/devops-engineer-ci-cd-infra-specialist-remoto-100",
@@ -2980,11 +2489,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/mercor/jobs/devops-engineer-ai-model-evaluator-5752080247",
@@ -3141,11 +2650,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-senior-full-stack-engineer-improving-remote",
@@ -3326,11 +2835,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-ai-backend-engineer-improving-remote",
@@ -3535,11 +3044,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-tech-lead-grupo-mariposa-remote-c340",
@@ -3724,11 +3233,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-desarrollador-fullstack-java-angular-improving-remote",
@@ -3940,11 +3449,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "jobicy-156946",
@@ -4079,11 +3588,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "jobicy-149550",
@@ -4202,551 +3711,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T13:14:07.093Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
-    },
-    {
-      "id": "jobicy-149556",
-      "source": "Jobicy",
-      "source_trust": "official_public_api",
-      "external_id": "149556",
-      "url": "https://jobicy.com/jobs/149556-engineering-manager-solutions-engineering",
-      "apply_url": "https://jobicy.com/jobs/149556-engineering-manager-solutions-engineering",
-      "title": "Engineering Manager - Solutions Engineering",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "remote": true,
-      "workplace": "remote",
-      "employment_type": "full_time",
-      "published_at": "2026-10-24T03:45:12.000Z",
-      "salary": "",
-      "seniority": "Midweight",
-      "tags": [
-        "Product & Operations",
-        "Midweight"
-      ],
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. We want to transform the world of software operations by enabling true model-driven operations via next-generation infrastructure-as-code. This will allow companies to run very efficient bare-metal operations for high-performance computing, private cloud, data lakes, AI/ML, and analytics. We need to invent some new technology, and we need to build some new products; we are therefore looking for someone who can lead and inspire a regional software engineering team to fulfill this initiative. The Solutions Engineering team works in close collaboration with our managed infrastructure operations team, which runs many private OpenStack clouds and Kubernetes clusters for customers around the world. This enables us to improve our infra-as-code products based on our own real experience, mirroring that of our users and customers. We work in Python, creating open-source automation capabilities that simplify operations for anybody, anywhere, who is building on Ubuntu. Most of the team's work involves pure Python software development focused on enabling true DevOps workflows. We strive for high quality in both design, documentation, tests, and performance as we enhance operations code packages and Ubuntu itself in order to ensure our platform is the easiest, most robust, and best performing for driving your infrastructure. As an Engineering Manager, your primary responsibility is to the people you lead and support: ensuring that they are growing as engineers, doing valuable work, and finding satisfaction in their career at Canonical. We need someone who can display technical leadership by leveraging a solid background in software development so that they're able to challenge and grow their team members. You will have the opportunity to influence the culture, facilitate technical delivery, and work with your team on direction and execution. What you will do Lead and develop a team of Python engineers working remotely in global locations Hiring, coaching, mentoring, feedback, and hands-on career development Demonstrate sound engineering principles by directly contributing code yourself Plan and manage progress on agreed goals and projects Set and manage expectations with other engineering and operations teams Coordinate with management and internal and external stakeholders or customers Advocate for modern, agile software development practices Help develop and evangelize great engineering and organizational practices Grow a healthy, collaborative engineering culture in line with the company values Be an active part of the leadership team and collaborate with other leaders in the organisation Travel globally up to 10% of time for internal and external events Who you are You love developing and growing people and have a track record of doing it You are knowledgeable and passionate about agile software development You love leading, coaching, and mentoring software developers - especially Python ones You are knowledgeable in cloud computing concepts & technologies You are comfortable administrating Linux servers, including their storage and networking You have hands-on experience with software automation You are organized and want your team to deliver high-quality software in a timely manner You are a lifelong learner Bonus points for You have graduated with a university degree in Computer Science or related software engineering field Having a thorough understanding of modern infrastructure, including OpenStack or Kubernetes Having experience in operations as well as software development Being familiar with the challenges of large-scale, multi-cloud operations Go expertise What we offer colleagues We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. Distributed work environment with twice-yearly team sprints in person Personal learning and development budget of USD 2,000 per year Annual compensation review Recognition rewards Annual holiday leave Maternity and paternity leave Team Member Assistance Program & Wellness Platform Opportunity to travel to new locations to meet colleagues Priority Pass and travel upgrades for long-haul company events About Canonical Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-remote",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Jobicy",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 8,
-      "keyword_main_score": 23,
-      "keyword_side_score": 14,
-      "main_eligible_now": true,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [
-        "automation",
-        "devops"
-      ],
-      "main_signals": [
-        "solutions engineer"
-      ],
-      "side_signals": [
-        "project",
-        "commission"
-      ],
-      "negative_hits": 0,
-      "main_score": 52,
-      "side_score": 47,
-      "potential": {
-        "current_fit": 40,
-        "transferability": 60,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 53,
-        "career_potential": 72,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": true,
-        "work_after_valencia": true,
-        "place_bridge": true,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: Automation and developer tooling (automation) · fuentes: MIM, Web-Sling-Optimizer",
-          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
-          "+ transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
-          "- gap herramienta: kubernetes",
-          "- gap herramienta: analytics",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: devops",
-          "sin viaje diario desde zona oeste, Buenos Aires"
-        ],
-        "gaps": [
-          {
-            "term": "kubernetes",
-            "type": "tool"
-          },
-          {
-            "term": "analytics",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 52,
-        "side_rank": 47,
-        "main_eligible": true,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
-        "history": []
-      },
-      "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
-    },
-    {
-      "id": "jobicy-149563",
-      "source": "Jobicy",
-      "source_trust": "official_public_api",
-      "external_id": "149563",
-      "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
-      "apply_url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
-      "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "remote": true,
-      "workplace": "remote",
-      "employment_type": "full_time",
-      "published_at": "2026-10-24T03:40:36.000Z",
-      "salary": "",
-      "seniority": "Any",
-      "tags": [
-        "Software Engineering",
-        "Any"
-      ],
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000+ colleagues in 70+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder led, profitable and growing. We are hiring Python and Kubernetes Specialist Engineers focused on Data, Workflows, AI/ML and Analytics Solutions to join our teams building open source solutions for public cloud and private infrastructure. As a software engineer on the team, you'll collaborate on end-to-end data analytics and MLOps solutions composed of popular, open-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on ETL, data governance and visualization tools like Apache SuperSet, dbt, workflow orchestration tools such as Airflow and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services. We serve the needs of individuals and community members as much as the needs of our Global 2000 and Fortune 500 customers; we make our primary work available free of charge and our Pro subscriptions are also available to individuals for personal use at no cost. Our goal is to enable more people to enjoy the benefits of open source, regardless of their circumstances. Location: This initiative spans many teams that are home-based and in multiple time zones. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hours! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion. What your day will look like Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer Design, build and maintain solutions that will be deployed on public and private clouds and local workstations Master distributed systems concepts such as observability, identity, tracing Work with both Kubernetes and machine-oriented open source applications Collaborate proactively with a distributed team of engineers, designers and product managers Debug issues and interact in public with upstream and Ubuntu communities Generate and discuss ideas, and collaborate on finding good solutions What we are looking for in you Professional or academic software delivery using Python Exceptional academic track record from both high school and university Undergraduate degree in a technical subject or a compelling narrative about your alternative chosen path Confidence to respectfully speak up, exchange feedback, and share ideas without hesitation Track record of going above-and-beyond expectations to achieve outstanding results Passion for technology evidenced by personal projects and initiatives The work ethic and confidence to shine alongside motivated colleagues Professional written and spoken English with excellent presentation skills Experience with Linux (Debian or Ubuntu preferred) Excellent interpersonal skills, curiosity, flexibility, and accountability Appreciative of diversity, polite and effective in a multi-cultural, multi-national organisation Thoughtfulness and self-motivation Result-oriented, with a personal drive to meet commitments Ability to travel twice a year, for company events up to two weeks long Additional skills that would be nice to have The following skills may be helpful to you in the role, but we don't expect everyone to bring all of them. Proven track record of building highly automated machine learning solutions, data pipelines, or orchestrating workflows for the cloud. Hands-on experience with machine learning libraries, or tools. Experience with container technologies (Docker, LXD, Kubernetes, etc.) Experience with public clouds (AWS, Azure, Google Cloud) Working knowledge of cloud computing Passionate about software quality and testing Experience working on an open source project What we offer colleagues We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. Distributed work environment with twice-yearly team sprints in person Personal learning and development budget of USD 2,000 per year Annual compensation review Recognition rewards Annual holiday leave Maternity and paternity leave Employee Assistance Programme Opportunity to travel to new locations to meet colleagues Priority Pass, and travel upgrades for long haul company events About Canonical Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-remote",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Jobicy",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 0,
-      "keyword_main_score": 7,
-      "keyword_side_score": 6,
-      "main_eligible_now": true,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [],
-      "main_signals": [],
-      "side_signals": [
-        "project",
-        "commission"
-      ],
-      "negative_hits": 0,
-      "main_score": 52,
-      "side_score": 47,
-      "potential": {
-        "current_fit": 40,
-        "transferability": 50,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 50,
-        "career_potential": 82,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "cloud",
-          "data",
-          "applied_ai"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": true,
-        "work_after_valencia": true,
-        "place_bridge": true,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: Docker (docker, container) · fuentes: MIM · profundidad sin confirmar",
-          "+ evidencia directa: Automation and developer tooling (workflow) · fuentes: MIM, Web-Sling-Optimizer",
-          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
-          "- gap herramienta: aws",
-          "- gap herramienta: azure",
-          "- gap herramienta: kubernetes",
-          "- gap herramienta: analytics",
-          "- gap herramienta: airflow",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: cloud, data, applied_ai",
-          "sin viaje diario desde zona oeste, Buenos Aires"
-        ],
-        "gaps": [
-          {
-            "term": "aws",
-            "type": "tool"
-          },
-          {
-            "term": "azure",
-            "type": "tool"
-          },
-          {
-            "term": "kubernetes",
-            "type": "tool"
-          },
-          {
-            "term": "analytics",
-            "type": "tool"
-          },
-          {
-            "term": "airflow",
-            "type": "tool"
-          },
-          {
-            "term": "dbt",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 52,
-        "side_rank": 47,
-        "main_eligible": true,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
-        "history": []
-      },
-      "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
-    },
-    {
-      "id": "jobicy-149569",
-      "source": "Jobicy",
-      "source_trust": "official_public_api",
-      "external_id": "149569",
-      "url": "https://jobicy.com/jobs/149569-cloud-engineering-manager",
-      "apply_url": "https://jobicy.com/jobs/149569-cloud-engineering-manager",
-      "title": "Cloud Engineering Manager",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "remote": true,
-      "workplace": "remote",
-      "employment_type": "full_time",
-      "published_at": "2026-10-24T03:40:31.000Z",
-      "salary": "",
-      "seniority": "Midweight",
-      "tags": [
-        "DevOps & Infrastructure",
-        "Midweight"
-      ],
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. We are hiring an Engineering Manager ... This role is an opportunity for a technologist with a passion for Linux and Cloud technologies to build a career with Canonical and drive the success with those leveraging Ubuntu and open source products. If you have an affinity for open source development and a passion for technology, then you will enjoy working with some of the best people in the industry at Canonical. The BootStack team designs, builds, and operates modern distributed systems on private infrastructure for customers. From Kubernetes to OpenStack and everything in-between, you’ll be working with the latest technology in a fast-paced engineering environment. As a Cloud Engineering Manager for the BootStack team, you will be responsible for managing the engineers that oversee day-to-day Managed Service of customer environments, including customer service management, managed services operations and consistent product improvement engineering. Collaboration with customers, product engineering, and operations is critical to success. Location: This is a globally remote role. The role entails Manage a growing engineering team to optimise the quality and velocity of both development and operations Identify and measure team health indicators Implement disciplined engineering and operations processes Represent the BootStack team with respect to stakeholders, customers, and external teams Ensure proper team focus on priorities, milestones, and deliverables Work to meet service level agreements with customer deployments around the globe Deliver quality managed services in a consistent, timely manner What we are looking for in you Bachelors (or equivalent) education in a technology field Proven track record of professional experience of either software delivery using Python, Go, C, C++, Java, or similar and/or managing operations teams Proven experience with OpenStack Demonstrated strong commitment to testing methodologies and maintainable code quality Experience with Linux system administration, Ubuntu/Debian a plus Strong communication and cooperation skills Experience with agile software development methodologies Experience working in and managing distributed teams Technical aptitude for understanding complex distributed systems Experience with cloud topologies and technologies Travel to team and company events and customer meetings, roughly 20% or less What we offer colleagues We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. Distributed work environment with twice-yearly team sprints in person Personal learning and development budget of USD 2,000 per year Annual compensation review Recognition rewards Annual holiday leave Maternity and paternity leave Team Member Assistance Program & Wellness Platform Opportunity to travel to new locations to meet colleagues Priority Pass and travel upgrades for long-haul company events About Canonical Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-remote",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Jobicy",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 12,
-      "keyword_main_score": 19,
-      "keyword_side_score": 18,
-      "main_eligible_now": true,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [
-        "devops",
-        "cloud engineer"
-      ],
-      "main_signals": [],
-      "side_signals": [
-        "project",
-        "commission"
-      ],
-      "negative_hits": 0,
-      "main_score": 52,
-      "side_score": 47,
-      "potential": {
-        "current_fit": 40,
-        "transferability": 68,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 45,
-        "career_potential": 72,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": true,
-        "work_after_valencia": true,
-        "place_bridge": true,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
-          "+ transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
-          "- gap herramienta: kubernetes",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: devops",
-          "sin viaje diario desde zona oeste, Buenos Aires"
-        ],
-        "gaps": [
-          {
-            "term": "kubernetes",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 52,
-        "side_rank": 47,
-        "main_eligible": true,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
-        "history": []
-      },
-      "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
-    },
-    {
-      "id": "jobicy-149573",
-      "source": "Jobicy",
-      "source_trust": "official_public_api",
-      "external_id": "149573",
-      "url": "https://jobicy.com/jobs/149573-openstack-engineering-manager",
-      "apply_url": "https://jobicy.com/jobs/149573-openstack-engineering-manager",
-      "title": "OpenStack Engineering Manager",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "remote": true,
-      "workplace": "remote",
-      "employment_type": "full_time",
-      "published_at": "2026-10-24T03:35:22.000Z",
-      "salary": "",
-      "seniority": "Midweight",
-      "tags": [
-        "DevOps & Infrastructure",
-        "Midweight"
-      ],
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. We are hiring an Engineering Manager ... This role is an opportunity for a technologist with a passion for Linux and Cloud technologies to build a career with Canonical and drive the success with those leveraging Ubuntu and open source products. If you have an affinity for open source development and a passion for technology, then you will enjoy working with some of the best people in the industry at Canonical. The BootStack team designs, builds, and operates modern distributed systems on private infrastructure for customers. From Kubernetes to OpenStack and everything in-between, you’ll be working with the latest technology in a fast-paced engineering environment. As a Cloud Engineering Manager for the BootStack team, you will be responsible for managing the engineers that oversee day-to-day Managed Service of customer environments, including customer service management, managed services operations and consistent product improvement engineering. Collaboration with customers, product engineering, and operations is critical to success. Location: This is a globally remote role. The role entails Manage a growing engineering team to optimise the quality and velocity of both development and operations Identify and measure team health indicators Implement disciplined engineering and operations processes Represent the BootStack team with respect to stakeholders, customers, and external teams Ensure proper team focus on priorities, milestones, and deliverables Work to meet service level agreements with customer deployments around the globe Deliver quality managed services in a consistent, timely manner What we are looking for in you Bachelors (or equivalent) education in a technology field Proven track record of professional experience of either software delivery using Python, Go, C, C++, Java, or similar and/or managing operations teams Proven experience with OpenStack Demonstrated strong commitment to testing methodologies and maintainable code quality Experience with Linux system administration, Ubuntu/Debian a plus Strong communication and cooperation skills Experience with agile software development methodologies Experience working in and managing distributed teams Technical aptitude for understanding complex distributed systems Experience with cloud topologies and technologies Travel to team and company events and customer meetings, roughly 20% or less What we offer colleagues We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. Distributed work environment with twice-yearly team sprints in person Personal learning and development budget of USD 2,000 per year Annual compensation review Recognition rewards Annual holiday leave Maternity and paternity leave Team Member Assistance Program & Wellness Platform Opportunity to travel to new locations to meet colleagues Priority Pass and travel upgrades for long-haul company events About Canonical Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-remote",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Jobicy",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 8,
-      "keyword_main_score": 15,
-      "keyword_side_score": 14,
-      "main_eligible_now": true,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [
-        "devops",
-        "cloud engineer"
-      ],
-      "main_signals": [],
-      "side_signals": [
-        "project",
-        "commission"
-      ],
-      "negative_hits": 0,
-      "main_score": 52,
-      "side_score": 47,
-      "potential": {
-        "current_fit": 40,
-        "transferability": 68,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 45,
-        "career_potential": 72,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": true,
-        "work_after_valencia": true,
-        "place_bridge": true,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
-          "+ transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
-          "- gap herramienta: kubernetes",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: devops",
-          "sin viaje diario desde zona oeste, Buenos Aires"
-        ],
-        "gaps": [
-          {
-            "term": "kubernetes",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 52,
-        "side_rank": 47,
-        "main_eligible": true,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
-        "history": []
-      },
-      "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-full-stack-senior-con-ia-agentes-bc-tecnologia-remote-9cff",
@@ -4965,140 +3934,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-30T15:06:45.985Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
-    },
-    {
-      "id": "jobicy-149557",
-      "source": "Jobicy",
-      "source_trust": "official_public_api",
-      "external_id": "149557",
-      "url": "https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5",
-      "apply_url": "https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5",
-      "title": "Senior Site Reliability Engineer",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "remote": true,
-      "workplace": "remote",
-      "employment_type": "full_time",
-      "published_at": "2026-10-24T03:45:17.000Z",
-      "salary": "",
-      "seniority": "Senior",
-      "tags": [
-        "DevOps & Infrastructure",
-        "Senior"
-      ],
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder led, profitable and growing. We are hiring a Senior Site Reliability Engineer Next-gen operations at scale, with pure Python infra-as-code, from bare metal to containers and applications. Our goal is to perfect enterprise infrastructure devops. We run hundreds of private cloud, Kubernetes, and application clusters for customers across physical and public cloud estate, and we are raising the bar on what's possible with automation by embracing a universal operator pattern and model-driven operations. To succeed in this role you need to believe in automation as a pure software engineering problem, not a hack-it-till-it-works-for-me problem. You need to be interested in the scientific approach to operations at scale, driven by metrics and code, and you need to be able to learn the entire stack, from bare metal networking and kernel up to serverless and open source applications. Location: Globally remote role The role entails Our cloud operations engineers bring Python software-engineering skills and rigour to the operations domain. We practise devsecops from bare metal to application. We architect and run OpenStack, Kubernetes and software defined storage, and we enable devsecops for applications running on that infrastructure too. To become a member of this team, you need to be a software engineer fluent in Python, you need a genuine interest in the full open source infrastructure stack from metal to containers, and you need the ability to work in a high pressure operations environment with mission-critical services for global brand name customers. As a member of the team you will gain experience in a broad range of cloud technologies. We evolve our offerings as the state of the art improves, so you get to stay current with the latest capabilities in open source infrastructure. We drive upgrades to keep our customers on the latest, best solutions. What we are looking for in you Degree in Software Engineering or Computer Science Experience with Linux and familiarity with Linux networking and storage Python software development expertise Operational experience Excellent interpersonal skills, curiosity, flexibility, and accountability Ability to travel internationally twice a year, for company events up to two weeks long Nice-to-have skills Experience with OpenStack or Kubernetes deployment or operations Familiarity with public or private cloud management What we offer colleagues We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. Distributed work environment with twice-yearly team sprints in person Personal learning and development budget of USD 2,000 per year Annual compensation review Recognition rewards Annual holiday leave Maternity and paternity leave Employee Assistance Programme Opportunity to travel to new locations to meet colleagues Priority Pass, and travel upgrades for long haul company events About Canonical Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-Remote",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Jobicy",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 8,
-      "keyword_main_score": 15,
-      "keyword_side_score": 14,
-      "main_eligible_now": false,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [
-        "automation",
-        "devops"
-      ],
-      "main_signals": [],
-      "side_signals": [
-        "project",
-        "commission"
-      ],
-      "negative_hits": 0,
-      "main_score": 51,
-      "side_score": 46,
-      "potential": {
-        "current_fit": 24,
-        "transferability": 73,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 53,
-        "career_potential": 72,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": true,
-        "work_after_valencia": true,
-        "place_bridge": true,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: Automation and developer tooling (automation) · fuentes: MIM, Web-Sling-Optimizer",
-          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
-          "+ transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
-          "- gap herramienta: kubernetes",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: devops",
-          "sin viaje diario desde zona oeste, Buenos Aires"
-        ],
-        "gaps": [
-          {
-            "term": "kubernetes",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 51,
-        "side_rank": 46,
-        "main_eligible": false,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
-        "history": []
-      },
-      "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/doodle/jobs/data-infrastructure-engineer-spain",
@@ -5248,11 +4088,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-desarrollador-full-stack-liferay-bc-tecnologia-santiago",
@@ -5438,11 +4278,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-machine-learning-engineer-improving-remote",
@@ -5614,11 +4454,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-senior-data-engineer-databricks-on-azure-devsu-remote-7b55",
@@ -5853,134 +4693,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
-    },
-    {
-      "id": "jobicy-149536",
-      "source": "Jobicy",
-      "source_trust": "official_public_api",
-      "external_id": "149536",
-      "url": "https://jobicy.com/jobs/149536-engineering-manager-security-standards-and-hardening",
-      "apply_url": "https://jobicy.com/jobs/149536-engineering-manager-security-standards-and-hardening",
-      "title": "Engineering Manager - Security Standards and Hardening",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "remote": true,
-      "workplace": "remote",
-      "employment_type": "full_time",
-      "published_at": "2026-10-24T03:40:30.000Z",
-      "salary": "",
-      "seniority": "Midweight",
-      "tags": [
-        "Product & Operations",
-        "Midweight"
-      ],
-      "description": "As the most widely used Linux distribution, Ubuntu underpins the security of the entire internet. The role of Security Engineering Manager directly impacts the safety and security of millions of users worldwide. Join a team of security experts dedicated to protecting the open-source ecosystem and driving innovation. Your leadership will be instrumental in addressing emerging threats, developing robust security measures, and ensuring the continued integrity of Ubuntu. This is an opportunity to make a tangible difference and leave a lasting legacy on the digital landscape. As we place ever more trust in software and data security in our increasingly connected world, Canonical ’s mission to deliver the world’s best open source platform comes with a responsibility: to set the highest possible standard for software security, not only for the OS, but also for the wide range of open source infrastructure and software that developers enjoy within the Ubuntu ecosystem. With Canonical’s Ubuntu being the leading open source platform for large-scale cloud and edge deployments, we are increasingly called upon to help customers meet strict security requirements such as FIPS, CIS, STIG, FedRAMP and the new CRA. This role is about leading the charge to set the security standards for open source software across the Ubuntu platform, from desktops, servers and edge devices to cloud infrastructure, Kubernetes and OpenStack, by certifying core components to meet industry standards and guiding development teams across the company in security best practices. We work primarily within the areas of cryptographic modules (FIPS 140) and system hardening, where we collaborate with industry partners including CIS and DISA to define and build secure operating system deployments. An Engineering Manager is responsible for line management and career guidance. The ability to develop engineering talent, to represent your team and product from a technical perspective, and to drive collaboration with other teams and customers are all critical to success in this role. What you will do in this role Lead and develop a team of engineers, ranging from graduate to senior Coach, mentor, and offer career development feedback Identify and measure team health indicators Implement disciplined engineering processes Represent your team and product to stakeholders, partners, and customers Develop and evangelise great engineering and organisational practices Plan and manage progress on agreed goals and projects Support our products and customers to meet strict product security requirements such as FIPS, CIS, STIG, FedRAMP and the new CRA Support the work addressing specific cryptography modules (FIPS 140) and system hardening efforts with indrustry partners, including CIS and DISA What we are looking for in you An exceptional academic track record from both high school and university Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path Drive, and a track record of going above-and-beyond expectations Excellent verbal and written communication skills in English A love of developing and growing people and a track record of it Organised and able to ensure your team delivers timely, high quality results Professional manner interacting with colleagues, partners, and community Prior experience working on FIPS/Common Criteria certified products and in-depth knowledge of the underlying standards Prior experience working directly with DISA-STIG or CIS benchmarks, including related audit + remediation tooling (e.g. Compliance as Code) Knowledgeable and passionate about software and application security Solid experience working in an agile development environment A demonstrated drive for continual learning Builds trust, relationships and confidence Result-oriented, with a personal drive to meet commitments Ability to travel twice a year, for company events up to two weeks each Optional things we value Hands-on domain knowledge of Linux cryptography libraries (OpenSSL, GnuTLS) What we offer you We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. Distributed work environment with twice-yearly team sprints in person Personal learning and development budget of USD 2,000 per year Annual compensation review Recognition rewards Annual holiday leave Maternity and paternity leave Employee Assistance Programme Opportunity to travel to new locations to meet colleagues Priority Pass, and travel upgrades for long haul company events About Canonical Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-remote",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Jobicy",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 3,
-      "keyword_main_score": 10,
-      "keyword_side_score": 8,
-      "main_eligible_now": false,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [
-        "security engineer"
-      ],
-      "main_signals": [],
-      "side_signals": [
-        "project"
-      ],
-      "negative_hits": 0,
-      "main_score": 50,
-      "side_score": 46,
-      "potential": {
-        "current_fit": 40,
-        "transferability": 48,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "medium",
-        "evidence_confidence_score": 68,
-        "career_potential": 62,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "security"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": true,
-        "work_after_valencia": true,
-        "place_bridge": true,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: Automation and developer tooling (tooling) · fuentes: MIM, Web-Sling-Optimizer",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
-          "- gap herramienta: kubernetes",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: security",
-          "sin viaje diario desde zona oeste, Buenos Aires"
-        ],
-        "gaps": [
-          {
-            "term": "kubernetes",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 50,
-        "side_rank": 46,
-        "main_eligible": false,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
-        "history": []
-      },
-      "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails",
@@ -6117,11 +4834,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T20:52:56.820Z",
+      "last_seen": "2026-10-31T05:55:30.473Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/bip/jobs/azure-devops-engineer-pipelines-guardrails",
@@ -6283,11 +5000,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-28T05:55:09.620Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-senior-php-developer-laravel-aws-improving-remote",
@@ -6480,11 +5197,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-tech-lead-grupo-mariposa-remote-56da",
@@ -6668,11 +5385,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-forward-deployed-engineer-diverse-programmers-remote",
@@ -6917,11 +5634,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-senior-qa-automation-engineer-net-c-improving-remote",
@@ -7111,11 +5828,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-qa-funcional-senior-microsoft-dynamics-365-latam-bc-tecnologia-remote",
@@ -7328,156 +6045,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
-    },
-    {
-      "id": "himalayas-https://himalayas.app/companies/dentsu-international/jobs/dev-ops-developer",
-      "source": "Himalayas",
-      "source_trust": "official_public_api",
-      "external_id": "https://himalayas.app/companies/dentsu-international/jobs/dev-ops-developer",
-      "url": "https://himalayas.app/companies/dentsu-international/jobs/dev-ops-developer?utm_source=api",
-      "apply_url": "https://himalayas.app/companies/dentsu-international/jobs/dev-ops-developer?utm_source=api",
-      "title": "Dev/Ops Developer",
-      "company": "dentsu international",
-      "location": "Spain",
-      "place_text": "Spain",
-      "remote": true,
-      "workplace": "remote",
-      "seniority": "Mid-level",
-      "employment_type": "full_time",
-      "published_at": "2026-10-02T18:25:42.000Z",
-      "salary": "",
-      "tags": [
-        "Developer",
-        "Senior-DevOps-Developer",
-        "Software-Developer",
-        "Systems-Developer",
-        "CRM-Developer",
-        "Backend-Engineer",
-        "DevOps-Engineer",
-        "DevOps-Software-Engineer",
-        "DevOps-Development",
-        "Development-Ops",
-        "cloud-spain"
-      ],
-      "description": "The purpose of this role is to develop required software features, achieving timely delivery in compliance with the performance and quality standards of the company. Job Description: Omega CRM Consulting is looking for a Systems Operations Specialist that would like to collaborate with one of the top global pharmaceutical companies. The ITMS Strategic Marketing and Healthcare Solutions (SMHS) team is seeking an eager, motivated self-starter who wants to grow technically and is excited about proactively supporting systems in this domain. Expectation is that this individual will want to become the IT subject-matter expert (SME) for these systems, including hands-on development and configuration of these systems in order to deliver quality releases to our business partners in a timely fashion. As a member of ITMS SMHS team, the individual will work for the DevOps Lectrona product team as a developer, being responsible for the analysis, planning, implementation, customization, enhancement, and support of the Grants Funding and Early Access systems. Tasks & Responsibilities: Be a developer supporting the Grants Funding and Early Access systems by keeping them updated and compliant. Perform business analysis to gather requirements and other demands. Translate business requirements into specifications. Perform day to day troubleshooting and maintenance of the system. Apply updates to the systems as necessary. Create and maintain system documentation. Design and implement technology best practices, guidelines, and processes. Become a SmartSimple Cloud Configuration Specialist. Provide support as required to ensure the availability and performance for the solutions and their environments. Process/handle tickets created in the Service Management tool related to the Grants Funding and Early Access applications. Skills & Experience Fluent English level, both written as verbal. Experience with HTML, CSS, JavaScript, jQuery, SQL. Experience with writing prompts in AI (Artificial Intelligence). Degree (completed or in progress) in Information Technology, Computer Sciences, or related field. Skilled IT professional with at least 3 years of experience as a developer (or similar position), preferably in global companies or providing services in similar environments. Experience in cloud solutions: development, configuration, and basic architecture. Experience in development, support, and maintenance of complex systems. Knowledge of Agile methodologies (Scrum, DevOps desirable but not mandatory) and ITIL (change and incident management) will be a plus. Knowledge in JIRA or similar tools. Knowledge in Service Now or similar tools. Good attention to detail. Positive, self-sufficient, and proactive attitude is a must. What do We offer Permanent contract. Flexible Schedule. We make it easy. Balance your professional and personal life. Trainings & Certifications. Improve your skills and get the official certificate from our main partners. Home Office. Flexible retribution (public transport ticket, Ticket restaurant, …). Health insurance. OMEGA in action. Our commitment to a better society is not just an intention. About us Omega CRM, a Merkle Company, is a global digital company specialising in accelerating the Business Experience (BX) of our clients through customer-centric solutions, technology, and data – all enhanced by AI. Together with Merkle, we form the largest Customer Experience Management (CXM) agency in Spain, and as part of the dentsu group, we offer end-to-end solutions that integrate media, creativity, content, technology, and strategy to deliver real business impact. With over 23 years of experience, a team of 580+ professionals from 24 nationalities, and 2,500+ certifications, Omega CRM is a recognised leader in the Salesforce ecosystem in Spain. We operate across key industries including Retail, Healthcare, Pharma, Real Estate, Education, and Non-Profit, delivering omnichannel experiences in Customer Service, eCommerce, Marketing, and Analytics. Client satisfaction is at our core (rating: 4.9/5), and we’ve been recognised with awards such as Salesforce Partner of the Year FY23 and Most Innovative Project (Iberia). At Omega CRM, we believe in growth through people – guided by our values: #Talent, #Flexibility, #Commitment, and #Innovation. We grow #Together. #OMEGA #LI·REMOTE Location: Remote - Spain Brand: Omega Time Type: Full time Contract Type: Permanent Originally posted on Himalayas",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Himalayas",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 7,
-      "keyword_main_score": 13,
-      "keyword_side_score": 13,
-      "main_eligible_now": false,
-      "side_eligible": false,
-      "relocation_watch": true,
-      "access": "relocation-watch",
-      "matched_keywords": [
-        "backend",
-        "devops"
-      ],
-      "main_signals": [
-        "full time"
-      ],
-      "side_signals": [
-        "contract",
-        "project"
-      ],
-      "negative_hits": 0,
-      "main_score": 49,
-      "side_score": 45,
-      "potential": {
-        "current_fit": 33,
-        "transferability": 53,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 54,
-        "career_potential": 72,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 12,
-        "commute_note": "no es viaje diario; commute() no recibe Valencia",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": false,
-        "work_after_valencia": true,
-        "place_bridge": false,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: TypeScript (javascript) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar",
-          "+ evidencia laboral: marketing (growth) · fuentes: self-assessment",
-          "+ transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "- gap ecosistema: salesforce",
-          "- gap herramienta: analytics",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: devops",
-          "no es viaje diario; commute() no recibe Valencia"
-        ],
-        "gaps": [
-          {
-            "term": "salesforce",
-            "type": "ecosystem"
-          },
-          {
-            "term": "analytics",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 49,
-        "side_rank": 45,
-        "main_eligible": false,
-        "side_eligible": false,
-        "relocation_watch": true,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "unknown",
-        "signals": [],
-        "warnings": [
-          "listing_url_off_board",
-          "apply_url_external"
-        ]
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
-        "history": []
-      },
-      "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/apptiva-core-technologies/jobs/devops-engineer-665181510",
@@ -7627,11 +6199,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/tenthpin/jobs/sap-btp-developer-architect-anywhere-in-india-preferred-bengaluru-hyderabad",
@@ -7774,11 +6346,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-senior-php-engineer-laravel-aws-improving-remote",
@@ -8033,11 +6605,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-arquitecto-de-datos-sr-data-ai-grupo-mariposa-remote-48e8",
@@ -8267,11 +6839,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "jobicy-156941",
@@ -8402,147 +6974,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
-    },
-    {
-      "id": "jobicy-149560",
-      "source": "Jobicy",
-      "source_trust": "official_public_api",
-      "external_id": "149560",
-      "url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering",
-      "apply_url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering",
-      "title": "Software Engineer - Solutions Engineering",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "remote": true,
-      "workplace": "remote",
-      "employment_type": "full_time",
-      "published_at": "2026-10-24T03:40:06.000Z",
-      "salary": "",
-      "seniority": "Senior",
-      "tags": [
-        "Software Engineering",
-        "Senior"
-      ],
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. Help us shape the future of open source IT, devops, and IS, from bare metal to containers. Our goal is to revolutionise open source application and infrastructure operations. We want to transform the world of software operations by enabling true model-driven operations via next-generation infrastructure-as-code. This will allow companies to run very efficient bare-metal operations for high-performance computing, private cloud, data lakes, AI/ML, and analytics. We need to invent some new technology, and we need to build some new products; we are therefore looking for someone who can lead and inspire a regional software engineering team to fulfill this initiative. The Solutions Engineering team works in close collaboration with our managed infrastructure operations team, which runs many private OpenStack clouds and Kubernetes clusters for customers around the world. This enables us to improve our infra-as-code products based on our own real experience, mirroring that of our users and customers. We work in Python, creating open source automation capabilities that simplify operations for anybody, anywhere, who is building on Ubuntu. Most of the team's work involves pure Python software development focused on enabling true DevOps workflows. We strive for high quality in both design, documentation, tests, and performance as we enhance operations code packages and Ubuntu itself in order to ensure our platform is the easiest, most robust, and best performing for driving your infrastructure. This role is ideal for software engineers who want to work in a global team, have a passion for distributed systems and cloud computing, and an interest in the entire Linux stack - from kernel to networking to virtualization and containers. What you will do Work in Python and Golang to design and deliver open source software operations code Work with the entire Linux stack, from kernel, networking, storage, to applications Shape high quality open source monitoring and alerting infrastructure Rethink open source operations for our customers and open source community Demonstrate sound engineering design and testing principles in your code Follow agile software development practices Coach and develop your colleagues where you have insights Grow a healthy, collaborative engineering culture in line with the company values Global travel up to 10% of time for internal and external events Who you are You are a passionate Python developer You are organised and want your team to deliver timely, high quality software You understand the importance of reliable operations in an agile world You have sound knowledge of cloud computing concepts & technologies You have practical knowledge of Linux and networking You are a lifelong learner Bonus points for You have graduated with a university degree in Computer Science or related software engineering field Golang programming skills What we offer colleagues We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. Distributed work environment with twice-yearly team sprints in person Personal learning and development budget of USD 2,000 per year Annual compensation review Recognition rewards Annual holiday leave Maternity and paternity leave Team Member Assistance Program & Wellness Platform Opportunity to travel to new locations to meet colleagues Priority Pass and travel upgrades for long-haul company events About Canonical Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004.​ Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical is an equal opportunity employer We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. #LI-remote",
-      "description_truncated": false,
-      "salary_value": {
-        "status": "unparsed",
-        "source": "Jobicy",
-        "gross_or_net": "unknown"
-      },
-      "base_score": 8,
-      "keyword_main_score": 23,
-      "keyword_side_score": 14,
-      "main_eligible_now": false,
-      "side_eligible": false,
-      "relocation_watch": false,
-      "access": "remote-now",
-      "matched_keywords": [
-        "automation",
-        "devops"
-      ],
-      "main_signals": [
-        "solutions engineer"
-      ],
-      "side_signals": [
-        "project",
-        "commission"
-      ],
-      "negative_hits": 0,
-      "main_score": 48,
-      "side_score": 44,
-      "potential": {
-        "current_fit": 24,
-        "transferability": 60,
-        "gap_cost": "unknown",
-        "gap_cost_score": 60,
-        "evidence_confidence": "low",
-        "evidence_confidence_score": 53,
-        "career_potential": 72,
-        "relocation_value": "not_yet_ordered",
-        "compensation_fit": 50,
-        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
-        "salary_comparison": "incomparable",
-        "workstyle_fit": 82,
-        "commute_burden": 8,
-        "commute_note": "sin viaje diario desde zona oeste, Buenos Aires",
-        "commute_status": "not_a_daily_commute",
-        "commute_km": null,
-        "role_families": [
-          "devops"
-        ],
-        "requirements_status": "unread",
-        "mandatory_requirements": [],
-        "desirable_requirements": [],
-        "sap_kind": null,
-        "work_from_zona_oeste": true,
-        "work_after_valencia": true,
-        "place_bridge": true,
-        "move_window": "unknown",
-        "earliest_start": "unknown",
-        "must_start_before": "unknown",
-        "reasons": [
-          "+ evidencia directa: Automation and developer tooling (automation) · fuentes: MIM, Web-Sling-Optimizer",
-          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
-          "+ transferible: DevOps transition base (devops) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
-          "fit: requisitos obligatorios no leídos; techo 40",
-          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
-          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
-          "puente: sirve desde zona oeste y sigue siendo posible después de Valencia",
-          "- gap herramienta: kubernetes",
-          "- gap herramienta: analytics",
-          "- gap desconocido: requisitos obligatorios no leídos",
-          "familias: devops",
-          "sin viaje diario desde zona oeste, Buenos Aires"
-        ],
-        "gaps": [
-          {
-            "term": "kubernetes",
-            "type": "tool"
-          },
-          {
-            "term": "analytics",
-            "type": "tool"
-          },
-          {
-            "term": "requisitos obligatorios no leídos",
-            "type": "unknown"
-          }
-        ],
-        "main_rank": 48,
-        "side_rank": 44,
-        "main_eligible": false,
-        "side_eligible": false,
-        "relocation_watch": false,
-        "retain": true
-      },
-      "trust": {
-        "source_trust": "official_public_api",
-        "company_trust": "medium",
-        "listing_risk": "low",
-        "signals": [
-          "listing_on_official_board"
-        ],
-        "warnings": []
-      },
-      "status": "new",
-      "notes": "",
-      "tracking": {
-        "cv_used": "",
-        "contact": "",
-        "salary_offered": "",
-        "feedback": "",
-        "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
-        "history": []
-      },
-      "first_seen": "2026-10-24T12:45:51.455Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/logicalis-com/jobs/devops-engineer",
@@ -8701,11 +7137,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/logicalis-com/jobs/devops-architect",
@@ -8859,11 +7295,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/scalian/jobs/data-engineer",
@@ -9004,11 +7440,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T20:52:56.820Z",
+      "last_seen": "2026-10-31T05:55:30.473Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/scalian/jobs/data-engineer",
@@ -9155,11 +7591,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T20:52:56.820Z",
+      "last_seen": "2026-10-31T05:55:30.473Z",
       "merged_urls": [],
       "listing_identity": {
         "url": "https://himalayas.app/companies/the-agile-monkeys/jobs/data-analytics-engineer-freelancer",
@@ -9350,11 +7786,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-senior-database-engineer-maria-db-postgresql-improving-remote",
@@ -9555,11 +7991,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-27T20:46:41.817Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-sr-java-platform-engineer-improving-remote",
@@ -9756,11 +8192,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "jobicy-156945",
@@ -9884,11 +8320,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/scalian/jobs/devops-engineer",
@@ -10037,11 +8473,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/irium-portugal/jobs/devops-engineer-remoto-espana",
@@ -10180,11 +8616,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-23T19:58:45.743Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/canonical/jobs/software-engineer-data-infrastructure-opensearch-elasticsearch",
@@ -10324,11 +8760,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-30T06:00:27.155Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-tech-lead-outsystems-con-ingles-y-espanol-latam-i2b-technologies-remote",
@@ -10507,11 +8943,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-net-engineer-autoraptor-remote",
@@ -10663,11 +9099,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-data-engineer-databricks-improving-remote",
@@ -10858,11 +9294,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/sopra-steria/jobs/devops-engineer-cloud-database-con-ingles",
@@ -10998,11 +9434,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/arquitecto-a-de-preventa-devops",
@@ -11154,11 +9590,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/plain-concepts/jobs/senior-data-engineer",
@@ -11307,11 +9743,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "getonboard-big-data-engineer-databricks-improving-remote",
@@ -11518,11 +9954,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-25T19:06:43.819Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/devops-engineer",
@@ -11671,11 +10107,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-20T21:31:40.527Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/saphetor/jobs/senior-devops-engineer-1055789064",
@@ -11822,11 +10258,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-30T06:00:27.155Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/smartcat/jobs/senior-devops-and-infrastructure-engineer-3918390478",
@@ -11978,11 +10414,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/canonical/jobs/engineering-director-business-data",
@@ -12126,11 +10562,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-30T06:00:27.155Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-sme-presales-engineer-lead-aws-remoto-100",
@@ -12292,11 +10728,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/fundcount/jobs/devops-team-lead",
@@ -12449,11 +10885,166 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-30T06:00:27.155Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/smartcat/jobs/senior-ai-first-data-engineer",
+      "source": "Himalayas",
+      "source_trust": "official_public_api",
+      "external_id": "https://himalayas.app/companies/smartcat/jobs/senior-ai-first-data-engineer",
+      "url": "https://himalayas.app/companies/smartcat/jobs/senior-ai-first-data-engineer?utm_source=api",
+      "apply_url": "https://himalayas.app/companies/smartcat/jobs/senior-ai-first-data-engineer?utm_source=api",
+      "title": "Senior AI-First Data Engineer",
+      "company": "Smartcat",
+      "location": "Georgia, Portugal, Serbia, Spain",
+      "place_text": "Georgia, Portugal, Serbia, Spain",
+      "remote": true,
+      "workplace": "remote",
+      "seniority": "Senior",
+      "employment_type": "full_time",
+      "published_at": "2026-10-03T01:12:38.000Z",
+      "salary": "",
+      "tags": [
+        "Data Science",
+        "Data-Engineer",
+        "Analytics-Engineer",
+        "Data-Platform-Engineer",
+        "AI-Data-Engineer",
+        "Senior-AI-Data-Engineer",
+        "Senior-AI-ML-Data-Engineer",
+        "Senior-Data-Engineering",
+        "AI-ML-Data-Engineer",
+        "data-spain"
+      ],
+      "description": "About Smartcat Smartcat is building the future of work, where human expertise meets digital teammates to drive 10x to 1000x productivity gains for the world’s leading enterprises. We’re on the frontier of an entirely new category: Agentic AI. We enable enterprises to build high-performing hybrid workforces made up of both humans and AI agents. These AI agents aren’t generic copilots. They’re fully trained digital teammates that learn from your best people, your content, and your business strategy—ready to get to work from day one. Our platform combines generative AI, human-in-the-loop workflows, and a living Enterprise Skill Graph that continuously learns and improves. Whether you're launching a product globally, onboarding new hires, translating learning content, or aligning legal teams across regions, Smartcat turns knowledge into action and action into scale. Over 1,000 companies, including 20% of the Fortune 500, rely on Smartcat to bring their business to the world—instantly, accurately, and in every language. As a Series C company with consistently high year-over-year growth, we’re scaling fast and investing in people who want to shape the future of work with us. Join us in unlocking global potential, one human and agent team at a time. WHY YOU SHOULD JOIN OUR TEAM You'll help build the intelligence layer that powers decision-making, AI agents, automation, and business operations across Smartcat — on a greenfield cloud data platform, transitioning from legacy on-premise, batch architectures to cloud-native, streaming-first infrastructure. This is a chance to shape how Smartcat scales its data capabilities over the next several years, directly aligned with the company's transformation into an AI-native, agentic platform. MISSION Help transform Smartcat 's data platform into an AI-native foundation where business data becomes discoverable, actionable, and consumable by both humans and AI agents — partnering across Data, Product, Engineering, GTM, and AI teams to enable self-service analytics, intelligent automation, and agent-driven decision support. OUTCOMES Evolve Smartcat 's data architecture into a scalable, cloud-native, AI-first platform, leading the transition from batch-oriented pipelines to near real-time and streaming systems Improve reliability, observability, governance, and performance across the data stack, establishing engineering standards and best practices Turn business data into AI-ready assets — building data products consumable by AI agents, analytics systems, and business users, with semantic layers and metadata management Use AI to accelerate development, testing, documentation, monitoring, and operational workflows, and design systems that let AI agents query, understand, and act on business data safely Improve business intelligence and data accessibility — making analytics simpler for non-technical stakeholders and enabling self-service without sacrificing governance or quality Raise the engineering bar through mentorship, code reviews, architecture leadership, and knowledge sharing across Data and Analytics Engineering HOW YOU'LL RAMP By Day 30: Get deep on Smartcat 's current data architecture, the greenfield cloud platform build, and the transition plan from batch to streaming Meet your partners across Data, Product, Engineering, GTM, and AI teams to understand current pain points and priorities Get hands-on with the core stack (Databricks, dbt, Airflow, Python, SQL) and current BI tooling (e.g., Omni) By Day 60: Contribute to at least one concrete piece of the Next Generation Data Platform build (pipeline, streaming component, or data product) Have identified and started applying at least one AI-powered workflow to accelerate your own engineering work (testing, documentation, debugging) Begin shaping a semantic layer, metadata structure, or data product aimed at AI-agent or business-user consumption By Day 90: Own a defined piece of architecture or data product end-to-end, with measurable improvements in reliability, observability, or time-to-insight Be actively mentoring or raising the engineering bar through code reviews and architecture input Have a documented example of measurable productivity gains from AI adoption in your own workflow WHAT YOU'VE ACCOMPLISHED 6+ years of experience in Data Engineering, Analytics Engineering, or a related field A proven track record designing and operating modern cloud data platforms, ideally in high-growth SaaS environments Experience working effectively with both technical and business stakeholders Demonstrated ability to lead complex projects from design through delivery Strong hands-on experience with Databricks, dbt, Airflow, Python for data engineering, SQL and data modeling, data warehousing architectures, data quality frameworks, data governance, and data orchestration/integration Experience with streaming architectures and event-driven systems, business intelligence platforms, product analytics platforms, and CRM/customer data platforms A demonstrated AI-first mindset — AI-powered development workflows, automation of repetitive engineering tasks, use of AI for debugging/testing/architecture exploration/documentation, and evidence of measurable productivity gains through AI adoption Bonus: experience building AI-native data products, semantic layers, RAG systems, vector databases, knowledge graphs, or enabling AI agents to consume operational business data Why joining Smartcat might be your best move so far A global, connected team We’re a team of 200+ people across 30+ countries, working together through a hub-and-spoke model anchored in eight key locations: New York, London, Lisbon, Costa Rica, Serbia, Armenia, Georgia, and Spain. Most of our roles are remote-friendly, giving you the flexibility to do your best work from where you thrive. For customer-facing teams, we prioritize proximity to our customers, ensuring we stay deeply connected to their needs and deliver an exceptional experience. No matter where you’re based, you’ll be part of a highly collaborative, globally-distributed team that values ownership, speed, and meaningful impact. Be part of an AI Native Organization We are highly innovative, using AI across all areas of the organization to accelerate decision-making and free people to focus on strategy and high-impact work. We embrace new ideas and encourage all Smartcat ers, regardless of level or department, to manage their own AI Agents. At Smartcat you’ll shape how AI transforms the workplace and play an integral role in ensuring Smartcat remains a leader in AI innovation. Innovating a $100 Billion industry Smartcat is reshaping the $100B multilingual content industry with an AI-powered platform that makes it easy for companies to create, translate, and localize global content at scale. Our platform enables enterprise teams to move away from slow, traditional outsourcing methods, and achieve fast, high-quality results, at a fraction of the cost. Join the rocketship to scale-up 10x and beyond together We are looking for someone to become an integral part of our team and play a crucial role in the most exciting part of our journey: transitioning from a post-Series C startup to a company exceeding $100M in ARR and $1B in valuation. Our journey isn’t for the faint of heart. We are growing at 130% YoY, thanks to our strong product-market fit and high-performing team, and plan to accelerate from here. Smartcat Culture Code: Where Diversity Meets High Performance At Smartcat , we are committed to building a culture that highlights respect and appreciation for each individual's unique background and perspective, while maintaining a strong focus on results and engagement. We believe in welcoming everyone and fostering an inclusive environment where team members can be their authentic selves at work. Our commitment to inclusion is steadfast, and we stand firmly against discrimination and harassment. Originally posted on Himalayas",
+      "description_truncated": false,
+      "salary_value": {
+        "status": "unparsed",
+        "source": "Himalayas",
+        "gross_or_net": "unknown"
+      },
+      "base_score": 20,
+      "keyword_main_score": 13,
+      "keyword_side_score": 2,
+      "main_eligible_now": false,
+      "side_eligible": false,
+      "relocation_watch": true,
+      "access": "restricted-remote",
+      "matched_keywords": [
+        "automation",
+        "integration",
+        "data engineer",
+        "analytics engineer"
+      ],
+      "main_signals": [],
+      "side_signals": [
+        "project"
+      ],
+      "negative_hits": 0,
+      "main_score": 39,
+      "side_score": 43,
+      "potential": {
+        "current_fit": 24,
+        "transferability": 55,
+        "gap_cost": "unknown",
+        "gap_cost_score": 60,
+        "evidence_confidence": "low",
+        "evidence_confidence_score": 54,
+        "career_potential": 65,
+        "relocation_value": "not_yet_ordered",
+        "compensation_fit": 50,
+        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
+        "salary_comparison": "incomparable",
+        "workstyle_fit": 82,
+        "commute_burden": 70,
+        "commute_note": "no es viaje diario; commute() no recibe Valencia",
+        "commute_status": "not_a_daily_commute",
+        "commute_km": null,
+        "role_families": [
+          "data"
+        ],
+        "requirements_status": "unread",
+        "mandatory_requirements": [],
+        "desirable_requirements": [],
+        "sap_kind": null,
+        "work_from_zona_oeste": false,
+        "work_after_valencia": true,
+        "place_bridge": false,
+        "move_window": "unknown",
+        "earliest_start": "unknown",
+        "must_start_before": "unknown",
+        "reasons": [
+          "+ evidencia directa: Automation and developer tooling (automation, workflow, tooling) · fuentes: MIM, Web-Sling-Optimizer",
+          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
+          "+ evidencia laboral: marketing (growth) · fuentes: self-assessment",
+          "+ transferible: Data analytics engineering (data engineering) · fuentes: dashpostgre · profundidad sin confirmar",
+          "fit: requisitos obligatorios no leídos; techo 40",
+          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
+          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
+          "- gap herramienta: analytics",
+          "- gap herramienta: databricks",
+          "- gap herramienta: airflow",
+          "- gap herramienta: dbt",
+          "- gap desconocido: requisitos obligatorios no leídos",
+          "familias: data",
+          "no es viaje diario; commute() no recibe Valencia"
+        ],
+        "gaps": [
+          {
+            "term": "analytics",
+            "type": "tool"
+          },
+          {
+            "term": "databricks",
+            "type": "tool"
+          },
+          {
+            "term": "airflow",
+            "type": "tool"
+          },
+          {
+            "term": "dbt",
+            "type": "tool"
+          },
+          {
+            "term": "requisitos obligatorios no leídos",
+            "type": "unknown"
+          }
+        ],
+        "main_rank": 39,
+        "side_rank": 43,
+        "main_eligible": false,
+        "side_eligible": false,
+        "relocation_watch": true,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "unknown",
+        "signals": [],
+        "warnings": [
+          "listing_url_off_board",
+          "apply_url_external"
+        ]
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-10-31T05:55:30.473Z",
+        "history": []
+      },
+      "first_seen": "2026-10-31T05:55:30.473Z",
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "himalayas-https://himalayas.app/companies/knowmad-mood/jobs/senior-devops-platform-engineering-remoto-100",
@@ -12612,11 +11203,11 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-20T16:06:05.567Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
     },
     {
       "id": "jobicy-154082",
@@ -12750,11 +11341,161 @@
         "salary_offered": "",
         "feedback": "",
         "applied_at": null,
-        "updated_at": "2026-10-30T20:52:56.820Z",
+        "updated_at": "2026-10-31T05:55:30.473Z",
         "history": []
       },
       "first_seen": "2026-10-26T15:01:51.070Z",
-      "last_seen": "2026-10-30T20:52:56.820Z"
+      "last_seen": "2026-10-31T05:55:30.473Z"
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/duetto/jobs/senior-devops-engineer-aws",
+      "source": "Himalayas",
+      "source_trust": "official_public_api",
+      "external_id": "https://himalayas.app/companies/duetto/jobs/senior-devops-engineer-aws",
+      "url": "https://himalayas.app/companies/duetto/jobs/senior-devops-engineer-aws?utm_source=api",
+      "apply_url": "https://himalayas.app/companies/duetto/jobs/senior-devops-engineer-aws?utm_source=api",
+      "title": "Senior DevOps Engineer (AWS)",
+      "company": "Duetto",
+      "location": "Spain",
+      "place_text": "Spain",
+      "remote": true,
+      "workplace": "remote",
+      "seniority": "Senior",
+      "employment_type": "full_time",
+      "published_at": "2026-09-18T08:40:44.000Z",
+      "salary": "",
+      "tags": [
+        "Developer",
+        "DevOps-Engineer",
+        "Site-Reliability-Engineering",
+        "Cloud-Engineer",
+        "Infrastructure-Engineering",
+        "Platform-Engineering",
+        "Senior-AWS-DevOps-Engineer",
+        "Senior-DevOps-Developer",
+        "Senior-DevOps",
+        "Senior-AWS-Engineer",
+        "Senior-Staff-DevOps-Engineer",
+        "Senior-Engineer-Cloud-and-DevOps-(P)"
+      ],
+      "description": "Thousands of hotels, resorts, and casinos around the world depend on Duetto ’s platform to run their revenue strategy — and you’ll be one of the people making sure it never lets them down. As a Senior DevOps Engineer, you’ll own the infrastructure that powers our global SaaS platform: designing for scale, building for reliability, and driving the kind of security-first culture that keeps us ahead of the curve. If you thrive in complex cloud environments, love solving hard problems, and want your work to have real, tangible impact — this is the role. What makes us different? Duetto is the hospitality industry’s leading revenue management platform, founded in 2012 by former Wynn Resorts executives who knew the industry needed better technology. We built the world’s first Revenue & Profit Operating System — a suite of tools (GameChanger, ScoreBoard, BlockBuster, Advance and more) that goes beyond room pricing to give hotels, resorts and casinos a complete picture of their revenue and profitability. Trusted by clients ranging from independent boutique hotels to global chains, we’ve been named the #1 Revenue Management Software by HotelTechAwards four years running and the #1 Best Place to Work in Hotel Tech in 2025. Backed by GrowthCurve Capital since 2024, we’re accelerating our investment in AI — and we’re genuinely passionate about the industry we serve. We build products we’re proud of, for customers we care about. What you’ll be doing Design and implement robust, scalable AWS infrastructure — supporting key system migrations, platform growth, and the reliability our customers depend on. Own the reliability, performance, and security of our production environment: high uptime, rapid incident resolution, and proactive capacity planning. Build and maintain CI/CD pipelines, deployment automation, and infrastructure-as-code using Terraform, Terragrunt, and Chef. Monitor system health using enterprise observability tools (Prometheus, Grafana, DataDog), defining metrics and response playbooks that get ahead of incidents before they happen. Lead security-first practices across the infrastructure estate — proactively addressing vulnerabilities and driving SOC 2 compliance. Partner with engineering teams to integrate operational requirements into the development lifecycle and align on architecture decisions. Champion AI adoption within DevOps and SRE workflows, evaluating tooling that increases team velocity and reduces toil. Respond to on-call incidents with urgency — troubleshoot complex issues, lead detailed root cause analyses, and implement fixes that prevent recurrence. What we’re looking for You may be a great fit if you have: 5+ years in a DevOps, SRE, or infrastructure engineering role. Hands-on AWS experience across IAM, VPC, EC2, ELB, RDS, S3, Lambda, API Gateway, Secrets Manager, KMS, CloudWatch, and CloudTrail — including multi-account management and SSO. Proficiency with Terraform for infrastructure-as-code, plus experience with configuration management tools like Chef or Ansible. Experience with CI/CD tooling including GitHub, GitHub Actions, JFrog Artifactory, and Jenkins, with familiarity with GitOps methodologies. Experience with container and orchestration technologies — Docker, ECS, or EKS. Strong working knowledge of enterprise monitoring platforms — Prometheus, Grafana, or DataDog. Solid troubleshooting skills and a track record of leading root cause analyses and implementing durable fixes. Proficiency reading Java, Ruby, Bash/Zsh, HCL, Python, and JavaScript. Experience with SOC 2 compliance and security-first infrastructure practices. Comfort with a weekly on-call rotation. Strong candidates may also have: Experience migrating workloads from on-prem or colocation environments to AWS. Familiarity with Windows Server, SQL Server, IIS, and .NET environments. Experience administering and synchronising MongoDB replica sets. Knowledge of ISO 27001, Layer 7 load balancing, or Terragrunt. Background in hospitality technology. A degree in Computer Science or a related field — or equivalent experience. Why Duetto ? Infrastructure that matters — your work directly underpins a platform that hotel operators around the world rely on every day. The stakes are real, and so is the satisfaction. AI is how we work — we’re not just talking about AI adoption; we’re actively investing in it across every function, including DevOps. You’ll have space to evaluate and implement tooling that makes a genuine difference. A team that moves fast — you’ll report into the Senior DevOps Manager and work alongside engineers who are serious about craft, reliability, and continuous improvement. Growth with purpose — backed by GrowthCurve Capital, we’re scaling our platform and our team. There’s a lot being built here, and senior engineers have real influence over how it’s done. Come as you are — we’re a diverse, distributed team that values different perspectives and builds inclusively. The details Location: Croatia Work model: Remote Reports to: Senior DevOps Manager Duetto is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other characteristic protected by applicable law. Sound like you? We’d love to hear from you — even if you don’t tick every box. Diverse perspectives and non-traditional paths make our team stronger. Apply and let’s talk. Originally posted on Himalayas",
+      "description_truncated": false,
+      "salary_value": {
+        "status": "unparsed",
+        "source": "Himalayas",
+        "gross_or_net": "unknown"
+      },
+      "base_score": 12,
+      "keyword_main_score": 15,
+      "keyword_side_score": 12,
+      "main_eligible_now": false,
+      "side_eligible": false,
+      "relocation_watch": true,
+      "access": "relocation-watch",
+      "matched_keywords": [
+        "automation",
+        "devops"
+      ],
+      "main_signals": [],
+      "side_signals": [],
+      "negative_hits": 0,
+      "main_score": 26,
+      "side_score": 21,
+      "potential": {
+        "current_fit": 24,
+        "transferability": 75,
+        "gap_cost": "unknown",
+        "gap_cost_score": 60,
+        "evidence_confidence": "low",
+        "evidence_confidence_score": 53,
+        "career_potential": 72,
+        "relocation_value": "not_yet_ordered",
+        "compensation_fit": 50,
+        "compensation_note": "salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra",
+        "salary_comparison": "incomparable",
+        "workstyle_fit": 42,
+        "commute_burden": 12,
+        "commute_note": "no es viaje diario; commute() no recibe Valencia",
+        "commute_status": "not_a_daily_commute",
+        "commute_km": null,
+        "role_families": [
+          "devops"
+        ],
+        "requirements_status": "unread",
+        "mandatory_requirements": [],
+        "desirable_requirements": [],
+        "sap_kind": null,
+        "work_from_zona_oeste": false,
+        "work_after_valencia": true,
+        "place_bridge": false,
+        "move_window": "unknown",
+        "earliest_start": "unknown",
+        "must_start_before": "unknown",
+        "reasons": [
+          "+ evidencia directa: TypeScript (javascript) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar",
+          "+ evidencia directa: GitHub Actions (github actions, ci/cd) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "+ evidencia directa: Docker (docker, container) · fuentes: MIM · profundidad sin confirmar",
+          "+ evidencia directa: Automation and developer tooling (automation, tooling) · fuentes: MIM, Web-Sling-Optimizer",
+          "+ evidencia directa: Python backend (python) · fuentes: proyecto-live, dashpostgre · profundidad sin confirmar",
+          "+ evidencia directa: MongoDB (mongodb) · fuentes: Ian-franco-collada-pontorno-Backend · profundidad sin confirmar",
+          "+ evidencia laboral: marketing (growth) · fuentes: self-assessment",
+          "+ transferible: DevOps transition base (devops, sre) · fuentes: MIM, Pontorno-vault · profundidad sin confirmar",
+          "fit: requisitos obligatorios no leídos; techo 40",
+          "- seniority: el aviso pide senior; la evidencia es de proyecto o curso, no seniority profesional confirmado",
+          "- profundidad sin confirmar en tecnologías que la autoevaluación todavía no calibró",
+          "- gap herramienta: .net",
+          "- gap herramienta: aws",
+          "- gap herramienta: terraform"
+        ],
+        "gaps": [
+          {
+            "term": ".net",
+            "type": "tool"
+          },
+          {
+            "term": "aws",
+            "type": "tool"
+          },
+          {
+            "term": "terraform",
+            "type": "tool"
+          },
+          {
+            "term": "requisitos obligatorios no leídos",
+            "type": "unknown"
+          }
+        ],
+        "main_rank": 26,
+        "side_rank": 21,
+        "main_eligible": false,
+        "side_eligible": false,
+        "relocation_watch": true,
+        "retain": true
+      },
+      "trust": {
+        "source_trust": "official_public_api",
+        "company_trust": "medium",
+        "listing_risk": "high",
+        "signals": [],
+        "warnings": [
+          "listing_url_off_board",
+          "apply_url_external",
+          "gambling_industry"
+        ]
+      },
+      "status": "new",
+      "notes": "",
+      "tracking": {
+        "cv_used": "",
+        "contact": "",
+        "salary_offered": "",
+        "feedback": "",
+        "applied_at": null,
+        "updated_at": "2026-10-31T05:55:30.473Z",
+        "history": []
+      },
+      "first_seen": "2026-10-31T05:55:30.473Z",
+      "last_seen": "2026-10-31T05:55:30.473Z"
     }
   ]
 }
