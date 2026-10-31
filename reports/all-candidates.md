@@ -1,6 +1,6 @@
 # Port — All candidates
 
-Generado: 2026-10-31T05:55:30.473Z
+Generado: 2026-10-31T14:35:51.637Z
 
 Este archivo conserva el universo curado para que una decisión automática no oculte una oportunidad que pueda interesarte por criterio personal.
 
@@ -10,6 +10,7 @@ Este archivo conserva el universo curado para que una decisión automática no o
 | 59 | 40 | 90 | low | 52 | [Product Manager - Realtime](https://jobicy.com/jobs/156943-product-manager-realtime) | Supabase | Jobicy | reviewing |
 | 59 | 40 | 86 | unknown | 52 | [Data Engineer (CDP Specialist)](https://himalayas.app/companies/dentsu-international/jobs/data-engineer-cdp-specialist?utm_source=api) | dentsu international | Himalayas | new |
 | 58 | 22 | 90 | medium | 50 | [SAP BTP Lead](https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-lead?utm_source=api) | Pontoonglobal | Himalayas | reviewing |
+| 57 | 40 | 90 | low | 50 | [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165) | Fluence International, Inc. | Remotive | new |
 | 57 | 24 | 90 | low | 49 | [Full-Stack Developer: React & Node.js](https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote) | Improving | Get on Board | new |
 | 57 | 40 | 90 | low | 50 | [Web Frontend Engineer - JS, CSS, React, Flutter](https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter) | Canonical | Jobicy | reviewing |
 | 55 | 40 | 72 | unknown | 49 | [Automation & DevOps Engineer (Remoto)](https://himalayas.app/companies/knowmad-mood/jobs/automation-devops-engineer-remoto?utm_source=api) | knowmad mood | Himalayas | new |

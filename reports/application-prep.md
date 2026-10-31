@@ -1,6 +1,6 @@
 # Port — Application prep
 
-Generado: 2026-10-31T05:55:30.473Z
+Generado: 2026-10-31T14:35:51.637Z
 
 Borradores de preparación para los Top Picks. No aplica automáticamente y no agrega experiencia que no esté respaldada por el perfil.
 
@@ -64,6 +64,25 @@ Borradores de preparación para los Top Picks. No aplica automáticamente y no a
 - Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 
 ## SIDE
+
+### Full-Stack Developer — Fluence International, Inc.
+
+- Oferta: https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165
+- Fuente: Remotive · SOURCE TRUST: official_public_api
+- COMPANY TRUST: medium · LISTING RISK: **low**
+- Señales trust: ninguna
+- Modalidad: remote · Worldwide
+- Tipo detectado: contract
+- Seniority del aviso: no indicado
+- Current Fit: **40** · Transferability: **68** · Gap Cost: **unknown**
+- Career Potential: **90** · Evidence: **low**
+- salario incomparable (aviso sin moneda o sin período mensual/anual) · piso 1000000 ARS / monthly · bruto/neto desconocido · no filtra
+- Viaje: sin viaje diario desde zona oeste, Buenos Aires
+- Enfatizar en CV/intro: typescript, javascript, react, next.js, full-stack, webhook, docker, llm, encryption, automation, workflow
+- Verificar antes de afirmar: n8n (tool), aws (tool), requisitos obligatorios no leídos (unknown)
+- Por qué apareció: + evidencia directa: TypeScript (typescript, javascript) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar; + evidencia directa: React (react, next.js) · fuentes: MIM, Pontorno-vault, Factu; + evidencia directa: Full-stack product engineering (full-stack) · fuentes: MIM, Factu, Pontorno-vault; + evidencia directa: API integrations (webhook) · fuentes: MIM, Factu, Web-Sling-Optimizer
+- Gaps: n8n (tool), aws (tool), requisitos obligatorios no leídos (unknown)
+- Regla: no inventar años, tecnologías ni resultados que no estén documentados.
 
 ### SAP BTP Lead — Pontoonglobal
 

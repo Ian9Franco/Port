@@ -1,10 +1,10 @@
 # Port — Opportunity Radar
 
-Generado: 2026-10-31T05:55:30.473Z
+Generado: 2026-10-31T14:35:51.637Z
 
 Modo de aplicación: **manual**. Port busca, filtra y prepara; Ian decide y aplica.
 
-Fuentes: Remotive (12), Arbeitnow (66), Get on Board (536), RemoteOK (99), Jobicy (20), Himalayas (84)
+Fuentes: Remotive (13), Arbeitnow (70), Get on Board (536), RemoteOK (99), Jobicy (20), Himalayas (84)
 
 ## MAIN — Top picks
 
@@ -22,6 +22,7 @@ Ingreso secundario: freelance, contrato, proyecto o part-time; **remoto obligato
 
 | Rank | Fit | Potencial | Rol | Empresa | Modalidad / ubicación | Por qué aparece |
 | ---: | ---: | ---: | --- | --- | --- | --- |
+| 50 | 40 | 90 | [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165) | Fluence International, Inc. | remote · Worldwide | Fit 40% · Potencial 90 · Transfer 68 · evidencia directa: TypeScript (typescript, javascript) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar; evidencia directa: React (react, next.js) · fuentes: MIM, Pontorno-vault, Factu · gap herramienta: n8n |
 | 50 | 22 | 90 | [SAP BTP Lead](https://himalayas.app/companies/pontoonglobal/jobs/sap-btp-lead?utm_source=api) | Pontoonglobal | remote · Worldwide | Fit 22% · Potencial 90 · Transfer 97 · evidencia directa: TypeScript (node.js, nodejs) · fuentes: MIM, Pontorno-vault, Web-Sling-Optimizer · profundidad sin confirmar; evidencia directa: Full-stack product engineering (full-stack) · fuentes: MIM, Factu, Pontorno-vault · gap ecosistema: producto SAP |
 
 ## Relocation watch
@@ -36,7 +37,7 @@ Valencia y España, para una mudanza posterior con la familia. La ventana de mud
 
 ## Cobertura
 
-- Universo curado guardado: **68** oportunidades.
+- Universo curado guardado: **69** oportunidades.
 - Top picks: máximo **3 MAIN** + **3 SIDE** por corrida.
 - Nada del universo curado se descarta silenciosamente: ver reports/all-candidates.md.
 - Para adaptar el CV sin inventar experiencia: ver reports/application-prep.md.
